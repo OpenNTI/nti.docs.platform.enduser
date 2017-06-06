@@ -34,9 +34,9 @@ First virtualenvwrapper should be installed via pip
 Next some lines need to be added into your startup file.
 
 ```bash
-export WORKON_HOME=$HOME/.virtualenvs >> ~/.bashrc
-export PROJECT_HOME=$HOME/Devel >> ~/.bashrc
-source /usr/local/bin/virtualenvwrapper.sh >> ~/.bashrc
+echo "export WORKON_HOME=$HOME/.virtualenvs" >> ~/.bashrc
+echo "export PROJECT_HOME=$HOME/Devel" >> ~/.bashrc
+echo "source /usr/local/bin/virtualenvwrapper.sh" >> ~/.bashrc
 ```
 
 Now source the startup file to pick up your changes
