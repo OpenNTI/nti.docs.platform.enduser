@@ -9,7 +9,8 @@ Welcome to NextThought User Docs's documentation!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+
+   guide/original
 
 
 
