@@ -32,5 +32,11 @@ Getting Started
 
 	guide/index
 
+.. toctree::
+	:maxdepth: 1
+
+	releases
+	faq
+
 
 
