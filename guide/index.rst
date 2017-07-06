@@ -13,6 +13,8 @@ organization, course communication features, how to use the Gradebook,
 as well as step-by-step procedures in creating a course from start to
 finish.
 
+.. image:: images/WelcomeImage.png
+
 .. toctree::
 	:maxdepth: 1
 

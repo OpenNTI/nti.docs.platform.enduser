@@ -18,6 +18,8 @@ Course Organization                              �
 A course is organized into five views :   Activity ,  Lessons ,
  Assignments , Discussions , and Course Info .
 
+.. image:: images/courseOrganization.png
+
 Access these views by first clicking on the course in your library.
 Below are descriptions of each:         
 
@@ -29,6 +31,8 @@ invites students to engage in the course within the activity that is
 most relevant to the course schedule. The stream displays activity in
 order from most recent to oldest and includes assignments, readings,
 active forum posts, as well as notes currently being discussed.
+
+	                                  .. image:: images/activityView.png
 
 2. .. rubric:: Lessons View
       :name: NextThoughtInstructorsGuide.xhtml#h.7y4ud7kddf9r
@@ -47,6 +51,8 @@ outline. This feature alerts the student as to when he or she is
 expected to start interacting with the lesson’s material. You may also
 make lessons available after a certain date to limit students’ access to
 future material.
+
+	.. image:: images/lessonsView.png
 
 3. .. rubric:: Assignments Vage
       :name: NextThoughtInstructorsGuide.xhtml#h.aphlv880x4er
@@ -67,12 +73,16 @@ course. Selecting an assignment allows you to see all student
 submissions for that specific assignment and assign grades, offer
 feedback, and reset and excuse assignments.         
 
+.. image:: images/assignmentsTab.png
+
 2. Grades & Performance Tab
 
 Grades & Performance displays an interactive list of all students in
 your course. Selecting a student will allow you to view that student’s
 submissions and grades for the course as well as assign grades.
                         
+
+.. image:: images/gradesPerformanceTab.png
 
 3. Activity & Notifications Tab                                 
 
@@ -81,8 +91,9 @@ submissions and feedback by most recent to oldest.
 
  
 
-.. note:: Please note: These three sections also appear for students; however,
-their content differs from the instructor’s view.
+.. note:: Please note: These three sections also appear for students; however, their content differs from the instructor’s view.
+
+.. image:: images/activityNotificationsTab.png
 
 4. .. rubric:: Discussions View
       :name: NextThoughtInstructorsGuide.xhtml#h.8gq2dby436rr
@@ -90,6 +101,8 @@ their content differs from the instructor’s view.
 The DiscussionsView contains the discussion forums for the class. Here
 the students can respond to your discussion prompts or create their own
 discussions. You may also post course announcements here.
+
+.. image:: images/discussionsView.png
 
 Organization:
 
@@ -115,6 +128,8 @@ instructor, your course roster and course summary report are also
 accessible here. The course roster allows you to view a list of all
 students in the course, email your students, and access student reports.
 
+.. image:: images/courseInfoView.png
+
 Types of Supported Content
 --------------------------
 
@@ -139,6 +154,8 @@ See below for descriptions of each.
 -  Timelines
 -  Images and Video Reels
 
+.. image:: images/SupportedContent.png
+
 Reading Materials                                
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -151,7 +168,9 @@ Readings
 
 For hosted text, text (such as PDF or other formats) is first sent to
 NextThought and our content development team makes it into a fully
-interactive format to display on the learning platform. You can also
+interactive format to display on the learning platform. 
+
+You can also
 create your own fully interactive text to display on the platform too by
 using our authoring tools. Please see “Create a Reading”  for more
 information.
@@ -161,9 +180,14 @@ information.
 Features:
 
         
+.. image:: images/readings.png
 
 -  Highlight and add sharable notes to specific sections of the text.
 -  Select and define words.
+
+
+
+.. image:: images/readings2.png
 -  Add links, interactive footnotes, timelines, surveys and polls,
    assessment questions, videos, images, as well bibliographies
    throughout the reading.
@@ -174,6 +198,8 @@ Features:
 Embedded PDFs                                                        
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. image:: images/embeddedPDFs.png
+
 This type of reading displays a static PDF inside of the platform.
 Students can scroll through the PDF, read, download, and print it, and
 can add notes to the side of the displayed PDF.                 
@@ -182,6 +208,8 @@ Videos                                     �
 
 Videos enhance learning by introducing course lessons, demonstrating
 ideas, and engaging students.
+
+.. image:: images/videos.png
 
                                         
 
@@ -220,13 +248,21 @@ a section of the transcript’s text. Transcripts can also feature slides
 to allow students to conveniently view the slides that correspond with
 the ones in the video.
 
+.. image:: images/transcripts1.png
+    :width: 40 %
+.. image:: images/transcripts2.png
+    :width: 59 %
+
                                         
 
-The transcript player has three views and also a gallery displaying all
+The transcript player has three views and also a gallery displaying all 
 videos in the course. To play the video in full screen, split video, or
 split transcript view, select the drop-down arrow displayed in the upper
 panel of the player. To preview all videos within the course within the
 gallery, click the icon to the left of the transcript view drop-down.
+
+.. image:: images/transcripts3.png
+
                 
 
 Assignments and Self-Assessments                        
@@ -238,10 +274,15 @@ to test themselves with assignments and self-assessments.
                                         
 
 Assignments and self-assessments can be added to any lesson.
-Self-assessment questions can also be included within a reading.
-Assignments  are typically required and for a grade, and can only be
-taken once. Self-assessments , however, allows students to test their
-knowledge and may be taken multiple times.
+Self-assessments can also be included within a reading. Each assignment 
+or self-assessment can include downloadable documents, links, and
+embedded videos and images. Each question can also include tips and hints 
+for that question, as well as display the solution once the assignment has 
+been submitted. Displaying tips, hints, and solutions are optional.
+
+.. image:: images/assignmentsAndSelfAssessments.png
+
+
 
 Features:
 
