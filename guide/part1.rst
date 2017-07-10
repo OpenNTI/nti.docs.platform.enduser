@@ -419,6 +419,8 @@ with assignments.
 Multiple Choice                                
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: images/multipleChoice.png
+
 The multiple choice question type allows students to select the best
 possible answer out of a list of solutions.
 
@@ -429,6 +431,8 @@ asked is a single sentence or statement.         
 
 Multiple Answer                                
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/multipleAnswer.png
 
 The multiple answer question type allows students to select multiple
 answers out of a list of solutions.
@@ -442,6 +446,8 @@ asked is potentially more than one sentence or statement.
 Ordering                                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: images/ordering.png
+
 The ordering question type allows the student to arrange data and
 information into the appropriate order.
 
@@ -453,6 +459,8 @@ specific ordering of information, such as the order of steps or events.
 
 Word Bank (Matching)                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/wordBankMatching.png
 
 The word bank allows students to use a bank of words to match with blank
 spaces in statements or phrases below. A student selects an answer from
@@ -470,6 +478,8 @@ be used to match a word or phrase with its description or definition.  
 Mathematical Notation                                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: images/mathematicalNotation.png
+
 The math question type gives the student options to use mathematical
 characters in the response field.
 
@@ -480,6 +490,8 @@ includes mathematical notation.                         
 
 Short Answer                                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/shortAnswer.png
 
 The short answer question type provides a text field for students to
 type a word or short phrase as their response.
@@ -492,6 +504,8 @@ writing. It allows for a single word or short phrase answer.
 
 Essay                                 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/essay.png
 
 The essay question type provides students with a text field to type
 responses ranging from a few short sentences to several paragraphs.
@@ -509,18 +523,20 @@ extensive recall and organization of material .
 File Upload
 ~~~~~~~~~~~
 
+.. image:: images/fileUpload.png
+
 The file upload question type allows students to submit files directly
 to instructors for review. The NextThought platform will accept any
 specified file type.
 
                                         
 
-.. note::  This question type is best to use when a file by another program
-outside of the NextThought platform is needed by the instructor for
-review. The instructor can download student files.         
+.. note::  This question type is best to use when a file by another program outside of the NextThought platform is needed by the instructor for review. The instructor can download student files.         
 
 Discussion                                         
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/discussion.png
 
 As opposed to the essay assessment type where only the instructor and
 student can see the student’s response, a discussion assignment prompts
@@ -533,12 +549,14 @@ the course Discussions View.
 
                                         
 
-.. note::  This question type is best to use when participation within course
-discussions are not only encouraged and expected, but required and
-graded.                         
+.. note::  This question type is best to use when participation within course discussions are not only encouraged and expected, but required and graded.                         
 
-FEATURE: Randomization
+.. image:: images/quiz.png
+
+FEATURE: Randomization 
 ~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/randomization.png
 
 Most question types allow “randomization” for the questions and/or
 solutions. Randomizing the questions would create a unique ordering of
@@ -547,6 +565,8 @@ unique ordering of solutions for each student.
 
 FEATURE: Question Bank                                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/questionBank.png
 
 This feature allows a designated amount of questions from a larger set
 of questions to be randomly selected and assigned to students. For
@@ -561,6 +581,8 @@ those five questions.
 FEATURE: Timed Assessments                                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+.. image:: images/timedAssessments.png
+
 This feature restricts the student to a designated amount of time to
 complete the assignment. When the student selects the assignment to
 begin, a window will prompt the student to acknowledge that the
@@ -574,6 +596,8 @@ submitted within the allotted time.                 
 
 FEATURE: Gradebook Entry                                
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+.. image:: images/gradebookEntry.png
 
 A gradebook entry allows the instructor to add a grade when one is
 needed for an activity that occurs outside the platform. It can also be
@@ -598,6 +622,8 @@ students, and more . The G radebook is located within your course under
 the Assignments View and contains three sections:  “Assignments,”
 “Grades & Performance,” and “Activity & Notifications.”
 
+.. image:: images/gradebook.png
+
 Gradebook Features:
 
 See below for descriptions of each.
@@ -621,16 +647,19 @@ Gradebook Organization
 The Gradebook is organized into three  sections:  “Assignments,” “Grades & Performance,” and “Activity and Notifications.”
 --------------------------------------------------------------------------------------------------------------------------
 
-#. .. rubric:: Assignments Section        
-                                      
+1. .. rubric:: Assignments Section
       :name: NextThoughtInstructorsGuide.xhtml#h.pgid9ef2g3br
 
 The Assignments section displays an interactive list of all assignments
 in your course.
 
+.. image:: images/assignments.png
+
 You can sort this list by lesson, due date, completion, publication
 status, and creation date. Searching for a specific assignment is easy
 with the search tool.
+
+.. image:: images/sortLesson.png
 
 Click on an assignment within the list to view specific student
 activity. You can sort the list of students by name, username,
@@ -638,19 +667,23 @@ completion, score, and feedback by selecting that column’s title. You
 can also filter by enrolled and open students, and search for specific
 students by name by clicking the enrolled/open student drop-down.
 
+.. image:: images/studentActivity.png
+
 Click “View Assignment” to view or practice the assignment. If the
 assignment included a file upload, a download files button will be
 available to you to download all student files to your computer.
 
-.. note:: When more than 50 students are in the course, students are filtered
-by page in the Gradebook. To display more students per page, click the
-gear icon located in the upper right-hand corner.
+.. image:: images/viewAssignment.png
+
+.. note:: When more than 50 students are in the course, students are filtered by page in the Gradebook. To display more students per page, click the gear icon located in the upper right-hand corner.
 
 2. .. rubric:: Grades & Performance Section
       :name: NextThoughtInstructorsGuide.xhtml#h.ummdb3hpoa1r
 
 The Grades & Performance section displays an interactive list of all
 students in your course.
+
+.. image:: images/gradesPerformance.png
 
 This section allows you to view a detailed list of “All Students,”
 “Enrolled,” or “Open.” Clicking on the column titles will sort by
@@ -671,9 +704,9 @@ using the dropdown. View the student’s “Profile,” or click on “Email” 
 email the student. Click on a specific assignment to view the student’s
 work.
 
-.. note:: When more than 50 students are in the course, students are filtered
-by page in the Gradebook. To display more students per page, click the
-gear icon located in the upper right-hand corner.
+.. image:: images/studentAssign.png
+
+.. note:: When more than 50 students are in the course, students are filtered by page in the Gradebook. To display more students per page, click the gear icon located in the upper right-hand corner.
                         
 
 3. .. rubric:: Activity & Notifications                                
@@ -692,6 +725,7 @@ Instructor Notifications Include:
 -  Student feedback
 -  Instructor feedback
 
+.. image:: images/instructorNotifications.png
 --------------
 
 Student Notifications Include:
@@ -704,17 +738,10 @@ Student Notifications Include:
 -  New grades
 -  Posted final grade
 
+.. image:: images/studentNotifications.png
                                         
 
-.. warning:: Please note: Due to the large amount of activity generated in
-instructor accounts, student submission notifications will only appear
-in the Activity & Notifications section of the Gradebook and will not
-appear in your general notifications located within the bell icon in the
-upper right-hand corner of your account. Students, however, will
-continue to receive important notifications such as feedback or an
-assigned grade in both streams. To learn more about the general
-notification stream, please visit the guide’s “Notifications” section on
-page (21).
+.. warning:: Please note: Due to the large amount of activity generated in instructor accounts, student submission notifications will only appear in the Activity & Notifications section of the Gradebook and will not appear in your general notifications located within the bell icon in the upper right-hand corner of your account. Students, however, will continue to receive important notifications such as feedback or an assigned grade in both streams. To learn more about the general notification stream, please visit the guide’s “Notifications” section on page (21).
 
 Grading Assignments                                        
 -----------------------------------------------------------
@@ -740,12 +767,19 @@ grade upon completion of the assignment.
 
                                         
 
-.. note::  Please note: An instructor can modify an automatic or manual grade at
-any time by clicking on the grade and typing in a new value.
+.. note::  Please note: An instructor can modify an automatic or manual grade at any time by clicking on the grade and typing in a new value.
                 
 
 Student View: Grade by Student                         
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/gradeByStudent.png
+
+.. image:: images/gradeByStudent2.png
+    :width: 49 %
+.. image:: images/gradeByStudent3.png
+    :width: 49 %
+
 
 This view is best to use when you would like to grade assignments by
 student.        
@@ -766,14 +800,15 @@ student.        
    right-hand corner under “Assignment Grade.”                
                                                                     
 
-.. note:: Please note: The instructor may set up a date and time (with a time
-zone) that the assignment is due.                 
+.. note:: Please note: The instructor may set up a date and time (with a time zone) that the assignment is due.                 
 
 Assignment View: Grade by Assignment                                 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This view is best to use when you would like to grade students by
 assignment.
+
+.. image:: images/gradeByAssignment.png
 
                                                  
 
@@ -807,6 +842,8 @@ count against his or her course grade.
 You may reset or excuse a grade in the same views that you can assign a
 grade.                                 
 
+.. image:: images/resetExcuseGrade.png
+
                                         
 
 For example:         
@@ -839,6 +876,8 @@ Once a student submits his or her assignment, or the assignment is
 graded, a feedback option appears on the assignment for both the student
 and instructor.
 
+.. image:: images/leavingFeedback.png
+
                                         
 
 In order to leave a student feedback, follow these steps:        
@@ -854,14 +893,13 @@ In order to leave a student feedback, follow these steps:        
    to the assignment. This will notify the
    student.                                
 
-.. note::  Please note: If a student leaves you feedback on an assignment, you
-will be notified in the “Activity & Notifications” section of your
-Gradebook. To navigate to the feedback, click on the activity
-notification.
+.. note::  Please note: If a student leaves you feedback on an assignment, you will be notified in the “Activity & Notifications” section of your Gradebook. To navigate to the feedback, click on the activity notification.
                                                                  
 
 Grade Predictor
 ---------------
+
+.. image:: images/gradePredictor.png
 
 The grade predictor displays for both students and teachers and allows
 the student to estimate his or her end of the year course grade. Please
@@ -917,6 +955,8 @@ assignment download section.
 You can also download all student submissions for one assignment into a
 folder on your computer. In order to do so, follow the steps below:
 
+.. image:: images/downloadingStudentFiles.png
+
                                                  
 
 #. Navigate to the “Assignments” section of your Gradebook.
@@ -924,11 +964,7 @@ folder on your computer. In order to do so, follow the steps below:
 #. To the far right of the assignment’s name is a download files button.
 #. Click the download button to download student files to your computer.
 
-.. note:: These submissions will be saved in a zip file (typically in your
-Downloads folder) with the assignment name and course section number.
-Each student submission within the zip file (“[CourseID][[Assignment
-Name]”) will be saved as “ [Student Username]-[Student First and Last
-Name]-[Title of Submission].”                                  
+.. note:: These submissions will be saved in a zip file (typically in your Downloads folder) with the assignment name and course section number. Each student submission within the zip file (“[CourseID][[Assignment Name]”) will be saved as “ [Student Username]-[Student First and Last Name]-[Title of Submission].”                                  
                                 
 
                                         
