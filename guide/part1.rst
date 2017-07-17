@@ -221,9 +221,7 @@ your course.
 
                                         
 
-.. note::  Please contact NextThought if you are interested in using our Video
-Team and Learning Designers to assist you in creating videos. Our Video
-Team works both in-studio and on location.
+.. note::  Please contact NextThought if you are interested in using our Video Team and Learning Designers to assist you in creating videos. Our Video Team works both in-studio and on location.
 
 Visit
 `https://nextthought.com/video-services <https://www.google.com/url?q=https://nextthought.com/video-services&sa=D&ust=1497488598267000&usg=AFQjCNGB8burUSqNA1v3B-PtKkENQeL38A>`__
@@ -426,8 +424,7 @@ possible answer out of a list of solutions.
 
                                         
 
-.. note::  This question type is best to use when the answer to the question
-asked is a single sentence or statement.         
+.. note::  This question type is best to use when the answer to the question asked is a single sentence or statement.         
 
 Multiple Answer                                
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -439,8 +436,7 @@ answers out of a list of solutions.
 
                                         
 
-.. note::  This question type is best to use when the answer to the question
-asked is potentially more than one sentence or statement.
+.. note::  This question type is best to use when the answer to the question asked is potentially more than one sentence or statement.
                                         
 
 Ordering                                        
@@ -453,8 +449,7 @@ information into the appropriate order.
 
                                         
 
-.. note::  This question type is best to use when the solution requires a
-specific ordering of information, such as the order of steps or events.
+.. note::  This question type is best to use when the solution requires a specific ordering of information, such as the order of steps or events.
                         
 
 Word Bank (Matching)                        
@@ -470,9 +465,7 @@ used once or multiple times.
 
                                                                         
 
-.. note::  This question type is best to use when words or phrases can be left
-out of a statement and collected into a bank of responses. It can also
-be used to match a word or phrase with its description or definition.  
+.. note::  This question type is best to use when words or phrases can be left out of a statement and collected into a bank of responses. It can also be used to match a word or phrase with its description or definition.  
                 
 
 Mathematical Notation                                        
@@ -485,8 +478,7 @@ characters in the response field.
 
                                         
 
-.. note::  This question type is best to use when the solution to the problem
-includes mathematical notation.                                 
+.. note::  This question type is best to use when the solution to the problem includes mathematical notation.                                 
 
 Short Answer                                        
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -498,9 +490,7 @@ type a word or short phrase as their response.
 
                                         
 
-.. note::  This question type is best to use for questions that prompt the
-student to display his or her breadth of understanding and knowledge in
-writing. It allows for a single word or short phrase answer.
+.. note::  This question type is best to use for questions that prompt the student to display his or her breadth of understanding and knowledge in writing. It allows for a single word or short phrase answer.
 
 Essay                                 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -514,10 +504,7 @@ video. Responses are not limited on the platform by length.
 
                                         
 
-.. note::  This question type is best to use for questions that prompt the
-student to display his or her breadth of understanding and knowledge in
-writing. This type of response requires extra time to complete and more
-extensive recall and organization of material .
+.. note::  This question type is best to use for questions that prompt the student to display his or her breadth of understanding and knowledge in writing. This type of response requires extra time to complete and more extensive recall and organization of material .
                                 
 
 File Upload
@@ -919,8 +906,7 @@ Location:
 -  For the instructor,  click on the “Grades & Performance” tab.
    Students will have a “Projected Grade” column.
 
-.. note:: For additional specifications regarding the grade predictor, please
-contact NextThought.
+.. note:: For additional specifications regarding the grade predictor, please contact NextThought.
 
 Final Grades                                
 --------------------------------------------
@@ -974,6 +960,8 @@ Exporting Grades                                
 
 Export the Gradebook into a CSV file.
 
+.. image:: images/exportingGrades.png
+
                                         
 
 To export grades into a CSV file, follow the steps below:
@@ -987,9 +975,7 @@ To export grades into a CSV file, follow the steps below:
 #. In the upper right-hand corner, select the download button to the
    left of the gear button.
 
-.. note:: The file will be saved to your computer (typically in your Downloads
-folder) with the name
-“[CourseID]\_[Open/ForCredit/Full”].”                                        
+.. note:: The file will be saved to your computer (typically in your Downloads folder) with the name “[CourseID]\_[Open/ForCredit/Full”].”                                        
 
                                                                                  
 
@@ -1017,16 +1003,32 @@ descriptions of each.
 Course Info View
 
 -  Course Summary Report
+
+.. image:: images/courseSummaryReport.png
+
 -  Self-Assessment Summary Report
+
+.. image:: images/selfAssessmentSummaryReport.png
+
 -  Student Participation Report
+  
+.. image:: images/studentParticipationReport.png
 
-   --------------
-
+---------------
+ 
 By Location
 
 -  Assignment Summary Report
+
+.. image:: images/assignmentSummaryReport.png
+
 -  Forum Participation Report
+
+.. image:: images/forumParticipationReport.png
+
 -  Discussion Participation Report
+
+.. image:: images/discussionParticipationReport.png
 
 Course Summary Report                                 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -1141,6 +1143,9 @@ To access your course roster,
 #. Click on the Course Info View in your course.
 #. Click the “Roster” tab.
 
+.. image:: images/accessCourseRoster.png
+
+
 Roster Features:
 
 -  Filter:  Filter the view by All Students, Enrolled Students, or Open
@@ -1164,6 +1169,8 @@ important activity.
 
                                         
 
+.. image:: images/communication.png
+
 Email                                
 -------------------------------------
 
@@ -1186,39 +1193,59 @@ Email a Course                                 �
 Email your course through your Gradebook or roster. Below is a
 description of how to email your course via the course roster.
 
-.. note:: You may also send an email via the Gradebook within the Grades &
-Performance  tab. To start a new email, click the mailing icon at the
-top right-hand corner of the Gradebook and jump to Step 3 below.
+.. note:: You may also send an email via the Gradebook within the Grades & Performance tab. To start a new email, click the mailing icon at the top right-hand corner of the Gradebook and jump to Step 3 below.
 
 Course Email via Roster:
 
 #. To send an email to students in your course, visit the roster within
-   your  “Course Info ” View.
-#. To the right-hand side of the roster view, click on the “Email”
+   your  “Course Info ” View. 
+   
+   .. image:: images/courseEmailViaRoster1.png
+   
+   To the right-hand side of the roster view, click on the “Email”
    button.
-#. Fill out the form:
+   
+	Fill out the form:
 
 #. Select Your Audience: Within the new window, select the group you
    would like to send an email to: All Students, Enrolled Students, or
    Open Students.
+   
+   .. image:: images/courseEmailViaRoster2.png
+   
+   
 #. Select Reply Preferences: Next, check the box “Allow Replies” if you
    would like to allow students to reply to your email.
+   
+   .. image:: images/courseEmailViaRoster3.png
+   
+   .. note:: (Please note: If you select to send an email to All Students, you will be given the option to select which group of students you would like to allow to reply: All, Enrolled, or Open.)
 
-.. note:: (Please note: If you select to send an email to All Students, you
-will be given the option to select which group of students you would
-like to allow to reply: All, Enrolled, or Open.)
-
-3. Type Your Message:  Fill out the subject line of the email and then
+#. Type Your Message:  Fill out the subject line of the email and then
    type your email’s message.
-4. Receive a Copy:  Check the “Send Me a Copy of the Email” if you would
+   
+   .. image:: images/courseEmailViaRoster4.png
+   
+   
+#. Receive a Copy:  Check the “Send Me a Copy of the Email” if you would
    like to receive a copy of your email.
-5. Copy Instructors: If you’d like for all instructors of the course to
+   
+   .. image:: images/courseEmailViaRoster5.png  
+ 
+ 
+#. Copy Instructors: If you’d like for all instructors of the course to
    receive the email (and not just your students), select “Copy All
-   Instructors”
+   Instructors.”
+   
+   .. image:: images/courseEmailViaRoster6.png
 
-4. Once you’ve completed filling out your message and selecting your
+
+#. Once you’ve completed filling out your message and selecting your
    preferences, click the “Send Email” button at the bottom right-hand
    corner of the window.
+   
+   .. image:: images/courseEmailViaRoster7.png
+
 
                                         
 
@@ -1229,11 +1256,7 @@ Email a student through your Gradebook, roster, or while viewing the
 student’s assignment. Below is a description of how to email a student
 through the roster.
 
-.. note:: You may also send an email via the Gradebook within the Grades &
-Performance  tab.  First, click on a student within the Grades &
-Performance tab. Then, below the student’s name in the top banner, click
-on the text titled “Email” to initiate a new email. Skip to Step 5
-below.
+.. note:: You may also send an email via the Gradebook within the Grades & Performance tab. First, click on a student within the Grades & Performance tab. Then, below the student’s name in the top banner, click on the text titled “Email” to initiate a new email. Skip to Step 5 below.
 
 Student Email via Roster:
 
@@ -1241,18 +1264,12 @@ Student Email via Roster:
    roster within your “Course Info”  View.
 #. Hover over a student’s name and click on the text “Email” that
    appears below the name.
+   
+   .. note:: To search for a student, click on the all/enrolled/open student drop-down menu within your roster. Within the drop-down menu, type the student’s name into the “search” field and press the enter key on your keyboard. Search results will display below.
+   
+   .. warning:: Please note: The search will only search within the filter selected in the drop-down. To change which group of students you search within, use the drop-down menu to select “All Students,” “Enrolled Students,” or “Open Students.”
 
-.. note:: To search for a student, click on the all/enrolled/open student
-drop-down menu within your roster. Within the drop-down menu, type the
-student’s name into the “search” field and press the enter key on your
-keyboard. Search results will display below.
-
-.. warning:: Please note: The search will only search within the filter selected in
-the drop-down. To change which group of students you search within, use
-the drop-down menu to select “All Students,” “Enrolled Students,” or
-“Open Students.”
-
-3. Fill out the form:
+#. Fill out the form:
 
 #. Select Reply Preferences: Next, check the box “Allow Replies” if you
    would like to allow the student to reply to your email.
@@ -1278,30 +1295,28 @@ learning community.
 
                                         
 
+.. image:: images/platformNotifications.png
+	:align: left 
 Notifications are notices of events that relates to you. New
 notifications show in the upper right-hand corner of your account with a
 red number marker over the bell icon. Clicking on this icon will display
 all of the recent notifications you have received.
 
+.. image:: images/showAll.png
+	:align: left
 Scroll to the bottom of your notifications and click “Show All” to open
 the Notifications page. This page displays all of your notifications on
 a timeline.
+.. container:: clearer
 
-Instructor Notifications Include:
+                                        
 
--  Student assignment feedback
--  Tagged in a note or thought
--  Reply to your note, comment, thought
--  Reply to your (manually) created forum
--  Added as a contact
--  .. warning:: Due to the large volume of participation within forums, you do not
-   receive a notification when a student comments on a \*course\* forum
-   unless you manually created the forum.
 
 .. raw:: html
 
    <h3 class="c8" id="h.4x4fh8siep9k">
-
+	
+	
 Email Notifications
 
 --------------
@@ -1309,6 +1324,18 @@ Email Notifications
 .. raw:: html
 
    </h3>
+
+	
+	
+	Instructor Notifications Include:
+
+-  Student assignment feedback
+-  Tagged in a note or thought
+-  Reply to your note, comment, thought
+-  Reply to your (manually) created forum
+-  Added as a contact
+	.. warning:: Due to the large volume of participation within forums, you do not receive a notification when a student comments on a \*course\* forum unless you manually created the forum.
+
 
 Student Notifications Include:
 
