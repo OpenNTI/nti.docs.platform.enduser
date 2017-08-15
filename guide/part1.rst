@@ -6,8 +6,8 @@ Featured Content                                
 ================================================
 
 NextThought supports a variety of content types in order to customize
-learning. All content is organized within a c ourse in your library. In
-this section  we will learn about NextThought’s course organization and
+learning. All content is organized within a course in your library. In
+this section we will learn about NextThought’s course organization and
 the types of content supported.
 
                                         
@@ -15,15 +15,15 @@ the types of content supported.
 Course Organization                                
 ---------------------------------------------------
 
-A course is organized into five views :   Activity ,  Lessons ,
- Assignments , Discussions , and Course Info .
+A course is organized into five views: Activity, Lessons,
+Assignments, Discussions, and Course Info.
 
-.. image:: images/courseOrganization.png
+   .. image:: images/courseOrganization.png
 
 Access these views by first clicking on the course in your library.
 Below are descriptions of each:         
 
-#. .. rubric:: Activity   View
+#. .. rubric:: Activity View
       :name: NextThoughtInstructorsGuide.xhtml#h.hfkxd3as8bsn
 
 The Activity View organizes activity within the course into a stream and
@@ -32,13 +32,13 @@ most relevant to the course schedule. The stream displays activity in
 order from most recent to oldest and includes assignments, readings,
 active forum posts, as well as notes currently being discussed.
 
-	                                  .. image:: images/activityView.png
+   .. image:: images/activityView.png
 
 2. .. rubric:: Lessons View
       :name: NextThoughtInstructorsGuide.xhtml#h.7y4ud7kddf9r
 
 The Lessons View contains all of the lessons or content for a course.
-The Lessons View is divided into two section s: an interactive course
+The Lessons View is divided into two sections: an interactive course
 outline to the left modeled after the course syllabus, and the lesson
 content to the right of the outline. Clicking on an individual lesson
 within the outline will display all content inside of that lesson.
@@ -54,59 +54,55 @@ future material.
 
 	.. image:: images/lessonsView.png
 
-3. .. rubric:: Assignments Vage
+3. .. rubric:: Assignments View
       :name: NextThoughtInstructorsGuide.xhtml#h.aphlv880x4er
 
 The Assignments View allows access to your Gradebook and student
 assignment activity. It also enables you to view and download student
 assignments and export grades.
 
-The Assignments View is organized into three  tabs:   Assignments ,
-Grades & Performance , and Activity & Notifications .
+The Assignments View is organized into three tabs: Assignments,
+Grades & Performance, and Activity & Notifications.
 
-Gradebook Sections:                         
-
-#. Assignments  Tab                                 
+Assignments Tab
 
 This section contains an interactive list of assignments within the
 course. Selecting an assignment allows you to see all student
 submissions for that specific assignment and assign grades, offer
 feedback, and reset and excuse assignments.         
 
-.. image:: images/assignmentsTab.png
+    .. image:: images/assignmentsTab.png
 
-2. Grades & Performance Tab
+Grades & Performance Tab
 
 Grades & Performance displays an interactive list of all students in
 your course. Selecting a student will allow you to view that student’s
 submissions and grades for the course as well as assign grades.
                         
 
-.. image:: images/gradesPerformanceTab.png
+    .. image:: images/gradesPerformanceTab.png
 
-3. Activity & Notifications Tab                                 
+Activity & Notifications Tab
 
 Activity & Notifications displays relevant updates about student
 submissions and feedback by most recent to oldest.
 
- 
+.. image:: images/activityNotificationsTab.png
 
 .. note:: Please note: These three sections also appear for students; however, their content differs from the instructor’s view.
-
-.. image:: images/activityNotificationsTab.png
 
 4. .. rubric:: Discussions View
       :name: NextThoughtInstructorsGuide.xhtml#h.8gq2dby436rr
 
-The DiscussionsView contains the discussion forums for the class. Here
+The Discussions View contains the discussion forums for the class. Here
 the students can respond to your discussion prompts or create their own
 discussions. You may also post course announcements here.
 
-.. image:: images/discussionsView.png
+    .. image:: images/discussionsView.png
 
 Organization:
 
-There are three typical forums : “Discussions,” “Announcements,” and the
+There are three typical forums: “Discussions,” “Announcements,” and the
 general “Forum.” “Discussions” will contain your course discussions
 regarding the course material, and participation may be required.
 “Announcements” is a place for the instructor to post announcements
@@ -115,7 +111,7 @@ students to freely post about course topics.
 
 Visibility:
 
-Y our course forum may be split into sections by student enrollment
+Your course forum may be split into sections by student enrollment
 type, “Enrolled For-Credit” and “Open.” This allows you to have some
 cours discussions viewable only to credit students.
 
@@ -128,7 +124,7 @@ instructor, your course roster and course summary report are also
 accessible here. The course roster allows you to view a list of all
 students in the course, email your students, and access student reports.
 
-.. image:: images/courseInfoView.png
+   .. image:: images/courseInfoView.png
 
 Types of Supported Content
 --------------------------
