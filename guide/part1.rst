@@ -64,7 +64,7 @@ assignments and export grades.
 The Assignments View is organized into three tabs: Assignments,
 Grades & Performance, and Activity & Notifications.
 
-Assignments Tab
+**Assignments Tab**
 
 This section contains an interactive list of assignments within the
 course. Selecting an assignment allows you to see all student
@@ -73,7 +73,7 @@ feedback, and reset and excuse assignments.         
 
     .. image:: images/assignmentsTab.png
 
-Grades & Performance Tab
+**Grades & Performance Tab**
 
 Grades & Performance displays an interactive list of all students in
 your course. Selecting a student will allow you to view that student’s
@@ -82,7 +82,7 @@ submissions and grades for the course as well as assign grades.
 
     .. image:: images/gradesPerformanceTab.png
 
-Activity & Notifications Tab
+**Activity & Notifications Tab**
 
 Activity & Notifications displays relevant updates about student
 submissions and feedback by most recent to oldest.
@@ -100,7 +100,7 @@ discussions. You may also post course announcements here.
 
     .. image:: images/discussionsView.png
 
-Organization:
+**Organization:**
 
 There are three typical forums: “Discussions,” “Announcements,” and the
 general “Forum.” “Discussions” will contain your course discussions
@@ -109,7 +109,7 @@ regarding the course material, and participation may be required.
 throughout the duration of the course. The “Forum” is a place for
 students to freely post about course topics.
 
-Visibility:
+**Visibility:**
 
 Your course forum may be split into sections by student enrollment
 type, “Enrolled For-Credit” and “Open.” This allows you to have some
@@ -135,13 +135,9 @@ material is organized. Please note that supported materials are always
 being updated. If you do not see the type of material you want to
 support for your course, please contact NextThought.
 
-Supported Content:
-
-See below for descriptions of each.
-
 -  Readings
 -  PDFs, Slides, and Other Downloadable Materials
--  Videos (From Kaltura, Vimeo, YouTube, others)
+-  Videos (From Kaltura, Vimeo, YouTube, Storyline, and others)
 -  Video Transcripts
 -  Assignments and Self-Assessments
 -  Discussion Forums
@@ -157,31 +153,25 @@ Reading Materials                               �
 
 Reading materials can be hosted on the platform or embedded on the
 platform through another format such as a PDF. Notes can be created
-beside all types of readings.         
+beside all types of readings.
 
 Readings
-^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 For hosted text, text (such as PDF or other formats) is first sent to
 NextThought and our content development team makes it into a fully
 interactive format to display on the learning platform. 
 
-You can also
-create your own fully interactive text to display on the platform too by
-using our authoring tools. Please see “Create a Reading”  for more
+You can also create your own fully interactive text to display on the platform by
+using our authoring tools. Please see “Create a Reading” for more
 information.
 
-                                        
+**Features:**
 
-Features:
-
-        
 .. image:: images/readings.png
 
 -  Highlight and add sharable notes to specific sections of the text.
 -  Select and define words.
-
-
 
 .. image:: images/readings2.png
 -  Add links, interactive footnotes, timelines, surveys and polls,
@@ -189,7 +179,6 @@ Features:
    throughout the reading.
 -  Easily navigate multiple pages with paging tools.
 
-                                                        
 
 Embedded PDFs                                                        
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -198,16 +187,15 @@ Embedded PDFs                                 �
 
 This type of reading displays a static PDF inside of the platform.
 Students can scroll through the PDF, read, download, and print it, and
-can add notes to the side of the displayed PDF.                 
+can add notes to the side of the displayed PDF.
 
 Videos                                         
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Videos enhance learning by introducing course lessons, demonstrating
 ideas, and engaging students.
 
 .. image:: images/videos.png
-
-                                        
 
 Videos can appear in a lesson or they can be included inside of other
 content such as readings, discussions, or assignments. NextThought can
@@ -215,22 +203,14 @@ assist you in creating professional videos to enhance your lessons, or
 we can incorporate any prerecorded YouTube, Kaltura, or Vimeo video into
 your course.
 
-                                        
-
-.. note::  Please contact NextThought if you are interested in using our Video Team and Learning Designers to assist you in creating videos. Our Video Team works both in-studio and on location.
-
-Visit
-`https://nextthought.com/video-services <https://www.google.com/url?q=https://nextthought.com/video-services&sa=D&ust=1497488598267000&usg=AFQjCNGB8burUSqNA1v3B-PtKkENQeL38A>`__
- to learn more.                         
+.. note::  Please contact NextThought if you are interested in using our Video Team and Learning Designers to assist you in creating videos. Our Video Team works both in-studio and on location. Visit https://nextthought.com/video-services to learn more.
 
 Transcripts
-~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Video transcripts allow students to search for keywords, add
 contextualized notes, and review the video’s transcript at their own
 pace.
-
-                                        
 
 Every video can have an attached transcript, and NextThought assists
 instructors in creating transcripts for videos. Transcripts appear
@@ -247,8 +227,6 @@ the ones in the video.
 .. image:: images/transcripts2.png
     :width: 59 %
 
-                                        
-
 The transcript player has three views and also a gallery displaying all 
 videos in the course. To play the video in full screen, split video, or
 split transcript view, select the drop-down arrow displayed in the upper
@@ -257,15 +235,11 @@ gallery, click the icon to the left of the transcript view drop-down.
 
 .. image:: images/transcripts3.png
 
-                
-
 Assignments and Self-Assessments                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Test students’ comprehension of the material or give them an opportunity
 to test themselves with assignments and self-assessments.
-
-                                        
 
 Assignments and self-assessments can be added to any lesson.
 Self-assessments can also be included within a reading. Each assignment 
@@ -276,9 +250,7 @@ been submitted. Displaying tips, hints, and solutions are optional.
 
 .. image:: images/assignmentsAndSelfAssessments.png
 
-
-
-Features:
+**Features:**
 
 -  Choose from several different questions types. To see a list of
    question types supported, visit “Assignment and Self-Assessment
@@ -290,111 +262,14 @@ Features:
    points, all which require manual grading).         
 -  To learn about more options and features, please see the “Create an
    Assignment” within Part III  of the manual.
-
-Discussion Forums                                         
-
-Engage students and encourage participation and exploration of the
-lesson through discussion prompts.
-
-                                        
-
-The course forum displays all course discussions and can be accessed
-from
-
-the Discussions View within the course. Discussions in the forum can
-also be accessed directly through each lesson. This allows access to the
-discussion from the Lesson View itself to contextualize the discussion
-within a lesson’s readings, videos, and assessments. Discussions may
-also be part of a graded assignment. We will discuss graded discussions
- later in the section titled \_\_\_\_\_\_ .
-
-Visibility:
-
-Your course forum may be split into sections by enrollment type:
-“Enrolled For-Credit” and “Open.” Discussions and announcements within
-the enrolled section can only be viewed by you and your enrolled,
-for-credit students. Open discussions and announcements can be viewed by
-the general public.
-
-Instructor-led vs. Student-led Discussions
-
-Typically only instructors can create new discussion threads in the open
-and enrolled course discussions and announcements. Students, however,
-are able to create and post new topics in the general course “Forum.”
-
-        
-
-External Links                                 
-
-Create links for quick access to websites, research, videos, and other
-content found outside the platform.
-
-                                        
-
-External links can be included in a lesson, reading, discussion, as well
-as in an assignment or assessment. For example, an instructor may
-require students to read an article written by a researcher whose work
-exists on an external webpage.
-
-Downloads                                
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Provide documents for students to download, interact with, and/or print.
-
-                                        
-
-Downloadable documents may be included as a resource within a lesson or
-can supplement other content types by adding them within assignments or
-assessments, readings, and surveys and polls.                 
-
-Surveys and Polls                                 
-
-Create surveys and polls to collect feedback from students.
-
-                                        
-
-Surveys and polls gather feedback allowing instructors to assess
-opinions or comprehension. Results, absent of student names, may be
-displayed in graphs or charts. Surveys can be included in lessons, and
-polls may be embedded within readings or other content.                 
-
-Timelines                                
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Allow students to visualize and interact with events on a timeline.
-
-                                        
-
-The Timeline feature allows students to visualize the order of events as
-they learn about and interact with them. The Timeline includes a
-scrollable timeline reel with events. Above the timeline, supplementary
-images and text display, corresponding with the date and event selected.
-                
-
-Image and Video Reels                                         
-
-Organize supplementary videos and images into a reel.
-
-                                        
-
-By collecting images and videos in one place within a reading, students
-can easily and quickly scroll horizontally through a collection of
-videos or images, clicking on them to play or enlarge.
-
-                                
-
-Assignment and Self-Assessment Question Types
----------------------------------------------
+   
+Question Types
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Listed below are the types of questions we support in assignments and
 self-assessments. If you do not find a question type compatible with the
 type of assessment you have, please contact us and we’d be happy to
 assist you.
-
-Question Types:
-
-See below for descriptions of each. \* Starred items are only available
-with assignments.
 
 -  Multiple Choice
 -  Multiple Answer
@@ -402,142 +277,89 @@ with assignments.
 -  Word Bank (Matching)
 -  Mathematical Notation
 -  Short Answer
--  Essay \*
--  File Upload\*
--  Discussion\*
--  FEATURE: Timed\*
--  FEATURE: Randomization \*
--  FEATURE: Question Bank\*
+-  Essay
+-  File Upload
+-  Discussion
+-  FEATURE: Timed
+-  FEATURE: Randomization
+-  FEATURE: Question Bank
 -  FEATURE: Gradebook Entry
 
-Multiple Choice                                
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Multiple Choice**
 
 .. image:: images/multipleChoice.png
 
-The multiple choice question type allows students to select the best
-possible answer out of a list of solutions.
+Allows students to select the best possible answer out of a list of solutions.
 
-                                        
+.. note::  Best to use when the answer to the question asked is a single sentence or statement.
 
-.. note::  This question type is best to use when the answer to the question asked is a single sentence or statement.         
-
-Multiple Answer                                
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Multiple Answer**
 
 .. image:: images/multipleAnswer.png
 
-The multiple answer question type allows students to select multiple
-answers out of a list of solutions.
+Allows students to select multiple answers out of a list of solutions.
 
-                                        
+.. note::  Best to use when the answer to the question asked is potentially more than one sentence or statement.
 
-.. note::  This question type is best to use when the answer to the question asked is potentially more than one sentence or statement.
-                                        
-
-Ordering                                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Ordering**
 
 .. image:: images/ordering.png
 
-The ordering question type allows the student to arrange data and
-information into the appropriate order.
+Allows the student to arrange data and information into the appropriate order.
 
-                                        
+.. note::  Best to use when the solution requires a specific ordering of information, such as the order of steps or events.
 
-.. note::  This question type is best to use when the solution requires a specific ordering of information, such as the order of steps or events.
-                        
-
-Word Bank (Matching)                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Word Bank (Matching)**
 
 .. image:: images/wordBankMatching.png
 
-The word bank allows students to use a bank of words to match with blank
-spaces in statements or phrases below. A student selects an answer from
-the bank and “drags” it to the appropriate space, “dropping” it into
-place. The word bank can be customized to allow a single response to be
-used once or multiple times.
+Allows students to use a word bank to match with blank spaces in statements or phrases below. The word bank can be customized to allow a response to be used multiple times.
 
-                                                                        
+.. note::  Best to use when answers can be left out of a statement and collected into a bank. It can also be used to match terms with definitions.
 
-.. note::  This question type is best to use when words or phrases can be left out of a statement and collected into a bank of responses. It can also be used to match a word or phrase with its description or definition.  
-                
-
-Mathematical Notation                                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Mathematical Notation**
 
 .. image:: images/mathematicalNotation.png
 
-The math question type gives the student options to use mathematical
-characters in the response field.
+Offers students the use of mathematical characters in the response field.
 
-                                        
+.. note::  Best to use when the solution to the problem includes mathematical notation.
 
-.. note::  This question type is best to use when the solution to the problem includes mathematical notation.                                 
-
-Short Answer                                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Short Answer**
 
 .. image:: images/shortAnswer.png
 
-The short answer question type provides a text field for students to
-type a word or short phrase as their response.
+Provides a text field for students to type a word or short phrase as their response.
 
-                                        
+.. note::  Best to use for questions that prompt the student to display his or her breadth of understanding and knowledge in writing. It allows for a single word or short phrase answer.
 
-.. note::  This question type is best to use for questions that prompt the student to display his or her breadth of understanding and knowledge in writing. It allows for a single word or short phrase answer.
-
-Essay                                 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Essay**
 
 .. image:: images/essay.png
 
-The essay question type provides students with a text field to type
-responses ranging from a few short sentences to several paragraphs.
-Students are prompted by a question in the form of text, link, and/or
-video. Responses are not limited on the platform by length.
+Provides students with a text field to respond to questions in short sentences or several paragraphs. Responses are not limited in length.
 
-                                        
+.. note::  Best to use for questions that prompt the student to display understanding in writing. This type of response requires extensive recall and extra time to complete.
 
-.. note::  This question type is best to use for questions that prompt the student to display his or her breadth of understanding and knowledge in writing. This type of response requires extra time to complete and more extensive recall and organization of material .
-                                
-
-File Upload
-~~~~~~~~~~~
+**File Upload**
 
 .. image:: images/fileUpload.png
 
-The file upload question type allows students to submit files directly
-to instructors for review. The NextThought platform will accept any
-specified file type.
+Allows students to submit files directly to instructors for review. The NextThought platform will accept any specified file type.
 
-                                        
+.. note::  Best to use when the assignment requires a file by a program outside the NextThought platform. Instructors can download student files.
 
-.. note::  This question type is best to use when a file by another program outside of the NextThought platform is needed by the instructor for review. The instructor can download student files.         
-
-Discussion                                         
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Discussion**
 
 .. image:: images/discussion.png
 
-As opposed to the essay assessment type where only the instructor and
-student can see the student’s response, a discussion assignment prompts
-students to respond within the course forums. This assessment type
-displays the course discussion prompt from within the assignment itself
-and includes a summary regarding the student’s activity at the bottom.
-The student can respond by clicking the “Join the Discussion” button
-within the assignment itself. The discussion can also be accessed from
-the course Discussions View.
+Prompts students to respond within course forums. The discussion is displayed within the assignment and includes student activity information.
 
-                                        
-
-.. note::  This question type is best to use when participation within course discussions are not only encouraged and expected, but required and graded.                         
+.. note::  Best to use when participation within course discussions are not only encouraged and expected, but required and graded.
 
 .. image:: images/quiz.png
 
-FEATURE: Randomization 
-~~~~~~~~~~~~~~~~~~~~~~
+**FEATURE: Randomization**
 
 .. image:: images/randomization.png
 
@@ -546,55 +368,94 @@ solutions. Randomizing the questions would create a unique ordering of
 the questions for each student. Randomizing the solutions would create a
 unique ordering of solutions for each student.
 
-FEATURE: Question Bank                                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**FEATURE: Question Bank**
 
 .. image:: images/questionBank.png
 
-This feature allows a designated amount of questions from a larger set
-of questions to be randomly selected and assigned to students. For
-example, five different questions can be randomly assigned to a student
-from a bank of ten questions. The student would only see and respond to
-those five questions.
+Allows a designated amount of questions from a larger set of questions to be randomly selected and assigned to students. For example, five different questions can be randomly assigned to a student from a bank of ten questions. The student would only see and respond to those five questions.
 
-                                        
-
-                        
-
-FEATURE: Timed Assessments                                        
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**FEATURE: Timed Assessments**
 
 .. image:: images/timedAssessments.png
 
-This feature restricts the student to a designated amount of time to
-complete the assignment. When the student selects the assignment to
-begin, a window will prompt the student to acknowledge that the
-assignment is timed and that, once started, the timer will not stop.
-Once acknowledged, the assignment will be viewable and the timer will
-begin. The timer, displaying the amount of time left, is constantly
-displayed while the student works through his or her assignment. When
-the student submits the assignment for grading, the submitted assignment
-will indicate to both the instructor and student if the student
-submitted within the allotted time.                 
+Restricts the student to a designated amount of time to complete the assignment. A window will prompt the student to acknowledge that the assignment is timed. The submitted assignment will indicate to both the instructor and student if the student submitted within the allotted time.
 
-FEATURE: Gradebook Entry                                
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**FEATURE: Gradebook Entry**
 
 .. image:: images/gradebookEntry.png
 
-A gradebook entry allows the instructor to add a grade when one is
-needed for an activity that occurs outside the platform. It can also be
-used when graded activities within the platform do not require an
-explicit and immediate question-response action. For example, if a
-service activity or interview is required, a gradebook entry allows you
-to assign a grade and offer feedback once the activity is completed.
-This question type can include text, video, images, links, or downloads
-to explain the graded activity, but does not require any action on the
-assignment within the platform itself.
+Allows the instructor to add a grade when one is needed for an activity that occurs outside the platform, or on another part of the platform. It does not require a submission within the assignment itself, but only acts as a grade entry.
 
-                                        
+Discussion Forums
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-                                        
+Engage students and encourage participation and exploration of the
+lesson through discussion prompts.
+
+The course forum displays all course discussions and can be accessed from the Discussions View. Individual discussions in the forum can also be accessed directly through each lesson. This allows access to the discussion from the Lesson View itself to contextualize the discussion within readings, videos, and assessments. Discussions may also be part of a graded assignment.
+
+**Visibility:**
+
+Your course forum may be split into sections by enrollment type:
+“Enrolled For-Credit” and “Open.” Discussions and announcements within
+the enrolled section can only be viewed by you and your enrolled,
+for-credit students. Open discussions and announcements can be viewed by
+the general public.
+
+**Instructor-led vs. Student-led Discussions**
+
+Typically only instructors can create new discussion threads in the open
+and enrolled course discussions and announcements. Students, however,
+are able to create and post new topics in the general course “Forum.”
+
+External Links
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Create links for quick access to websites, research, videos, and other
+content found outside the platform.
+
+External links can be included in a lesson, reading, discussion, as well
+as in an assignment or assessment. For example, an instructor may
+require students to read an article written by a researcher whose work
+exists on an external webpage.
+
+Downloads
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Provide documents for students to download, interact with, and/or print.
+
+Downloadable documents may be included as a resource within a lesson or
+can supplement other content types by adding them within assignments or
+assessments, readings, and surveys and polls.
+
+Surveys and Polls
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Create surveys and polls to collect feedback from students.
+
+Surveys and polls gather feedback allowing instructors to assess
+opinions or comprehension. Results, absent of student names, may be
+displayed in graphs or charts. Surveys can be included in lessons, and
+polls may be embedded within readings or other content.
+
+Timelines
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Allow students to visualize and interact with events on a timeline.
+
+The Timeline feature allows students to visualize the order of events as
+they learn about and interact with them. The Timeline includes a
+scrollable timeline reel with events. Above the timeline, supplementary
+images and text display, corresponding with the date and event selected.
+
+Image and Video Reels
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Organize supplementary videos and images into a reel.
+
+By collecting images and videos in one place within a reading, students
+can easily and quickly scroll horizontally through a collection of
+videos or images, clicking on them to play or enlarge.
 
 Gradebook                                 
 ==========================================
