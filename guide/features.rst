@@ -9,69 +9,48 @@ facilitate, create, and customize learning! Below, we’ve briefly listed
 some of our features. We will further explore these features throughout
 the guide.
 
-Supported Content:
+**Supported Content:**
 
-Hosted Text for Readings
-PDFs, Slides, and Other Downloadable Materials
-Videos (From Kaltura, Vimeo, YouTube, others)
-Video Transcripts
-Assignments and Self-Assessments
- Discussion Forums
- External Links
- Surveys and Polls
- Timelines
- Images and Video Reels
+- Hosted Text for Readings
+- PDFs, Slides, and Other Downloadable Materials
+- Videos (From Kaltura, Vimeo, YouTube, Storyline, and others)
+- Video Transcripts
+- Assignments and Self-Assessments
+- Discussion Forums
+- External Links
+- Surveys and Polls
+- Timelines
+- Images and Video Reels
 
-Communication:
+**Communication:**
 
-         Email Course
+- Email Course
+- Email Student
+- Notifications
+- Add a Contact
+- Chat
+- Notes
+- Forums and Announcements
+- Community Pages
+- Group Pages
 
-        Email Student
+**Assessing and Grading:**
 
-Notifications
+- Review, Assess, and Grade
+- Filtering and Sorting
+- Roster
+- Grade Prediction
+- Export Grades
+- Final Grades
+- Reset or Excuse Grade
+- Assignment Feedback
+- Assignment Download
+- Participation and Progress Reports
+- Gradebook Notifications
 
-Add a Contact
+**Course Authoring:**
 
-         Chat
-
-         Notes
-
-         Forums and Announcements
-
-        Community Pages
-
-        Group Pages
-
-Assessing and Grading:
-
-Review and Assess, and Grade
-
-         Filtering and Sorting         
-
-Roster
-
-Grade Prediction
-
-Export Grades
-
-         Final Grades
-
-Reset or Excuse Grade
-
-         Assignment Feedback
-
-         Assignment Download
-
-Participation and Progress Participation and Progress Reports
-
-         Gradebook Notifications
-
-Course Authoring:
-
-         Add Units, Lessons, and Sections
-
-Arrange, Organize, Add, and Edit Content
-
-        Create an Assignment
-
-Create a Reading
+- Add Units, Lessons, and Sections
+- Arrange, Organize, Add, and Edit Content
+- Create an Assignment
+- Create a Reading
