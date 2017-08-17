@@ -2,18 +2,12 @@
 PART I: Content, Gradebook, and Communication
 =============================================
 
-Featured Content                                
+
+Course Organization
 ================================================
 
 NextThought supports a variety of content types in order to customize
-learning. All content is organized within a course in your library. In
-this section we will learn about NextThought’s course organization and
-the types of content supported.
-
-                                        
-
-Course Organization                                
----------------------------------------------------
+learning. All content is organized within a course in your library.  
 
 A course is organized into five views: Activity, Lessons,
 Assignments, Discussions, and Course Info.
@@ -23,8 +17,8 @@ Assignments, Discussions, and Course Info.
 Access these views by first clicking on the course in your library.
 Below are descriptions of each:         
 
-#. .. rubric:: Activity View
-      :name: NextThoughtInstructorsGuide.xhtml#h.hfkxd3as8bsn
+Activity View
+---------------------------------------------------
 
 The Activity View organizes activity within the course into a stream and
 invites students to engage in the course within the activity that is
@@ -34,8 +28,8 @@ active forum posts, as well as notes currently being discussed.
 
    .. image:: images/activityView.png
 
-2. .. rubric:: Lessons View
-      :name: NextThoughtInstructorsGuide.xhtml#h.7y4ud7kddf9r
+Lessons View
+---------------------------------------------------
 
 The Lessons View contains all of the lessons or content for a course.
 The Lessons View is divided into two sections: an interactive course
@@ -54,8 +48,8 @@ future material.
 
 	.. image:: images/lessonsView.png
 
-3. .. rubric:: Assignments View
-      :name: NextThoughtInstructorsGuide.xhtml#h.aphlv880x4er
+Assignments View
+---------------------------------------------------
 
 The Assignments View allows access to your Gradebook and student
 assignment activity. It also enables you to view and download student
@@ -64,7 +58,8 @@ assignments and export grades.
 The Assignments View is organized into three tabs: Assignments,
 Grades & Performance, and Activity & Notifications.
 
-**Assignments Tab**
+Assignments Tab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This section contains an interactive list of assignments within the
 course. Selecting an assignment allows you to see all student
@@ -73,7 +68,8 @@ feedback, and reset and excuse assignments.         
 
     .. image:: images/assignmentsTab.png
 
-**Grades & Performance Tab**
+Grades & Performance Tab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Grades & Performance displays an interactive list of all students in
 your course. Selecting a student will allow you to view that student’s
@@ -82,7 +78,8 @@ submissions and grades for the course as well as assign grades.
 
     .. image:: images/gradesPerformanceTab.png
 
-**Activity & Notifications Tab**
+Activity & Notifications Tab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Activity & Notifications displays relevant updates about student
 submissions and feedback by most recent to oldest.
@@ -91,8 +88,8 @@ submissions and feedback by most recent to oldest.
 
 .. note:: Please note: These three sections also appear for students; however, their content differs from the instructor’s view.
 
-4. .. rubric:: Discussions View
-      :name: NextThoughtInstructorsGuide.xhtml#h.8gq2dby436rr
+Discussions View
+---------------------------------------------------
 
 The Discussions View contains the discussion forums for the class. Here
 the students can respond to your discussion prompts or create their own
@@ -100,7 +97,8 @@ discussions. You may also post course announcements here.
 
     .. image:: images/discussionsView.png
 
-**Organization:**
+Organization:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are three typical forums: “Discussions,” “Announcements,” and the
 general “Forum.” “Discussions” will contain your course discussions
@@ -109,14 +107,15 @@ regarding the course material, and participation may be required.
 throughout the duration of the course. The “Forum” is a place for
 students to freely post about course topics.
 
-**Visibility:**
+Visibility:
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Your course forum may be split into sections by student enrollment
 type, “Enrolled For-Credit” and “Open.” This allows you to have some
 cours discussions viewable only to credit students.
 
-5. .. rubric:: Course Info View                                        
-      :name: NextThoughtInstructorsGuide.xhtml#h.b4tyrgn1haij
+Course Info View
+---------------------------------------------------
 
 The Course Info View displays basic information about your course, such
 as course dates, description, and instructor information. As an
@@ -126,8 +125,8 @@ students in the course, email your students, and access student reports.
 
    .. image:: images/courseInfoView.png
 
-Types of Supported Content
---------------------------
+Supported Content
+================================================
 
 Below is a list of the types of content NextThought supports as well as
 descriptions of each. In a later section, we will discuss how this
@@ -149,7 +148,7 @@ support for your course, please contact NextThought.
 .. image:: images/SupportedContent.png
 
 Reading Materials                                
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------
 
 Reading materials can be hosted on the platform or embedded on the
 platform through another format such as a PDF. Notes can be created
@@ -190,7 +189,7 @@ Students can scroll through the PDF, read, download, and print it, and
 can add notes to the side of the displayed PDF.
 
 Videos                                         
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Videos enhance learning by introducing course lessons, demonstrating
 ideas, and engaging students.
@@ -206,7 +205,7 @@ your course.
 .. note::  Please contact NextThought if you are interested in using our Video Team and Learning Designers to assist you in creating videos. Our Video Team works both in-studio and on location. Visit https://nextthought.com/video-services to learn more.
 
 Transcripts
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Video transcripts allow students to search for keywords, add
 contextualized notes, and review the video’s transcript at their own
@@ -236,7 +235,7 @@ gallery, click the icon to the left of the transcript view drop-down.
 .. image:: images/transcripts3.png
 
 Assignments and Self-Assessments                        
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Test students’ comprehension of the material or give them an opportunity
 to test themselves with assignments and self-assessments.
@@ -264,7 +263,7 @@ been submitted. Displaying tips, hints, and solutions are optional.
    Assignment” within Part III  of the manual.
    
 Question Types
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Listed below are the types of questions we support in assignments and
 self-assessments. If you do not find a question type compatible with the
@@ -285,7 +284,8 @@ assist you.
 -  FEATURE: Question Bank
 -  FEATURE: Gradebook Entry
 
-**Multiple Choice**
+Multiple Choice
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/multipleChoice.png
 
@@ -301,7 +301,8 @@ Allows students to select multiple answers out of a list of solutions.
 
 .. note::  Best to use when the answer to the question asked is potentially more than one sentence or statement.
 
-**Ordering**
+Ordering
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/ordering.png
 
@@ -309,7 +310,8 @@ Allows the student to arrange data and information into the appropriate order.
 
 .. note::  Best to use when the solution requires a specific ordering of information, such as the order of steps or events.
 
-**Word Bank (Matching)**
+Word Bank (Matching)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/wordBankMatching.png
 
@@ -317,7 +319,8 @@ Allows students to use a word bank to match with blank spaces in statements or p
 
 .. note::  Best to use when answers can be left out of a statement and collected into a bank. It can also be used to match terms with definitions.
 
-**Mathematical Notation**
+Mathematical Notation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/mathematicalNotation.png
 
@@ -325,7 +328,8 @@ Offers students the use of mathematical characters in the response field.
 
 .. note::  Best to use when the solution to the problem includes mathematical notation.
 
-**Short Answer**
+Short Answer
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/shortAnswer.png
 
@@ -333,7 +337,8 @@ Provides a text field for students to type a word or short phrase as their respo
 
 .. note::  Best to use for questions that prompt the student to display his or her breadth of understanding and knowledge in writing. It allows for a single word or short phrase answer.
 
-**Essay**
+Essay
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/essay.png
 
@@ -341,7 +346,8 @@ Provides students with a text field to respond to questions in short sentences o
 
 .. note::  Best to use for questions that prompt the student to display understanding in writing. This type of response requires extensive recall and extra time to complete.
 
-**File Upload**
+File Upload
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/fileUpload.png
 
@@ -349,7 +355,8 @@ Allows students to submit files directly to instructors for review. The NextThou
 
 .. note::  Best to use when the assignment requires a file by a program outside the NextThought platform. Instructors can download student files.
 
-**Discussion**
+Discussion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/discussion.png
 
@@ -359,7 +366,8 @@ Prompts students to respond within course forums. The discussion is displayed wi
 
 .. image:: images/quiz.png
 
-**FEATURE: Randomization**
+FEATURE: Randomization
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/randomization.png
 
@@ -368,26 +376,29 @@ solutions. Randomizing the questions would create a unique ordering of
 the questions for each student. Randomizing the solutions would create a
 unique ordering of solutions for each student.
 
-**FEATURE: Question Bank**
+FEATURE: Question Bank
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/questionBank.png
 
 Allows a designated amount of questions from a larger set of questions to be randomly selected and assigned to students. For example, five different questions can be randomly assigned to a student from a bank of ten questions. The student would only see and respond to those five questions.
 
-**FEATURE: Timed Assessments**
+FEATURE: Timed Assessments
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/timedAssessments.png
 
 Restricts the student to a designated amount of time to complete the assignment. A window will prompt the student to acknowledge that the assignment is timed. The submitted assignment will indicate to both the instructor and student if the student submitted within the allotted time.
 
-**FEATURE: Gradebook Entry**
+FEATURE: Gradebook Entry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/gradebookEntry.png
 
 Allows the instructor to add a grade when one is needed for an activity that occurs outside the platform, or on another part of the platform. It does not require a submission within the assignment itself, but only acts as a grade entry.
 
 Discussion Forums
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Engage students and encourage participation and exploration of the
 lesson through discussion prompts.
@@ -409,7 +420,7 @@ and enrolled course discussions and announcements. Students, however,
 are able to create and post new topics in the general course “Forum.”
 
 External Links
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Create links for quick access to websites, research, videos, and other
 content found outside the platform.
@@ -420,7 +431,7 @@ require students to read an article written by a researcher whose work
 exists on an external webpage.
 
 Downloads
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Provide documents for students to download, interact with, and/or print.
 
@@ -429,7 +440,7 @@ can supplement other content types by adding them within assignments or
 assessments, readings, and surveys and polls.
 
 Surveys and Polls
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Create surveys and polls to collect feedback from students.
 
@@ -439,7 +450,7 @@ displayed in graphs or charts. Surveys can be included in lessons, and
 polls may be embedded within readings or other content.
 
 Timelines
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Allow students to visualize and interact with events on a timeline.
 
@@ -449,7 +460,7 @@ scrollable timeline reel with events. Above the timeline, supplementary
 images and text display, corresponding with the date and event selected.
 
 Image and Video Reels
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------------
 
 Organize supplementary videos and images into a reel.
 
@@ -489,7 +500,6 @@ Gradebook Organization
 ----------------------
 
 The Gradebook is organized into three  sections:  “Assignments,” “Grades & Performance,” and “Activity and Notifications.”
---------------------------------------------------------------------------------------------------------------------------
 
 1. .. rubric:: Assignments Section
       :name: NextThoughtInstructorsGuide.xhtml#h.pgid9ef2g3br
