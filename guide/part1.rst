@@ -878,28 +878,23 @@ Course Roster
 The course roster lists all students in your course and allows you to
 email your course or access Student Participation Reports.
 
-To access your course roster,
+**Access Course Roster**
 
 #. Click on the Course Info View in your course.
 #. Click the “Roster” tab.
 
 .. image:: images/accessCourseRoster.png
 
+**Roster Features:**
 
-Roster Features:
-
--  Filter:  Filter the view by All Students, Enrolled Students, or Open
-   Students, by clicking the dropdown.
+-  Filter: Filter the view by "All Students," "Enrolled Students," or "Open
+   Students"" by clicking the dropdown.
 -  Sort : Click on any of the columns (e.g., “Student” or “Username”) to
-   sort the students by that column.
+   sort the students by that category.
 -  Reports: Click on the bar chart to the far right of a student’s row
    to access the Student Participation Report for that student. (See
-   “Reports” on page \_\_\_\_ to learn more.)
--  Email:  Click this button to create an email to send to your
-   students. (See “Email” on page \_\_\_ to learn more.)
-
-                        
-------------------------
+   “Reports”)
+-  Email: Click the blue “Email” button to email your students. (See “Email.”)
 
 Communication                                        
 =====================================================
@@ -907,11 +902,20 @@ Communication                                 �
 Connect with your students and other instructors and stay up-to-date on
 important activity.
 
-                                        
+- Email a Course
+- Email a Student
+- Platform Notifications
+- Add Contacts
+- Chat
+- Create a Note
+- Create a Discussion
+- Make an Announcement
+- Connect on the Community Page
+- Organize Groups
 
 .. image:: images/communication.png
 
-Email                                
+Email
 -------------------------------------
 
 Connect with your students through email.
