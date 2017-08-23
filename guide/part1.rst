@@ -1097,8 +1097,7 @@ students.
 #. Hover over the individual’s name that you’d like to add as a
    contact, and select the add contact icon that appears.
 
-.. note:: You can also add a new contact from a profile page by clicking the
-“Follow” button in the top right-hand corner.
+.. note:: You can also add a new contact from a profile page by clicking the “Follow” button in the top right-hand corner.
 
 Chat
 --------------------------------------------
@@ -1221,71 +1220,49 @@ Create a Discussion or Make an Announcement
 Your course forum allows you to begin a discussion or make an
 announcement regarding the course.
 
-                                        
+.. image:: images/DiscussionAnnouncement.png
 
-To create a new discussion or announcement:
+**To create a new discussion or announcement:**
 
-#. Click on your course “Discussions” View at the top banner o f your
-   course.
-#. In the left-hand panel, click on the Forum in which you’d like to
+#. Click on your course Discussions View in the top banner.
+#. In the left-hand panel, click on the forum in which you’d like to
    start a discussion.
 #. Click “New Discussion.”
 #. Add a title, tags, and your message, and even add a whiteboard,
    video, or file attachment.
 #. Click “Save” to save your discussion and post it.
 
-.. warning:: Your course may have enrolled-only forums.  If you’d like both open
-and enrolled students to view your discussion, make sure you post in the
-appropriate forum. If your course has both enrolled-only and open
-forums, they should be clearly labeled as such.
+.. warning:: Your course may have enrolled-only forums. If you’d like both open and enrolled students to view your discussion, make sure you post in the open forum.
 
-Connect on the Community Page                        
+Connect on the Community Page
 -----------------------------------------------------
 
-Our community feature offers a collaborative meeting space for groups of
-individuals to interact outside the context of a text or course.
+.. image:: images/CommunityPage.png
 
-The community page offers members a space to post a topic or question
-for the community to respond to, and also offers a list of community
-members for easy networking and communication.
+Our community feature offers a collaborative meeting space for individuals to interact outside of a course context. The community page offers members a space to post a topic or question for the community to respond to, and also offers a list of community members for easy networking and communication. 
 
-                                        
+To locate your community page, navigate to your homepage and click on a community.
 
-To locate your community page, navigate to your homepage and click on a
-community in order to view it.
-
-Organize Groups                        
+Organize Groups
 ---------------------------------------
 
-Creating a meeting space to share best practices with a group of
-instructors, or set up student groups for class projects.
+Create a meeting space to share best practices with a group of instructors, or set up student groups for class projects.
 
-The group feature allows for a collection of individuals to privately
-and quickly share notes, ideas, and discussions between one another.
-Creating a group also sets up a Group Page. A group page is the meeting
-hub for its members. This page’s activity stream will display all notes
-shared with the group across readings and other materials, and also
-allows members to post a discussion directly to the group page regarding
-any topic such as group meeting times, projects, and more.
+The group feature allows for a collection of individuals to privately and quickly share notes, ideas, and discussions between one another. Both instructors and students can create groups. Creating a group also sets up a Group page. A Group page is the meeting hub for its members. This page’s activity stream will display all notes shared with the group across readings and other materials, and also allows members to post a discussion directly to the group page regarding any topic.
 
-.. note:: Both instructors and students can create groups.
+.. image:: images/Groups.png
 
-To create a group and visit the group page:
+**To create a group and visit the group page:**
 
 #. Navigate to your Contacts page, and click on the tab labeled
    “Groups.”
-#. Click on “Create Group.”
+#. At the bottom of the left-hand panel, click on “Create Group.”
 #. Type a group name.
-#. Select “Create” to create the group.
-#. Click on the created group within your Contacts Page to navigate to
-   the Group Page.
+#. Select “Create” to create the group. Once the group is created, you will see a group code. Be sure to
+   keep this group code to send to your contacts.
+#. Click on the created group within your Contacts page to navigate to
+   the Group page.
 
-.. note:: Your contacts will need this group code [focus on group code] to join
-the group. Instead of clicking “Create Group” they will click “Join
-Group” and enter the code. If you’ve forgotten your code, click on the
-dropdown arrow next to the group name on your Contacts Page and click
-“Group Code.”
+Share your code with your contacts to build group membership. If you’ve forgotten your code, click on the dropdown arrow next to the group name on your Contacts page and click “Group Code" to view and copy it. Your contacts can select “Join Group” on their Contacts page and enter the group code to become a group member.
 
-.. note:: Now that you’ve created a group, you can share notes privately with
-group members by creating a note and adding the group to the note in the
-sharing field. See “Create a Note” to learn more.
+Now that you’ve created a group, you can share notes privately with group members by creating a note and adding the group name to the sharing field. See “Create a Note" to learn more.
