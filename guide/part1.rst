@@ -251,7 +251,7 @@ been submitted. Displaying tips, hints, and solutions are optional.
 
 **Features:**
 
--  Choose from several different questions types. To see a list of
+-  Choose from several different :ref:`question-types`. To see a list of
    question types supported, visit “Assignment and Self-Assessment
    Question Types.”
 -  Include downloadable documents, links, or embedded videos or images.
@@ -259,9 +259,10 @@ been submitted. Displaying tips, hints, and solutions are optional.
 -  Set assignments to grade automatically upon submission (with the
    exception of essays, uploads, graded discussions,  and participation
    points, all which require manual grading).         
--  To learn about more options and features, please see the “Create an
-   Assignment” within Part III  of the manual.
-   
+-  To learn about more options and features, please see the :ref:`Create an Assignment <create-an-assignment>` within Part III  of the manual.
+  
+.. _question-types:
+
 Question Types
 ---------------------------------------------------
 
@@ -920,8 +921,6 @@ Email
 
 Connect with your students through email.
 
-                                        
-
 You can send an email to your course or to an individual student through
 your Gradebook or course roster.
 
@@ -929,67 +928,53 @@ All email correspondence have the option to allow students and
 co-instructors to reply. If a student or instructor replies to an email,
 the reply will be sent to the email connected to your NextThought
 account. Below are instructions on how to send an email from your course
-roster.         
+roster. 
 
-Email a Course                                         
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Email a Course 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Email your course through your Gradebook or roster. Below is a
 description of how to email your course via the course roster.
 
-.. note:: You may also send an email via the Gradebook within the Grades & Performance tab. To start a new email, click the mailing icon at the top right-hand corner of the Gradebook and jump to Step 3 below.
-
 Course Email via Roster:
 
-#. To send an email to students in your course, visit the roster within
-   your  “Course Info ” View. 
+#.  To send an email to students in your course, visit the roster within the Course Info View. To the right-hand side of the roster, click on the “Email” button.
    
    .. image:: images/courseEmailViaRoster1.png
-   
-   To the right-hand side of the roster view, click on the “Email”
-   button.
-   
-	Fill out the form:
+  
 
-#. Select Your Audience: Within the new window, select the group you
-   would like to send an email to: All Students, Enrolled Students, or
-   Open Students.
+2. Within the new window, select a group to send an email to: "All Students,"
+"Enrolled Students," or "Open Students."
    
    .. image:: images/courseEmailViaRoster2.png
    
    
-#. Select Reply Preferences: Next, check the box “Allow Replies” if you
-   would like to allow students to reply to your email.
+3. Next, check the box “Allow Replies” if you would like to allow students to reply to your email.
    
    .. image:: images/courseEmailViaRoster3.png
    
    .. note:: (Please note: If you select to send an email to All Students, you will be given the option to select which group of students you would like to allow to reply: All, Enrolled, or Open.)
 
-#. Type Your Message:  Fill out the subject line of the email and then
-   type your email’s message.
-   
+4. Fill out the subject line of the email and then type your email’s message.
+
    .. image:: images/courseEmailViaRoster4.png
    
    
-#. Receive a Copy:  Check the “Send Me a Copy of the Email” if you would
-   like to receive a copy of your email.
+5.  Check the “Send me a copy of the email” if you would like to receive a copy of your email.
    
    .. image:: images/courseEmailViaRoster5.png  
  
  
-#. Copy Instructors: If you’d like for all instructors of the course to
-   receive the email (and not just your students), select “Copy All
-   Instructors.”
+6. If you’d like for all course instructors to receive the email (and not just your students), select “Copy All Instructors.”
    
    .. image:: images/courseEmailViaRoster6.png
 
 
-#. Once you’ve completed filling out your message and selecting your
-   preferences, click the “Send Email” button at the bottom right-hand
-   corner of the window.
-   
+7. Once you’ve completed filling out your message and selecting your preferences, click the “Send Email” button at the bottom right-hand corner of the window.
+
    .. image:: images/courseEmailViaRoster7.png
 
+.. note:: You may also send an email via the Gradebook within the Grades & Performance tab. To start a new email, click the mailing icon at the top right-hand corner of the Gradebook and jump to Step 2 above.
 
                                         
 
@@ -1000,99 +985,90 @@ Email a student through your Gradebook, roster, or while viewing the
 student’s assignment. Below is a description of how to email a student
 through the roster.
 
-.. note:: You may also send an email via the Gradebook within the Grades & Performance tab. First, click on a student within the Grades & Performance tab. Then, below the student’s name in the top banner, click on the text titled “Email” to initiate a new email. Skip to Step 5 below.
-
 Student Email via Roster:
 
-#. To send an email to a specific student in your course, visit the
-   roster within your “Course Info”  View.
-#. Hover over a student’s name and click on the text “Email” that
+1. To send an email to a specific student in your course, visit the roster within the Course Info View.
+
+2. Hover over a student’s name and click on the text “Email” that
    appears below the name.
    
-   .. note:: To search for a student, click on the all/enrolled/open student drop-down menu within your roster. Within the drop-down menu, type the student’s name into the “search” field and press the enter key on your keyboard. Search results will display below.
+   .. note:: To search for a student, click on the all/enrolled/open student dropdown menu within your roster. Type the student’s name into the search field and press your keyboard’s enter key. (Please note: The roster searches within the currently selected student category.)
+
+3. Next, check the box “Allow Replies” if you would like to allow the student to reply to your email.
+
+4. Fill out the subject line of the email and then type your email’s message.
+
+5. Check the “Send me a copy of the email” if you would like to receive a copy of your email.
+
+6. If you’d like for all course instructors to receive the email (and not just your students), select “Copy All Instructors.”
+
+7. Once you’ve completed filling out your message and selecting your preferences, click the “Send Email” button at the bottom right-hand corner of the window.
    
-   .. warning:: Please note: The search will only search within the filter selected in the drop-down. To change which group of students you search within, use the drop-down menu to select “All Students,” “Enrolled Students,” or “Open Students.”
+.. note:: You may also send an email via the Gradebook within the Grades & Performance tab. First, click on a student within the Grades & Performance tab. Then, below the student’s name in the top banner, click on the text titled “Email” to initiate a new email. Skip to Step 3 above.
 
-#. Fill out the form:
-
-#. Select Reply Preferences: Next, check the box “Allow Replies” if you
-   would like to allow the student to reply to your email.
-#. Type Your Message:  Fill out the subject line of the email and then
-   type your email’s message.
-#. Receive a Copy:  Check the “Send Me a Copy of the Email” if you would
-   like to receive a copy of your email.
-#. Copy Instructors: If you’d like for all instructors of the course to
-   receive the email (and not just your students), select “Copy All
-   Instructors”
-
-5. Once you’ve completed filling out your message and selecting your
-   preferences, click the “Send Email” button at the bottom right-hand
-   corner of the window.
-
-                                        
-
-Notifications                                
+Notifications
 ---------------------------------------------
 
 Stay up-to-date on the most important happenings within your course and
 learning community.
 
-                                        
-
 .. image:: images/platformNotifications.png
 	:align: left 
+	
 Notifications are notices of events that relates to you. New
 notifications show in the upper right-hand corner of your account with a
 red number marker over the bell icon. Clicking on this icon will display
 all of the recent notifications you have received.
 
+|
+
 .. image:: images/showAll.png
-	:align: left
+    :align: left
+	
 Scroll to the bottom of your notifications and click “Show All” to open
 the Notifications page. This page displays all of your notifications on
 a timeline.
-.. container:: clearer
 
-                                        
-
-
-.. raw:: html
-
-   <h3 class="c8" id="h.4x4fh8siep9k">
-	
+|
+|
+|
 	
 Email Notifications
+-------------------------
 
---------------
++---------------------------------------+----------------------------------------+
+| **Instructor Notifications Include:** | **Student Notifications Include:**     |
++=======================================+========================================+
+| Student assignment feedback           | Instructor assignment feedback         |
++---------------------------------------+----------------------------------------+
+| Being tagged in a note or thought     | Instructor note creation within course |
++---------------------------------------+ materials                              |
+| Posted replies to your note, comment, |                                        |
+| or thought                            |                                        |
++---------------------------------------+----------------------------------------+
+| Posted replies to your (manually)*    | Instructor created forum discussion    |
+| created forum                         |                                        |
++---------------------------------------+----------------------------------------+
+| Being added as a contact              | New grades                             |
++---------------------------------------+----------------------------------------+
+|                                       | Being tagged in a note or thought      |
++---------------------------------------+----------------------------------------+
+|                                       | Being tagged as part of a group or     |
+|                                       | list                                   |
++---------------------------------------+----------------------------------------+
+|                                       | Being added as a contact               |
++---------------------------------------+----------------------------------------+
+|                                       | Posted replies to *your* note,         | 
+|                                       | comment, thought, or forum discussion  |
+|                                       |                                        |
++---------------------------------------+----------------------------------------+
+*The table above scrolls left/right.*	
 
-.. raw:: html
 
-   </h3>
-
-	
-	
-	Instructor Notifications Include:
-
--  Student assignment feedback
--  Tagged in a note or thought
--  Reply to your note, comment, thought
--  Reply to your (manually) created forum
--  Added as a contact
-	.. warning:: Due to the large volume of participation within forums, you do not receive a notification when a student comments on a \*course\* forum unless you manually created the forum.
+.. warning:: Due to the large volume of participation within forums, you do not receive a notification when a student comments on a course forum unless you manually created the forum.
 
 
-Student Notifications Include:
-
--  Instructor assignment feedback
--  Instructor note creation within course materials
--  Instructor created forum discussion
--  New grade is posted
--  Tagged in a note or thought
--  Added as a contact
--  Group or list tagged in a note or thought
--  Reply to your note, comment, thought, or created forum discussion
-
-Once a day, notification emails will be sent out for any notifications
+Daily notification emails are sent out for any notifications
 you’ve missed while you were logged out of the platform. These emails
 contain links so you can navigate directly to any important notification
 you receive while away. If ever you don’t want to be notified by email,
@@ -1100,91 +1076,146 @@ you can turn off this feature by clicking on your profile image and then
 clicking “manage account.” Under “preferences” uncheck the box regarding
 email notifications.
 
-                                
 
-                                        
-
-Add Contacts                                
+Add Contacts
 --------------------------------------------
 
 Add contacts to build your learning network and connect with your
 students.
 
-                                        
+.. image:: images/addcontacts.png
 
-You can add new contacts within your Contacts page on the platform.
+**You can add new contacts within your Contacts page on the platform.**
 
-#. To navigate to your Contacts page, first located the chat bar on the
-   right-hand side of your account below your avatar. (If collapsed, you
+#. To navigate to your Contacts page, first locate the chat bar on the
+   right-hand side of your account below your profile image. *(If collapsed, you
    can open this bar by clicking on the chat bubble icon at the top
-   right.)
-#. Click on the Contacts icon at the bottom of your chat bar.
+   right.)*
+#. Click on the Contacts icon at the bottom of your chat bar to open the Contacts page.
 #. In the bottom left-hand corner of the Contacts page in the “Search”
    field, begin typing an individual’s name.
-#. Next, hover over the individual’s name that you’d like to add as a
+#. Hover over the individual’s name that you’d like to add as a
    contact, and select the add contact icon that appears.
 
 .. note:: You can also add a new contact from a profile page by clicking the
 “Follow” button in the top right-hand corner.
 
-                                        
-
-Chat                                        
+Chat
 --------------------------------------------
 
 Chat with students or other instructors when they are online. Use this
 feature to discuss best practices with instructors, hold virtual office
-hours, or answer student questions in real time.                 
+hours, or answer student questions in real time.
 
-Starting a Chat                                 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**There are three ways to start a chat with an online contact.**
 
-There are three ways to start a chat with an online contact.
+.. image:: images/ChatChat.png
+	:align: left 
 
-                                        
+**Chat Bar** 
 
-#. Chat Bar : Click on an individual’s avatar that appears online in
-   your chat bar. The chat bar is located on the right-hand side of your
-   account below your avatar. (If collapsed, you can open this bar by
-   clicking on the chat bubble icon at the top right.) You must have
-   added an individual as a contact for them to show up as online.
-#. Contacts Page: S tart a chat with an online contact from your
-   Contacts page. Navigate to this page by clicking the people icon at
-   the bottom of the chat panel. If a contact is online, you will see a
-   chat icon with the word “chat” under the contact’s name. Click on
-   this icon.
-#. Profile Page: While viewing a contact’s profile page while they are
-   online, click  “Message.” If the individual is currently offline, the
-   Message button will appear gray.
+Click on an individual’s profile image that appears online in your chat bar. The chat bar is located on the right-hand side of your account below your profile image. You must have added an individual as a contact for them to appear online.
 
-Create a Note                                
+|
+
+.. image:: images/ChatContacts.png
+    :align: left
+
+**Contacts Page** 
+
+Start a chat with an online contact from your Contacts page. Navigate to this page by clicking the people icon at the bottom of the chat bar. If a contact is online, you will see a chat icon with the word “chat” under the contact’s name. Click on this icon.
+
+|
+
+.. image:: images/ChatProfile.png
+    :align: left
+
+**Profile Page** 
+	
+While viewing a contact’s profile page, click “Message.” If the individual is currently offine, the message button will appear gray to show the contact as unavailable to chat.
+
+|
+|
+|
+|
+
+.. note:: If the chat bar is collapsed, you can open it by clicking on the chat bubble icon at the top right.
+
+Create a Note
 ---------------------------------------------
 
-This is one of the most basic forms of communication on the platform.
+Notes are one of the most basic forms of communication on the platform.
 Add a contextualized note to almost any type of content to enrich your
 students’ learning.
 
-                                        
+**To open the annotation menu within a reading:**
 
-To bring up the annotation menu within a reading:
+.. image:: images/Annotation1.png
+	:align: left 
 
-#. Drag your cursor over a passage.
-#. Click on the note icon to begin a new note.
-#. Fill out the sharing field, add a title, and a message, and even add
+1. Drag your cursor over a passage.
+
+|
+|
+
+2. Click on the note icon to begin a new note.
+
+|
+|
+|
+|
+|
+|
+
+.. image:: images/Annotation2.png
+    :align: left
+
+3. Fill out the sharing field, add a title, and a message, and even add
    an attachment or whiteboard.
-#. Click “Save” to save and post your note.
 
-.. note::  Notice, by default, the note is shared with everyone in your course.
-Remove this group if you wish to change your note’s audience [display
-mouse hovering over the group to display the x, then click to remove].
-Type in the name of the person, group, list, or community with which
-you’d like to share your note, or simply leave the sharing field empty
-to keep the note private.
+|
+|
 
-.. note:: For most types of content , you can hover over the right margin for a
-note icon to appear, and click the icon to begin a new note.
+4. Click “Save” to save and post your note.
 
-Create a Discussion or Make an Announcement                        
+|
+|
+|
+|
+|
+
+.. note:: For most types of content , you can hover over the right margin for a note icon to appear, and click the icon to begin a new note.
+
+**Change who your note is shared with.**
+
+.. image:: images/NoteAudience1.png
+	:align: left 
+
+1. Notice that by default your note is shared with everyone in your course. To remove the course, hover over the course name and click the “x” that appears.
+
+|
+|
+|
+|
+|
+|
+
+.. image:: images/NoteAudience2.png
+    :align: left
+
+2. Leave the sharing field empty to keep the note private, or type in the name of the person, group, list, or community with which you’d like to share your note.
+
+|
+|
+|
+|
+|
+|
+|
+|
+|
+
+Create a Discussion or Make an Announcement
 -------------------------------------------------------------------
 
 Your course forum allows you to begin a discussion or make an

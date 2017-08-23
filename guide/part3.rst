@@ -1,3 +1,5 @@
+.. _create-an-assignment:
+
 ==============================
 Part III: Create an Assignment
 ==============================
