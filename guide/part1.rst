@@ -228,9 +228,9 @@ the ones in the video.
 
 The transcript player has three views and also a gallery displaying all 
 videos in the course. To play the video in full screen, split video, or
-split transcript view, select the drop-down arrow displayed in the upper
+split transcript view, select the dropdown arrow displayed in the upper
 panel of the player. To preview all videos within the course within the
-gallery, click the icon to the left of the transcript view drop-down.
+gallery, click the icon to the left of the transcript view dropdown.
 
 .. image:: images/transcripts3.png
 
@@ -700,7 +700,7 @@ and instructor.
 **In order to leave a student feedback, follow these steps:**
 
 #. View a student’s assignment. (To review how to open a student’s assignment, see the section titled
-“Adding a Grade” above.)
+   “Adding a Grade” above.)
 #. Click the “Add a comment” textbox at the bottom of the
    assignment.
 #. Type your feedback or upload a file and select “Save” to add feedback
