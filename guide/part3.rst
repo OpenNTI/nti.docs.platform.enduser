@@ -55,8 +55,6 @@ There are two options to begin a new assignment:
 
 - **Assignments Page:**
 
-  |Screen Shot 2016-07-17 at 6.49.51 PM.png|
-
   1. To begin creating an assignment, first enter the course in which you’d like to place the assignment and view the assignments page.
 
   2. While viewing the assignments subtab, click on the blue button titled "Create."
@@ -120,7 +118,7 @@ The value allows you to assign the amount of points the assignment is worth. Thi
 
  |image83|
  
- .. note:: **How it works:** The assignment's total value will display next to the name of the assignment on the Lessons View and Assignments View. In their Assignments View, their grade will be listed as [Earned Points/Total Points]. If you choose to set the assignment to autograde, the total points will determine the value of each question.
+.. note:: **How it works:** The assignment's total value will display next to the name of the assignment on the Lessons View and Assignments View. In their Assignments View, their grade will be listed as [Earned Points/Total Points]. If you choose to set the assignment to autograde, the total points will determine the value of each question.
  
 .. note:: **If not selected:** If a point value is not assigned, no point value will display. An instructor can still assign a grade once the assignment is submitted by students.
 
@@ -167,11 +165,7 @@ To learn more, see Question Types.
 
  |image86|
 
-.. warning:: Please note, if you add a Short Answer question type, your answer
-text must exactly match the spelling of your student’s solution for the
-question to be marked correct.
-
- |image87|
+.. warning:: Please note, if you add a Short Answer question type, your answer text must exactly match the spelling of your student’s solution for the question to be marked correct.
 
 Order Questions 
 ^^^^^^^^^^^^^^^^^^
@@ -186,11 +180,11 @@ click on the dotted box icon to the left of your solution and drag the
 answer to the preferred location within the solution set and drop your
 answer into place.
 
- |image88|
-
 Duplicate Questions
 ^^^^^^^^^^^^^^^^^^^^^
 
+ |image88|
+ 
 Duplicate the question to create a second identical question
 within your assignment to edit as needed. Click the square icon to the
 right of your question to duplicate the question.
@@ -198,19 +192,23 @@ right of your question to duplicate the question.
 Delete Questions
 ^^^^^^^^^^^^^^^^^^^
 
+ |image89|
+ 
 Click the trash can icon to delete the question entirely from
 your assignment. If you’ve made a mistake by deleting the question, you
 will have a small “undo” menu that appears momentarily at the bottom
-left to restore the question. |image89|
+left to restore the question.
 
 
 Step 5: Explore assignment “Options”
 ------------------------------------
 
+ |image90|
+
 The Options tool allows you to choose who can see the assignment, if
 your assignment is auto graded, if ordering of questions or answers is
 randomized, and if you’d like to set a max limit of questions that
-present to the student. |image90|
+present to the student.
 
 To view and edit advanced settings, click the “Options” button to the
 right of the assignment’s title. Below is a description of each option:
@@ -222,10 +220,7 @@ This option allows you to select who can view the assignment.
 
  |image91|
 
-How it works: You can make an assignment visible to either “Everyone” or
-“For Credit Only.” If it’s assigned to “For Credit Only” only students
-that are taking the course for credit may see the assignment and
-interact with it.
+.. note:: **How it works:** You can make an assignment visible to either “Everyone” or “For Credit Only.” If it’s assigned to “For Credit Only” only students that are taking the course for credit may see the assignment and interact with it.
 
 Grading Option
 ^^^^^^^^^^^^^^^^
@@ -235,17 +230,10 @@ You must have an assignment value set in order to auto grade. (See Step 2 regard
 
  |image92|
 
-**How it works:** Each question will share an equal amount of points
-counting toward the total value of the assignment. (Although, NextThought 
-can set up an assignment to grade with different 
-point values per question. Please contact NextThought if you are interested.) 
-After the student submits his or her assignment, each question will be marked as correct or incorrect and
-display the student’s score based on number of correct answers and how
-much each question is worth. The instructor will also be able to view
-the student’s score and answers.
+.. warning:: **How it works:** Each question will share an equal amount of points counting toward the total value of the assignment. (Although, NextThought can set up an assignment to grade with different point values per question. Please contact NextThought if you are interested.) 
+After the student submits his or her assignment, each question will be marked as correct or incorrect and display the student’s score based on number of correct answers and how much each question is worth. The instructor will also be able to view the student’s score and answers.
 
-.. warning:: Please note, that if you have added a file upload or essay question type, auto grading will no longer be available to you since neither of these types can be automatically graded. Also note that all assignments will be “auto-assessed” regardless if
-they are auto-graded. Auto-assessed means that each question upon submission will be marked with either “Correct” or “Incorrect.”
+.. warning:: Please note, that if you have added a file upload or essay question type, auto grading will no longer be available to you since neither of these types can be automatically graded. Also note that all assignments will be “auto-assessed” regardless if they are auto-graded. Auto-assessed means that each question upon submission will be marked with either “Correct” or “Incorrect.”
 
 If you plan to edit an assignment to autograde that wasn’t previously
 autograded, or if you plan to edit or delete the point value associated
@@ -274,12 +262,12 @@ presented to each student.
 
 **Max Limit:**
 
+ |image94|
+ 
 Setting a max limit of questions allows a designated amount
 of questions from a larger set of questions to be randomly selected and
 assigned to students. Students will only be able to see and interact
 with their unique set of questions.
-
- |image94|
 
 In other words, if you have 40 questions for the assignment, and you set
 a max limit of 10 questions, each student will have 10 questions
@@ -314,7 +302,7 @@ immediately published) the student may take the assignment. |image96|
 If you aren’t quite finished with the assignment, that’s okay. You can
 leave it as is without publishing it and return to it later. It will be
 saved as a draft. For instructions about returning to an assignment, see
-the section "Edit or Delete an Assignment.
+the section "Edit or Delete an Assignment."
 
 
 Step 7: Add assignment to a lesson
@@ -349,12 +337,12 @@ While Viewing a Lesson
 While viewing a lesson, you can add your assignment to a lesson.
 
 #. Click on the “Edit” at the top right-hand corner of the lesson. This
-   will enter the editing mode. |image100|
+   will enter the editing mode. 
    
 #. Now, find the section in which you’d like to place the assignment and
    click “+Add Content.” (This text appears at the bottom of each
    section within a lesson while in Edit Mode.) This will open the
-   content menu.
+   content menu. |image100|
    
 #. In the content menu, select “Assignment.” |image101|
 
@@ -394,62 +382,50 @@ Editing Assignments
 Depending on the state your assignment is in some editing options may be
 limited. Use the descriptions below to understand your limitations:
 
-**If the assignment is in draft currently (or scheduled for a future
-date), you are not limited to the edits you can make.**
+1. **If the assignment is in draft currently (or scheduled for a future date), you are not limited to the edits you can make.**
 
-As you edit the assignment, your edits will be saved automatically as
-you go. Please make sure you are finished editing your assignment before
-the scheduled date at which point the assignment will be “published” and
-viewable.
+  As you edit the assignment, your edits will be saved automatically as
+  you go. Please make sure you are finished editing your assignment before
+  the scheduled date at which point the assignment will be “published” and
+  viewable.
 
-**If the assignment is published, but no student has yet interacted
-with it, you are not limited to the edits you can make; however, you
-will be required to save some types of edits manually instead of the
-application saving changes automatically as you go.**
+2. **If the assignment is published, but no student has yet interacted with it, you are not limited to the edits you can make; however, you will be required to save some types of edits manually instead of the application saving changes automatically as you go.**
 
-Any edits to published questions (or adding new questions) will open the
-question in a new pop-up window. Once you have made changes to that
-question and are satisfied with its presentation, click the “Save”
-button to publish the new version of the question at once and continue
-editing.
+  Any edits to published questions (or adding new questions) will open the
+  question in a new pop-up window. Once you have made changes to that
+  question and are satisfied with its presentation, click the “Save”
+  button to publish the new version of the question at once and continue
+  editing.
 
- |image105|
+  |image105|
 
-Other edits such as toggling different Options, moving the order of the
-questions, deleting questions, adding a time limit, as well as adding a
-due date will be saved automatically when the change occurs.
+  Other edits such as toggling different Options, moving the order of the
+  questions, deleting questions, adding a time limit, as well as adding a
+  due date will be saved automatically when the change occurs.
 
-**If the assignment is published, but students have begun the
-assignment, you will be limited in the edits you can make.**
+3. **If the assignment is published, but students have begun the assignment, you will be limited in the edits you can make.**
 
-In this scenario, only minor changes can be made such as textual changes
-in question or answer text or in the assignment title and description.
-You may also assign a new value to the question, select a new answer, or
-assign a new due date or scheduled date. 
+  In this scenario, only minor changes can be made such as textual changes
+  in question or answer text or in the assignment title and description.
+  You may also assign a new value to the question, select a new answer, or
+  assign a new due date or scheduled date. 
 
-(Please note, if the assignment
-is set to autograde and you assign a new value to the assignment, the
-assignment will be regraded according to the new value for those
-students who have already taken the assignment. Also, if you assign a
-different solution than previously selected, the assignment will regrade
-and reassess accordingly for those who have already submitted their
-assignment.)
+  (Please note, if the assignment
+  is set to autograde and you assign a new value to the assignment, the
+  assignment will be regraded according to the new value for those
+  students who have already taken the assignment. Also, if you assign a
+  different solution than previously selected, the assignment will regrade
+  and reassess accordingly for those who have already submitted their
+  assignment.)
 
-If you need to make larger changes such as adding a question, deleting a
-question, and toggling different Options, you will receive an error
-message in the bottom right-hand corner and will be prompted to Reset
-student assignments in order to save the changes. Resetting the
-assignment will clear all student submissions and students will have to
-retake the updated assignment.
+  If you need to make larger changes such as adding a question, deleting a
+  question, and toggling different Options, you will receive an error
+  message in the bottom right-hand corner and will be prompted to Reset
+  student assignments in order to save the changes. Resetting the
+  assignment will clear all student submissions and students will have to
+  retake the updated assignment.
 
-**If the assignment was not created using our authoring tools,** the
-assignment will be referred to as a “Legacy Assignment” and is
-limited to two types of edits, point value and autograde changes,
-regardless if students have begun the assignment or not. You can add,
-delete, or edit point values, and you have the option to turn
-autograde on or off by clicking the “Options” button and selecting
-the enable autograde option. Please see “Editing Point Values and
-Autograde Option” below for more details. |image106|
+4. **If the assignment was not created using our authoring tools,** the assignment will be referred to as a “Legacy Assignment” and is limited to two types of edits, point value and autograde changes, regardless if students have begun the assignment or not. You can add, delete, or edit point values, and you have the option to turn autograde on or off by clicking the “Options” button and selecting the enable autograde option. Please see “Editing Point Values and Autograde Option” below for more details. |image106|
 
 Editing Point Values and Autograde Option
 -----------------------------------------
@@ -494,9 +470,7 @@ To delete an assignment:
 
 1. View the assignment in editing mode. 
 
-2. Select the publish button at the bottom right. (If students have begun taking the
-assignment, you will first be presented a Reset button. You will need to
-reset student progress before proceeding.)
+2. Select the publish button at the bottom right. (If students have begun taking the assignment, you will first be presented a Reset button. You will need to reset student progress before proceeding.)
 
 3. Now, click the “delete” button. A window will now appear to confirm deletion.
 
