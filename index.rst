@@ -31,12 +31,13 @@ Getting Started
 	:maxdepth: 2
 
 	guide/index
-
+	faq/index
+	
 .. toctree::
 	:maxdepth: 1
-
+	
 	releases
-	faq
+	
 
 
 
