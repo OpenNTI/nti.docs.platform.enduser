@@ -35,7 +35,7 @@ lower right-hand corner to switch to Edit Mode.
 
 .. note:: The Start Editing button is only available on the Lessons View. 
 
- |IntroScreen.png|
+.. image:: images/authoringorganization.png
 
 Authoring Checklist
 --------------------
