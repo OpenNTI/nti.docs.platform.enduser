@@ -2,8 +2,6 @@
 Frequently Asked Questions
 ===========================
 
-Text Text
-
 .. toctree::
 	:maxdepth: 1
 

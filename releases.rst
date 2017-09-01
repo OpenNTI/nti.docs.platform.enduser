@@ -2,12 +2,13 @@
 Release Notes
 =============
 
-Release 1
+August 31, 2017
 ---------
 
-blah blah blah
+Navigation Bar Remains in View on Scroll
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Release 2
----------
+The navigational bar at the top of a reading or within a book remains in place as you scroll, allowing you access to the navigational tools no matter where you are in the reading.
 
-Blah blah blah
+.. image:: images/releasenavigation.png
+
