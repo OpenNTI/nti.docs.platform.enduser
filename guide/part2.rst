@@ -17,6 +17,8 @@ includes units, lessons, and sections.
 Let’s start by reviewing the course organization within the Lessons
 View, the view that holds all of the content for the course.
 
+.. image:: images/authoringorganization.png
+
 -  *Unit:* A “unit” simply acts as a header for several lessons. Each unit
    contains one or more lessons. Units can be further organized into
    lessons.
@@ -35,7 +37,6 @@ lower right-hand corner to switch to Edit Mode.
 
 .. note:: The Start Editing button is only available on the Lessons View. 
 
-.. image:: images/authoringorganization.png
 
 Authoring Checklist
 --------------------
@@ -64,15 +65,14 @@ Adding a Unit
 
 The first step toward creating your course is adding units.
 
- |EditMode.png|
  
 1. On the Lessons View, click on the “ Start Editing”  button in the
    bottom right-hand corner to switch from View Mode to Edit Mode.
-   
- |AddUnit.png|
-
+  
 2. Click the  “+Add Unit” at the bottom of the course outline.
+
 3. Type in a title  for the unit.
+
 4. Hit the return  key to create the unit.
 
 .. note::  You may add a new unit at any time by clicking on the “+Add Unit” button at the bottom of the course outline.
@@ -111,7 +111,7 @@ unit, click “Save” to implement your changes . Or, click “Cancel”  or
 Moving a Unit
 -----------------
 
-There are two ways to move a unit’s position: |MoveUnit.png|
+There are two ways to move a unit’s position:
 
 -  *Course Outline:* Units can be moved within the course outline. 
 
@@ -146,11 +146,11 @@ Adding a Lesson to a Unit
 After creating your unit, add a lesson to the unit.
 
 #. If you are in View Mode, click on the Start Editing button in the
-   bottom right-hand corner to switch to Edit Mode . |EditMode.png|
+   bottom right-hand corner to switch to Edit Mode. 
 #. Select the unit you want to add a lesson to by clicking on the unit
-   title in the course outline. |AddLesson.png|
+   title in the course outline. 
 #. Click on “+Add Lesson” at the bottom of the unit in the outline.
-#. Type in a title for the lesson.
+#. Type in a title for the lesson. |AddLesson.png|
 #. Hit the “return” key to create the lesson.
 
 Editing a Lesson
@@ -191,19 +191,19 @@ lesson and includes three states: Publish Now, Schedule, and Draft.  
 
  |LessonAvailability.png|
 
--  *Draft:* Keep lesson visible ONLY to instructors in Edit Mode.
+-  **Draft:** Keep lesson visible ONLY to instructors in Edit Mode.
 
 .. note::  A draft lesson is not visible to students and is only visible to the instructor when in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the instructor changes its status.
 
--  *Publish Now:* Immediately make lesson fully visible to students.
+-  **Publish Now:** Immediately make lesson fully visible to students.
    |Schedule\_Outline.png|
 
 .. note::  A published lesson is visible to anyone who is in the course, and appears in the course outline.
 
--  *Schedule:* Schedule lesson to be fully visible to students on a
+-  **Schedule:** Schedule lesson to be fully visible to students on a
    certain date and time. |SchedulingLessons.png|
 
-.. note::  A scheduled lesson  is is only fully visible on and after the designated start date and time.  The lesson title will appear as lighter grey text until the start date has passed (e.g. Lesson 2 in the image to the right). Students will see this text, but will not be able to view the lesson.  Instructors will only be able to click on and view a scheduled lesson when in Edit Mode.
+.. note::  A scheduled lesson is is only fully visible on and after the designated start date and time. The lesson title will appear as lighter grey text until the start date has passed. Students will see this text, but will not be able to view the lesson. Instructors will only be able to click on and view a scheduled lesson when in Edit Mode.
 
 Lessons can be changed between these three different states at any time.
 
@@ -226,13 +226,13 @@ access the unit page,
 #. For each lesson use the Publish State Flyout to set the availability
    for the lesson.
 #. Click “Save.”
-    |Availabilty\_Unit.png|
+    |Availabilty_Unit.png|
 
 Setting the Lesson Time Frame
 ------------------------------
 
 The Lesson Time Frame is a calendar that students can use to help them
-stay on track for your course.  |ContentTimeline\_Calendar.png|
+stay on track for your course. 
 
 The time frame start date appears to the left of a lesson when a mouse
 or pointer hovers over a particular lesson in the course outline, or
@@ -240,8 +240,6 @@ when a lesson is selected.
 
 The Time Frame start and end date is displayed over the lesson title  on
 the specific lesson’s page.
-
- |ContentTimeline\_Lesson.png|
 
 To edit the Lesson Time Frame,
 
@@ -259,22 +257,19 @@ To edit the Lesson Time Frame,
 Moving a Lesson  
 -----------------
 
-|LessonDrag\_1.png|
-
 There are three ways to move a lesson:
 
--  *Course Outline:* Lessons can be moved within the course outline. 
+-  **Course Outline:** Lessons can be moved within the course outline. 
 
 1. Click and hold on the lesson title that you want to move.
 2.  Drag that lesson to the desired position in the course outline. 
 
 .. note::  You can drag a lesson within a unit, or move it to another unit. 
 
--  *Edit Lesson Flyout:* You can also move a lesson in the Edit Lesson
+-  **Edit Lesson Flyout:** You can also move a lesson in the Edit Lesson
    Flyout.
 
-1.  Select the lesson  you want to edit by clicking on the lesson title
-   in the course outline.
+1.  Select the lesson  you want to edit by clicking on the lesson title in the course outline.
 2.  Click the lesson “Edit” button. 
 
  |EditLesson.png|
@@ -286,26 +281,23 @@ There are three ways to move a lesson:
 
  |LessonMovePopup.png|
 
--  *Unit Page:* Lessons can also be moved within the unit page, either
+-  **Unit Page:** Lessons can also be moved within the unit page, either
    within the unit or to another unit.
 
  |UnitSelect.png|
 
-   *Move the lesson within the unit:*
+   **Move the lesson within the unit:**
 
    1. Click and hold on the lesson title that you want to move.
    2. Drag the lesson to the desired position on the unit page.
 
- |LessonDrag\_Unit.png|
- |LessonDrag\_IntoOUtline.png|
-
-   *Move the lesson to another unit:*  |LessonDrag\_OutOfOutline.png|
-
+   **Move the lesson to another unit:**  
+   
    1. Click and hold on the lesson title that you want to move.
    2. Drag the lesson to the desired position in the desired unit on the
    course outline.
 
-   *Move a lesson from the outline to the viewed unit.*
+   **Move a lesson from the outline to the viewed unit.**
 
    1. Click and hold on the lesson title that you want to move.
    2. Drag the lesson from the outline  into a selected unit page.
@@ -322,21 +314,6 @@ the day of the week for content being viewed.
 
 .. warning:: A lesson page must have at least one section to add content.
 
-Here is an example of course sections in View Mode:
-
- |CourseSections\_ViewMode.png|
-
-Here is an example of course sections in  Edit Mode:
-
-.. raw:: html
-
-   <h3 class="c50" id="h.t1awtqxgxrt1">
-
- |CourseSections\_EditMode.png|
-
-.. raw:: html
-
-   </h3>
 
 Adding a Section to a Lesson
 ------------------------------
@@ -370,8 +347,7 @@ In the Edit Section Flyout, you can
 -  change the relative position of the section within the lesson,
 -  change the color of the section label,
 -  and delete  the section. 
-    .. warning:: Please note: if you delete a section, you can not undo this
-   deletion.  
+    .. warning:: Please note: if you delete a section, you can not undo this deletion. 
 
  |SectionEdit.png|
 
@@ -384,14 +360,14 @@ Moving a Section
 
 There are two ways to move a section:
 
--  Lessons View: Sections can be moved within the lessons page.  
+-  **Lessons View:** Sections can be moved within the lessons page.  
 
 #. Click and hold on the section title that you want to move.
 #. Drag section to the desired position within the lesson.  
 
  |SectionMoveDrag.png|
 
--  Edit Section Flyout: You can also move a section in the Edit Section
+-  **Edit Section Flyout:** You can also move a section in the Edit Section
    Flyout.
 
 #. Within the lesson, click the “Edit” button  for the section you want
@@ -399,8 +375,6 @@ There are two ways to move a section:
 #. In  the Edit Section Flyout , use the position dropdown to select a
    new section position  within the lesson.
 #. Click “Save” to implement your changes.
-
- |SectionPosition\_popup.png|
 
 .. note::  You cannot move a section to another lesson or unit.
 
@@ -425,9 +399,9 @@ Below is different types of content you can add to your lesson:
 -  Timelines
 -  Images and Video Reels
 
-*You can add content from four different sources.*
+**You can add content from four different sources.**
 
--  Add Content from within the NextThought Application:
+-  **Add Content from within the NextThought Application:**
 
    -  Content created by our NextThought team can be added to the platform
    for placement in a lesson. Content developed or designed by
@@ -435,23 +409,21 @@ Below is different types of content you can add to your lesson:
    surveys, self-assessments, and assignments. Contact your Project
    Manager to add interactive content to your course.
 
--  Add Content from your Computer:
+-  **Add Content from your Computer:**
 
    -  You can also upload almost any type of file into a lesson including
    Microsoft Office files, PDFs, Images, Zip files, and more.
 
    .. note::  Most of these file types will be downloadable for students from the application, however, if your file is a PDF, it can be viewed within the platform itself and will allow notes.
 
--  Link to Content:
+-  **Link to Content:**
 
    -  You can add URL links to your lesson. When a student clicks on this
    type of content, it will open a new tab in their browser window.
 
--  Author your own Content:
+-  **Author your own Content:**
 
-    -  NextThought allows you to create your own course assignments (see
-   “Create an Assignment”) as well as in-application readings (see
-   “Create a Reading”)!
+    -  NextThought allows you to create your own course assignments (see “Create an Assignment”) as well as in-application readings (see “Create a Reading”)!
 
 Adding a File from your Computer
 ---------------------------------
@@ -465,9 +437,7 @@ lessons within your course. You can upload most any file, including:
 -  Zip files
 -  And others such as .xml, .odt, .rtf, .epub, .mp4, .txt
 
-.. note:: Please note: Only PDFs will display within the application itself. Students can read PDF files within the course and add comments and
-notes. All other file types will have to be downloaded by students for off-platform viewing. Students will need the
-appropriate software to open the file.
+.. note:: Please note: Only PDFs will display within the application itself. Students can read PDF files within the course and add comments and notes. All other file types will have to be downloaded by students for off-platform viewing. Students will need the appropriate software to open the file.
 
 In order to add content to a section from your computer, follow the
 steps below:
@@ -478,15 +448,15 @@ steps below:
 
 |AddContent.png|
 
- |Screen Shot 2016-01-08 at 10.14.37 AM.png|
-
 2. In the “Choose a content type” popup, click on “ Upload a File.”
+
+ |Screen Shot 2016-01-08 at 10.14.37 AM.png|
 
 3. Add a file one of two ways: |Screen Shot 2016-01-12 at 9.38.08
    PM.png|
 
-   - Click on the “Choose File” button and browsing your computer file
-   manager for the desired file. Select your file.
+   - Click on the “Choose File” button and browsing your computer file manager for the desired file. Select your file.
+   
    - Click and drag a file  from anywhere on your computer to the uploader. 
 
 4. Once you’ve uploaded your file, select the file. Click “Place” to
@@ -498,8 +468,7 @@ steps below:
    - File description (optional)
    - File thumbnail image (optional)
 
-   .. note::  You can change the thumbnail image displayed for the file by clicking on the default image, then browsing your computer file manager
-for the desired image. |UploadFile.png|
+   .. note::  You can change the thumbnail image displayed for the file by clicking on the default image, then browsing your computer file manager for the desired image. |UploadFile.png|
 
 6. Click “Add to Lesson” to save your edits and place the file in your
    course.
@@ -529,9 +498,11 @@ Links open in a new tab within your browsing window.
    - Link description (optional)
    - Link thumbnail image
 
-   .. note::  You can change the thumbnail image displayed for the link by clicking on the default image, then browsing your computer file manager for the desired image. |AddLink.png|
+   .. note::  You can change the thumbnail image displayed for the link by clicking on the default image, then browsing your computer file manager for the desired image. 
 
 4. Click “Add to Lesson” to place your link in the course.
+
+   |AddLink.png|
 
 Adding a Video
 ----------------
@@ -545,16 +516,17 @@ into a lesson.
 
  |AddContent.png|
 
-   .. warning:: Please note: if you don’t see the “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding
-Sections to Lessons).  |Screen Shot 2016-04-20 at 2.27.42 PM.png|
+   .. warning:: Please note: if you don’t see the “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
 
 2. In the “Choose a content type” popup, click on “Pick a Video.”
-   |VideoPicker\_Screenshot.png|
+
+    |Screen Shot 2016-04-20 at 2.27.42 PM.png|
 
 3. Select the video or videos you want to add to your lesson by clicking on
    each.
 
 4. After selecting your videos, click the “Select” button in the lower right-hand corner. 
+   
    .. note::  Please note: the number of videos you have selected will display in the Select button.
 
 5. After you have selected your videos, confirm your video selections,
@@ -564,14 +536,9 @@ Sections to Lessons).  |Screen Shot 2016-04-20 at 2.27.42 PM.png|
 
 6. Click “Add to Lesson” to place your video(s) in your course.
 
-.. note::  When you select multiple videos at one time, they will appear grouped
-in the video player. Add the videos one at a time if you want them to appear as individual
-videos in the lesson.
+.. note::  When you select multiple videos at one time, they will appear grouped in the video player. Add the videos one at a time if you want them to appear as individual videos in the lesson.
 
- |Multi\_Video.png|
- 
- .. warning:: Work with your NextThought Project Manager if you need to change the
-title or preview image of a video in your course. 
+ .. warning:: Work with your NextThought Project Manager if you need to change the title or preview image of a video in your course. 
 
 Adding a Discussion
 ----------------------
@@ -581,16 +548,16 @@ Manager will first need to create and upload it to your course files.
 Once your discussion is available to you in your course files, follow
 the steps below to select and place it in a lesson.
 
-.. note::  Participation in a discussion can be set up as a required, graded
-activity. If you are interested in graded discussions, contact your
-Project Manager.
+.. note::  Participation in a discussion can be set up as a required, graded activity. If you are interested in graded discussions, contact your Project Manager.
 
 #. While in Edit Mode, click on “+Add Content” in the section you want to edit.
    |AddContent.png|
 
-.. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). |Screen Shot 2016-04-20 at 3.40.00 PM.png|
+.. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).
 
 2. In the “Choose a content type” popup, click on “Pick a Discussion.”
+
+   |Screen Shot 2016-04-20 at 3.40.00 PM.png|
 
 3. Select the discussion you want to add to your lesson by clicking on
    the discussion. 
@@ -606,9 +573,7 @@ Project Manager.
    - Discussion title
    - Discussion thumbnail image
 
-.. note::  You can change the thumbnail image displayed for the discussion by
-clicking on the default image, then browsing your computer file manager
-for the desired image.
+.. note::  You can change the thumbnail image displayed for the discussion by clicking on the default image, then browsing your computer file manager for the desired image.
 
  |image46|
 
@@ -630,20 +595,20 @@ and place it into a lesson.
 #. While in Edit Mode, click on “+Add Content” in the section you want to edit.
    |AddContent.png|
 
-.. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). |Screen Shot 2016-04-20 at 4.53.05 PM.png|
+.. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
 
 2. In the “Choose a content type” popup, click on “Self Assessment.”
+   
+   |Screen Shot 2016-04-20 at 4.53.05 PM.png|
 
 3. Select the self-assessment you want to add to your lesson by clicking on it.
 
 4. After selecting your self-assessment, click the “Select” button in
    the lower right-hand corner.
 
- |SelfAssessment\_Select.png|
-
 5. After you have selected your self-assessment, the popup will prompt
    you to confirm your selection, and place it in the appropriate
-   section and position within the lesson. |Self\_Assess\_Confirm.png|
+   section and position within the lesson.
    
 6. Click “Add to Lesson” to place your self-assessment in the course.
 
@@ -685,8 +650,9 @@ the assignment in a section, follow the steps below:
 
 .. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).
 
-2. In the “Choose a content type” popup, click on “Assignments.” |Screen
-   Shot 2016-04-21 at 2.42.10 PM.png|
+2. In the “Choose a content type” popup, click on “Assignments.” 
+
+   |Screen Shot 2016-04-21 at 2.42.10 PM.png|
 
 3. Select the assignment you want to add to your lesson by
    clicking on it.
@@ -726,7 +692,7 @@ change.
    -  Reading author (optional)
    -  Reading description (optional)
    -  Reading thumbnail image
-   -  You can remove a reading from its section, you can not undo this deletion. It
+   -  You can remove a reading from its section, but you cannot undo this deletion. It
    is a permanent action. (Please note: the reading itself will still be
    available for placement from within your course files.)
 
@@ -751,8 +717,7 @@ Editing a Link (URL)
    -  Link author (optional)
    -  Link description (optional)
    -  Link thumbnail image
-   -  You can also delete the link. (Please note: if you delete a link,
-   you cannot undo this deletion. It is a permanent action.)
+   -  You can also delete the link. (Please note: if you delete a link, you cannot undo this deletion. It is a permanent action.)
 
 3. Click “Save” to save your changes.   |image56|
 
@@ -768,14 +733,11 @@ Editing a Video
    -  The order of the videos within the player
    -  Add additional videos
    -  Delete videos from the carousel
-   -  You can also delete the video carousel. (Please note: if you delete
-   the carousel, you can not undo this deletion. It is a permanent
-   action.)
+   -  You can also delete the video carousel. (Please note: if you delete the carousel, you can not undo this deletion. It is a permanent action.)
 
 3. Click “Save” to save your changes.
 
-.. note::  Work with your NextThought Project Manager if you need to change the
-title or preview image of a video in your course. 
+.. note::  Work with your NextThought Project Manager if you need to change the title or preview image of a video in your course. 
 
  |image57|
 
@@ -816,8 +778,7 @@ change.
 
 3.  Click “Save” to save your changes.
 
-.. note::  Work with your NextThought Project Manager if you need to change the
-title of a self-assessment in your course.
+.. note::  Work with your NextThought Project Manager if you need to change the title of a self-assessment in your course.
 
  |image60| 
 
@@ -826,18 +787,16 @@ Moving Content in a Lesson
 
 There are two ways to move content:
 
--  *Lessons View:* Content can be moved within the lessons view into
+-  **Lessons View:** Content can be moved within the lessons view into
    another section or within the same section. 
 
    1. Click and hold on the content tile that you want to move.
-   2. Drag the item to the desired position within the section, or drag
-   into a different section.
+   
+   2. Drag the item to the desired position within the section, or drag into a different section.
 
  |MoveContentDraqg.png|
 
- |MoveContent\_NewSection.png|
-
--  *Edit Popup:* You can also move content from the editing popup.
+-  **Edit Popup:** You can also move content from the editing popup.
 
    1. Within the lesson, click the “Edit” button for the content you want
    to change. 
@@ -846,8 +805,8 @@ There are two ways to move content:
 
    In the popup window,
 
-   -  Use the position dropdown to select a new position within the
-   section.
+   -  Use the position dropdown to select a new position within the section.
+   
    -  Use the section dropdown to  move the lesson to another section.
 
  |Screen Shot 2016-01-12 at 10.27.47 PM.png|
@@ -872,15 +831,13 @@ Changing Placement
 
    -  The section where the assignment is placed
    -  The relative position of the assignment within the section
-   -  Delete the assignment (Please note: if you delete an assignment, you
-   cannot undo this deletion. It is a permanent action.)
+   -  Delete the assignment (Please note: if you delete an assignment, you cannot undo this deletion. It is a permanent action.)
 
 3. Click “Save” to save your changes.
 
  |image62|
 
-.. note::  Work with your NextThought Project Manager if you need to change the
-title of an assignment in your course. 
+.. note::  Work with your NextThought Project Manager if you need to change the title of an assignment in your course. 
 
 Changing Assignment Dates
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -890,21 +847,21 @@ the ability to change the due date for the assignment.
 
 There are three locations where you can change assignment dates:
 
-1. Lessons View (Edit Mode)
+1. **Lessons View (Edit Mode)**
 
 While viewing a lesson in edit mode, click on the assignment date
 dropdown under the assignment name.
 
  |image66|
 
-2. Assignments View
+2. **Assignments View**
 
 Within the assignments page, view the assignments tab. Now, click on
 the assignment date dropdown under the assignment name.
 
  |image67|
 
-3. Assignment Editing View
+3. **Assignment Editing View**
 
 Within the assignments page, view the assignments tab. Now, select the
 “Edit” button off to the right-hand side of the assignment name. This
@@ -912,20 +869,15 @@ will take you to the editing view for the assignment.
 
  |image68|
 
-   - Due Date: Find the Due Date flyout in the upper left-hand corner.
-   Click on it to open the flyout. Select “Due Date” to assign a due
-   date. Then, select a calendar date and enter a time. Click “Save” to
-   save the due date. |image69|
-   -  Publish State Flyout: Find the Publish State Flyout in the bottom
-   right-hand corner. It will display the current publish state. Click
-   on the button to change the publish state.
+   - Due Date: Find the Due Date flyout in the upper left-hand corner. Click on it to open the flyout. Select “Due Date” to assign a due date. Then, select a calendar date and enter a time. Click “Save” to save the due date.  
+   |image69|
+   
+   -  Publish State Flyout: Find the Publish State Flyout in the bottom right-hand corner. It will display the current publish state. Click on the button to change the publish state.  
+   |image70|
 
 .. warning:: Deleting the assignment is a non-recoverable action.
 
- |image70|
-
-.. note::  To learn more about the assignment editing view, see Part III
-regarding assignment authoring.
+.. note::  To learn more about the assignment editing view, see Part III regarding assignment authoring.
 
 Publish States
 ^^^^^^^^^^^^^^^^
@@ -935,13 +887,13 @@ including three publish states and a due date option:
 
  |image71| |image72|
 
-#. Publish (publish state)
+#. **Publish (publish state)**
 
 Selecting this option allows you to publish the assignment immediately.
 In other words, students will be able to begin taking the assignment as
 soon as the assignment is published.
 
-2. Schedule (publish state)
+2. **Schedule (publish state)**
 
 Scheduling the assignment allows you to choose the date and time that
 the assignment becomes available for students to view and take. Before
@@ -949,24 +901,22 @@ this date, the assignment title can be seen within the lessons and
 assignments view, but the student will not be able to click into it to
 view questions.
 
-3. Draft (publish state)
+3. **Draft (publish state)**
 
 If not already selected, this option sends the assignment back into
 draft mode. This allows the instructor to continue editing the
 assignment. While an assignment is in this state, students will not be
 able to see the assignment.
 
-.. warning:: This state is only available for authored assignments. Learn more in
-Part III Create an Assignment.
+.. warning:: This state is only available for authored assignments. Learn more in Part III Create an Assignment.
 
-4. Due Date (due date)
+4. **Due Date (due date)**
 
 Choose the month, date, year and time that the assignment is due.
 Assignments are still available once the due date passes, but will be
 marked as late in the gradebook if completed after the date has passed.
 
-.. warning:: If an assignment has already been taken by a student, you will have to
-“Reset Assignment” to access the publish states and change them.
+.. warning:: If an assignment has already been taken by a student, you will have to “Reset Assignment” to access the publish states and change them.
 
  |image73|
 
