@@ -115,8 +115,6 @@ Value
 ^^^^^^^^
 
 The value allows you to assign the amount of points the assignment is worth. This point value will display in bold font to the right of the assignment's title in student’s Lessons page and the Assignments tab.
-
- |image83|
  
 .. note:: **How it works:** The assignment's total value will display next to the name of the assignment on the Lessons View and Assignments View. In their Assignments View, their grade will be listed as [Earned Points/Total Points]. If you choose to set the assignment to autograde, the total points will determine the value of each question.
  
@@ -129,8 +127,6 @@ Step 3: Title your assignment and write a description
 
 Add a title and description by typing in the
 appropriately labeled fields.
-
- |image84|
 
 The students will see the title of the assignment within their lesson
 and within the assignment’s tab. The description will display once the
@@ -202,8 +198,6 @@ left to restore the question.
 
 Step 5: Explore assignment “Options”
 ------------------------------------
-
- |image90|
 
 The Options tool allows you to choose who can see the assignment, if
 your assignment is auto graded, if ordering of questions or answers is
@@ -279,7 +273,7 @@ Step 6: Publish or schedule your assignment
 -------------------------------------------
 
 Once you have completed creating your assignment, the last step is to
-publish the assignment and place it in a lesson. |image95|
+publish the assignment and place it in a lesson. 
 
 **Publish:**
 
@@ -297,7 +291,7 @@ to become available for students. Before this date and time, students
 will only be able to see the title of the assignment and the date it
 becomes available. They will not be able to view the assignment’s
 contents. Once the assignment becomes available (or if it was
-immediately published) the student may take the assignment. |image96|
+immediately published) the student may take the assignment. 
 
 If you aren’t quite finished with the assignment, that’s okay. You can
 leave it as is without publishing it and return to it later. It will be
@@ -324,12 +318,11 @@ While viewing your assignment, you can add your assignment to a lesson.
    allow you to select a section within the lesson to place the
    assignment. |image98|
 #. Select the section(s) in which you’d like to place the assignment.
-   The lesson will now be listed at the top of the sharing window.
+   The lesson will now be listed at the top of the sharing window.  |image99|
 #. Now, click “Done.”
 
 .. note:: You will notice that “Add to Lesson” has been replaced with the name of the lesson in which the assignment is shared to. Click on this again to add or remove the assignment from a lesson. You can also add it to multiple lessons.
 
- |image99|
 
 While Viewing a Lesson
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -460,8 +453,6 @@ FAQ when editing autograde and point values:
    the professor and given “90 points” and then set to autograde, the
    “90” points will persist even if the autograde function would grade
    the student differently.
-
- |image107|
 
 Deleting Assignments 
 ----------------------
