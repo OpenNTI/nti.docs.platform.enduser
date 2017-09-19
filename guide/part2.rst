@@ -507,9 +507,51 @@ Links open in a new tab within your browsing window.
 Adding a Video
 ----------------
 
-In order to add a video to your course, your Project Manager will need
-to upload it to your course files. Once your video is available to you
-in your course files, follow the steps below to select and place a video
+You can add a video to your course using the URL or your Project Manager can upload it to your course files. 
+
+Upload and Add Video by URL
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Follow the steps below to upload videos to your course files using their URL.
+
+1. Click on “+Add Content” in the section you want to edit.
+
+ |AddContent.png|
+
+   .. warning:: Please note: if you don’t see the “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
+
+2. In the “Choose a content type” popup, click on “Pick a Video.”
+
+    |Screen Shot 2016-04-20 at 2.27.42 PM.png|
+	
+3. Select "Create Video" in the upper left-hand corner.
+
+4. Paste the video link into the URL field.
+
+5. Click "Done."
+
+6. Add a title and (optional) add a transcript using a .vtt file. 
+
+7. Click "Save."
+
+8. Select the video in the catalog. (Your video should already be selected.)
+
+9. After selecting your videos, click the “Select” button in the lower right-hand corner. 
+   
+   .. note::  Please note: the number of videos you have selected will display in the Select button.
+
+10. After you have selected your videos, confirm your video selections, and place them in the order you want them to appear in your lesson. 
+
+ |image42|
+
+11. Click “Add to Lesson” to place your video(s) in your course.
+
+.. note::  When you select multiple videos at one time, they will appear grouped in the video player. Add the videos one at a time if you want them to appear as individual videos in the lesson.
+
+
+
+Add Video by Project Manager
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Once your video is available to you in your course files, follow the steps below to select and place a video
 into a lesson.
 
 #. Click on “+Add Content” in the section you want to edit.
@@ -538,7 +580,6 @@ into a lesson.
 
 .. note::  When you select multiple videos at one time, they will appear grouped in the video player. Add the videos one at a time if you want them to appear as individual videos in the lesson.
 
- .. warning:: Work with your NextThought Project Manager if you need to change the title or preview image of a video in your course. 
 
 Adding a Discussion
 ----------------------
