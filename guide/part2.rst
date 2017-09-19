@@ -531,6 +531,8 @@ Follow the steps below to upload videos to your course files using their URL.
 
 6. Add a title and (optional) add a transcript using a .vtt file. 
 
+   .. image:: images/videoedit.png
+
 7. Click "Save."
 
 8. Select the video in the catalog. (Your video should already be selected.)
@@ -765,6 +767,9 @@ Editing a Link (URL)
 Editing a Video
 -----------------
 
+Change the Position or Delete from Lesson
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 1. Click on the “Edit” button next to the video you want to change. 
 
 2. In the popup window for a video you can change
@@ -775,12 +780,27 @@ Editing a Video
    -  Add additional videos
    -  Delete videos from the carousel
    -  You can also delete the video carousel. (Please note: if you delete the carousel, you can not undo this deletion. It is a permanent action.)
+   
+    |image57|
 
 3. Click “Save” to save your changes.
 
-.. note::  Work with your NextThought Project Manager if you need to change the title or preview image of a video in your course. 
 
- |image57|
+ 
+Edit the Title, Transcript, or Delete from Course Files
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+1. From within a section, click "+Add Content."
+
+2. Select "Pick a Video."
+
+3. Hover over the video you wish to change, and click the "Edit" button that appears.
+
+4. Edit the title in the title field, change the transcript and choose the language, or delete the video.
+
+   .. image:: images/videoedit.png
+
+5. Click "Save."
 
 
 Editing a Discussion
