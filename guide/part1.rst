@@ -989,20 +989,34 @@ Student Email via Roster:
 
 1. To send an email to a specific student in your course, visit the roster within the Course Info View.
 
+   .. image:: images/emailstudent1.png
+
 2. Hover over a student’s name and click on the text “Email” that
    appears below the name.
+   
+   .. image:: images/emailstudent2.png
    
    .. note:: To search for a student, click on the all/enrolled/open student dropdown menu within your roster. Type the student’s name into the search field and press your keyboard’s enter key. (Please note: The roster searches within the currently selected student category.)
 
 3. Next, check the box “Allow Replies” if you would like to allow the student to reply to your email.
 
+   .. image:: images/emailstudent3.png
+
 4. Fill out the subject line of the email and then type your email’s message.
+
+   .. image:: images/emailstudent4.png
 
 5. Check the “Send me a copy of the email” if you would like to receive a copy of your email.
 
+   .. image:: images/emailstudent5.png
+
 6. If you’d like for all course instructors to receive the email (and not just your students), select “Copy All Instructors.”
 
+   .. image:: images/emailstudent6.png
+
 7. Once you’ve completed filling out your message and selecting your preferences, click the “Send Email” button at the bottom right-hand corner of the window.
+
+   .. image:: images/emailstudent7.png
    
 .. note:: You may also send an email via the Gradebook within the Grades & Performance tab. First, click on a student within the Grades & Performance tab. Then, below the student’s name in the top banner, click on the text titled “Email” to initiate a new email. Skip to Step 3 above.
 

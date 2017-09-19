@@ -5,7 +5,7 @@ General FAQ
 What is NextThought?
 ------------------------------------------------
 
-NextThought is an innovative learning solutions provider specializing in engaging experiences that produce increased learning potential, participant satisfaction, and member retention. To learn more about NextThought, visit \url{www.nextthought.com} or contact us at \url{feedback@nextthought.com}.
+NextThought is an innovative learning solutions provider specializing in engaging experiences that produce increased learning potential, participant satisfaction, and member retention. To learn more about NextThought, visit https://www.nextthought.com or contact us at feedback@nextthought.com.
 
 Do I need to be available for live video lectures?
 ------------------------------------------------
