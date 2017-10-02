@@ -30,6 +30,7 @@ Getting Started
 .. toctree::
 	:maxdepth: 2
 
+	userguide/index
 	guide/index
 	faq/index
 	
