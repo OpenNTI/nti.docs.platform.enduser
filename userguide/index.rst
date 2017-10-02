@@ -2,8 +2,6 @@
 User Guide
 =================
 
-Text About User Guide Here
-
 .. image:: images/WelcomeImage.png
 
 .. toctree::
