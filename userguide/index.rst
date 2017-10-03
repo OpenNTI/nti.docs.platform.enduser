@@ -9,6 +9,7 @@ User Guide
 
 	Getting_Started
 	Readings
+	Videos
 	Notes_Forums
 	Assignments
 	Surveys_Polls_Self-Assessments
