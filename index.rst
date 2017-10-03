@@ -7,11 +7,6 @@
 Welcome to NextThought!
 =========================
 
-
-
-Getting Started
----------------
-
 .. toctree::
 	:maxdepth: 2
 

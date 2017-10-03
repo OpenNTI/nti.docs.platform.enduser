@@ -26,7 +26,7 @@ You can also use this same method to highlight and save a passage for later refe
 
    .. image:: images/highlightoptions.png
 
-Notes
+Note
 =======
 
 Notes may be added to any passage in the text, as well as to the side of videos and images within a reading.
