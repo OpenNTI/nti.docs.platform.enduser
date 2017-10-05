@@ -16,6 +16,9 @@ Define
 At any time that you do not recognize a word, simply click and drag your cursor over the word to highlight it. Then, select the define option. 
 
    .. image:: images/definetool.png
+   
+   |
+   
    .. image:: images/defineview.png
 
 
@@ -34,6 +37,9 @@ Notes may be added to any passage in the text, as well as to the side of videos 
 Instead of clicking on the colored highlighter options, click on the note icon to add a note to the passage. Or, you may hover your mouse over the right-hand margin of a reading beside the text, an image, or a video, and click on the note icon that appears.
 
    .. image:: images/highlighttonote.png
+   
+   |
+   
    .. image:: images/note.png
 
 Notice, by default, the note is shared with everyone in your course. Remove this group if you wish to change your note’s audience by hovering over the name of your course and selecting the "x" icon. Type in the name of the person, group, list, or community with which you’d like to share your note. Add a title, your message, and even a file attachment or whiteboard if the note is better displayed visually. Click “Save” to save and post your note! 

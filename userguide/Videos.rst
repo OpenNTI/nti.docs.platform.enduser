@@ -5,9 +5,11 @@ Course Videos
 You can find videos in a couple of different places. Primarily, you will see videos within the Lessons View as a single video, or a series of videos. You might also find a video within one of your readings.
 
 **Within a Lesson:**
+
    .. image:: images/videolesson.png
    
 **Within a Reading:**
+
    .. image:: images/videoreading.png
    
 Lesson View

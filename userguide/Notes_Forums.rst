@@ -34,6 +34,8 @@ To markup an image, simply click the “comment” button under an image in a re
 
    .. image:: images/imagemarkup1.png
    
+   |
+   
    .. image:: images/imagemarkup2.png
 
 Reply
