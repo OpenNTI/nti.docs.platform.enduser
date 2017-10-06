@@ -6,7 +6,7 @@ Welcome to a one-of-a-kind online learning experience! We’re excited that you�
 
 Let’s take a quick look at your learning platform to get started.
  
-Homgepage
+Homepage
 ===========
 
 When you first log in, you will land on your homepage. It displays the Courses you’ve enrolled in as well as your Books. 
@@ -36,13 +36,13 @@ Discussions View
 -----------------
 The Discussions View is your tool to communicate and keep up with the course. There are three main forums: Discussions (which contains all your course discussions within your lessons), Announcements (important announcements from your instructor), and Forums (a space for YOU to communicate!). 
 
-   .. image:: images/discussionsview.png
+   .. image:: images/discussionsview2.png
 
 Course Info
 ------------
 Drop into Course Info to find basic information on your course including the course description, start and end dates, the instructor’s name and title, contact information for tech support, and more.
 
-   .. image:: images/courseinfoview.png
+   .. image:: images/courseinfoview2.png
 
 Activity View
 -------------

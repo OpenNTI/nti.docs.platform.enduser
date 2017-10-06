@@ -41,7 +41,7 @@ Assignments View
 
 Whereas the Lessons View includes all course resources and activities, the Assignments View only shows the assignments due for the course. There are three different tabs to reference your assignments.
 
-   .. image:: images/assignmentstab.png
+   .. image:: images/assignmentstab2.png
 
 Assignments Tab
 ----------------
@@ -108,11 +108,10 @@ Discussion Assignment
 
 The discussion assignment prompts you to respond to a discussion prompt within the course forum.
 
-   .. image:: images/discussionassignment.png
+   .. image:: images/discussionassignment2.png
 
 As with all assignments, you will find this assignment type in your Lessons or Assignments View. Click Start. Within the assignment, you will be able to view the prompt. 
 
 At the end of the prompt is a summary of your discussion activity, including how many comments you’ve contributed, how many comments you’ve responded to, and how many times your comments have been responded to by others. To respond to the prompt, click “Join Discussion” and the full discussion will display. Now, click “Add a Comment” to begin typing your response.
 
-   .. image:: images/discussionassignment2.png
 
