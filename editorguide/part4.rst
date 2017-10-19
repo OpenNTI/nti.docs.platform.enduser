@@ -1,5 +1,5 @@
 =========================
-PART IV: Create a Reading
+Create a Reading
 =========================
 
 Our authoring tools allow you to create a reading to place within your

@@ -12,6 +12,7 @@ Welcome to NextThought!
 
 	userguide/index
 	guide/index
+	editorguide/index
 	faq/index
 	
 .. toctree::
