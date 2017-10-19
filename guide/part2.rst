@@ -172,7 +172,8 @@ Allows students to select the best possible answer out of a list of solutions.
 
 .. note::  Best to use when the answer to the question asked is a single sentence or statement.
 
-**Multiple Answer**
+Multiple Answer
+^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/multipleAnswer.png
 
