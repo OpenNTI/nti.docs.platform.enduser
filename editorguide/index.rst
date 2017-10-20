@@ -17,6 +17,6 @@ The NextThought Team
 .. toctree::
 	:maxdepth: 1
 
-	part2
-	part3
-	part4
+	course
+	assignment
+	reading
