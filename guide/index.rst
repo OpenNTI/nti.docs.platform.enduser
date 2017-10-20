@@ -17,7 +17,6 @@ The NextThought Team
 .. toctree::
 	:maxdepth: 1
 
-	features
 	part1
 	part2
 	part3

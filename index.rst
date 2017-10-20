@@ -19,6 +19,7 @@ Welcome to NextThought!
 	:maxdepth: 1
 	
 	releases
+	features
 	
 
 
