@@ -1,5 +1,5 @@
 ==============================
-Technical and Support FAQ
+Support FAQ
 ==============================
 
 System Requirements

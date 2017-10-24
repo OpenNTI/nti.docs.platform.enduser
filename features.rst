@@ -12,11 +12,11 @@ the guide.
 - Hosted Text for Readings
 - PDFs, Slides, and Other Downloadable Materials
 - Videos (From Kaltura, Vimeo, YouTube, Storyline, and others)
-- Video Transcripts
-- Assignments and Self-Assessments
+- Video Transcripts 
+- Assignments and Self-Assessments 
 - Discussion Forums
 - External Links
-- Surveys and Polls
+- Surveys and Polls 
 - Timelines
 - Images and Video Reels
 

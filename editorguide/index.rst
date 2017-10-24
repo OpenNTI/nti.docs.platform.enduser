@@ -12,7 +12,7 @@ Enjoy your course!
 
 The NextThought Team
 
-.. image:: images/WelcomeImage.png
+.. image:: images/WelcomeImage2.png
 
 .. toctree::
 	:maxdepth: 1
