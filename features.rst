@@ -12,11 +12,12 @@ the guide.
 - Hosted Text for Readings
 - PDFs, Slides, and Other Downloadable Materials
 - Videos (From Kaltura, Vimeo, YouTube, Storyline, and others)
+- Webinars 
 - Video Transcripts 
-- Assignments and Self-Assessments 
+- Assignments and Self-Assessments
 - Discussion Forums
 - External Links
-- Surveys and Polls 
+- Surveys and Polls
 - Timelines
 - Images and Video Reels
 
@@ -27,12 +28,19 @@ the guide.
 - Notifications
 - Add a Contact
 - Chat
-- Notes
+- Notes 
 - Forums and Announcements
 - Community Pages
 - Group Pages
 
-**Assessing and Grading:**
+**Course Authoring:**
+
+- Add Units, Lessons, and Sections
+- Arrange, Organize, Add, and Edit Content
+- Create an Assignment
+- Create a Reading
+
+**Course Management:**
 
 - Review, Assess, and Grade
 - Filtering and Sorting
@@ -43,12 +51,19 @@ the guide.
 - Reset or Excuse Grade
 - Assignment Feedback
 - Assignment Download
-- Participation and Progress Reports
 - Gradebook Notifications
+- User Participation and Progress Reports
+- Course Reports
+- Discussion/Forum Reports
+- Assignment, Survey, Self-Assessment Reports
+- Resource Usage Reports
 
-**Course Authoring:**
+**Site Management:**
 
-- Add Units, Lessons, and Sections
-- Arrange, Organize, Add, and Edit Content
-- Create an Assignment
-- Create a Reading
+- Course Creation
+- Course Import
+- Course Editing and Management
+- User Management
+- Site-wide Reports
+- Course Reports
+- User Reports
