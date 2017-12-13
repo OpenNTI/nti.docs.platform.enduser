@@ -26,7 +26,7 @@ most relevant to the course schedule. The stream displays activity in
 order from most recent to oldest and includes assignments, readings,
 active forum posts, as well as notes currently being discussed.
 
-   .. image:: images/activityView.png
+   .. image:: images/activityview3.png
 
 Lessons View
 ---------------------------------------------------

@@ -1,5 +1,5 @@
 =================
-Instructor Guide
+Facilitator  Guide
 =================
 
 Welcome to NextThought! We’re excited that you’ve chosen to partner with us in building the future of online learning.
