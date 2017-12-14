@@ -6,6 +6,8 @@ Your admin dashboard offers you a snapshot of what's happening on your site.
 
 To navigate to your dashboard, click on the admin tools button in the upper right-hand corner of your homepage.
 
+.. image:: images/adminbutton2.png
+
 Your Dashboard
 ==============
 
@@ -21,4 +23,6 @@ The dashboard offers visual analytics of
 - Active Times
 - Most Popular Times
 - Daily Activity
+
+.. image:: images/admindash.png
 
