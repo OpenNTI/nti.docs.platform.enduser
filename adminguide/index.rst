@@ -11,7 +11,10 @@ NextThought has created a suite of tools for site admins to manage their platfor
 .. toctree::
 	:maxdepth: 1
 
+	admindash
 	createcourse
-	editcourse
-	managesite
+	managecourse
+	managesiteusers
+	sitereports
+	
 

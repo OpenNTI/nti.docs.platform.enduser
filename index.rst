@@ -11,9 +11,9 @@ Welcome to NextThought!
 	:maxdepth: 2
 
 	userguide/index
-	adminguide/index
 	guide/index
 	editorguide/index
+	adminguide/index
 	faq/index
 	
 .. toctree::
