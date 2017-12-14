@@ -64,6 +64,8 @@ You can also review your enrollment code here.
 
 To edit a field, click the "Edit" button. Make your changes and be sure to click "Save" to submit your changes.
 
+.. note:: Course tags will create categories in the course catalog. These categorizes help sort and organize courses. See the Release Notes for more information.
+
 
 Manage Course Facilitators
 ===========================
