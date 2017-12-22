@@ -2,6 +2,32 @@
 Release Notes
 =============
 
+December 21, 2017
+-----------------
+
+Course reports available in admin tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now, course reports can be centrally found in the admin tools. Using a site admin account, navigate to the admin toolbar. Select “Courses” and select a course. Now, click on “Reports.” 
+
+.. image:: images/admincoursereports.png
+
+Add code blocks in assignments 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now, an editor and instructor are able to add code block within assignments. Add code to assignment descriptions, or within the question text itself.
+
+While in the description field or question text field, click on the brackets at the bottom of the window to initiate a code block. Click in the code block and begin typing.
+
+When editing:
+
+.. image:: images/codeblockedit.png
+
+When published:
+
+.. image:: images/codeblockpub.png
+
+
 December 7, 2017
 ----------------
 
@@ -17,7 +43,7 @@ New course catalog
 
 The new course catalog retains the same purpose, but offers new visualizations, better navigation, a search field, and course categorization. The new course catalog displays a featured courses banner, and all public courses display below. Courses can be organized into categories based on course tagging. A new tab, the "History" tab, allows users to review their enrolled courses.
 
-.. images:: images/newcoursecatalog2.png
+.. image:: images/newcoursecatalog2.png
 
 Help site link on account dropdown
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
