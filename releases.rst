@@ -2,6 +2,24 @@
 Release Notes
 =============
 
+January 11, 2018
+-----------------
+
+Top Learners widget added to admin tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+While viewing the admin tools dashboard, Top Learners now displays at the top right-hand corner.
+
+.. image:: images/admintoplearners.png
+
+All images are expandable
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+All images in readings are now clickable. Clicking on an image expands it in a new popup window.
+
+.. image:: images/imageexpand.png
+
+
 December 21, 2017
 -----------------
 
