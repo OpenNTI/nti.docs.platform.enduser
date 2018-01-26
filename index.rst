@@ -15,11 +15,11 @@ Welcome to NextThought!
 	editorguide/index
 	adminguide/index
 	faq/index
+	releases/index
 	
 .. toctree::
 	:maxdepth: 1
 	
-	releases
 	features
 	
 
