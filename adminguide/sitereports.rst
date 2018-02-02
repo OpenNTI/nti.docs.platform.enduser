@@ -27,11 +27,11 @@ This report presents data reviewing student enrollment, self-assessment particip
 
 2. Select a course to view its report.
 
-.. image: images/coursesummaryreportcourses.png
+.. image:: images/coursesummaryreportcourses.png
 
 3. View report online or use the download button in the upper right-hand corner.
 
-.. image: images/coursesummaryreport.png
+.. image:: images/coursesummaryreport.png
 
 
 Self Assessment Summary Report
