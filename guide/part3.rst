@@ -338,6 +338,8 @@ descriptions of each.
 
 .. image:: images/coursereportsnew.png
 
+.. note:: Site-wide reports may be found in the admin tools. Please see the Admin Guide for more information.
+
 Course Summary Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
