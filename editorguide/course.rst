@@ -8,6 +8,7 @@ functionality including building the course outline (lessons, units,
 sections), adding course materials (readings, videos, discussions),
 creating assignments, creating readings, and more.
 
+
 Getting Started: Content Organization
 =======================================
 
