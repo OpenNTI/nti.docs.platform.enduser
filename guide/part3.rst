@@ -336,18 +336,22 @@ Reports can be found by the location of the activity or in the Course
 Info View under the tab  titled “Roster” or “Report.” See below for
 descriptions of each.
 
+.. image:: images/coursereportsnew.png
+
+.. note:: Site-wide reports may be found in the admin tools. Please see the Admin Guide for more information.
+
 Course Summary Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. image:: images/courseSummaryReport.png
+.. image:: images/courseSummaryReport3.png
 
 Presents data reviewing student enrollment, self-assessment participation, assignment submission, student activity, discussion participation, video and resource usage.
 
 #. Navigate to the Course Info View.
 #. Click on the tab labeled “Report.”
-#. Click on the “Course Report.”
+#. Click on the “Course Summary Report.”
 
-Self-Assessment Summary Report
+Self Assessment Summary Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/selfAssessmentSummaryReport.png
@@ -356,7 +360,37 @@ Presents data on student participation within self-assessments both by assessmen
 
 #. Navigate to the Course Info View.
 #. Click on the tab labeled “Report.”
-#. Click on the “Self-Assessment Summary Report.”
+#. Click on the “Self Assessment Summary Report.”
+
+Course Roster Report
+^^^^^^^^^^^^^^^^^^^^^^
+
+This report lists all users enrolled in the course and the date and time in which they enrolled.
+
+#. Navigate to the Course Info View.
+#. Click on the tab labeled “Report.”
+#. Click on the “Course Roster Report”
+
+Assignment Summary Report
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. image:: images/assignmentSummaryReport.png
+
+Presents data regarding assignment submission and scores, as well as the distribution of answers across all questions.
+
+**Option 1**
+
+1. Navigate to the Assignment View.
+2. Click on the tab titled “Assignments.”
+3. Hover your mouse to the right of the assignment's completion column.
+4. Click the bar chart icon that appears.
+
+**Option 2**
+
+1. Navigate to the Course Info View.
+2. Click on the tab labeled “Report.”
+3. Click on the “Assignment Summary Report.”
+4. Select the assignment.
 
 Student Participation Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -371,18 +405,6 @@ Presents data reviewing a student’s forum activity, self-assessment attempts, 
 #. Click on “Student Participation Report.”
 
                                         
-
-Assignment Summary Report
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. image:: images/assignmentSummaryReport.png
-
-Presents data regarding assignment submission and scores, as well as the distribution of answers across all questions.
-
-#. Navigate to the Assignment View.
-#. Click on the tab titled “Assignments.”
-#. Hover your mouse to the right of the assignment's completion column.
-#. Click the bar chart icon that appears.
 
 Forum  Participation Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -422,11 +444,11 @@ email your course or access Student Participation Reports.
 
 **Roster Features:**
 
--  Filter: Filter the view by "All Students," "Enrolled Students," or "Open
+-  **Filter:** Filter the view by "All Students," "Enrolled Students," or "Open
    Students"" by clicking the dropdown.
--  Sort : Click on any of the columns (e.g., “Student” or “Username”) to
+-  **Sort:** Click on any of the columns (e.g., “Student” or “Username”) to
    sort the students by that category.
--  Reports: Click on the bar chart to the far right of a student’s row
+-  **Reports:** Click on the bar chart to the far right of a student’s row
    to access the Student Participation Report for that student. (See
    “Reports”)
--  Email: Click the blue “Email” button to email your students. (See “Email.”)
+-  **Email:** Click the blue “Email” button to email your students. (See “Email.”)

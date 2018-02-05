@@ -13,6 +13,7 @@ to assess your students’ knowledge of the material they are learning.
 
  |image75|
 
+
 Overview
 =========
 
@@ -162,6 +163,19 @@ To learn more, see Question Types.
  |image86|
 
 .. warning:: Please note, if you add a Short Answer question type, your answer text must exactly match the spelling of your student’s solution for the question to be marked correct.
+
+Add Code Block
+^^^^^^^^^^^^^^^^^
+
+While in the description field or question text field, click on the brackets at the bottom of the window to initiate a code block. Click in the code block and begin typing.
+
+When editing:
+
+.. image:: images/codeblockedit.png
+
+When published:
+
+.. image:: images/codeblockpub.png
 
 Order Questions 
 ^^^^^^^^^^^^^^^^^^

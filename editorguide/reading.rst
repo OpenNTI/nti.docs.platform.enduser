@@ -62,10 +62,14 @@ Described below are two methods to create a reading. One is optimized for immedi
 
 5. **Create your reading:** 
 
+   .. image:: images/createnewreading.png
+   
+    .. image:: images/createnewreadingdescription.png
+
    **Reading Thumbnail**
 
    Click on the image to the left of the title and description to open the Resource Viewer and select or upload an image for the reading. This image can be changed before the reading is placed into a course.
-
+  
    **Reading Title**
 
    This will name the reading within the Resource folder. The title can be changed before being placed into a course.
@@ -74,9 +78,13 @@ Described below are two methods to create a reading. One is optimized for immedi
 
    The description will offer a description for the reading that's viewable on the Lessons page. The description can be changed before being placed into a course.
 
+   .. image:: images/createnewreadingtypes.png
+   
    **Reading Feature Types**
    
    These "types" allow you to add features into the reading, including a numbered or bulleted list, and photos or videos. Click on a type to add it into your reading. For more details on adding a photo or video to your reading, see "Adding Additional Reading Features" below.
+   
+   .. image:: images/createnewreadingstyles.png
    
    **Text Headers**
    
@@ -90,7 +98,7 @@ Described below are two methods to create a reading. One is optimized for immedi
    
    Choose Bold, Italics, or Underline to emphasize text.
 
-
+|
 6. Select the blue “Publish” button in the bottom right-hand corner to open the publish state flyout. Then, select “Publish” in the flyout in order to publish the text and make it available for placement within a lesson, or navigate away from the reading without publishing to save it as a draft to return to later.
    
    |image122|
@@ -115,6 +123,8 @@ Photo
 
 4. Under the image within the editor, edit the figure number (or title) and the caption. The caption is optional.
 
+.. image:: images/createnewreadingphoto.png
+
 
 Video
 ^^^^^^
@@ -124,6 +134,19 @@ Video
 2. Enter the link (URL) or embed code for your video into new window. Click "Done." This places the video in your reading.
 
 3. Under the video within the editor, edit the video title and caption. The caption is optional.
+
+.. image:: images/createnewreadingvid.png
+
+Bulleted List
+^^^^^^^^^^^^^^
+
+1. Click on Bulleted List type.
+
+2. Type your first bullet point text.
+
+3. Click enter to create another bullet point. Type your text here. Repeat.
+
+4. Enter twice to exit bullet points.
 
 
 Numbered List
@@ -137,16 +160,33 @@ Numbered List
 
 4. Enter twice to exit numbered list.
 
-Bulleted List
-^^^^^^^^^^^^^^
 
-1. Click on Bulleted List type.
+Block Quotes
+^^^^^^^^^^^^^
 
-2. Type your first bullet point text.
+1. Click on Block Quote type.
 
-3. Click enter to create another bullet point. Type your text here. Repeat.
+2. Begin typing to the right of the line that appears within your reading.
 
-4. Enter twice to exit bullet points.
+3. Click enter to escape the block quote.
+
+.. image:: images/blockquote.png 
+
+Code Block
+^^^^^^^^^^^
+
+1. Click on the Code Block type.
+
+2. Select the code you'd like to render.
+
+3. Click out of the code block to escape.
+
+.. image:: images/codeblock.png
+
+Once published, it will render according to the code selected.
+
+.. image:: images/codeblockreading.png
+
 
 Move or Place a Reading
 ------------------------
