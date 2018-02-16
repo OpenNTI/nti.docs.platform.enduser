@@ -2,6 +2,74 @@
 2018 Release Notes
 ===================
 
+
+February 15, 2018
+------------------
+
+Admin tools now available on Course Info View
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+For site admins, new admin tools are available on the Course Info pages. Select the "Admin Tools" tab to view course reports or to view the course roster.
+
+.. image:: images/admintoolscourse.png
+
+New course visibility tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, only site admin could edit course visibility. Now, instructors and editors can edit course visibility from the Course Info View.
+
+Locate the "Make Changes" button on the Course Info page.
+
+.. image:: images/makechanges.png
+
+In the new window, make desired changes. You can choose whether the course is public or private with the "Visible in Catalog" toggle. You can also set the Preview Mode: 
+
+- **Preview Mode On:**
+  This option sets the course to course preview mode, meaning that users can only view Course Info but cannot view course content.
+  
+- **Preview Mode Off:**
+  This option allows the course to be fully available to users.
+  
+- **Based on Start Date:**
+  This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
+
+.. image:: images/makechanges2.png
+
+Create course assets
+^^^^^^^^^^^^^^^^^^^^^
+
+Add your course image within the Course Info View.
+
+1. Click on the "Edit" button next to "Assets."
+
+   .. image:: images/assetsstep1.png
+   
+2. Upload the desired image.
+
+   .. image:: images/assetsstep2.png
+   
+3. Crop your image.
+
+   .. image:: images/assetsstep3.png
+   
+4. Click "Continue."
+
+5. Preview and adjust the size of each asset.
+
+   .. image:: images/assetsstep4.png
+   
+6. Click "Apply Image" after all adjustments have been made.
+
+7. Click "Done."
+
+
+User search
+^^^^^^^^^^^^^
+
+Use the global search bar to search for users in your learning environment and navigate to their profile.
+
+.. image:: images/globalusersearch.png
+
 January 25, 2018
 -----------------
 
