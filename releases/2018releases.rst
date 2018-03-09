@@ -2,6 +2,27 @@
 2018 Release Notes
 ===================
 
+March 8, 2018
+--------------
+
+Initial SCORM Support
+^^^^^^^^^^^^^^^^^^^^^^^
+
+NextThought now supports importing and launching SCORM courses on the platform.
+
+Edit Course ID
+^^^^^^^^^^^^^^^
+
+Admin, editor, and instructor accounts can now edit the unique course ID from the Course Info page.
+
+.. image:: images/courseidedit.png
+
+Download the Course Roster Report as a CSV
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Course Roster Report now allows the option to download a PDF or CSV file. Open the report from the Course Info > Reports page, or from your admin tools. Click on the "Download" button in the upper right-hand corner. Now, select CSV to download the file in CSV format.
+
+.. image:: images/Courserosterdownload.png
 
 February 15, 2018
 ------------------
