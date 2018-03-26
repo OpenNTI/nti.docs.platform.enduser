@@ -28,7 +28,7 @@ a variety of features described in detail below. The Gradebook is organized into
 -  Create assignments
 
 Gradebook Organization
--------------------------------------
+================================================
 
 The Gradebook is organized into three  sections:  “Assignments,” “Grades & Performance,” and “Activity and Notifications.”
 
@@ -127,7 +127,7 @@ navigate you to that activity.
 .. warning:: Please note: Due to the large amount of activity generated in instructor accounts, student submission notifications will only appear in the Activity & Notifications section of the Gradebook and will not appear in your general notifications located within the bell icon in the upper right-hand corner of your account. Students, however, will continue to receive important notifications such as feedback or an assigned grade in both streams. To learn more about the general notification stream, please visit the guide’s “Notifications” section.
 
 Grading Assignments
------------------------------------------------------------
+================================================
 
 Instructors may add or modify a grade, reset and excuse assignments, and
 leave feedback.
@@ -197,7 +197,7 @@ assignment.
    corner under “Assignment Grade.”
 
 Resetting or Excusing a Grade
----------------------------------------------------------------------
+================================================
 
 Reset grades to allow students to retake their assignment. Excuse a
 grade when the student’s score for a particular assignment should not
@@ -223,7 +223,7 @@ grade.
    right-hand corner to reset or excuse a grade.
 
 Leaving Feedback
------------------------------------------------------------
+================================================
 
 Both instructors and students can leave feedback on assignments. Once a student submits his or her assignment, or the assignment is
 graded, a feedback option appears on the assignment for both the student
@@ -243,7 +243,7 @@ and instructor.
 .. note::  Please note: If a student leaves you feedback on an assignment, you will be notified in the “Activity & Notifications” section of your Gradebook. To navigate to the feedback, click on the activity notification.
 
 Grade Predictor
---------------------------------------------------------
+================================================
 
 .. image:: images/gradePredictor.png
 
@@ -268,7 +268,7 @@ assignments. This creates a percent between 0% and 100%.
 .. note:: For additional specifications regarding the grade predictor, please contact NextThought.
 
 Final Grades
---------------------------------------------
+================================================
 
 Within the Gradebook, instructors can add final course grades. If you
 are interested in this feature, please contact NextThought.
@@ -282,7 +282,7 @@ right-hand corner under “Course Grade.” The student will receive a
 notification and will be able to view his or her final grade. 
 
 Downloading Student Files
----------------------------------------------------------
+================================================
 
 Download student files directly from your Gradebook.
 
@@ -304,7 +304,7 @@ folder on your computer. In order to do so, follow the steps below:
 .. note:: These submissions will be saved in a zip file (typically in your Downloads folder) with the assignment name and course section number. Each student submission within the zip file (“[CourseID][[Assignment Name]”) will be saved as “ [Student Username]-[Student First and Last Name]-[Title of Submission].” 
 
 Exporting Grades
---------------------------------------------------------
+================================================
 
 Export the Gradebook into a CSV file.
 
@@ -327,7 +327,7 @@ Student grades will appear in the appropriate row and column. Excused
 assignments will be indicated with the word “Excused.”
 
 Reports
-------------------------------------------------
+================================================
 
 View reports to see how students are performing and engaging in your
 course.
@@ -430,7 +430,7 @@ Presents data regarding comment activity including the number of comments by wee
 #. Click the bar chart icon that appears to the far right.
 
 Course Roster
--------------------------------------------------
+================================================
 
 The course roster lists all students in your course and allows you to
 email your course or access Student Participation Reports.
