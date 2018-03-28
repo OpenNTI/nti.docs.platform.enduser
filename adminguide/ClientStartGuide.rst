@@ -1,5 +1,5 @@
 ==========================================
-NextThought Client Quick Start Guide
+NextThought Quick Start Guide
 ==========================================
 
 You've just partnered with NextThought and are ready to get started. Where do you begin?
@@ -11,7 +11,7 @@ Let's get started!
 Your Site
 ---------------------
 
-Your Project Manager should have already walked you through the basics of your new site, but let's take another look.
+Although you've probably already seen an example of our site, let's take another look:
 
 When your clients first arrive at your URL, they will view your **login page**.
 
@@ -33,7 +33,7 @@ You will also see a **community** on the homepage. Think of the community as a p
 .. note:: Find out more about communities here: https://help.nextthought.com/guide/part4.html#connect-on-the-community-page
 
 
-Your Tools
+Your Admin Tools
 ---------------------
 
 Now, if NextThought added you as an "Admin," you will have administrative access to your site. You can view your **admin dashboard** detailing analytics about the site, as well as create new courses. 
@@ -109,9 +109,7 @@ Once you've built out an entire lesson, don't forget to publish or schedule your
 Launch and Go Live!
 ----------------------
 
-You're ready to launch the site and begin marketing your courses.
-
-Before you do, use this checklist to see if you're ready:
+You're ready to launch the site and begin marketing your courses. Before you do, use this checklist to see if you're ready:
 
 - Your site is branded with your logo in the upper left-hand corner.
 - The community on the homepage has a name and image. 
@@ -125,4 +123,4 @@ Before you do, use this checklist to see if you're ready:
   
   
 
-**If you've done the items above, and checked with your Project Manager, CONGRATULATIONS! You're ready to launch!**
+**If you've completed the items above, CONGRATULATIONS! You're ready to launch!**
