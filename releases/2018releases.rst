@@ -2,6 +2,75 @@
 2018 Release Notes
 ===================
 
+March 30, 2018
+---------------
+
+Lessons List View
+^^^^^^^^^^^^^^^^^^^^^^
+
+Two views are now available on the Lessons page, a grid view and list view. These options are available in the upper right-hand corner of a lesson.
+
+.. image:: images/learnerviews.png
+
+Grid view, the default view, displays course content as previously recognized. List view displays all resources in a linear, uniform fashion. In list view, select “Only Required” to display only required resources. Learn more about required resource below. As with the grid view, click on a resource to begin.
+
+.. image:: images/learnerlistview.png
+
+Required Resources
+^^^^^^^^^^^^^^^^^^^^
+
+By default, when content is placed in a lesson, it is “optional.” While in Edit Mode, instructors, editors, and assistants can mark certain course materials as “Required.”
+
+.. image:: images/facreq.png
+
+When a resource is marked as “Required,” a label will appear next to the content on the Lessons page.
+
+.. image:: images/learnrec.png
+
+Course Completion and Progress
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assessing course progress has become much more streamlined, visual, and comprehensive in this feature release. 
+
+**Progress is defined by a learner completing required materials.** In order for a learner to complete required materials, materials must be viewed (video, PDF, readings, etc.) or submitted (survey, self-assessment, assignments).
+
+Progress can be viewed by instructor, assistant, admin, and learner accounts.
+
+**Learner View**
+
+Users can view their course progress on the Lessons page in the upper left-hand corner. 
+
+.. image:: images/learnerprogress2.png
+
+Learner “Progress” displays
+
+- the number of items remaining (i.e,. the number of required items not viewed/submitted), and 
+- the percent of the course completed (i.e., items remaining divided by total required items).
+
+.. image:: images/learnprogress.png
+
+**Facilitator View**
+
+Similar to the learner, facilitators and admin will also see the progress icon in the upper left-hand corner on the Lessons page. 
+
+Facilitator/Admin “Progress” displays
+
+- the number of learners who have completed the course (i.e., the number of learners who have viewed/submitted all required material), and
+- average class completion (all learner completion percentages added and divided by the number of learners).
+
+.. image:: images/facprogress.png
+
+Instructors, assistants, and admin have an additional, more detailed view of progress per learner. Navigate to your “Course Info” page and click on the Roster. 
+
+In the roster, the progress of each learner is presented. 
+
+.. image::
+
+Click on the progress icon to view a detailed report. The report presents a closer look at how the learner is progressing through the course item by item. The top of the report presents how the learner is performing compared to his/her colleagues. Learners are sorted into 1 of 5 categories depending on their progress. All required items are listed, and if a learner has completed that item, it is marked as completed with the date.
+
+.. image::
+
+
 March 8, 2018
 --------------
 
