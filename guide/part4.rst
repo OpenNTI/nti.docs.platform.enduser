@@ -1,5 +1,5 @@
 =============================================
-Engaging Your Course
+Course Engagement
 =============================================
 
 Communication                                        

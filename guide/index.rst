@@ -8,7 +8,9 @@ Instructor  Guide
 	part1
 	part2
 	part3
+	part5
 	part4
+	part6
 	
 
 Welcome to NextThought! We’re excited that you’ve chosen to partner with us in building the future of online learning.

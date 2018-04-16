@@ -1,5 +1,5 @@
 =============================================
-Understanding Your Content
+Course Content
 =============================================
 
 
@@ -327,10 +327,15 @@ Create surveys and polls to collect feedback from learners.
 
 Surveys and polls gather feedback allowing instructors to assess
 opinions or comprehension. Results, absent of learner names, may be
-displayed in graphs or charts. Surveys can be included in lessons, and
-polls may be embedded within readings or other content.
+displayed in graphs or charts. A survey is a single page of questions. A poll, on the other hand, only includes a single question and is located in other course material such as a reading.
 
-.. image: images/surveytypedisplay.png
+**Survey:**
+
+.. image:: images/surveytypedisplay.png
+
+**Poll in reading:**
+
+.. image:: images/survyinreading.png
 
 Timelines
 ================================================
