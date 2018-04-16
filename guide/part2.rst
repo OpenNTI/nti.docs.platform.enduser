@@ -335,7 +335,7 @@ displayed in graphs or charts. A survey is a single page of questions. A poll, o
 
 **Poll in reading:**
 
-.. image:: images/survyinreading.png
+.. image:: images/surveyinreading.png
 
 Timelines
 ================================================

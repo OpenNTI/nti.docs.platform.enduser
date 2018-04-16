@@ -2,15 +2,12 @@
 Course Progress and Reports
 ================================================
 
-Progress and Completion
+Course Progress and Completion
 ================================================
-
-Course Progress
-^^^^^^^^^^^^^^^^^
 
 View course progress to understand how your course is progressing through required materials. You can find this tool in the upper left-hand corner of your lessons page.
 
-.. image:: images/courseprogresslessons.png
+.. image:: images/couseprogresslessons.png
 
 **Progress** is defined by a learner completing required materials. In order for a learner to complete required materials, materials must be viewed (video, PDF, readings, etc.) or submitted (survey, self-assessment, assignments). Materials can be marker as "Required" when in Edit Mode. Learners will see the "Required" label on each required content.
 
@@ -22,10 +19,12 @@ Facilitator/Admin “Progress” displays
 - and the average class completion (all learner completion percentages added and divided by the number of learners).
 
 .. image:: images/courseprogress1.png
+   :scale: 50 %
+   
 
 
 Learner Progress
-^^^^^^^^^^^^^^^^^^
+==================================================
 
 Instructors, assistants, and admin have an additional, more detailed view of progress per learner. Navigate to your “Course Info” page and click on the Roster.
 
@@ -91,6 +90,7 @@ Assignment Summary Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/assignmentSummaryReport.png
+   :scale: 50 %
 
 Presents data regarding assignment submission and scores, as well as the distribution of answers across all questions.
 
@@ -128,6 +128,7 @@ Forum Participation Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/forumParticipationReport.png
+   :scale: 50 %
 
 Presents data regarding the comments in discussions and creators of discussions.
 
@@ -139,6 +140,7 @@ Discussion Participation  Report
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. image:: images/discussionParticipationReport.png
+   :scale: 50 %
 
 Presents data regarding comment activity including the number of comments by week and the top commenters.
 
