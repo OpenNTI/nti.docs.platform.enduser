@@ -285,6 +285,8 @@ Discussion Forums
 Engage learners and encourage participation and exploration of the
 lesson through discussion prompts.
 
+.. image:: images/discussionforumtype.png
+
 The course forum displays all course discussions and can be accessed from the Discussions View. Individual discussions in the forum can also be accessed directly through each lesson. This allows access to the discussion from the Lesson View itself to contextualize the discussion within readings, videos, and assessments. Discussions may also be part of a graded assignment.
 
 **Instructor-led vs. Learner-led Discussions**
@@ -298,6 +300,8 @@ External Links
 Create links for quick access to websites, research, videos, and other
 content found outside the platform.
 
+.. image:: images/linktype.png
+
 External links can be included in a lesson, reading, discussion, as well
 as in an assignment or assessment. For example, an instructor may
 require learners to read an article written by a researcher whose work
@@ -308,6 +312,8 @@ Downloads
 
 Provide documents for learners to download, interact with, and/or print.
 
+.. image:: images/downloadtype.png
+
 Downloadable documents may be included as a resource within a lesson or
 can supplement other content types by adding them within assignments or
 assessments, readings, and surveys and polls.
@@ -317,15 +323,21 @@ Surveys and Polls
 
 Create surveys and polls to collect feedback from learners.
 
+.. image:: images/surveytype.png
+
 Surveys and polls gather feedback allowing instructors to assess
 opinions or comprehension. Results, absent of learner names, may be
 displayed in graphs or charts. Surveys can be included in lessons, and
 polls may be embedded within readings or other content.
 
+.. image: images/surveytypedisplay.png
+
 Timelines
 ================================================
 
 Allow learners to visualize and interact with events on a timeline.
+
+.. image:: images/timelinetype.png
 
 The Timeline feature allows learners to visualize the order of events as
 they learn about and interact with them. The Timeline includes a
@@ -336,6 +348,8 @@ Image and Video Reels
 ================================================
 
 Organize supplementary videos and images into a reel.
+
+.. image:: images/imagereeltype.png
 
 By collecting images and videos in one place within a reading, learners
 can easily and quickly scroll horizontally through a collection of
