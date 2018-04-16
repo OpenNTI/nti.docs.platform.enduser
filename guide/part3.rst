@@ -3,7 +3,7 @@ Managing Your Course
 =============================================
 
 
-Gradebook                                 
+Gradebook        
 ==========================================
 
 The NextThought Gradebook is located within your course under the Assignments page and has
