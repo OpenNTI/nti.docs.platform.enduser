@@ -1,5 +1,5 @@
 =============================================
-Engaging Your Course
+Course Engagement
 =============================================
 
 Communication                                        
@@ -22,7 +22,7 @@ important activity.
 .. image:: images/communication.png
 
 Email
--------------------------------------
+================================================
 
 Connect with your students through email.
 
@@ -126,7 +126,7 @@ Student Email via Roster:
 .. note:: You may also send an email via the Gradebook within the Grades & Performance tab. First, click on a student within the Grades & Performance tab. Then, below the student’s name in the top banner, click on the text titled “Email” to initiate a new email. Skip to Step 3 above.
 
 Notifications
----------------------------------------------
+================================================
 
 Stay up-to-date on the most important happenings within your course and
 learning community.
@@ -153,7 +153,7 @@ a timeline.
 |
 	
 Email Notifications
--------------------------
+================================================
 
 +---------------------------------------+----------------------------------------+
 | **Instructor Notifications Include:** | **Student Notifications Include:**     |
@@ -197,7 +197,7 @@ email notifications.
 
 
 Add Contacts
---------------------------------------------
+================================================
 
 Add contacts to build your learning network and connect with your
 students.
@@ -219,7 +219,7 @@ students.
 .. note:: You can also add a new contact from a profile page by clicking the “Follow” button in the top right-hand corner.
 
 Chat
---------------------------------------------
+================================================
 
 Chat with students or other instructors when they are online. Use this
 feature to discuss best practices with instructors, hold virtual office
@@ -260,7 +260,7 @@ While viewing a contact’s profile page, click “Message.” If the individual
 .. note:: If the chat bar is collapsed, you can open it by clicking on the chat bubble icon at the top right.
 
 Create a Note
----------------------------------------------
+================================================
 
 Notes are one of the most basic forms of communication on the platform.
 Add a contextualized note to almost any type of content to enrich your
@@ -334,7 +334,7 @@ students’ learning.
 |
 
 Create a Discussion or Make an Announcement
--------------------------------------------------------------------
+================================================
 
 Your course forum allows you to begin a discussion or make an
 announcement regarding the course.
@@ -354,16 +354,16 @@ announcement regarding the course.
 .. warning:: Your course may have enrolled-only forums. If you’d like both open and enrolled students to view your discussion, make sure you post in the open forum.
 
 Connect on the Community Page
------------------------------------------------------
+================================================
 
-.. image:: images/CommunityPage.png
+.. image:: images/commpage.png
 
 Our community feature offers a collaborative meeting space for individuals to interact outside of a course context. The community page offers members a space to post a topic or question for the community to respond to, and also offers a list of community members for easy networking and communication. 
 
 To locate your community page, navigate to your homepage and click on a community.
 
 Organize Groups
----------------------------------------
+================================================
 
 Create a meeting space to share best practices with a group of instructors, or set up student groups for class projects.
 
