@@ -17,8 +17,8 @@ In the new window, make desired changes. You can choose whether the course is pu
 - **Preview Mode Off:** This option allows the course to be fully available to users.
 - **Based on Start Date:** This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
 
-Basic Info
-==================
+Basic Course Information
+=========================
 
 Add a course preview video with a URL.
 
@@ -48,16 +48,19 @@ Add your course image within the Course Info View.
 2. Upload the desired image.
 
    .. image:: images/assetsstep2.png
+      :scale: 50 %
    
 3. Crop your image.
 
    .. image:: images/assetsstep3.png
+      :scale: 50 %
    
 4. Click "Continue."
 
 5. Preview and adjust the size of each asset.
 
    .. image:: images/assetsstep4.png
+      :scale: 50 %
    
 6. Click "Apply Image" after all adjustments have been made.
 
@@ -89,6 +92,7 @@ Click the "Invite" button at the top right-hand corner.
 Enter email addresses, or click "Bulk" to upload a CSV with emails. Also, type in your message. The individuals will receive your email with the message you typed as well as a course enrollment code tied to their email address. They must then create an account with their email address to gain course access.
 
 .. image:: images/inviteview.png
+   :scale: 50 %
 
 .. note:: If the course access you prefer is not listed, please contact NextThought for more options.
 

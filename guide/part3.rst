@@ -331,7 +331,7 @@ Course Roster
 ================================================
 
 The course roster lists all learners in your course and allows you to
-email your course or access Learner Participation Reports.
+email your course or access Student Participation Reports. The course roster also displays course progress. Learn more about progress in "Course Progress and Reports."
 
 **Access Course Roster**
 
@@ -339,15 +339,17 @@ email your course or access Learner Participation Reports.
 #. Click the “Admin Tools” tab.
 #. Click "View Now" under Roster.
 
-.. image:: images/accessCourseRoster.png
+.. image:: images/courserosternew1.png
 
 **Roster Features:**
 
--  **Filter:** Filter the view by "All Learners," "Enrolled Learners," or "Open
-   Learners" by clicking the dropdown.
+-  **Filter:** Filter the view by "All Students," "Enrolled Students," or "Open
+   Students" by clicking the dropdown.
 -  **Sort:** Click on any of the columns (e.g., “Student” or “Username”) to
    sort the learners by that category.
 -  **Reports:** Click on the bar chart to the far right of a learner’s row
    to access the Student Participation Report. (See
-   “Reports” in the next section.)
+   “Course Progress and Reports” to learn more.)
+-  **Course Progress:** Click on learner progress to view a summary of the learner course completion.
 -  **Email:** Click the blue “Email” button to email your learners. (See “Email.”)
+-  **Invite:** Email unique course invitation codes to invite new learners to the course.
