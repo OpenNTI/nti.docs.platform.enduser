@@ -66,7 +66,7 @@ Grades & Performance Section
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Grades & Performance section displays an interactive list of all
-students in your course.
+learners in your course.
 
 .. image:: images/gradesPerformance.png
 

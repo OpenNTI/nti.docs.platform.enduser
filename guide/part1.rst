@@ -12,7 +12,7 @@ learning. All content is organized within a course in your library.
 A course is organized into five views: Activity, Lessons,
 Assignments, Discussions, and Course Info.
 
-   .. image:: images/courseOrganization.png
+   .. image:: images/newcoursenav.png
 
 Access these views by first clicking on the course in your library.
 Below are descriptions of each.
@@ -45,7 +45,7 @@ expected to start interacting with the lesson’s material. You may also
 make lessons available after a certain date to limit learners’ access to
 future material.
 
-	.. image:: images/lessonsView.png
+	.. image:: images/newlessonsview2.png
 
 Assignments View
 ================================================
@@ -65,7 +65,7 @@ course. Selecting an assignment allows you to see all learner
 submissions for that specific assignment and assign grades, offer
 feedback, and reset and excuse assignments.         
 
-    .. image:: images/assignmentsTab.png
+    .. image:: images/newlessonsview2.png
 
 Grades & Performance Tab
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -75,7 +75,7 @@ your course. Selecting a user will allow you to view that learner's
 submissions and grades for the course as well as assign grades.
                         
 
-    .. image:: images/gradesPerformanceTab.png
+    .. image:: images/newgradeandperform.png
 
 Activity & Notifications Tab
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -83,7 +83,7 @@ Activity & Notifications Tab
 Activity & Notifications displays relevant updates about
 submissions and feedback by most recent to oldest.
 
-.. image:: images/activityNotificationsTab.png
+.. image:: images/newactandnot.png
 
 .. note:: Please note: These three sections also appear for learners; however, their content differs from the instructor’s view.
 
@@ -94,7 +94,7 @@ The Discussions View contains the discussion forums for the class. Here
 the learners can respond to your discussion prompts or create their own
 discussions. You may also post course announcements here.
 
-    .. image:: images/discussionsView.png
+    .. image:: images/newdiscussionsview.png
 
 Organization:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -116,5 +116,10 @@ instructor, your course roster and course summary report are also
 accessible here. The course roster allows you to view a list of all
 learners in the course, email learners, and access user reports.
 
-   .. image:: images/courseInfoView.png
+   .. image:: images/newcourseinfoview.png
+   
+|
+
+   .. note:: Please note: The learner view will not see "Edit" options.
+   
 

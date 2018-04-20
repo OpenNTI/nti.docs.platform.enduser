@@ -238,7 +238,8 @@ Prompts learners to respond within course forums. The discussion is displayed wi
 
 .. note::  Best to use when participation within course discussions are not only encouraged and expected, but required and graded.
 
-.. image:: images/quiz.png
+.. image:: images/discussassign.png
+   :scale: 50 %
 
 FEATURE: Randomization
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

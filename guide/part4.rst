@@ -356,7 +356,7 @@ announcement regarding the course.
 Connect on the Community Page
 ================================================
 
-.. image:: images/CommunityPage.png
+.. image:: images/commpage.png
 
 Our community feature offers a collaborative meeting space for individuals to interact outside of a course context. The community page offers members a space to post a topic or question for the community to respond to, and also offers a list of community members for easy networking and communication. 
 
