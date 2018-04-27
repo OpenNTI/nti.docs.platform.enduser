@@ -2,6 +2,54 @@
 2018 Release Notes
 ===================
 
+April 26, 2018
+--------------
+
+Performance Improvements 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Home screen loading and navigation has been optimized and should perform 2 to 3 times faster, especially for users with a large number of course enrollments. General course navigation should have also improved. 
+
+New All Course Roster Report
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+New site-wide report available that includes information for each course including: course name, start date, instructor names, learner names, username, email, date enrolled, last seen, and percent complete.
+
+Course progress displays in the Admin Tools
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Course progress now displays within the admin tools. 
+
+**Course View:** (Content tab > Select a course)
+
+.. image:: images/contentcourseprog.png
+
+**Roster View:** (Content tab > Select a course > Select Roster)
+
+.. image:: images/contentcourseprogros.png
+
+**Course's Learner View:** (Content tab > Select a course > Select Roster > Select a learner)
+
+.. image:: images/contentcourselearn.png
+
+**User's Learner View:** (Users tab > Select a user > Select Transcript tab)
+
+.. image:: images/usersprogress.png
+
+Completion certificate available
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Once a learner “completes” the course as defined by the course progress, the learner will be able to access the “View Certificate” text in the upper left-hand corner of the Lessons page under “Course Progress.” 
+
+.. image:: images/viewcert.png
+   :scale: 50
+
+Clicking on this text will create a certificate for the course.
+
+.. image:: images/viewcertpdf.png
+
+
+
 March 30, 2018
 ---------------
 
