@@ -3,9 +3,9 @@ Create Your Course
 ===========================
 
 The NextThought application allows instructors to build their own course
-with our authoring tools. The authoring tools allow you a wide-range of
+with our authoring tools. The authoring tools allow you a wide range of
 functionality including building the course outline (lessons, units,
-sections), adding course materials (readings, videos, discussions),
+sections), adding course materials (readings, videos, discussions, links, files),
 creating assignments, creating readings, and more.
 
 
@@ -20,19 +20,19 @@ View, the view that holds all of the content for the course.
 
 .. image:: images/authoringorganization.png
 
--  *Unit:* A “unit” simply acts as a header for several lessons. Each unit
+-  **Unit:** A “unit” simply acts as a header for several lessons. Each unit
    contains one or more lessons. Units can be further organized into
    lessons.
--  *Lesson:* A “lesson” is the main content module for the course. When a
-   student enters a course from the homepage, they will be viewing the
+-  **Lesson:** A “lesson” is the main content module for the course. When a
+   learner enters a course from the homepage, they will be viewing the
    first course lesson. Lessons can be further organized into sections.
--  *Section:*  A “section” is the lowest level organization for course
+-  **Section:**  A “section” is the lowest level organization for course
    materials. Sections divide and organize materials within the lesson
    with a section header.
 
 When you log into your course, it opens into the Lessons View. By
 default you will be in the the View Only mode when you open the course.
-The View mode reflects what students see when they log into the course.
+The View mode reflects what learners see when they log into the course.
 To modify course content, click on the “Start Editing” button in the
 lower right-hand corner to switch to Edit Mode.
 
@@ -47,7 +47,7 @@ Authoring Checklist
 -  Set the Publish State of the Lesson
 -  Set the Time Frame of the Lesson
 -  Create a Section (in the Lesson)
--  Add Content to a Section
+-  Add content to a Section
 -  Schedule Assignments
 -  [Advanced] Create and Place an Assignment
 -  [Advanced] Create and Place a Reading
@@ -67,19 +67,15 @@ Adding a Unit
 The first step toward creating your course is adding units.
 
  
-1. On the Lessons View, click on the “ Start Editing”  button in the
+1. On the Lessons View, click on the “Start Editing” button in the
    bottom right-hand corner to switch from View Mode to Edit Mode.
-  
-2. Click the  “+Add Unit” at the bottom of the course outline.
+2. Click the “+Add Unit” at the bottom of the course outline.
+3. Type in a title for the unit.
+4. Hit the return key to create the unit.
 
-3. Type in a title  for the unit.
+.. image:: images/
 
-4. Hit the return  key to create the unit.
-
-.. note::  You may add a new unit at any time by clicking on the “+Add Unit” button at the bottom of the course outline.
-
-.. note::  If you have existing content in your course, you will see all of your existing units and lessons in the course outline, including
-published, draft, and scheduled lessons while in Edit Mode.
+.. note::  While in Edit Mode, you will see all of your existing units and lessons in the course outline, including published, draft, and scheduled lessons.
 
 Editing a Unit
 --------------------
@@ -89,47 +85,43 @@ after creation.
 
 First, open the Edit Unit Flyout:
 
-#. Select the unit you want to edit by clicking on the unit title in
+1. Select the unit you want to edit by clicking on the unit title in
    the course outline. This will open the unit page in editing mode.
-#. Now, select the “Edit” button. This opens the Edit Unit Flyout.
+2. Now, select the “Edit” button. This opens the **Edit Unit Flyout.**
+3. After you have made changes, click “Save” to implement your changes.
 
- |Screen Shot 2016-01-12 at 1.51.39 PM.png|
+.. image:: images/
 
-In the Edit Unit Flyout, you can change
+In the **Edit Unit Flyout,** you can change
 
 -  the title of the unit,
--  the relative position  of the unit in the course outline,
+-  the relative position of the unit in the course outline,
 -  and delete the unit.
     .. warning:: Please note: if you delete a unit, you can not undo this deletion.
   
+.. image:: images/
 
- |UnitEditBox.png|
-
-After you have made changes to the title and/or relative order of the
-unit, click “Save” to implement your changes . Or, click “Cancel”  or
-“X” out of the window cancel the edits.
 
 Moving a Unit
 -----------------
 
 There are two ways to move a unit’s position:
 
--  *Course Outline:* Units can be moved within the course outline. 
+**Course Outline:** Units can be moved within the course outline. 
 
-#. Click and hold on the unit title that you want to move. 
-#. Drag unit to the desired position in the course outline. 
+1. Click and hold on the unit title that you want to move. 
+2. Drag unit to the desired position in the course outline. 
 
--  *Edit Unit Flyout:* You can also move a unit in the Edit Unit Flyout.
+**Edit Unit Flyout:** You can also move a unit in the Edit Unit Flyout.
 
 #. Select the unit you want to edit by clicking on the unit title in
    the course outline.
-#. Click the “Edit” button. |Screen Shot 2016-01-12 at 1.51.39
-   PM.png|
+#. Click the “Edit” button. 
 #. In the Edit Unit Flyout, use the position dropdown to select a new
    unit position.
 #. Click “Save” to implement your changes.
 
- |UnitPositionPopup.png|
+.. image:: images/
 
 Course Lessons
 ================
@@ -142,17 +134,17 @@ you may have multiple lessons within a unit. Your course must have at
 least one unit and one Lesson. 
 
 Adding a Lesson to a Unit
---------------------------
+--------------------------------------------------------------------------------------------------------------------------
 
 After creating your unit, add a lesson to the unit.
 
-#. If you are in View Mode, click on the Start Editing button in the
+1. If you are in View Mode, click on the Start Editing button in the
    bottom right-hand corner to switch to Edit Mode. 
-#. Select the unit you want to add a lesson to by clicking on the unit
+2. Select the unit you want to add a lesson to by clicking on the unit
    title in the course outline. 
-#. Click on “+Add Lesson” at the bottom of the unit in the outline.
-#. Type in a title for the lesson. |AddLesson.png|
-#. Hit the “return” key to create the lesson.
+3. Click on “+Add Lesson” at the bottom of the unit in the outline.
+4. Type in a title for the lesson.
+5. Hit the “return” key to create the lesson.
 
 Editing a Lesson
 -------------------
