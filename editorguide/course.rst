@@ -49,8 +49,8 @@ Authoring Checklist
 -  Create a Section (in the Lesson)
 -  Add content to a Section
 -  Schedule Assignments
--  [Advanced] Create and Place an Assignment
--  [Advanced] Create and Place a Reading
+-  Create and Place an Assignment
+-  Create and Place a Reading
 
 Course Units
 =============================
@@ -134,7 +134,7 @@ you may have multiple lessons within a unit. Your course must have at
 least one unit and one Lesson. 
 
 Adding a Lesson to a Unit
---------------------------------------------------------------------------------------------------------------------------
+--------------------------------------
 
 After creating your unit, add a lesson to the unit.
 
@@ -146,6 +146,8 @@ After creating your unit, add a lesson to the unit.
 4. Type in a title for the lesson.
 5. Hit the “return” key to create the lesson.
 
+.. image:: images/
+
 Editing a Lesson
 -------------------
 
@@ -156,47 +158,36 @@ lesson (publish now, schedule, draft) and add a lesson time frame.
 
 To open the Edit Lesson Flyout:
 
-#. Select the lesson you want to edit by clicking on the lesson title
+1. Select the lesson you want to edit by clicking on the lesson title
    in the course outline.
-#. Click the “Edit” button. This opens the Edit Lesson Flyout.
+#. Click the “Edit” button to the right of the lesson title. This opens the Edit Lesson Flyout.
 
- |EditLesson.png|
+.. image:: images/
 
-In the Edit Lesson Flyout, you can
+In the **Edit Lesson Flyout,** you can
 
--  edit the title  of the lesson,
+-  edit the title of the lesson,
 -  change the relative position of the lesson in its unit,
 -  move the lesson to a different unit,
--  and delete  the lesson. 
+-  and delete the lesson. 
     .. warning:: Please note: if you delete a lesson, you can not undo this deletion. 
 
- |LessonEditBox.png|
+.. image:: images/
 
 After you have made changes, click “Save” to implement your changes.
-Or, cancel the edits  by clicking on “Cancel” button or clicking on
-the “X” in the upper right-hand corner of the flyout.
+
 
 Setting the Lesson Availability
 ---------------------------------
 
-The Publish State Flyout  controls when students are able to view the
+The **Publish State Flyout** controls when students are able to view the
 lesson and includes three states: Publish Now, Schedule, and Draft.  
 
- |LessonAvailability.png|
+.. image:: images/
 
--  **Draft:** Keep lesson visible ONLY to instructors in Edit Mode.
-
-.. note::  A draft lesson is not visible to students and is only visible to the instructor when in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the instructor changes its status.
-
--  **Publish Now:** Immediately make lesson fully visible to students.
-   |Schedule\_Outline.png|
-
-.. note::  A published lesson is visible to anyone who is in the course, and appears in the course outline.
-
--  **Schedule:** Schedule lesson to be fully visible to students on a
-   certain date and time. |SchedulingLessons.png|
-
-.. note::  A scheduled lesson is is only fully visible on and after the designated start date and time. The lesson title will appear as lighter grey text until the start date has passed. Students will see this text, but will not be able to view the lesson. Instructors will only be able to click on and view a scheduled lesson when in Edit Mode.
+- **Draft:** Lesson is visible ONLY to instructors and only in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the instructor changes its status.
+- **Publish Now:** Immediately make lesson fully visible to students.
+- **Schedule:** Schedule lesson to be fully visible to students on a certain date and time. The lesson title will appear as lighter grey text until the start date has passed. Students will see this text, but will not be able to view the lesson. Instructors will only be able to click on and view a scheduled lesson when in Edit Mode.
 
 Lessons can be changed between these three different states at any time.
 
@@ -204,25 +195,23 @@ To Publish Now or send the lesson back to Draft, simply select the
 desired status in the Publish State Flyout. To schedule a lesson, follow
 the instructions below:
 
-#. Select “Schedule” in the Publish State Flyout.
-#. Select the date and enter a time.
-#. Click “Save.” The scheduled date will now appear in the Publish
+1. Select “Schedule” in the Publish State Flyout.
+2. Select the date and enter a time.
+3. Click “Save.” The scheduled date will now appear in the Publish
    State Flyout.
-    |ScheduleDate.png|
 
 The Publish State Flyout is also available from the unit page. To
 access the unit page,
 
+1. Click on the unit in the course outline.
+2. For each lesson use the Publish State Flyout to set the availability
+   for the lesson.
+3. Click “Save.”
+	
 |Screen Shot 2016-01-12 at 8.05.20 PM.png|
 
-#. Click on the unit in the course outline. |UnitSelect.png|
-#. For each lesson use the Publish State Flyout to set the availability
-   for the lesson.
-#. Click “Save.”
-    |Availabilty_Unit.png|
-
 Setting the Lesson Time Frame
-------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
 
 The Lesson Time Frame is a calendar that students can use to help them
 stay on track for your course. 
