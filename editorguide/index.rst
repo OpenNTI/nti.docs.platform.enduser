@@ -6,6 +6,7 @@ Editor Guide
 	:maxdepth: 1
 
 	course
+	content
 	assignment
 	reading
 
