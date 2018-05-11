@@ -41,12 +41,13 @@ Completion Certificates
 
 Once a learner “completes” the course as defined by the course progress, the learner will be able to access the “View Certificate” text in the upper left-hand corner of the Lessons page under “Course Progress.”
 
-.. image:: images/progresscert.png
+.. image:: images/progresscomplete.png
    :scale: 50 %
 
 Clicking on this text will create a certificate for the course.
 
-.. image:: images/progresscomplete.png
+.. image:: images/progresscert.png
+
 
 
 Reports
