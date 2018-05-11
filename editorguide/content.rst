@@ -19,31 +19,6 @@ Below is different types of content you can add to your lesson:
 -  Timelines
 -  Images and Video Reels
 
-**You can add content from four different sources.**
-
--  **Add Content from within the NextThought Application:**
-
-   -  Content created by our NextThought team can be added to the platform
-   for placement in a lesson. Content developed or designed by
-   NextThought includes readings, videos, discussions, timelines,
-   surveys, self-assessments, and assignments. Contact your Project
-   Manager to add interactive content to your course.
-
--  **Add Content from your Computer:**
-
-   -  You can also upload almost any type of file into a lesson including
-   Microsoft Office files, PDFs, Images, Zip files, and more.
-
-   .. note::  Most of these file types will be downloadable for students from the application, however, if your file is a PDF, it can be viewed within the platform itself and will allow notes.
-
--  **Link to Content:**
-
-   -  You can add URL links to your lesson. When a student clicks on this
-   type of content, it will open a new tab in their browser window.
-
--  **Author your own Content:**
-
-    -  NextThought allows you to create your own course assignments (see “Create an Assignment”) as well as in-application readings (see “Create a Reading”)!
 
 Add a File from your Computer
 ---------------------------------
@@ -488,7 +463,7 @@ There are two ways to move content:
 
    -  Use the position dropdown to select a new position within the section.
    
-   -  Use the section dropdown to  move the lesson to another section.
+   -  Use the section dropdown to  move the lesson to another section. 
 
  |Screen Shot 2016-01-12 at 10.27.47 PM.png|
 
@@ -500,7 +475,7 @@ There are two ways to move content:
 Edit an Assignment
 -----------------------
 
-Below are descriptions how to change the position of the assignment, and the assignment dates. More advanced editing options can be found in Part III in the section titled “Create an Assignment.”
+Below are descriptions how to change the position of the assignment, and the assignment dates. More advanced editing options can be found in “Create an Assignment.”
 
 Change Placement
 ^^^^^^^^^^^^^^^^^^^
