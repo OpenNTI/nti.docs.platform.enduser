@@ -8,9 +8,9 @@ May 17, 2018
 Create and award credit
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Now, courses can offer credit for learners who complete the course. Admin can also manually award credit to learners. Admin and instructors create and define credit types and units.
+Now, courses can award credit to learners who complete the course. Admin can also manually award credit to learners. Admin and instructors create and define credit types and units.
 
-**Course credit is made up of three components: “Amount,” “Type,” “Units.”** For example, an association course could award “3 [Amount] CE [Type] hours [Units].” 
+**Credit is made up of three components: “Amount,” “Type,” “Units.”** For example, an association course could award “3 [Amount] CE [Type] hours [Units].” 
 
 **Admin Only:**
 
@@ -19,8 +19,9 @@ To create site-wide course credit options,
 1. Click on the admin tools in the upper right-hand corner.
 2. Click on the “Advanced” tab.
 3. Click on the “Transcripts” tab.
-   **NEW:** Click “Add New Type” to define credit for the site. Type in type and units. This is now selectable for instructors to add to courses.
-   **EDIT:** You can remove a credit type by selecting the “x” button or you can select a current type and edit it.
+
+   - **NEW:** Click “Add New Type” to define credit for the site. Type in type and units. This is now selectable for instructors to add to courses.
+   - **EDIT:** You can remove a credit type by selecting the “x” button or you can select a current type and edit it.
 
 .. image:: images/admincredcreation.png
 
@@ -29,23 +30,23 @@ To manually award a learner with credit,
 1. Click on the admin tools in the upper right-hand corner.
 2. Click on the “Users” tab.
 3. Select a user.
-4. Click into “Transcript.”
+4. Click the “Transcript” tab.
 5. Click “Add Credit.”
-6. Fill in information and click “Save”
+6. Fill in information and click “Save.”
 
 .. image:: images/adminawardcred.png
 .. image:: images/adminawardcredinfo.png
    :scale: 50
 
-**Instructor or Admin:**
+**Instructor and/or Admin:**
 
 To assign a credit type to a course,
 
 1. Click into your course.
 2. Navigate to the “Course Info” page.
-3. Scroll to the “Credit” section.
+3. Scroll to the “Credits” section.
 4. Click “Edit.”
-5. Use the dropdown to select an existing credit type and unit, or add new.
+5. Use the dropdown to select an existing credit type and unit, or "Add Credit."
 6. Define the amount of credit.
 
 .. image:: images/coursecred.png
@@ -58,7 +59,7 @@ Progress and completion certificates now available in profile Achievements tab
 Learners can now view their course progress and completion certificates within the profile “Achievements” tab.
 
 1. Click on your profile image in the upper right-hand corner.
-2. Click “View Profile”
+2. Click “View Profile.”
 3. Click the “Achievements” tab.
 
 .. image:: images/achievecert.png
@@ -70,17 +71,17 @@ Within the certificates section, the left column “In Progress” displays all 
 New Transcripts tab in user profile
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Now, the learner can view their awarded credit and transcripts through their profile. 
+Now, the learner can view their awarded credit and transcript through their profile. 
 
 1. Click on your profile image in the upper right-hand corner.
-2. Click “View Profile”
+2. Click “View Profile.”
 3. Click the “Transcripts” tab.
 
 .. image:: images/transprofile.png
 
 The transcripts tab displays four columns, “Title,” “Date,” “Type,” and “Amount.” Click on a column to sort by that field. Use the search filters to filter by date or type. Total credit displays at the end of the list.
 
-Transcripts can be downloaded as a CSV or PDF. Downloaded transcripts will only show credit for the current filtered view. To view all credit in downloaded reports, make sure no filter is selected.
+A transcript can be downloaded as a CSV or PDF. Downloaded transcripts will only show credit for the current filtered view. To view all credit in downloaded reports, make sure no filter is selected. (Admin can download learner transcripts from the admin tools. Click on the "Users" tab, select a user, and click on the "Transcript" tab.)
 
 
 April 26, 2018
