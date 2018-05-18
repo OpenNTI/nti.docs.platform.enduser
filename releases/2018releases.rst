@@ -2,6 +2,79 @@
 2018 Release Notes
 ===================
 
+May 17, 2018
+-------------
+
+Create and award credit
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now courses can offer course credit for learners who complete the course. Admin can also manually award credit to learners.
+
+**Course credit is made up of three components: “Amount,” “Type,” “Units.”**
+
+For example, an association course could award “3 [Amount] CE [Type] hours [Units].” 
+
+Admins can create credit, assign credit to a course, and also “manually” award a user with credit. Instructors can create and assign a course credit. See below for more detail:
+
+**Admin Only:**
+
+To create site-wide course credit options,
+
+1. Click on the admin tools in the upper right-hand corner.
+2. Click on the “Advanced” tab.
+3. Click on the “Transcripts” tab.
+   **NEW:** Click “Add New Type” to define credit for the site. Type in type and units. This is now selectable for instructors to add to courses.
+   **EDIT:** You can remove a credit type by selecting the “x” button or you can select a current type and edit it.
+
+To manually award a learner with credit,
+
+1. Click on the admin tools in the upper right-hand corner.
+2. Click on the “Users” tab.
+3. Select a user.
+4. Click into “Transcript.”
+5. Click “Add Credit.”
+6. Fill in information and click “Save”
+
+**Instructor or Admin:**
+
+To assign a credit type to a course,
+
+1. Click into your course.
+2. Navigate to the “Course Info” page.
+3. Scroll to the “Credit” section.
+4. Click “Edit.”
+5. Use the dropdown to select an existing credit type and units, or add new.
+6. Define the “amount” of credit.
+
+Credit will be awarded when the user has completed the course as defined by completion of required materials. Upon course completion, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile
+
+Progress and completion certificates now available in profile Achievements tab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Learners can now view their course progress and completion certificates within the profile “Achievements” tab.
+
+1. Click on your profile image in the upper right-hand corner.
+2. Click “View Profile”
+3. Click the “Achievements” tab.
+
+This tab contains two sections, “Badges” and “Certificates.” 
+
+Certificates: The left column “In Progress” displays all completable (certificates enabled) courses that the learner is enrolled in, and the learner’s progress within each. The right column “Completed” displays courses completed and their certificates. Clicking on a certificate allows the learner to view, download, and/or print the certificate.
+
+New Transcripts tab in user profile
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now, the learner can also view their awarded credit and transcripts through their profile. 
+
+1. Click on your profile image in the upper right-hand corner.
+2. Click “View Profile”
+3. Click the “Transcripts” tab.
+
+The transcripts tab displays four columns, “Title,” “Date,” “Type,” and “Amount.” Use the search filters to filter by date or type. Click on a column to sort by that field. Total credit displays at the end of the list.
+
+Transcripts can be downloaded as a CSV or PDF. Downloaded transcripts will only show credit for the current filtered view. To view all credit in downloaded reports, make sure no filter is selected.
+
+
+
 April 26, 2018
 --------------
 
