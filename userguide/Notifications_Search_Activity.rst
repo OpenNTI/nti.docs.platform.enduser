@@ -55,17 +55,18 @@ There are two convenient ways to find what you are looking for on the platform, 
 Search
 ---------
 
-If you are searching for a certain word or short phrase on the platform, you can use our search feature to search through notes, chat transcripts, discussions, readings, video transcripts, and your highlights on the platform. 
+You can use our search feature to search through people, notes, chat transcripts, discussions, readings, video transcripts, and your highlights on the platform. 
 
 Click into the search field and begin typing your query. 
 
    .. image:: images/searchbar.png
+      :scale: 50
 
-Press the enter key on your keyboard once you are ready to see the results. 
+Press the enter key on your keyboard once you are ready to see the results. You can filter the search results by all “All,” "People," “Social,” “Readings,” “Videos,” and your “Highlights.” 
 
    .. image:: images/searchresult.png
 
-You can filter the search results by all “Results,” “Social,” “Readings,” “Videos,” and your “Highlights.” Select one of the results to navigate directly to the word or passage. Your search query will be highlighted in the content.
+Select one of the results to navigate to a user's profile or directly to the word or passage. Your search query will be highlighted in the content.
 
    .. image:: images/searchnav.png
 
