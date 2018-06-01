@@ -7,7 +7,7 @@ Self-Assessments
 
 Unlike assignments, self-assessments are not submitted for a grade. They’re simply an opportunity for you to assess your knowledge. Your instructor cannot view your answers.
  
-You can find these assessments throughout your course within your lessons. Notice that a self-assessment will have a percent icon to the left:
+You can find these assessments throughout your course within your lessons.
 
    .. image:: images/selfassessment.png
  
@@ -29,7 +29,7 @@ A survey is a single page of questions. A poll, on the other hand, only includes
 Surveys
 --------
 
-Within your lessons, a survey is indicated with the words "Survey." Click “Take” to begin a survey. 
+Within your lessons, click “Take” to begin a survey. 
 
    .. image:: images/surveylessons.png
 
