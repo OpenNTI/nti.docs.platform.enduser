@@ -34,7 +34,7 @@ To view a quick summary of your progress in all courses, visit your profile.
 2. Select "Achievements."
 3. Scroll to your "Certificates" section. 
 
-Courses that track progress will display here with the percentage of the course you've completed. Your completed courses and their certificates are also available here.
+Course progress displays here with the percentage of the course you've completed. Your completed courses and their certificates are also available here.
 
 .. image:: images/profileachieve.png
 
@@ -84,7 +84,7 @@ Once you complete all course required materials, view your certificate by clicki
    
 .. image:: images/coursecert.png
 
-View all course certificates and a transcript of your credit by navigating to your profile. Click on your profile image in the upper right-hand corner and click "View Profile." 
+View all course certificates and your transcript by navigating to your profile. Click on your profile image in the upper right-hand corner and click "View Profile." 
 
 Your **"Achievements" tab** displays all of your certificates and allow you to view, download, and/or print the course certificates. 
 
@@ -98,7 +98,7 @@ The **"Transcripts" tab** displays a list of your earned credit. Filter by date 
 Other Credit
 ^^^^^^^^^^^^^
 
-Your instutition or organization can also award credit apart from course completion.
+Your institution or organization can also award credit apart from course completion.
 
 To view your credit, 
 
@@ -110,10 +110,10 @@ The Transcripts tab displays a list of your earned credit. Filter by date or typ
 .. image:: images/profiletranscript.png
 
 
-View All Progress and Certificates
-====================================
+View All Progress, Certificates, and Credit
+============================================
 
-View a summary of your site-wide course progress and your certificates and credit in your profile.
+View a summary of your site-wide course progress, certificates, and credit in your profile.
 
 1. Click on your profile image in the upper right-hand corner.
 2. Select "View Profile."
@@ -124,7 +124,7 @@ View a summary of your site-wide course progress and your certificates and credi
 Achievements
 ^^^^^^^^^^^^^
 
-Your profile "Achievements" tab displays all of your certificates and allow you to view, download, and/or print the course certificates. You can also see how your progressing through your courses.
+Your profile "Achievements" tab displays all of your certificates and allow you to view, download, and/or print the course certificates. You can also see how you're progressing through your courses.
 
 .. image:: images/profileachieve.png
 
