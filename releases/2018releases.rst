@@ -2,11 +2,35 @@
 2018 Release Notes
 ===================
 
+June 7,2018
+------------
+
+Contacts Page Redesign
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Download All Assignment Submissions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Three More Reports Added to Course Reports List
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Achievements and Transcripts tabs on Mobile 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Display local timezone on reports
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, reports displayed a CST timestamp according to when the report was downloaded/accessed. Now, timestamps display the local timezone.
+
+.. image:: images/reporttimestamp.png
+
+
+
 May 17, 2018
 -------------
 
 Create and award credit
-^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now, courses can award credit to learners who complete the course. Admin can also manually award credit to learners. Admin and instructors create and define credit types and units.
 
