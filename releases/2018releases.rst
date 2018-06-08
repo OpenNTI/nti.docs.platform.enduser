@@ -2,20 +2,147 @@
 2018 Release Notes
 ===================
 
-June 7,2018
+June 7, 2018
 ------------
 
-Contacts Page Redesign
+Contacts page redesign
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The Contacts page now incorporates design familiar to the rest of the site look and navigation.
+
+.. image:: images/contactspagenew.png
+
+
+**People Tab [Previously “Contacts”]**
+
+Search for learners on the platform using the upper left-hand corner search bar.
+
+.. image:: images/contactssearch.png
+
+To view options for a person you are following,
+
+1. Locate the person in the People tab.
+2. Select the dropdown menu in the upper right-hand corner of the contact tile.
+
+You can now “View Profile,” “Chat,"" “Add to a Sharing List,” or “Unfollow.”
+
+.. image:: images/contactsindopt.png
+   :scale: 50
+
+To add a contact to a sharing list,
+ 
+1. Locate the contact in the People tab.
+2. Select the dropdown menu in the upper right-hand corner of the contact tile.
+3. Click on the the “Add to a Sharing List” option.
+4. Add your contact to a current Sharing List or create a new one.
+5. To add your contact to an existing list, select the list(s).
+6. To create a new Sharing List, click on the the “Create a new List” option, and type in the name of the new list you wish to create.
+7. Click “Done.”
+
+.. image:: images/contactsaddtoshare.png
+   :scale: 50
+
+**Groups Tab**
+
+Within the Group tab, the “Join Group” and “Create a Group” buttons have moved from the bottom left-hand corner to the upper right-hand corner. Groups you are a member of display across the page in rows and columns.
+
+.. images:: images/contactsgroups.png
+
+To create a group,
+
+1. Select the blue “Create a Group” button.
+2. Now, type in the group name.
+3. Select "Create."
+
+.. image:: images/groupscreate.png
+   :scale: 50
+
+The group will now display within your Groups tab.
+
+To join a group,
+
+1. Select the “Join Group” button.
+2. Enter the group code.
+3. Click “Join.”
+
+.. image:: images/groupsjoin.png
+   :scale: 50
+
+The group will now display in your Groups tab.
+
+To view group options,
+
+1. Locate the group in the Group tab.
+2. Select the dropdown menu in the upper right-hand corner of the group tile.
+
+.. image:: images/groupopt.png
+   :scale: 50
+
+You can now “View Group Code” or “Rename Group.”
+
+Click on the group to navigate to the group page.
+
+**Sharing Lists [Previously “Distribution Lists”]**
+
+Creating a list and adding contacts to your list is more streamlined. 
+
+.. image:: images/contactslists.png
+
+To create a new list,
+
+1. Select the “Create a Sharing List” in the upper right-hand corner.
+2. Fill out the list name.
+3. Search for people on the site to add to your list.
+4. Select a search result to add them as a “member.” They will immediately appear in the “Members” section below.
+5. Once you’ve added all members, click “Create.”
+
+.. image:: images/sharinglistcreate.png
+   :scale: 50
+
+The list will now display in your Lists tab.
+
+To view list options,
+
+1. Locate the list in the Sharing Lists tab.
+2. Select the dropdown menu in the upper right-hand corner of the list tile.
+
+.. image:: images/sharinglistopt.png
+   :scale: 50
+
+You can now “Change Name,” “Manage People,” “Delete List.”
+
+Clicking on a list in your Sharing Lists tab allows you to view, remove, and add members.
+
 
 Download All Assignment Submissions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Three More Reports Added to Course Reports List
+Now, download all submitted assignments in a course.
+
+.. image:: images/downloadall.png
+   :scale: 50
+
+To download this .zip file,
+
+1. In the “Assignments” tab of a course, click on the “Settings” button (the small gear icon). 
+2. Click on the “Download All Upload Files” option.
+
+A download of the file should start immediately.
+
+
+Three more reports added to course reports list
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Achievements and Transcripts tabs on Mobile 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Course Info Reports tab now includes the “Self Assessment Completion Report,” the “Forum Participation Report,” and the "Topic Participation Report."
+
+.. image:: images/reportscoursenew.png
+
+In an instructor account, 
+
+1. Navigate to your “Course Info” page.
+2. Scroll to the “Admin Tools” section.
+3. Click “View Now” under Reports.
+
 
 Display local timezone on reports
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
