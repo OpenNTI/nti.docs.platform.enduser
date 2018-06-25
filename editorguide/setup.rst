@@ -18,6 +18,8 @@ Your **Course Info** page includes:
 - Meet Times
 - Facilitators
 
+.. image:: images/editcourseinfo.png
+
 This view also allows you to manage course visibility and allows access to your admin tools.
 
 .. note:: Site admin, instructors, and editors can all edit the Course Info page.
@@ -26,6 +28,8 @@ Course Visibility
 --------------------
 
 Control the who can see the course and when with course visibility.
+
+.. image:: images/makechanges.png
 
 To get started, click on the "Make Changes" button on the course's Course Info page.
 
@@ -39,7 +43,6 @@ The "Visible in Catalog" field allows you to toggle course visibility within the
 - **"On"**
    This will allow the course to display in the course catalog. This means that when a site user clicks on the course catalog, the course will display and the learner can view basic course information and enroll in the course.
 
-
 **Preview Mode**
 
 The "Preview Mode" defines when the course becomes available for learners to begin.
@@ -52,6 +55,10 @@ The "Preview Mode" defines when the course becomes available for learners to beg
   
 - **Based on Start Date:**
   This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
+  
+.. image:: images/coursepreviewmode.png
+
+..  note:: By default the course will be in **Preview Mode On** and will need to be either switched to **Preview Mode Off** or **Based on Start Date** for users to begin the course. 
 
 
 Basic Course Information
@@ -59,13 +66,15 @@ Basic Course Information
 
 Basic course information includes the course ID, Title, Description, and Tags. This information will display to users.
 
+.. image:: images/basicinfoedit.png
+
 **Course ID**
 
 Give your course an ID. The Course ID field allows you to create a organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
 
 **Course Title***
 
-Name your course. 
+Name your course. This course title will display on learner's homepage as well as the catalog.
 
 **Course Description**
 
@@ -74,6 +83,8 @@ Describe your course. This description will help learners decide if they wish to
 **Course Tags**
 
 Tag courses with one or multiple tags (e.g., “English Literature”). These tags will create catagories within the course catalog, and allow learners to search available courses by catagory.
+
+.. image:: images/coursetagging.png
 
 Course Assets
 --------------
@@ -121,14 +132,29 @@ Credit will be awarded when the user has completed the course as defined by comp
 Start and End Date
 --------------------
 
+Define when your course begins and ends. 
+
+Click “Edit” next to either “Start Date” or “End Date.” Then, click the dropdown to select a date and set a time. 
+
+.. image:: images/coursestarttime.png
+
+.. note:: You can use the start date and time to define when the course becomes available for users.
+
+.. note:: Setting an End Date will not revoke access to the course. The course is available indefinitely as long as a learner is enrolled. If you would like to revoke access to a course, please contact NextThought.
+
 Meet Times
 ----------
+
+Use this space to suggest times the course will meet, either online or in person. This field will not change course availability, but is an optional tool for course engagement. 
+
+Select a day or days Sunday through Saturday, and also select timeframes for your local timezone.
+
+.. image:: images/meettimes.png
 
 Manage Facilitators
 -------------------------------
 
-
-The Course Info tab now allows an editor/instructor/admin to add new course roles and toggle visible and hidden facilitators.
+Manage your course facilitators, including Instructors, Editors, and Assitants.
 
 .. image:: images/coursefacilitator1.png
 
@@ -152,4 +178,14 @@ The Course Info tab now allows an editor/instructor/admin to add new course role
    - Remove a facilitator by clicking the “x”
    
 6. Click "Save" within the course facilitator section to save your changes.
+
+The current roles are as follows:
+
+- **Course Facilitator:** The term for course roles: instructor, assistant, and editor
+
+- **Course Instructor:** Instructor and editor 
+
+- **Course Assistant:** Instructor role only (no editor capabilities)
+
+- **Course Editor:** Editing only (no instructor capabilities)
    
