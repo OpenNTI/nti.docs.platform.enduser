@@ -157,30 +157,22 @@ Set the Lesson Availability
 The **Publish State Flyout** controls when students are able to view the
 lesson and includes three states: Publish Now, Schedule, and Draft.  
 
-.. image:: images/
+.. image:: images/publishstatelesson.png
 
-- **Draft:** Lesson is visible ONLY to instructors and only in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the instructor changes its status.
+- **Draft:** Lesson is visible ONLY to instructors/editors/admin and only in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the instructor changes its status.
 - **Publish Now:** Immediately make lesson fully visible to students.
 - **Schedule:** Schedule lesson to be fully visible to students on a certain date and time. The lesson title will appear as lighter grey text until the start date has passed. Students will see this text, but will not be able to view the lesson. Instructors will only be able to click on and view a scheduled lesson when in Edit Mode.
 
-Lessons can be changed between these three different states at any time.
+.. note:: Lessons can be changed between these three different states at any time.
 
 To Publish Now or send the lesson back to Draft, simply select the
-desired status in the Publish State Flyout. To schedule a lesson, follow
-the instructions below:
+desired status in the Publish State Flyout. And click "Save."
+
+To **schedule a lesson,** follow the instructions below:
 
 1. Select “Schedule” in the Publish State Flyout.
 2. Select the date and enter a time.
 3. Click “Save.” The scheduled date will now appear in the Publish State Flyout.
-
-The Publish State Flyout is also available from the unit page. To
-access the unit page,
-
-1. Click on the unit in the course outline.
-2. For each lesson use the Publish State Flyout to set the availability for the lesson.
-3. Click “Save.”
-	
-|Screen Shot 2016-01-12 at 8.05.20 PM.png|
 
 Set the Lesson Time Frame
 -------------------------------------------------------------------------------------------------------------------------------------------
@@ -190,25 +182,20 @@ stay on track for your course.
 
 The time frame start date appears to the left of a lesson when a mouse
 or pointer hovers over a particular lesson in the course outline, or
-when a lesson is selected.
+when a lesson is selected. The start and end date is also displayed over the lesson title on the specific lesson’s page.
 
-.. image:: images/
-
-The time frame start and end date is displayed over the lesson title on
-the specific lesson’s page.
-
-.. image:: images/
+.. image:: images/timeframe.png
 
 To edit the lesson time frame,
 
-1. Click on the calendar icon within a lesson. This field will state “When should your students begin this lesson?” if a date has not yet been assigned. 
+1. Click on the calendar icon within a lesson.
 2. Set the Begin Date by clicking on a calendar date and adding a time.
 3. Set the Finish Date by clicking the Finish Date tab and selecting a calendar date and adding a time. 
-4. Click “Save Changes.” 
+4. Click “Save.” 
 
-.. image:: images/
+.. image:: images/startenddatetimeframe.png
 
-.. note::  To close the popup without saving changes, simply click anywhere outside of the popup window.
+.. note::  Setting a start and end date does not restrict access to your lesson. Please "Schedule" your lesson to restrict access.
 
 
 Move a Lesson  
