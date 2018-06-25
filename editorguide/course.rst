@@ -48,7 +48,7 @@ Each course must have at least one unit. You may want to organize your
 course units by weeks, by topics, or by content types. How you structure
 your course is up to you.
 
-Adding a Unit
+Add a Unit
 -------------
  
 1. On the Lessons View, click on the “Start Editing” button in the bottom right-hand corner.
@@ -60,7 +60,7 @@ Adding a Unit
 
 .. note::  While in Edit Mode, you will see all of your existing units and lessons in the course outline, including published, draft, and scheduled lessons.
 
-Editing a Unit
+Edit a Unit
 --------------------
 
 NextThought tools allow you to edit, move, and delete units as needed
@@ -82,8 +82,7 @@ In the **Edit Unit Flyout,** you can change
 -  and delete the unit.
     .. warning:: Please note: if you delete a unit, you can not undo this deletion.
 
-
-Moving a Unit
+Move a Unit
 -----------------
 
 There are two ways to move a unit’s position:
@@ -97,10 +96,11 @@ There are two ways to move a unit’s position:
 
 1. Select the unit you want to edit by clicking on the unit title in the course outline.
 2. Click the “Edit” button. 
+   .. image:: images/editunit.png
 3. In the Edit Unit Flyout, use the position dropdown to select a new unit position.
 4. Click “Save” to implement your changes.
 
-.. image:: images/
+.. image:: images/editunitflyout.png
 
 Course Lessons
 ================
@@ -112,7 +112,7 @@ module for all courses. A lesson must be contained within a unit, and
 you may have multiple lessons within a unit. Your course must have at
 least one unit and one Lesson. 
 
-Adding a Lesson to a Unit
+Add a Lesson to a Unit
 --------------------------------------
 
 After creating your unit, add a lesson to the unit.
@@ -123,22 +123,20 @@ After creating your unit, add a lesson to the unit.
 4. Type in a title for the lesson.
 5. Hit the “return” key to create the lesson.
 
-.. image:: images/
+.. image:: images/addlesson.png
 
-Editing a Lesson
+Edit a Lesson
 -------------------
 
 NextThought tools allow you to edit, move, and delete lessons as needed
-after creation through the Edit Lesson Flyout. Within the lesson
-itself, you can change the availability, or “publish state,” of the
-lesson (publish now, schedule, draft) and add a lesson time frame.
+after creation.
 
 To open the Edit Lesson Flyout:
 
 1. Select the lesson you want to edit by clicking on the lesson title in the course outline.
 2. Click the “Edit” button to the right of the lesson title. This opens the Edit Lesson Flyout.
 
-.. image:: images/
+.. image:: images/editlesson.png
 
 In the **Edit Lesson Flyout,** you can
 
@@ -148,12 +146,12 @@ In the **Edit Lesson Flyout,** you can
 -  and delete the lesson. 
     .. warning:: Please note: if you delete a lesson, you can not undo this deletion. 
 
-.. image:: images/
+.. image:: images/editlessonflyout.png
 
 After you have made changes, click “Save” to implement your changes.
 
 
-Setting the Lesson Availability
+Set the Lesson Availability
 ---------------------------------
 
 The **Publish State Flyout** controls when students are able to view the
@@ -184,7 +182,7 @@ access the unit page,
 	
 |Screen Shot 2016-01-12 at 8.05.20 PM.png|
 
-Setting the Lesson Time Frame
+Set the Lesson Time Frame
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 The Lesson time frame is a calendar that learners can use to help them
@@ -213,7 +211,7 @@ To edit the lesson time frame,
 .. note::  To close the popup without saving changes, simply click anywhere outside of the popup window.
 
 
-Moving a Lesson  
+Move a Lesson  
 -----------------
 
 There are three ways to move a lesson:
@@ -262,7 +260,7 @@ Lesson pages are further organized into sections. Sections organize your lesson 
 .. note:: A lesson page must have at least one section to add content.
 
 
-Adding a Section to a Lesson
+Add a Section to a Lesson
 ------------------------------
 
 Before you add content to your lesson, you’ll need to add sections.
@@ -277,7 +275,7 @@ Before you add content to your lesson, you’ll need to add sections.
 
 5. Click “Add to Lesson” to create the section.
 
-Editing a  Section 
+Edit a  Section 
 ---------------------
 
 First, open the Edit Section Flyout, by clicking the section’s “Edit” button located in the section’s header.
@@ -296,7 +294,7 @@ In the Edit Section Flyout, you can
 
 After you have made changes, click “Save” to implement your changes.
 
-Moving a Section
+Move a Section
 -------------------
 
 There are two ways to move a section:
