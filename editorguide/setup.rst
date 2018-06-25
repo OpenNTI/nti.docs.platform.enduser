@@ -4,12 +4,13 @@ Course Setup
 
 Make sure your course is set up correctly before you go live!
 
-Your Course Info page includes
+Your **Course Info** page includes:
 
 - Cover Video
 - Course ID
 - Course Title
 - Course Description
+- Course Assets
 - Credits
 - Redemption Code
 - Start Date
@@ -24,11 +25,98 @@ This view also allows you to manage course visibility and allows access to your 
 Course Visibility
 --------------------
 
+Control the who can see the course and when with course visibility.
+
+To get started, click on the "Make Changes" button on the course's Course Info page.
+
+**Visible in Catalog**
+
+The "Visible in Catalog" field allows you to toggle course visibility within the course catalog. 
+
+- **"Off"**
+  This option will keep the course private. This means that the course will not show up in the public course catalog. No one will be able to enroll in the course unless you provide them with the course reemption code.
+  
+- **"On"**
+   This will allow the course to display in the course catalog. This means that when a site user clicks on the course catalog, the course will display and the learner can view basic course information and enroll in the course.
+
+
+**Preview Mode**
+
+The "Preview Mode" defines when the course becomes available for learners to begin.
+
+- **Preview Mode On:**
+  This option sets the course to course preview mode, meaning that users can only view Course Info but cannot view course content.
+  
+- **Preview Mode Off:**
+  This option allows the course to be fully available to users.
+  
+- **Based on Start Date:**
+  This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
+
+
 Basic Course Information
 --------------------------
 
+Basic course information includes the course ID, Title, Description, and Tags. This information will display to users.
+
+**Course ID**
+
+Give your course an ID. The Course ID field allows you to create a organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
+
+**Course Title***
+
+Name your course. 
+
+**Course Description**
+
+Describe your course. This description will help learners decide if they wish to enroll in the course.
+
+**Course Tags**
+
+Tag courses with one or multiple tags (e.g., “English Literature”). These tags will create catagories within the course catalog, and allow learners to search available courses by catagory.
+
+Course Assets
+--------------
+
+Upload an image to represent your course. This image will display in the course catalog, as well as represented in the background of your course. 
+
+1. Click on the "Edit" button next to "Assets."
+
+   .. image:: images/assetsstep1.png
+   
+2. Upload the desired image.
+
+   .. image:: images/assetsstep2.png
+   
+3. Crop your image.
+
+   .. image:: images/assetsstep3.png
+   
+4. Click "Continue."
+
+5. Preview and adjust the size of each asset.
+
+   .. image:: images/assetsstep4.png
+   
+6. Click "Apply Image" after all adjustments have been made.
+
+7. Click "Done."
+
 Course Credit
 --------------
+
+To assign a credit type to a course,
+
+1. Click into your course.
+2. Navigate to the “Course Info” page.
+3. Scroll to the “Credits” section.
+4. Click “Edit.”
+5. Use the dropdown to select an existing credit type and unit, or "Add Credit."
+6. Define the amount of credit.
+
+.. image:: images/coursecred.png
+
+Credit will be awarded when the user has completed the course as defined by completion of required materials. Upon course completion, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile.
 
 Start and End Date
 --------------------
@@ -36,6 +124,32 @@ Start and End Date
 Meet Times
 ----------
 
-Add, Edit, Remove Facilitators
+Manage Facilitators
 -------------------------------
 
+
+The Course Info tab now allows an editor/instructor/admin to add new course roles and toggle visible and hidden facilitators.
+
+.. image:: images/coursefacilitator1.png
+
+1. Click on the Course Info tab
+2. Scroll to the Facilitator section
+3. Click “Edit”
+4. Add new facilitator:
+
+   .. image:: images/coursefacilitator.png
+   
+   - Click “Add a Facilitator”
+   - Search user(s) by name
+   - Assign a role (Instructor, Assistant, or Editor)
+   - Click “Visible to Learners” if you’d like this facilitator to show on the Course Info page and homepage 
+   
+5. Edit current facilitator:
+
+   - Locate facilitator on list
+   - Toggle “visible” or “hidden” via the dropdown 
+   - Toggle role using the role dropdown
+   - Remove a facilitator by clicking the “x”
+   
+6. Click "Save" within the course facilitator section to save your changes.
+   
