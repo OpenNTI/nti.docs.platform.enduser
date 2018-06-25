@@ -27,11 +27,11 @@ This view also allows you to manage course visibility and allows access to your 
 Course Visibility
 --------------------
 
-Control the who can see the course and when with course visibility.
-
-.. image:: images/makechanges.png
+Control course visibility.
 
 To get started, click on the "Make Changes" button on the course's Course Info page.
+
+.. image:: images/makechanges.png
 
 .. image:: images/makechangesbutton.png
 
@@ -39,10 +39,10 @@ To get started, click on the "Make Changes" button on the course's Course Info p
 
 The "Visible in Catalog" field allows you to toggle course visibility within the course catalog. 
 
-- **"Off"**
+- **Off:**
   This option will keep the course private. This means that the course will not show up in the public course catalog. No one will be able to enroll in the course unless you provide them with the course redemption code.
   
-- **"On"**
+- **On:**
   This will allow the course to display in the course catalog. This means that when a site user clicks on the course catalog, the course will display and the learner can view basic course information and enroll in the course.
 
 **Preview Mode**
@@ -65,18 +65,17 @@ The "Preview Mode" defines when the course becomes available for learners to beg
 
 Basic Course Information
 --------------------------
-
-Basic course information includes the course ID, Title, Description, and Tags. This information will display to users.
+Basic course information includes the course ID, title, description, and tags. This information will display to learners.
 
 .. image:: images/basicinfo.png
 
 **Course Identifier**
 
-Give your course an ID. The Course ID field allows you to create a organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
+Give your course an ID. The Course ID field allows you to create an organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
 
 **Course Title**
 
-Name your course. This course title will display on learner's homepage as well as the catalog.
+Name your course. This course title will display on learners' homepage as well as the catalog.
 
 **About this Course**
 
@@ -90,7 +89,7 @@ Tag courses with one or multiple tags (e.g., “English Literature”). These ta
 Course Assets
 --------------
 
-Upload an image to represent your course. This image will display in the course catalog, as well as represented in the background of your course. 
+Upload an image to represent your course. This image will display in the course catalog, and will be in the background of your course. 
 
 1. Click on the "Edit" button next to "Assets."
 
@@ -117,14 +116,14 @@ Upload an image to represent your course. This image will display in the course 
 Course Credit
 --------------
 
+Allow learners to earn credit when they complete the course.
+
 To assign a credit type to a course,
 
-1. Click into your course.
-2. Navigate to the “Course Info” page.
-3. Scroll to the “Credits” section.
-4. Click “Edit.”
-5. Use the dropdown to select an existing credit type and unit, or "Add Credit."
-6. Define the amount of credit.
+1. Click “Edit" next to "Credits."
+2. Use the dropdown to select an existing credit type and unit, or "Add Credit."
+3. Define the amount of credit.
+4. Click "Save."
 
 .. image:: images/coursecred.png
 
@@ -135,20 +134,26 @@ Start and End Date
 
 Define when your course begins and ends. 
 
-Click “Edit” next to either “Start Date” or “End Date.” Then, click the dropdown to select a date and set a time. 
+1. Click “Edit” next to either “Start Date” or “End Date.” 
+2. Then, click the dropdown to select a date.
+3. Set a time.
+4. Click "Save." 
 
 .. image:: images/coursestarttime.png
 
-.. note:: You can use the start date and time to define when the course becomes available for users.
+.. note:: You can use the start date and time to define when the course becomes available for users. See the "Course Visibility" section above.
 
 .. note:: Setting an End Date will not revoke access to the course. The course is available indefinitely as long as a learner is enrolled. If you would like to revoke access to a course, please contact NextThought.
 
 Meet Times
 ----------
 
-Use this space to suggest times the course will meet, either online or in person. This field will not change course availability, but is an optional tool for course engagement. 
+Use this space to suggest times the course will meet, either online or in person. This field will not change course availability, but is an optional tool to encourage course engagement. 
 
-Select a day or days Sunday through Saturday, and also select timeframes for your local timezone.
+1. Click "Edit" next to "Meet Times."
+2. Select a day or days Sunday through Saturday.
+3. Enter a timeframe.
+4. Click "Save."
 
 .. image:: images/meettimes.png
 
