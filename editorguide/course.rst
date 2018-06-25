@@ -15,9 +15,6 @@ Getting Started: Content Organization
 All NextThought courses have an organizational layout that
 includes units, lessons, and sections.
 
-Let’s start by reviewing the course organization within the Lessons
-View, the view that holds all of the content for the course.
-
 .. image:: images/authoringorganization.png
 
 -  **Unit:** A “unit” simply acts as a header for several lessons. Each unit
@@ -29,28 +26,18 @@ View, the view that holds all of the content for the course.
 -  **Section:**  A “section” is the lowest level organization for course
    materials. Sections divide and organize materials within the lesson
    with a section header.
+   
+   
+**Course Default View**
 
-When you log into your course, it opens into the Lessons View. By
-default you will be in the the View Only mode when you open the course.
-The View mode reflects what learners see when they log into the course.
-To modify course content, click on the “Start Editing” button in the
-lower right-hand corner to switch to Edit Mode.
+When you enter your course from the homepage, it opens into the Lessons View. You will be viewing the course as if you were a learner.
+
+To modify course content, click on the “Start Editing” button in the lower right-hand corner to switch to Edit Mode.
+
+.. image:: images/starteditingbutton.png
 
 .. note:: The Start Editing button is only available on the Lessons View. 
 
-
-Authoring Checklist
---------------------
-
--  Create a Unit
--  Create a Lesson (in the Unit)
--  Set the Publish State of the Lesson
--  Set the Time Frame of the Lesson
--  Create a Section (in the Lesson)
--  Add content to a Section
--  Schedule Assignments
--  Create and Place an Assignment
--  Create and Place a Reading
 
 Course Units
 =============================
@@ -63,16 +50,13 @@ your course is up to you.
 
 Adding a Unit
 -------------
-
-The first step toward creating your course is adding units.
-
  
-1. On the Lessons View, click on the “Start Editing” button in the bottom right-hand corner to switch from View Mode to Edit Mode.
+1. On the Lessons View, click on the “Start Editing” button in the bottom right-hand corner.
 2. Click the “+Add Unit” at the bottom of the course outline.
 3. Type in a title for the unit.
 4. Hit the return key to create the unit.
 
-.. image:: images/
+.. image:: images/addunit.png
 
 .. note::  While in Edit Mode, you will see all of your existing units and lessons in the course outline, including published, draft, and scheduled lessons.
 
@@ -84,11 +68,12 @@ after creation.
 
 First, open the Edit Unit Flyout:
 
-1. Select the unit you want to edit by clicking on the unit title in the course outline. This will open the unit page in editing mode.
+1. Select the unit you want to edit by clicking on the unit title in the course outline.
 2. Now, select the “Edit” button. This opens the **Edit Unit Flyout.**
+   .. image:: images/editunit.png
 3. After you have made changes, click “Save” to implement your changes.
 
-.. image:: images/
+.. image:: images/editunitflyout.png
 
 In the **Edit Unit Flyout,** you can change
 
@@ -96,8 +81,6 @@ In the **Edit Unit Flyout,** you can change
 -  the relative position of the unit in the course outline,
 -  and delete the unit.
     .. warning:: Please note: if you delete a unit, you can not undo this deletion.
-  
-.. image:: images/
 
 
 Moving a Unit
