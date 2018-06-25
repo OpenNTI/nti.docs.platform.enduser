@@ -70,17 +70,22 @@ First, open the Edit Unit Flyout:
 
 1. Select the unit you want to edit by clicking on the unit title in the course outline.
 2. Now, select the “Edit” button. This opens the **Edit Unit Flyout.**
+
    .. image:: images/editunit.png
+   
+   In the **Edit Unit Flyout,** you can change
+
+   -  the title of the unit,
+   -  the relative position of the unit in the course outline,
+   -  and delete the unit.
+	
+   .. image:: images/editunitflyout.png
+   
 3. After you have made changes, click “Save” to implement your changes.
 
-.. image:: images/editunitflyout.png
+.. warning:: Please note: if you delete a unit, you can not undo this deletion.
 
-In the **Edit Unit Flyout,** you can change
 
--  the title of the unit,
--  the relative position of the unit in the course outline,
--  and delete the unit.
-    .. warning:: Please note: if you delete a unit, you can not undo this deletion.
 
 Move a Unit
 -----------------
@@ -96,7 +101,9 @@ There are two ways to move a unit’s position:
 
 1. Select the unit you want to edit by clicking on the unit title in the course outline.
 2. Click the “Edit” button. 
+
    .. image:: images/editunit.png
+   
 3. In the Edit Unit Flyout, use the position dropdown to select a new unit position.
 4. Click “Save” to implement your changes.
 
@@ -136,19 +143,20 @@ To open the Edit Lesson Flyout:
 1. Select the lesson you want to edit by clicking on the lesson title in the course outline.
 2. Click the “Edit” button to the right of the lesson title. This opens the Edit Lesson Flyout.
 
-.. image:: images/editlesson.png
+  .. image:: images/editlesson.png
 
-In the **Edit Lesson Flyout,** you can
+  In the **Edit Lesson Flyout,** you can
 
--  edit the title of the lesson,
--  change the relative position of the lesson in its unit,
--  move the lesson to a different unit,
--  and delete the lesson. 
-    .. warning:: Please note: if you delete a lesson, you can not undo this deletion. 
+  -  edit the title of the lesson,
+  -  change the relative position of the lesson in its unit,
+  -  move the lesson to a different unit,
+  -  and delete the lesson. 
 
-.. image:: images/editlessonflyout.png
+  .. image:: images/editlessonflyout.png
 
-After you have made changes, click “Save” to implement your changes.
+3. After you have made changes, click “Save” to implement your changes.
+
+  .. warning:: Please note: if you delete a lesson, you can not undo this deletion. 
 
 
 Set the Lesson Availability
