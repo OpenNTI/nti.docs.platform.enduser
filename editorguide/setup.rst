@@ -33,15 +33,17 @@ Control the who can see the course and when with course visibility.
 
 To get started, click on the "Make Changes" button on the course's Course Info page.
 
+.. image:: images/makechangesbutton.png
+
 **Visible in Catalog**
 
 The "Visible in Catalog" field allows you to toggle course visibility within the course catalog. 
 
 - **"Off"**
-  This option will keep the course private. This means that the course will not show up in the public course catalog. No one will be able to enroll in the course unless you provide them with the course reemption code.
+  This option will keep the course private. This means that the course will not show up in the public course catalog. No one will be able to enroll in the course unless you provide them with the course redemption code.
   
 - **"On"**
-   This will allow the course to display in the course catalog. This means that when a site user clicks on the course catalog, the course will display and the learner can view basic course information and enroll in the course.
+  This will allow the course to display in the course catalog. This means that when a site user clicks on the course catalog, the course will display and the learner can view basic course information and enroll in the course.
 
 **Preview Mode**
 
@@ -56,7 +58,7 @@ The "Preview Mode" defines when the course becomes available for learners to beg
 - **Based on Start Date:**
   This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
   
-.. image:: images/coursepreviewmode.png
+.. image:: images/coursepreviewmode4.png
 
 ..  note:: By default the course will be in **Preview Mode On** and will need to be either switched to **Preview Mode Off** or **Based on Start Date** for users to begin the course. 
 
@@ -66,25 +68,24 @@ Basic Course Information
 
 Basic course information includes the course ID, Title, Description, and Tags. This information will display to users.
 
-.. image:: images/basicinfoedit.png
+.. image:: images/basicinfo.png
 
-**Course ID**
+**Course Identifier**
 
 Give your course an ID. The Course ID field allows you to create a organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
 
-**Course Title***
+**Course Title**
 
 Name your course. This course title will display on learner's homepage as well as the catalog.
 
-**Course Description**
+**About this Course**
 
 Describe your course. This description will help learners decide if they wish to enroll in the course.
 
-**Course Tags**
+**Categories**
 
-Tag courses with one or multiple tags (e.g., “English Literature”). These tags will create catagories within the course catalog, and allow learners to search available courses by catagory.
+Tag courses with one or multiple tags (e.g., “English Literature”). These tags will create categories within the course catalog, and allow learners to search available courses by category.
 
-.. image:: images/coursetagging.png
 
 Course Assets
 --------------
@@ -154,7 +155,7 @@ Select a day or days Sunday through Saturday, and also select timeframes for you
 Manage Facilitators
 -------------------------------
 
-Manage your course facilitators, including Instructors, Editors, and Assitants.
+Manage your course facilitators, including Instructors, Editors, and Assistants.
 
 .. image:: images/coursefacilitator1.png
 
