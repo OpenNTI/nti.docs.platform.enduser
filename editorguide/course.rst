@@ -201,51 +201,31 @@ To edit the lesson time frame,
 Move a Lesson  
 -----------------
 
-There are three ways to move a lesson:
+There are multiple ways to move a lesson:
 
 **Course Outline:** Lessons can be moved within the course outline. 
-
-.. image:: images/
 
 1. Click and hold on the lesson title that you want to move.
 2. Drag that lesson to the desired position in the course outline. 
 
 **Edit Lesson Flyout:** You can also move a lesson in the Edit Lesson Flyout.
-   
-.. image:: images/
 
 1. Select the lesson you want to edit by clicking on the lesson title in the course outline.
 2. Click the lesson “Edit” button. 
 3. In the Edit Lesson Flyout, use the position dropdown to select a new lesson position with the unit, or use the unit dropdown to move the lesson to another unit 
 4. Click “Save.”
 
+.. image:: images/editlessonflyout.png
 
-**Unit Page:** Lessons can also be moved within the unit page, either within the unit or to another unit.
-
-.. image:: images/
-
-   **Move the lesson within the unit:**
-
-   1. Click and hold on the lesson title that you want to move.
-   2. Drag the lesson to the desired position on the unit page.
-
-   **Move the lesson to another unit:**  
-   
-   1. Click and hold on the lesson title that you want to move.
-   2. Drag the lesson to the desired position in the desired unit on the course outline.
-
-   **Move a lesson from the outline to the viewed unit.**
-
-   1. Click and hold on the lesson title that you want to move.
-   2. Drag the lesson from the outline  into a selected unit page.
 
 Course Sections
 =================
 
-Lesson pages are further organized into sections. Sections organize your lesson with titled, colored dividers. 
+Lesson are further organized into sections. Sections organize your lesson with titled, colored dividers. 
+
+.. image:: images/sectiondivide.png
 
 .. note:: A lesson page must have at least one section to add content.
-
 
 Add a Section to a Lesson
 ------------------------------
@@ -255,12 +235,17 @@ Before you add content to your lesson, you’ll need to add sections.
 1. If you are in View Mode, click on the “Start Editing” button in the lower right-hand corner to switch to Edit Mode.  
 2. Select a lesson by clicking on the lesson title in the course outline.
 3. Click on “+Add Section." This will open a window to edit your section. 
+
+   .. image:: images/addsection.png
+   
 4. In the editing window:
 
    - Type a title for the “Section name.”
    - Select a color for the section label.
 
 5. Click “Add to Lesson” to create the section.
+
+.. image:: images/editsectionflyout.png
 
 Edit a  Section 
 ---------------------
