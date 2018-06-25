@@ -5,6 +5,7 @@ Editor Guide
 .. toctree::
 	:maxdepth: 1
 
+	setup
 	course
 	content
 	assignment
