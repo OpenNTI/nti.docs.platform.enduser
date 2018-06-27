@@ -2,7 +2,9 @@
 Course Setup
 =========================
 
-Make sure your course is set up correctly before you go live!
+When creating a new course and before learners enroll, make sure to walk through basic course setup and settings. Here, we take you through course visibility and availability, information, assets, credit, facilitators, and more.
+
+First click into your course from your homepage. Now, select the "Course Info" view.
 
 Your **Course Info** page includes:
 
@@ -31,9 +33,8 @@ Control course visibility.
 
 To get started, click on the "Make Changes" button on the course's Course Info page.
 
-.. image:: images/makechanges.png
-
 .. image:: images/makechangesbutton.png
+.. image:: images/makechanges.png
 
 **Visible in Catalog**
 
@@ -50,7 +51,7 @@ The "Visible in Catalog" field allows you to toggle course visibility within the
 The "Preview Mode" defines when the course becomes available for learners to begin.
 
 - **Preview Mode On:**
-  This option sets the course to course preview mode, meaning that users can only view Course Info but cannot view course content.
+  This option sets the course to course preview mode, meaning that users can only view Course Info and cannot view course content.
   
 - **Preview Mode Off:**
   This option allows the course to be fully available to users.
@@ -71,7 +72,7 @@ Basic course information includes the course ID, title, description, and tags. T
 
 **Course Identifier**
 
-Give your course an ID. The Course ID field allows you to create an organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
+Give your course an ID. The Course Identifier field allows you to create an organizational system for your courses. IDs can have both numbers and letters. Use this field to align with an external identification system, or create your own. 
 
 **Course Title**
 
@@ -83,7 +84,7 @@ Describe your course. This description will help learners decide if they wish to
 
 **Categories**
 
-Tag courses with one or multiple tags (e.g., “English Literature”). These tags will create categories within the course catalog, and allow learners to search available courses by category.
+Tag courses with one or multiple tags (e.g., “Organizational Leadership”). These tags will create categories within the course catalog, and allow learners to search available courses by category.
 
 
 Course Assets
@@ -127,7 +128,9 @@ To assign a credit type to a course,
 
 .. image:: images/coursecred.png
 
-Credit will be awarded when the user has completed the course as defined by completion of required materials. Upon course completion, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile.
+Credit will be awarded when the user has completed the course as defined by completion of required materials. Learners can see the credit they've earned within their profile.
+
+.. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see "Completion and Certificates" below.
 
 Start and End Date
 --------------------
@@ -195,3 +198,18 @@ The current roles are as follows:
 
 - **Course Editor:** Editing only (no instructor capabilities)
    
+[Advanced] Completion and Certificates
+----------------------------------------
+
+Manage course completion and certificate options with your Admin Tools.
+
+.. image:: images/advancedadmin.png
+
+1. Select "Admin Tools."
+2. Select "View Now" under "Advanced."
+
+.. image:: images/advancetools.png
+
+- **Completable:** Toggle "On" to allow the course to be completable. This means that once learners complete all required course materials, they will have completed the course. When turned on, learners can track their completion progress from their Lessons page, which offers a percentage of completed materials.
+- **Award Certificate on Completion:** Toggle "On" to award a certificate once learners have completed the course. This means that once learners complete all required course materials, they will have the option to "View Certificate" from their lessons page. Completion certificates are also viewable from their profile.
+- **Percentage:** Define what percentage of required materials is acceptable for course completion. In other words, if you mark 10 items as required, and define **Percentage** as 50, learners only need to engage with 5 required items to complete the course.
