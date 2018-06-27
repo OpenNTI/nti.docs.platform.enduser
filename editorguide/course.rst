@@ -117,18 +117,17 @@ Once you have created a unit, you can add lessons.
 Lessons hold your course content and are the main content delivery
 module for all courses. A lesson must be contained within a unit, and
 you may have multiple lessons within a unit. Your course must have at
-least one unit and one Lesson. 
+least one unit and one lesson. 
 
 Add a Lesson to a Unit
 --------------------------------------
 
 After creating your unit, add a lesson to the unit.
 
-1. If you are in View Mode, click on the Start Editing button in the bottom right-hand corner to switch to Edit Mode. 
-2. Select the unit you want to add a lesson to by clicking on the unit title in the course outline. 
-3. Click on “+Add Lesson” at the bottom of the unit in the outline.
-4. Type in a title for the lesson.
-5. Hit the “return” key to create the lesson.
+1. If you are in View Mode, click on the Start Editing button in the bottom right-hand corner to switch to Edit Mode.  
+2. Select “+Add Lesson” at the bottom of the unit in the outline.
+3. Type in a title for the lesson.
+4. Hit the “return” key to create the lesson.
 
 .. image:: images/addlesson.png
 
@@ -167,14 +166,14 @@ lesson and includes three states: Publish Now, Schedule, and Draft.  
 
 .. image:: images/publishstatelesson.png
 
-- **Draft:** Lesson is visible ONLY to instructors/editors/admin and only in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the instructor changes its status.
+- **Draft:** Lesson is visible ONLY to instructors/editors/admin and only in Edit Mode. When a lesson is created, it automatically defaults to “Draft” until the facilitator changes its status.
 - **Publish Now:** Immediately make lesson fully visible to students.
-- **Schedule:** Schedule lesson to be fully visible to students on a certain date and time. The lesson title will appear as lighter grey text until the start date has passed. Students will see this text, but will not be able to view the lesson. Instructors will only be able to click on and view a scheduled lesson when in Edit Mode.
+- **Schedule:** Schedule lesson to be fully visible to students on a certain date and time. The lesson title will appear as lighter grey text until the start date has passed. Students will see this text, but will not be able to view the lesson. Facilitators will only be able to click on and view a scheduled lesson when in Edit Mode.
 
 .. note:: Lessons can be changed between these three different states at any time.
 
 To Publish Now or send the lesson back to Draft, simply select the
-desired status in the Publish State Flyout. And click "Save."
+desired status in the Publish State Flyout and click "Save."
 
 To **schedule a lesson,** follow the instructions below:
 
@@ -185,7 +184,7 @@ To **schedule a lesson,** follow the instructions below:
 Set the Lesson Time Frame
 -------------------------------------------------------------------------------------------------------------------------------------------
 
-The Lesson time frame is a calendar that learners can use to help them
+The lesson time frame is a calendar that learners can use to help them
 stay on track for your course. 
 
 The time frame start date appears to the left of a lesson when a mouse
@@ -194,7 +193,7 @@ when a lesson is selected. The start and end date is also displayed over the les
 
 .. image:: images/timeframe.png
 
-To edit the lesson time frame,
+To **edit the lesson time frame**,
 
 1. Click on the calendar icon within a lesson.
 2. Set the Begin Date by clicking on a calendar date and adding a time.
@@ -203,7 +202,7 @@ To edit the lesson time frame,
 
 .. image:: images/startenddatetimeframe.png
 
-.. note::  Setting a start and end date does not restrict access to your lesson. Please "Schedule" your lesson to restrict access.
+.. warning::  Setting a start and end date does not restrict access to your lesson. Please "Schedule" your lesson to restrict access.
 
 
 Move a Lesson  
@@ -220,7 +219,7 @@ There are multiple ways to move a lesson:
 
 1. Select the lesson you want to edit by clicking on the lesson title in the course outline.
 2. Click the lesson “Edit” button. 
-3. In the Edit Lesson Flyout, use the position dropdown to select a new lesson position with the unit, or use the unit dropdown to move the lesson to another unit 
+3. In the Edit Lesson Flyout, use the position dropdown to select a new lesson position with the unit, or use the unit dropdown to move the lesson to another unit. 
 4. Click “Save.”
 
 .. image:: images/editlessonflyout.png
@@ -242,18 +241,20 @@ Before you add content to your lesson, you’ll need to add sections.
 
 1. If you are in View Mode, click on the “Start Editing” button in the lower right-hand corner to switch to Edit Mode.  
 2. Select a lesson by clicking on the lesson title in the course outline.
-3. Click on “+Add Section." This will open a window to edit your section. 
+3. Click on “+Add Section." This will open the Edit Section Flyout to add or edit your section. 
 
    .. image:: images/addsection.png
    
-4. In the editing window:
+4. In the Edit Section Flyout:
 
    - Type a title for the “Section name.”
    - Select a color for the section label.
+   
+   .. image:: images/editsectionflyout.png
 
 5. Click “Add to Lesson” to create the section.
 
-.. image:: images/editsectionflyout.png
+   .. image:: images/newsection.png
 
 Edit a Section 
 ---------------------
