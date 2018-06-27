@@ -19,6 +19,7 @@ Your **Course Info** page includes:
 - End Date
 - Meet Times
 - Facilitators
+- Completion and Certificates
 
 .. image:: images/editcourseinfo.png
 
@@ -84,7 +85,9 @@ Describe your course. This description will help learners decide if they wish to
 
 **Categories**
 
-Tag courses with one or multiple tags (e.g., “Organizational Leadership”). These tags will create categories within the course catalog, and allow learners to search available courses by category.
+Tag courses with one or multiple tags (e.g., “Marketing”). These tags will create categories within the course catalog, and allow learners to browse available courses by category.
+
+.. image:: images/categories.png
 
 
 Course Assets
@@ -130,7 +133,12 @@ To assign a credit type to a course,
 
 Credit will be awarded when the user has completed the course as defined by completion of required materials. Learners can see the credit they've earned within their profile.
 
-.. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see "Completion and Certificates" below.
+.. warning:: Two conditions must be met for your course to automatically award credit:
+            
+			 - Course completion must be turned on (see **Completion and Certificates** section below). 
+			 - Some course materials must be required.
+
+.. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the learner can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see **Completion and Certificates** below.
 
 Start and End Date
 --------------------
@@ -138,13 +146,13 @@ Start and End Date
 Define when your course begins and ends. 
 
 1. Click “Edit” next to either “Start Date” or “End Date.” 
-2. Then, click the dropdown to select a date.
+2. Click the dropdown and select a date.
 3. Set a time.
 4. Click "Save." 
 
 .. image:: images/coursestarttime.png
 
-.. note:: You can use the start date and time to define when the course becomes available for users. See the "Course Visibility" section above.
+.. note:: You can use the Start Date and time to define when the course becomes available for users. See the "Course Visibility" section above.
 
 .. note:: Setting an End Date will not revoke access to the course. The course is available indefinitely as long as a learner is enrolled. If you would like to revoke access to a course, please contact NextThought.
 
@@ -167,26 +175,24 @@ Manage your course facilitators, including Instructors, Editors, and Assistants.
 
 .. image:: images/coursefacilitator1.png
 
-1. Click on the Course Info tab
-2. Scroll to the Facilitator section
-3. Click “Edit”
-4. Add new facilitator:
+1. Click “Edit” next to "Facilitators."
+2. To add a new facilitator:
 
    .. image:: images/coursefacilitator.png
    
-   - Click “Add a Facilitator”
-   - Search user(s) by name
-   - Assign a role (Instructor, Assistant, or Editor)
-   - Click “Visible to Learners” if you’d like this facilitator to show on the Course Info page and homepage 
+   - Click “Add a Facilitator.”
+   - Search user(s) by name.
+   - Assign a role (see roles defined below).
+   - Click “Visible to Learners” if you’d like this facilitator to show on the Course Info page and homepage.
    
-5. Edit current facilitator:
+3. To edit a current facilitator:
 
-   - Locate facilitator on list
-   - Toggle “visible” or “hidden” via the dropdown 
-   - Toggle role using the role dropdown
-   - Remove a facilitator by clicking the “x”
+   - Locate facilitator on list.
+   - Toggle “visible” or “hidden” via the dropdown.
+   - Toggle role using the role dropdown.
+   - Remove a facilitator by clicking the “x.""
    
-6. Click "Save" within the course facilitator section to save your changes.
+4. Click "Save" within the course facilitator section to save your changes.
 
 The current roles are as follows:
 
@@ -211,5 +217,13 @@ Manage course completion and certificate options with your Admin Tools.
 .. image:: images/advancetools.png
 
 - **Completable:** Toggle "On" to allow the course to be completable. This means that once learners complete all required course materials, they will have completed the course. When turned on, learners can track their completion progress from their Lessons page, which offers a percentage of completed materials.
-- **Award Certificate on Completion:** Toggle "On" to award a certificate once learners have completed the course. This means that once learners complete all required course materials, they will have the option to "View Certificate" from their lessons page. Completion certificates are also viewable from their profile.
+- **Award Certificate on Completion:** Toggle "On" to award a certificate once learners have completed the course. This means that once learners complete all required course materials, they will have the option to "View Certificate" from their Lessons page. Completion certificates are also viewable from their profile.
 - **Percentage:** Define what percentage of required materials is acceptable for course completion. In other words, if you mark 10 items as required, and define **Percentage** as 50, learners only need to engage with 5 required items to complete the course.
+
+.. note:: Please note, you have several options when customizing your course with these tools:
+
+		  - Require materials, no certificate, no credit
+		  - Require materials, award certificate, no credit
+		  - Require materials, no certificate, award credit
+		  - Require materials, award certificate, award credit
+		  - No required materials (if you do not add required materials, no credit nor certificate can be automatically awarded)
