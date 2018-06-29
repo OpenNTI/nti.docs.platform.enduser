@@ -31,13 +31,9 @@ The grace period is not disclosed to the learner. If the learner tries to submit
 Allow Instructors/Editors to Create Forums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Old Behavior**
+Upon creation of a new course, the default view for the Discussion course tab will be empty. An “Add a Forum” button has been added to create new forums. Once a forum is created it can also be deleted by selecting the forum and clicking “Delete.”
 
-Upon creation of a new course, the default view for the Discussions page displayed a single forum titled “Forum.” Instructors and Editors could add new discussions to this single forum. They could not create new forums.
-
-**New Behavior**
-
-Now, upon creation of a new course, the default view for the Discussion course tab will be empty. An “Add a Forum” button has been added to create new forums. Once a forum is created it can also deleted by selecting the forum and clicking “Delete.”
+.. image:: images/newforumcreation.jpg
 
 New Call-Outs in Native Readings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
