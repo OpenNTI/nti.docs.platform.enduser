@@ -12,10 +12,10 @@ Course Instructors now have the ability to restrict submissions to an assignment
 
 After the due date, the learner can still view the assignment, but the assignment will not allow submissions. 
 
-1. After creating/editing assignment add a due date.
+1. While creating/editing assignment, add a due date.
 2. Select the “Options” button.
-3. Navigate down to the bottom tab labeled “Late Submissions.”
-4. Select the tab labeled “Allow within Grace Period” and set a preferred time.
+3. Navigate down to the bottom section labeled “Late Submissions.”
+4. Select the dropdown labeled “Allow within Grace Period” and set a preferred time.
 5. Click the “Done” button to save your changes.
 
 .. image:: images/restrictedsub.png
