@@ -51,11 +51,11 @@ You can now add call-outs (grey box) to native readings. Currently only text is 
 Manage Redemption Codes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You now have the option to add additional codes and delete redemptions codes (including the one automatically assigned). New codes are automatically generated.
+You now have the option to add additional codes and delete redemption codes (including the one automatically assigned). New codes are automatically generated.
 
 Redemption codes can be found on the Course Info page.
 
-To add an additional code:
+**To add an additional code:**
 
 1. Click on the “Edit” text.
 2. Click “Create Code.”
@@ -67,16 +67,14 @@ A code will then be automatically generated. Users on the site can use this new 
 Draft Label for Unpublished Readings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-There is now a draft label on any edited reading that is not published. This can only be seen in the edit mode.
+There is now a draft label on any reading that is not published. This can only be seen in Edit mode.
 
 .. image:: images/draftlabel.png
 
 New Content Type Selection Design
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The visual design for selecting course materials have been updated.
-
-**New Design:**
+The visual design for selecting course materials has been updated.
 
 .. image:: images/contenttyperedesign.png
 
