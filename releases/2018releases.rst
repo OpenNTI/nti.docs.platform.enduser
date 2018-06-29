@@ -18,6 +18,9 @@ After the due date, the learner can still view the assignment, but the assignmen
 4. Select the tab labeled “Allow within Grace Period” and set a preferred time.
 5. Click the “Done” button to save your changes.
 
+.. image:: images/restrictedsub.png
+
+The grace period is not disclosed to the learner. If the learner tries to submit the assignment after the due date or grace period, a warning window will appear stating that the assignment is past due and cannot be submitted.
 
 Allow Instructors/Editors to Create Forums
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -37,7 +40,11 @@ You can now add call-outs (grey box) to native readings. Currently only text is 
 
 **Editing View:**
 
-**Published View:**			
+.. image:: images/callout1.png
+
+**Published View:**	
+
+.. image:: images/callout2.png
 
 Manage Redemption Codes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -59,18 +66,23 @@ To add an additional code:
 
 A code will now be automatically generated. Users on the site can use this new code to enroll in the course. Codes can also be deleted by clicking on the trashcan icon next to the code in edit mode. Once a code is deleted, learners using the code can no longer use it to enroll in the course.
 
+.. image:: images/redemptioncodes.png
+
 Draft Label for Unpublished Readings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There is now a draft label on any edited reading that is not published. This can only be seen in the edit mode.
+
+.. image:: images/draftlabel.png
 
 New Content Type Selection Design
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The visual design for selecting course materials have been updated.
 
-**Previous Design:**
 **New Design:**
+
+.. image:: images/contenttyperedesign.png
 
 Remove Step for Course Creation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -79,9 +91,9 @@ Previously, to create a new course, Admins would select the “Create” button,
 
 Now, when selecting the “Create” button, the dropdown underneath has the three types listed.
 
-**Previous Design:**
-
 **New Design:**
+
+.. image:: images/addcoursetab.png
 
 June 7, 2018
 ------------
