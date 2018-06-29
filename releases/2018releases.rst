@@ -2,6 +2,91 @@
 2018 Release Notes
 ===================
 
+June 28, 2018
+-------------
+
+Restrict Assignment Submissions Based on Due Date
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Course Instructors now have the ability to restrict submissions to an assignment by due date and offer a grace period or timeframe for their assignments. A grace period grants an extended submission timeframe to an assignment beyond the due date.
+
+After the due date, the learner can still view the assignment, but the assignment will not allow submissions. 
+
+**To restrict submissions or add a grace period:**
+
+1. While creating/editing assignment, add a due date.
+2. Select the “Options” button.
+3. Navigate down to the bottom section labeled “Late Submissions.”
+4. Select the dropdown.
+
+   - **To Restrict Access Based on Due Date:** Select "Never Allow" to restrict submissions to only before due date.
+   - **To Restrict Access with Grace Period:** Select the "Allow within Grace Period" to allow submissions only past the due date by a defined amount of time. Then, define the amount of time you'd like to allow.
+
+5. Click the “Done” button to save your changes.
+
+.. image:: images/restrictedsub.png
+
+The grace period is not disclosed to the learner. If the learner tries to submit the assignment after the due date or grace period, a warning window will appear stating that the assignment is past due and cannot be submitted.
+
+Allow Instructors/Editors to Create Forums
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Upon creation of a new course, the default view for the Discussion course tab will be empty. An “Add a Forum” button has been added to create new forums. Once a forum is created it can also be deleted by selecting the forum and clicking “Delete.”
+
+.. image:: images/newforumcreation.jpg
+
+New Call-Outs in Native Readings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+You can now add call-outs (grey box) to native readings. Currently only text is allowed within the call-out.
+
+**Editing View:**
+
+.. image:: images/callout1.png
+
+**Published View:**	
+
+.. image:: images/callout2.png
+
+Manage Redemption Codes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+You now have the option to add additional codes and delete redemption codes (including the one automatically assigned). New codes are automatically generated.
+
+Redemption codes can be found on the Course Info page.
+
+**To add an additional code:**
+
+1. Click on the “Edit” text.
+2. Click “Create Code.”
+
+A code will then be automatically generated. Users on the site can use this new code to enroll in the course. Codes can also be deleted by clicking on the trashcan icon next to the code in edit mode. Once a code is deleted, learners using the code can no longer use it to enroll in the course.
+
+.. image:: images/redemptioncodes.png
+
+Draft Label for Unpublished Readings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+There is now a draft label on any reading that is not published. This can only be seen in Edit mode.
+
+.. image:: images/draftlabel.png
+
+New Content Type Selection Design
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The visual design for selecting course materials has been updated.
+
+.. image:: images/contenttyperedesign.png
+
+Remove Step for Course Creation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, to create a new course, Admins would select the “Create” button, select “Course” in the dropdown, and select the course type (Blank, Import, Scorm) in a new window.
+
+Now, when selecting the “Create” button, the dropdown underneath has the three types listed.
+
+.. image:: images/addcoursetab.png
+
 June 7, 2018
 ------------
 
