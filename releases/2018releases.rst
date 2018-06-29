@@ -38,7 +38,7 @@ Upon creation of a new course, the default view for the Discussion course tab wi
 New Call-Outs in Native Readings
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can now add call-outs (grey box) to native readings. Currently only text is allowed within the call-out.
+You can now add call-outs (gray box) to native readings. Currently only text is allowed within the call-out.
 
 **Editing View:**
 
@@ -60,7 +60,7 @@ Redemption codes can be found on the Course Info page.
 1. Click on the “Edit” text.
 2. Click “Create Code.”
 
-A code will then be automatically generated. Users on the site can use this new code to enroll in the course. Codes can also be deleted by clicking on the trashcan icon next to the code in edit mode. Once a code is deleted, learners using the code can no longer use it to enroll in the course.
+A code will then be automatically generated. Users on the site can use this new code to enroll in the course. Codes can also be deleted by clicking on the trashcan icon next to the code in edit mode. Once a code is deleted, learners can no longer use it to enroll in the course. Deleting the code will not affect current learner enrollment.
 
 .. image:: images/redemptioncodes.png
 
