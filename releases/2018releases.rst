@@ -85,8 +85,6 @@ Previously, to create a new course, Admins would select the “Create” button,
 
 Now, when selecting the “Create” button, the dropdown underneath has the three types listed.
 
-**New Design:**
-
 .. image:: images/addcoursetab.png
 
 June 7, 2018
