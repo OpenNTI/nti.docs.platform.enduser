@@ -51,7 +51,7 @@ You can now add call-outs (gray box) to native readings. Currently only text is 
 Manage Redemption Codes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You now have the option to add additional codes and delete redemption codes (including the one automatically assigned). New codes are automatically generated.
+You now have the option to add and delete redemption codes. New codes are automatically generated when you select the "Create Code" text.
 
 Redemption codes can be found on the Course Info page.
 

@@ -140,6 +140,39 @@ Credit will be awarded when the user has completed the course as defined by comp
 
 .. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the learner can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see **Completion and Certificates** below.
 
+Redemption and Invitation Codes
+-------------------------------
+
+Invite learners to enroll in your course through a redemption code. Redemption codes allow learners to enroll in private courses in the course catalog's Redeem tab.
+
+Two types of codes exist:
+
+- unlimited use
+- user specific, one-time use
+
+Unlimited use redemption codes can be found on the Course Info page.
+
+**To generate an unlimited use code:**
+
+1. Click “Edit" next to "Redemption Code."
+2. Click “Create Code.”
+
+Codes can also be deleted by clicking on the trashcan icon next to the code in edit mode. Once a code is deleted, learners can no longer use it to enroll in the course. Deleting the code will not affect current learner enrollment.
+
+.. image:: images/redemptioncodes.png
+
+**To send a user specific code:**
+
+1. Click on the Admin Tools tab on the Course Info page.
+2. Select the Roster "View Now" text.
+3. Select the "Invite" button.
+4. Enter email addresses and your personal message.
+5. Click "Send."
+
+.. image:: images/invitecode.png
+
+Along with your personal message, the platform will send a personalized course code (a separate code to each email) and a link to the course. When the user creates an account, they must sign up with the email you sent the invitation to in order to redeem access. 
+
 Start and End Date
 --------------------
 
