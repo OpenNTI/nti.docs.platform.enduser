@@ -2,7 +2,9 @@
 Manage Site Credit
 -------------------
 
-Create credit types to award for course completion. You can also award credit manually for any occassion.
+Create credit types to award for course completion. You can also award credit manually for any occasion.
+
+.. note: Learn more about how learners interact with progress, certificates, and credit within the User Guide: https://help.nextthought.com/userguide/Progress_Certs_Credit.html
 
 Create Credit Options
 ---------------------
@@ -50,4 +52,4 @@ Course instructors, course editors, as well as Site Admin can assign credit to a
 
 .. image:: images/coursecred.png
 
-Credit will be awarded when the user has completed the course as defined by completion of required materials. Upon course completion, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile.
+.. note:: Credit will be awarded when the user has completed the course as defined by completion of required materials. Upon course completion, the user can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. To learn how to set up courses for progress, certificates, and credit, view the **Course Creation and Setup** section of the Admin Guide: https://help.nextthought.com/adminguide/createcourse.html

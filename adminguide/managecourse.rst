@@ -30,7 +30,7 @@ Once you select a course, you can view three tabs:
 Course Overview
 =============================================
 
-The **Overview tab** is the default view once you select a course in your Admin Tools.
+The **Overview tab** is the default view once you select a course in your admin tools.
 
 Widgets include:
 
@@ -63,7 +63,7 @@ Click on a learner within the course to view their
 
 .. image:: images/courselearnerstat.png
 
-.. note:: Selecting a learner inside your course roster will only offer information on the learner pertaining to the course. If you want to view learner site activity and progress, you will need to navigate to your Admin Tool's Users tab. See more information here: https://help.nextthought.com/adminguide/managesiteusers.html
+.. note:: Selecting a learner inside your course roster will only offer information on the learner pertaining to the course. If you want to view learner site activity and progress, you will need to navigate to your admin tool's Users tab. See more information here: https://help.nextthought.com/adminguide/managesiteusers.html
 
 Course Reports
 =================
