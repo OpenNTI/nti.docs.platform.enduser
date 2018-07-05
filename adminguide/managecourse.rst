@@ -2,7 +2,9 @@
 Manage a Course
 =================
 
-Manage a course from your admin tools. View and search all courses in one place, view enrollments and course activity, course rosters, and reports. You can also edit course information and manage course facilitators.
+Manage a course from your admin tools. View and search all courses in one place, view enrollments and course activity, rosters, and reports. 
+
+.. warning: If you would like to edit course information, facilitators, credit, or more, please see "Course Creation and Setup" here: https://help.nextthought.com/adminguide/createcourse.html
 
 View and Search all Courses
 ============================
@@ -13,103 +15,69 @@ View and search all your courses within your admin tools.
 
 .. image:: images/adminbutton2.png
 
-2. Click on the "Courses" tab.
+2. Click on the "Content" tab.
 
-The **Courses Tab** offers a list of all courses on the site. Click in the "Search Courses" field in the upper right-hand corner to find a course. Begin typing in the title of the course and click enter to search.
+The **Content Tab** offers a list of all courses on the site. Click in the "Search Courses" field in the upper right-hand corner to find a course. Begin typing in the title of the course to see search results. Click on a course to manage.
 
 .. image:: images/admincourses.png
 
-Review Course Activity, Roster, and Reports
+Once you select a course, you can view three tabs:
+
+- Overview
+- Roster
+- Reports
+
+Course Overview
 =============================================
 
-Within the "Courses" tab, select a course in order to view:
+The **Overview tab** is the default view once you select a course in your Admin Tools.
 
-- Total Enrollments
+Widgets include:
+
+- Enrollment
+- Learner Progress
+- Top Learners
 - Daily Activity
 - Active Times
 - Most Popular Time
-- Course Roster
-- Course Reports
 
 .. image:: images/admincourse.png
 
-Edit Course Information
-========================
+Course Roster
+===================
 
-Opening a course allows you to edit all course information, add course tags, and manage facilitators.
+The **Roster tab** allows you to:
 
-To open a course,
+- View a list of enrolled learners
+- View learner progress
+- Access detailed learner reports pertaining to the course
 
-1. Navigate to your homepage.
-2. Find the course under "Administered Courses." If you have many courses, you may need to click "See All" to view others.
-3. Click on the course.
-4. Click on the "Course Info" tab.
+.. image:: images/courserosteradmin.png
 
-.. image:: images/courseedit.png
+Click on a learner within the course to view their
 
-From this tab, you can edit, add, or update:
+- Activity
+- Active Times
+- Progress
+- Reports
 
-- Course Video
-- ID
-- Title
-- Description and Tags
-- Assets
-- Prerequisites
-- Start Date
-- End Date
-- Meet Times
-- Facilitators
+.. image:: images/courselearnerstat.png
 
-You can also review your enrollment code here.
+.. note:: Selecting a learner inside your course roster will only offer information on the learner pertaining to the course. If you want to view learner site activity and progress, you will need to navigate to your Admin Tool's Users tab. See more information here: https://help.nextthought.com/adminguide/managesiteusers.html
 
-To edit a field, click the "Edit" button. Make your changes and be sure to click "Save" to submit your changes.
+Course Reports
+=================
 
-.. note:: Course tags will create categories in the course catalog. These categories help sort and organize courses. See the Release Notes for more information.
+The **Reports tab** allows you to view:
 
+- Course Summary Report
+- Self Assessment Summary Report
+- Course Roster Report
+- Assignment Summary Report
+- Forum Participation Report
+- Top Participation Report
 
-Manage Course Facilitators
-===========================
+.. image:: images/coursereportstab.png
 
-Manage course facilitators from the Course Info tab within a course.
-
-To add, edit, or remove course facilitators, click on the "Edit" button within the "Facilitators" section of the Course Info tab.
-
-Manage Current Facilitators
-----------------------------
-
-Once you select "Edit," course facilitators will display. Manage current facilitators using the role dropdown, or remove them entirely using the "x" button. 
-
-.. image:: images/coursefacil.png
-
-Toggle visibility using the dropdown menu. **Visible** allows their name to be visibly mentioned as a course facilitator when users view the course. **Hidden** facilitators will not be visibly mentioned as a course facilitator when users view the course.
-
-Add a Facilitator
--------------------
-
-To add a course facilitator,
-
-1. Click the "+ Add a Facilitator" button.
-
-2. Begin typing the name of the facilitator in the "Add users" field. Select the user from the search hits. 
-
-.. image:: images/coursefaciledit.png
-
-.. note:: The user must have already created an account on the site. You can only search current members of the site.
-
-3. Assign a role:
-
-- **Instructor:** Editing and Managing. An instructor can create the course outline, create and place content, and manage the course (view student discussions, assignments, and reports). The instructor acts as both **editor** and **assistant** as defined below.
-- **Editor:** Editing only. An editor can create the course outline as well as create and place content. They cannot manage the course or view student activity or work.
-- **Assistant:** Managing only. An assistant can manage the course, but cannot create the course outline or content.
-
-.. note:: These assigned "roles" will not be visible to the user.
-
-4. Choose visibility.
-
-- **Visible:** Allows their name to be visibly mentioned as a course facilitator when users view the course. 
-- **Hidden:** Facilitators will not be visibly mentioned as a course facilitator when users view the course.
-
-5. Click "Add."
-6. Scroll down the list of facilitators and click "Save."
-
+Select a report to view, download, or print.
 

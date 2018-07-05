@@ -1,13 +1,13 @@
-=================
-Create a Course
-=================
+==========================
+Course Creation and Setup
+==========================
 
 This guide will walk you through creating a new course "shell," as well as Course Setup. 
 
-.. note:: Please be aware that although creating a new course is reserved only as a Site Admin feature, course setup can also be completed by editors of the course.
+.. note:: Please be aware that although creating a new course is reserved only as a Site Admin feature, course setup can be completed by editors and instructors of the course.
 
 Create Course Shell
---------------------
+====================
 
 **To create a new course:**
 
@@ -25,12 +25,26 @@ Create Course Shell
 
 .. image:: images/coursecreationid.png
 
-.. note:: You can come back to edit these fields at any time.
+You can come back to edit these fields at any time.
   
-You will now continue to the Course Info page.
+.. note:: You will now continue to the Course Info page. 
+
+Edit Course Information
+========================
+
+Opening a course allows you to edit all course information, add course tags, and manage facilitators.
+
+To open a course,
+
+1. Navigate to your homepage.
+2. Find the course under "Administered Courses." If you have many courses, you may need to click "See All" to view others.
+3. Click on the course.
+4. Click on the "Course Info" tab.
+
+.. image:: images/courseedit.png
 
 Course Info Page
-----------------
+=================
 
 Your **Course Info** page includes:
 
@@ -54,7 +68,7 @@ This view also allows you to manage course visibility and allows access to your 
 .. note:: Site admin, instructors, and editors can all edit the Course Info page.
 
 Course Visibility
---------------------
+===================
 
 Control course visibility.
 
@@ -92,7 +106,8 @@ The "Preview Mode" defines when the course becomes available for learners to beg
 
 
 Basic Course Information
---------------------------
+=========================
+
 Basic course information includes the course ID, title, description, and tags. This information will display to learners.
 
 .. image:: images/basicinfo.png
@@ -117,7 +132,7 @@ Tag courses with one or multiple tags (e.g., “Marketing”). These tags will c
 
 
 Course Assets
---------------
+===============
 
 Upload an image to represent your course. This image will display in the course catalog, and will be in the background of your course. 
 
@@ -144,14 +159,14 @@ Upload an image to represent your course. This image will display in the course 
 7. Click "Done."
 
 Course Credit
---------------
+==============
 
 Allow learners to earn credit when they complete the course.
 
 To assign a credit type to a course,
 
 1. Click “Edit" next to "Credits."
-2. Use the dropdown to select an existing credit type and unit, or "Add Credit."
+2. Use the dropdown to select an existing credit type and unit, or "Add Credit." (If you do not see the credit type you want, please return to your Admin Tools to create a site credit type. See "Manage Site Credit" section within the Admin Guide to learn more.)
 3. Define the amount of credit.
 4. Click "Save."
 
@@ -167,7 +182,7 @@ Credit will be awarded when the user has completed the course as defined by comp
 .. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the learner can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see **Completion and Certificates** below.
 
 Redemption and Invitation Codes
--------------------------------
+================================
 
 Invite learners to enroll in your course through a redemption code. Redemption codes allow learners to enroll in private courses in the course catalog's Redeem tab.
 
@@ -200,7 +215,7 @@ Codes can also be deleted by clicking on the trashcan icon next to the code in e
 Along with your personal message, the platform will send a personalized course code (a separate code to each email) and a link to the course. When the user creates an account, they must sign up with the email you sent the invitation to in order to redeem access. 
 
 Start and End Date
---------------------
+===================
 
 Define when your course begins and ends. 
 
@@ -216,7 +231,7 @@ Define when your course begins and ends.
 .. note:: Setting an End Date will not revoke access to the course. The course is available indefinitely as long as a learner is enrolled. If you would like to revoke access to a course, please contact NextThought.
 
 Meet Times
-----------
+===========
 
 Use this space to suggest times the course will meet, either online or in person. This field will not change course availability, but is an optional tool to encourage course engagement. 
 
@@ -228,7 +243,7 @@ Use this space to suggest times the course will meet, either online or in person
 .. image:: images/meettimes.png
 
 Manage Facilitators
--------------------------------
+====================
 
 Manage your course facilitators, including Instructors, Editors, and Assistants.
 
@@ -253,6 +268,8 @@ Manage your course facilitators, including Instructors, Editors, and Assistants.
    
 4. Click "Save" within the course facilitator section to save your changes.
 
+.. warning:: Please note, if you are currently a site admin, but would also like to facilitate the course, please make sure you assign yourself the Instructor role as well.
+
 The current roles are as follows:
 
 - **Course Facilitator:** The term for course roles: instructor, assistant, and editor
@@ -264,7 +281,7 @@ The current roles are as follows:
 - **Course Editor:** Editing only (no instructor capabilities)
    
 [Advanced] Completion and Certificates
-----------------------------------------
+=======================================
 
 Manage course completion and certificate options with your Admin Tools.
 
@@ -286,3 +303,4 @@ Manage course completion and certificate options with your Admin Tools.
 		  - Require materials, no certificate, award credit
 		  - Require materials, award certificate, award credit
 		  - No required materials (if you do not add required materials, no credit nor certificate can be automatically awarded)
+
