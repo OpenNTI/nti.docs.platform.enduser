@@ -8,6 +8,7 @@ Admin  Guide
 	admindash
 	createcourse
 	managecourse
+	sitecredit
 	managesiteusers
 	sitereports
 	ClientStartGuide
