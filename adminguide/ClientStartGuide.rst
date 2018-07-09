@@ -50,18 +50,21 @@ See this dashboard here? Click on the first icon to view your dashboard. Click o
 Create a Course
 ---------------------
 
-Let's create your first course. Start by clicking the blue "+ Create" button in the upper right-hand corner of your homepage. Click "Course" in the dropdown.
+Let's create your first course. 
 
-.. image:: images/qdash.png
+1. Click on the "Create" button in the upper right-hand corner of your admin account.
+
+.. image:: images/createcoursebutton.png
    :scale: 50
 
-Click on the "Blank" creation type. Click "Continue."
+2. Select "New Course" in the dropdown menu.
 
-.. image:: images/qblankcourse.png
+.. image:: images/coursedropdown.png
+   :scale: 50
 
-Fill out the course title, ID, and desciption. Please note that you can edit these fields later. Click "Continue."
+3. Now, add the course title, a course ID, and a description. Click "Continue." 
 
-.. image:: images/qcoursedetails.png
+.. image:: images/coursecreationid.png
 
 Now, you've landed on your Course Info page within the newly created course. Scroll through the page and click "Edit" as needed to edit a field. You can also add instructor access from this page. 
 
@@ -114,6 +117,7 @@ You're ready to launch the site and begin marketing your courses. Before you do,
 - Your site is branded with your logo in the upper left-hand corner.
 - The community on the homepage has a name and image. 
 - Click into the course you want to launch and make sure you see the lessons you expect to see while previewing the course.
+- Make sure assignments are available and not in "draft."
 - Check that your courses are set to the right visibility. Click into each course from the homepage. Click on the "Course Info" page. Check the start date. Now, click on the "Make Changes" button. Check the visibility and preview settings. 
 
   - **Visible in Catalog:** This toggle allows you to place the course in the catalog publicly ("On"), or keep the course private ("Off"). If a course is private, users will only enroll using a redemption code. Private courses will be by invitation only.

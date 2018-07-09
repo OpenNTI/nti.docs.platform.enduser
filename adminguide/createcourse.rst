@@ -21,7 +21,7 @@ Create Course Shell
 .. image:: images/coursedropdown.png
    :scale: 50
 
-4. Now, add the course title, a course ID, and a description. Click "Continue." 
+3. Now, add the course title, a course ID, and a description. Click "Continue." 
 
 .. image:: images/coursecreationid.png
 
