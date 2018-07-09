@@ -11,7 +11,7 @@ To navigate to your dashboard, click on the admin tools button in the upper righ
 Your Dashboard
 ==============
 
-Your dashboard opens by default within the suite of admin tools. 
+Your dashboard tab opens by default within the suite of admin tools. 
 
 The dashboard offers visual analytics of
 
