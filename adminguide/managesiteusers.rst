@@ -4,13 +4,13 @@ Manage Site Users
 
 Search, view, and manage all site users within your admin tools. View learner activity, award credit, view transcripts and reports, and more.
 
-1. On your homepage, click on the admin toolbar icon in the upper right-hand corner.
+1. On your homepage, click on the admin tools icon in the upper right-hand corner.
 
 .. image:: images/adminbutton2.png
 
 2. Click on the "Users" tab.
 
-The **Users Tab** offers a list of all users on the site. Click in the "Search Users" field in the upper right-hand corner to find an individual. Begin typing a name to view results.
+The **Users Tab** offers a list of all users on the site. Click in the "Search Users" field in the upper right-hand corner to find an learner. Begin typing a name to view results.
 
 .. image:: images/adminusers.png
 
@@ -18,24 +18,24 @@ The **Users Tab** offers a list of all users on the site. Click in the "Search U
 Manage Site Admin
 =================
 
-Site admins have access to admin tools, and can manage site courses, learners, and more.
+Site admins have access to admin tools, can manage site courses and learners, and award credit.
 
-To add a site admin:
+**To add a site admin:**
 
 1. Select your "Users" tab in the admin tools.
-2. Search for a site user in the upper right-hand corner and/or select the check box next to the user's name.
+2. Search for a site user in the upper right-hand corner, and select the check box next to the user's name.
 3. Click the gear icon and "Set as Admin."
 4. Confirm your selection.
 
 .. image:: images/setasadmin.png
 
-.. note:: Once the new admin refreshes their browser window or logs back in, they will have admin access.
+.. note:: If currently logged in, a new admin may need to refresh their browser to view their admin tools.
 
-To remove a site admin:
+**To remove a site admin:**
 
 1. Select your "Users" tab in the admin tools.
 2. Select the dropdown, and select "Site Admins."
-3. Click "Remove as site admin" text under their name.
+3. Click "Remove as site admin" text under the admin you'd like to revoke admin access.
 4. Confirm removal.
 
 .. image:: images/adminremove.png
@@ -55,7 +55,7 @@ Learner Overview
 
 .. image:: images/adminuser.png
 
-Also, navigate to the Courses, Transcript, or Reports tab for more information regarding the user's activity across courses and to award credit.
+Navigate to the Courses, Transcript, or Reports tab for more information regarding the user's activity across courses and to award credit.
 
 
 Learner Courses
@@ -80,12 +80,14 @@ Select the "Reports" tab to view the course's Student Participation Report for t
 Learner Transcripts and Credit
 ===============================
 
-A learner's "Transcript" tab displays the learner's credit across the site. Site admins can also filter and download the transcript, as well as award manual credit.
+A learner's "Transcript" tab displays the learner's credit across the site. Filter and download the transcript, as well as award manual credit.
 
 1. Select a learner in the "Users" tab.
 2. Select the "Transcripts" tab.
 
 .. image:: images/learnertranscript.png
+
+.. note:: Please note, the current filter is applied in downloaded transcripts. Please make sure you have the view you wish to filter before selecting "Download Transcript."
 
 **To award credit,**
 
@@ -96,7 +98,7 @@ A learner's "Transcript" tab displays the learner's credit across the site. Site
 
 .. image:: images/awardcred.png
 
-The credit should now be listed in the learner's transcript. You can edit or delete credit by clicking on the gear icon and selecting "Edit" or "Delete."
+The credit should now be listed in the learner's transcript. You can edit or delete credit by clicking on the gear icon and selecting "Edit" or "Delete." Learners can view their transcript from within their profile.
 
 .. note:: Please note, course completion can also award credit. If you'd like to automatically award credit for course completion, please see the Course Creation and Setup guide here: https://help.nextthought.com/adminguide/createcourse.html
 
