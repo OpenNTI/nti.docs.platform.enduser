@@ -36,7 +36,7 @@ Your memberships tab displays your groups and communities. We discuss groups and
 
    .. image:: images/profilememberships.png
 
-Your Contacts
+Contacts
 ==============
 
 Add contacts to grow your learning network.
@@ -47,7 +47,7 @@ Navigate to your contacts page by visiting the chat bar located on the right-han
 
    .. image:: images/chatbar2.png
 
-Now type a name into the search field, and add that individual as a contact by hovering over their name and clicking the add contact icon. 
+Now, type a name into the search field, and add that individual as a contact by selecting "Add Contact."
 
    .. image:: images/contactadd.png
 
@@ -60,20 +60,31 @@ Chat with an online contact by clicking on their profile image in the chat bar. 
 
    .. image:: images/chatmatthew.png
 
-Your Groups
+
+Groups
 ============
 
-If there is a group of individuals you regularly communicate with, consider creating a group on the platform to make communication quick and easy!
+If there is a group of individuals you regularly communicate with, consider creating a group to make communication quick and easy!
 
    .. image:: images/grouppage2.png
 
 First, navigate to your contacts page and click on the tab labeled “Groups.” Click on “Create Group" and type a group name. 
 
    .. image:: images/groupcreate.png
+      :scale: 50
 
-Select “Create” to create the group. Your contacts will need this group code to join the group. (Instead of clicking “Create Group” they will click “Join Group” and enter the code.)
+Select “Create” to create the group. Once you create a group, it will appear on your Groups tab. Click the dropdown menu and select "View Group Code" to view and copy the group code to send to your contacts.
 
-   .. image:: images/groupcode2.png
+  .. image:: images/viewcode.png
+     :scale: 50
+	 
+  .. image:: images/groupcode2.png
+     :scale: 50
+
+Your contacts will need this group code to join the group. (Instead of clicking “Create Group” they will click “Join Group” and enter the code.)
+
+  .. image:: images/joingroup.png
+     :scale: 50
 
 Group Page
 ------------
@@ -82,9 +93,28 @@ Once a group is created or joined, click on the group to visit the group page.
 
    .. image:: images/grouppage3.png
 
-Your group page is the meeting hub for its members! This page’s activity stream will display all notes shared with the group across readings and other materials, and allows members to post a discussion directly to the group page regarding any topic such as group meeting times, project ideas, and more. 
+Group pages are the members-only meeting hubs! A group page’s activity stream will display all notes shared with the group across readings and other materials, and allows members to post a discussion directly to the group page regarding any topic such as group meeting times, project ideas, and more. 
 
-Your Communities
+Sharing Lists
+===============
+
+Frequently share comments with just a few people? Sharing lists make this even faster. Create a list, add people to it, and start sharing.
+
+.. image:: images/sharinglists.png
+
+First, navigate to your contacts page and click on the tab labeled “Sharing Lists.” Click on “Create a Sharing List." Type in a name to remember your list by, then search for an individual under "Add People." As you type, search results will appear. Select a user to add them to "Members."
+
+.. image:: images/createlist.png
+   :scale: 50
+
+You can manage, edit, and delete your list at any time. Simply use the dropdown arrow to return to the list menu.
+
+.. image:: images/listmenu.png
+   :scale: 50
+
+.. note:: Groups and Sharing Lists serve different purposes. Groups have memberships; all learners know they are a part of the group and share a Group page. Lists, however, are private. Learners are not alerted that you've added them to a list, and cannot view your lists. Creating a list is just a shortcut to quickly sharing a discussion with multiple people.
+
+Communities
 =================
 
 While group pages offer a private meeting space for its members, the community page offers a public space for individuals to interact outside the context of a text or course. These communities are already set up by your organization or university, and can be located on your homepage, or from your memberships tab in your profile. Click on the community to view its page.
