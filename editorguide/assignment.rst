@@ -564,6 +564,114 @@ in another assignment.
 
  |image113|
 
+
+Edit an Assignment
+-----------------------
+
+Below are descriptions how to change the position of the assignment, and the assignment dates. More advanced editing options can be found in “Create an Assignment.”
+
+Change Placement
+^^^^^^^^^^^^^^^^^^^
+
+1. Click on the “Edit” button next to the assignment you want to change.
+ |image61|
+ 
+2. In the popup window for an assignment, you can change
+
+   -  The section where the assignment is placed
+   -  The relative position of the assignment within the section
+   -  Delete the assignment (Please note: if you delete an assignment, you cannot undo this deletion. It is a permanent action.)
+
+3. Click “Save” to save your changes.
+
+ |image62|
+
+.. note::  Work with your NextThought Project Manager if you need to change the title of an assignment in your course. 
+
+
+Change Assignment Dates
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Assignments can be made available at your discretion, and you also have
+the ability to change the due date for the assignment.
+
+There are three locations where you can change assignment dates:
+
+1. **Lessons View (Edit Mode)**
+
+While viewing a lesson in edit mode, click on the assignment date
+dropdown under the assignment name.
+
+ |image66|
+
+2. **Assignments View**
+
+Within the assignments page, view the assignments tab. Now, click on
+the assignment date dropdown under the assignment name.
+
+ |image67|
+
+3. **Assignment Editing View**
+
+Within the assignments page, view the assignments tab. Now, select the
+“Edit” button off to the right-hand side of the assignment name. This
+will take you to the editing view for the assignment.
+
+ |image68|
+
+   - Due Date: Find the Due Date flyout in the upper left-hand corner. Click on it to open the flyout. Select “Due Date” to assign a due date. Then, select a calendar date and enter a time. Click “Save” to save the due date.  
+   |image69|
+   
+   -  Publish State Flyout: Find the Publish State Flyout in the bottom right-hand corner. It will display the current publish state. Click on the button to change the publish state.  
+   |image70|
+
+.. warning:: Deleting the assignment is a non-recoverable action.
+
+.. note::  To learn more about the assignment editing view, see Part III regarding assignment authoring.
+
+Publish States
+^^^^^^^^^^^^^^^^
+
+There are four options within the Assignment date dropdown and flyouts,
+including three publish states and a due date option:
+
+ |image71| |image72|
+
+#. **Publish (publish state)**
+
+Selecting this option allows you to publish the assignment immediately.
+In other words, students will be able to begin taking the assignment as
+soon as the assignment is published.
+
+2. **Schedule (publish state)**
+
+Scheduling the assignment allows you to choose the date and time that
+the assignment becomes available for students to view and take. Before
+this date, the assignment title can be seen within the lessons and
+assignments view, but the student will not be able to click into it to
+view questions.
+
+3. **Draft (publish state)**
+
+If not already selected, this option sends the assignment back into
+draft mode. This allows the instructor to continue editing the
+assignment. While an assignment is in this state, students will not be
+able to see the assignment.
+
+.. warning:: This state is only available for authored assignments. Learn more in Part III Create an Assignment.
+
+4. **Due Date (due date)**
+
+Choose the month, date, year and time that the assignment is due.
+Assignments are still available once the due date passes, but will be
+marked as late in the gradebook if completed after the date has passed.
+
+.. warning:: If an assignment has already been taken by a student, you will have to “Reset Assignment” to access the publish states and change them.
+
+ |image73|
+
+ |image74|
+
 .. |image75| image:: images/image15.png
 .. |Screen Shot 2016-07-17 at 6.49.51 PM.png| image:: images/image26.png
 .. |image77| image:: images/image115.png
