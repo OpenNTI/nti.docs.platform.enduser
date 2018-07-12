@@ -14,12 +14,12 @@ course lessons. Readings allow a host of features including:
 
 .. image:: images/
 
-Create a Reading
-=================
+Create and Add a Reading
+==========================
 
 Described below are two methods to create a reading. One is optimized for immediate placement in a lesson, and the other is optimized to create a reading to place later.
 
-Create a Reading and Add to Lesson
+Create and Place Reading in Lesson
 -----------------------------------
 
 1. Navigate to the Lessons page.
@@ -53,7 +53,7 @@ Create a Reading and Add to Lesson
   .. image:: images/
 
 
-Create Reading for Later Placement
+Create Reading and Place Later
 ----------------------------------------
 
 1. Navigate to the Lessons page.
@@ -64,38 +64,58 @@ Create Reading for Later Placement
 
   .. note:: A list view of your created readings will display. You can search for readings by name in the search field above, and view the publish state and the last modified date. 
 
-4. Click on “Create” in the upper right-hand corner to begin creating a new reading.
+4. Click on “Create” in the upper right-hand corner.
 
   .. image:: images/
 
-5. 
+5. Create your reading. (Please see "Reading Features" below for more detail.)
    
+  .. image:: images/
 
+6. Choose to publish or leave in draft.
 
-|
-6. Select the blue “Publish” button in the bottom right-hand corner to open the publish state flyout. Then, select “Publish” in the flyout in order to publish the text and make it available for placement within a lesson, or navigate away from the reading without publishing to save it as a draft to return to later.
+  - Select the blue “Publish” button in the bottom right-hand corner to open the publish state flyout. Then, select “Publish” in the flyout in order to publish the text and make it available for placement within a lesson.
+  - Or, navigate away from the reading without publishing to save it as a draft to return to later. You can find all drafted readings in your Resources folder.
    
-   |image122|
+  .. image:: images/
 
+.. warning:: Publishing a reading only makes it available to place in a lesson. Learners cannot view the reading until it is placed within a lesson.
 
-.. note:: Once a text is “published” you will be able to find it in the reading catalog when adding content to a lesson. In other words, “Publishing” your reading doesn’t make it instantly viewable to students. You must first place it within a lesson.
+Place Your Reading
+-------------------
+
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
+3. While in Edit Mode, click on “+Add Content” in the section you want to place the reading.
+4. Click "Reading" in the "Choose a content type" window.
+4. Select a reading and click "Select" in the bottom right-hand corner.
+   .. warning:: Note that if one of the readings is faded and unclickable, it is still in "Draft." You must publish the reading in order to place it in a lesson. See "Edit a Reading" in order to learn how to return to your reading and publish it.
+   
+6. Add information that learners can see about the reading.
+
+   - Reading title (required)
+   - Reading author (optional)
+   - Reading description (optional)
+   - Reading thumbnail image (optional)
+
+6. Click "Add to Lesson" to add the reading to the lesson.
 
 
 Reading Features
--------------------
+====================
 
 Add Text Styles
-^^^^^^^^^^^^^^^
+------------------------
 
  Choose between “Title Text,” “Section Text,” and “Paragraph Headline Text” to organize your text. Choose Bold, Italics, or Underline to emphasize text.
 
 Add Hyperlink
-^^^^^^^^^^^^^^
+------------------------
 
    Add hyperlinked text into your reading by highlighting the text in which you'd like to link and clicking the link option on your editing toolbar. Add the URL and Display Text, and click "Save."
 
 Add Photo
-^^^^^^
+------------------------
 
 1. Click Photo type. This opens your course resources.
 
@@ -109,7 +129,7 @@ Add Photo
 
 
 Add Video
-^^^^^^
+------------------------
 
 1. Click Embed Video type.
 
@@ -120,7 +140,7 @@ Add Video
 .. image:: images/createnewreadingvid.png
 
 Add Bulleted List
-^^^^^^^^^^^^^^
+------------------------
 
 1. Click on Bulleted List type.
 
@@ -132,7 +152,7 @@ Add Bulleted List
 
 
 Add Numbered List
-^^^^^^^^^^^^^^
+------------------------
 
 1. Click on Numbered List type.
 
@@ -144,7 +164,7 @@ Add Numbered List
 
 
 Add Block Quotes
-^^^^^^^^^^^^^
+------------------------
 
 1. Click on Block Quote type.
 
@@ -155,13 +175,15 @@ Add Block Quotes
 .. image:: images/blockquote.png 
 
 Add Code Block
-^^^^^^^^^^^
+------------------------
 
 1. Click on the Code Block type.
 
 2. Select the code you'd like to render.
 
-3. Click out of the code block to escape.
+3. Type code.
+
+4. Click out of the code block to escape.
 
 .. image:: images/codeblock.png
 
@@ -169,12 +191,18 @@ Once published, it will render according to the code selected.
 
 .. image:: images/codeblockreading.png
 
-Add Call-Out
-^^^^^^^^^^^^^
+Add Call Out
+------------------------
+
+1. Click on the Call Out type.
+
+2. Begin typing.
+
+3. Click out of the call out to escape.
 
 
 Move or Place a Reading
-------------------------
+========================
 
 Locate Your Reading
 ^^^^^^^^^^^^^^^^^^^^
@@ -183,21 +211,7 @@ You can find all readings (including NextThought created readings) within your R
 
 You can view all the readings you've created within your Resource folder. While in Edit Mode, click on the "Resources" folder in the bottom left-hand corner to open the readings.
 
-Place Your Reading
-^^^^^^^^^^^^^^^^^^^
 
-1. In Edit Mode, navigate to the lesson and section in which you'd like to place your reading.
-
-2. Click "+Add Content" to open the Resource Viewer.
-
-3. Click "From Catalog" to view readings.
-   
-4. Select a reading and click "Select" in the bottom right-hand corner.
-   .. warning:: Note that if one of the readings is faded and unclickable, it is still in "Draft." You must publish the reading in order to place it in a lesson. See "Edit a Reading" in order to learn how to return to your reading and publish it.
-   
-5. Edit the thumbnail, title, author, and description. 
-
-6. Click "Add to Lesson" to add the reading to the lesson.
 
 Edit a Reading
 --------------
