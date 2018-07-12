@@ -21,6 +21,8 @@ Below is different types of content you can add to your lesson:
 - Surveys
 - Webinars (Coming soon!)
 
+.. image:: images/contenttypes.png
+
 .. note:: Other options are available through our content development team! If you don't see what you want here, be sure to ask NextThought about other supported content!
 
 
@@ -39,7 +41,12 @@ To begin adding content to your course,
    .. note:: If you do not see this button, you are not in an Instructor, Editor, or Admin account.
    
 3. Within the section you want to add content, click "Add Content."
+
+   .. image:: images/addcontentbutton.png
+
 4. Select the content type, fill out required information, follow prompts, and "Add to Lesson."
+
+   .. image:: images/contenttypes.png
 
 For more information regarding specific content types and adding them to your course, please continue in this guide to the sections named by content types.
 
@@ -56,6 +63,8 @@ Edit Flyout
 3. Click "Edit" on the content you'd like to move.
 4. Use the position dropdown(s) to move from section to section or the placement within a section.
 
+.. image:: images/moveposition.png
+
 .. note:: You cannot move content from lesson to lesson. If you'd like to do so, please remove it from the current lesson, and reselect the content from your course resources.
 
 Drag and Drop
@@ -65,6 +74,8 @@ Drag and Drop
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click and hold the content piece you'd like to move.
 4. Drag and drop it into a new place.
+
+.. image:: images/dragdrop.png
 
 
 Edit Content
@@ -89,11 +100,19 @@ You can edit:
 4. Edit fields of interest.
 5. Click "Save."
 
+.. image:: images/editcontentflyout.png
+
+.. image:: images/contentflyout.png
+
 **Edit the required status:**
 
 1. Naviage to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Select the required dropdown, and select the new status. 
+
+.. image:: images/editreq.png
+
+.. note:: Please note, you cannot require a discussion at this time. 
 
 **Edit an assignment:**
 
@@ -101,6 +120,8 @@ You can edit:
 2. Select the "Assignments" subtab.
 3. Select "Edit" next the the assignment title.
 4. Make needed changes. (Edits will save automatically. See exception below.)
+
+.. image:: images/editassignment.png
 
 .. warning:: For assignments which have learner activity, you will be prompted to save as you make edits. Please note that some options may not allow modification after learners have begun. You may be prompted to reset the assignment in order to apply certain changes.
 
@@ -112,9 +133,10 @@ You can edit:
 4. Select "Edit."
 5. Make needed changes. (Edits will save automatically. See exception below.)
 
+.. image:: images/editreading.png
+
 .. warning:: If the reading has already been published, you will need to save your edits manually. To do so, select the "Publish Changes" button in the bottom right-hand corner. Select "Publish" to apply changes.
 
-   .. image::
 
 Delete Content
 ================
@@ -133,6 +155,8 @@ Removing content from your lesson will not necessarily delete it permanately fro
 3. Select the "x" button in the upper right-hand corner of the content.
 4. Click "OK" in the warning popup.
 
+.. image:: images/removecontent.png
+
 
 Delete Content from Course
 ---------------------------
@@ -146,6 +170,10 @@ Deleting content from a course is not recoverable.
 3. Select "Delete."
 4. Confirm deletion.
 
+.. image:: images/deletereading.png
+
+.. warning:: If an assignment has learner submissions, you will need to first reset the assignment before deletion. You must be an instructor or assistant to do so.
+
 **To permanently delete files:**
 
 1. Naviage to the "Lessons" tab.
@@ -157,6 +185,8 @@ Deleting content from a course is not recoverable.
 7. Click "Delete" in the menu above.
 8. Confirm deletion.
 
+.. image:: images/deletefile.png
+
 **To permanently delete videos:**
 
 1. Naviage to the "Lessons" tab.
@@ -167,12 +197,16 @@ Deleting content from a course is not recoverable.
 6. Scroll down and select "Delete."
 7. Confirm deletion.
 
+.. image:: images/deletevideo.png
+
 **To permanently delete discussions:**
 
 1. Naviage to the "Discussions" tab.
 2. Select and open the discussion.
 3. Click "Delete."
 4. Confirm deletion.
+
+.. image:: images/deletediscussion.png
 
 .. warning:: You may not have permission to delete all discussions. 
 
