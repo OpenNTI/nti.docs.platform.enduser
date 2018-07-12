@@ -19,84 +19,58 @@ Create a Reading
 
 Described below are two methods to create a reading. One is optimized for immediate placement in a lesson, and the other is optimized to create a reading to place later.
 
-Immediate Placement
-----------------------
-
+Create a Reading and Add to Lesson
+-----------------------------------
 
 1. Navigate to the Lessons page.
 2. Click "Start Editing" in the bottom right-hand corner.
 3. While in Edit Mode, click on “+Add Content” in the section you'd like to place your reading.
+
+  .. image:: images/
+  
 5. Select "Reading" in the "Choose a content type" window.
 
-  .. note:: In this window, you can find all of the readings created by NextThought or authored by you.
- 
+  .. image:: images/
   
 6. Click "Create Content" in the upper left-hand corner.
+
+  .. image:: images/
   
-7. Add a title, author, and description for your course. The latter two are optional. You may also add a thumbnail to your reading by clicking on the blue thumbnail button. This is the image that will display on your lessons page.
+7. Add a title, author (optional), and description (optional) for your reading.  You may also add a thumbnail to your reading by clicking on the blue thumbnail button. This is the image that will display on your lessons page.
+
+  .. image:: images/
   
 8. Click "Add to Lesson." This will now navigate you into the reading editing view. 
 
-9. Continue to Step 5 in the section below.
+  .. image:: images/
+
+10. Create your reading. (Please see "Reading Features" below for more detail.)
+
+  .. image:: images/
+
+11. Select the "Publish" state button in the bottom left-hand corner. Select Publish once more.
+
+  .. image:: images/
 
 
-Place Later
+Create Reading for Later Placement
 ----------------------------------------
 
-1. While within your course’s Lessons View, enter "Edit Mode" by clicking "Start Editing" in the bottom right-hand corner.
-   
-   |image114|
-
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
 2. Select the “Resources” folder at the bottom left-hand corner.
 
-   |image116|
+  .. image:: images/
 
-3. A list view of your created readings will display. You can search for readings by name in the search field above, and view the publish state
-   and the last modified date. 
+  .. note:: A list view of your created readings will display. You can search for readings by name in the search field above, and view the publish state and the last modified date. 
 
-   |Screen Shot 2017-03-24 at 10.36.34 AM.png|
+4. Click on “Create” in the upper right-hand corner to begin creating a new reading.
 
-4. Click on “Create”  in the upper right-hand corner to begin creating a new reading.
+  .. image:: images/
 
-   |image119|
-
-5. **Create your reading:** 
-
-   .. image:: images/createnewreading.png
+5. 
    
-    .. image:: images/createnewreadingdescription.png
 
-   **Reading Thumbnail**
-
-   Click on the image to the left of the title and description to open the Resource Viewer and select or upload an image for the reading. This image can be changed before the reading is placed into a course.
-  
-   **Reading Title**
-
-   This will name the reading within the Resource folder. The title can be changed before being placed into a course.
-
-   **Reading Description**
-
-   The description will offer a description for the reading that's viewable on the Lessons page. The description can be changed before being placed into a course.
-
-   .. image:: images/createnewreadingtypes.png
-   
-   **Reading Feature Types**
-   
-   These "types" allow you to add features into the reading, including a numbered or bulleted list, and photos or videos. Click on a type to add it into your reading. For more details on adding a photo or video to your reading, see "Adding Additional Reading Features" below.
-   
-   .. image:: images/createnewreadingstyles.png
-   
-   **Text Headers**
-   
-   Choose between “Title Text,” “Section Text,” and “Paragraph Headline Text” to organize your text.
-   
-   **Links**
-   
-   Add hyperlinked text into your reading by highlighting the text in which you'd like to link and clicking the link option on your editing toolbar. Add the URL and Display Text, and click "Save."
-   
-   **Text Styles**
-   
-   Choose Bold, Italics, or Underline to emphasize text.
 
 |
 6. Select the blue “Publish” button in the bottom right-hand corner to open the publish state flyout. Then, select “Publish” in the flyout in order to publish the text and make it available for placement within a lesson, or navigate away from the reading without publishing to save it as a draft to return to later.
@@ -110,9 +84,17 @@ Place Later
 Reading Features
 -------------------
 
-While creating your reading, you will notice you can add additional feature "types" to your reading on the right-hand side of the editor. Click on any one of these features to add them to your reading.
+Add Text Styles
+^^^^^^^^^^^^^^^
 
-Photo
+ Choose between “Title Text,” “Section Text,” and “Paragraph Headline Text” to organize your text. Choose Bold, Italics, or Underline to emphasize text.
+
+Add Hyperlink
+^^^^^^^^^^^^^^
+
+   Add hyperlinked text into your reading by highlighting the text in which you'd like to link and clicking the link option on your editing toolbar. Add the URL and Display Text, and click "Save."
+
+Add Photo
 ^^^^^^
 
 1. Click Photo type. This opens your course resources.
@@ -126,7 +108,7 @@ Photo
 .. image:: images/createnewreadingphoto.png
 
 
-Video
+Add Video
 ^^^^^^
 
 1. Click Embed Video type.
@@ -137,7 +119,7 @@ Video
 
 .. image:: images/createnewreadingvid.png
 
-Bulleted List
+Add Bulleted List
 ^^^^^^^^^^^^^^
 
 1. Click on Bulleted List type.
@@ -149,7 +131,7 @@ Bulleted List
 4. Enter twice to exit bullet points.
 
 
-Numbered List
+Add Numbered List
 ^^^^^^^^^^^^^^
 
 1. Click on Numbered List type.
@@ -161,7 +143,7 @@ Numbered List
 4. Enter twice to exit numbered list.
 
 
-Block Quotes
+Add Block Quotes
 ^^^^^^^^^^^^^
 
 1. Click on Block Quote type.
@@ -172,7 +154,7 @@ Block Quotes
 
 .. image:: images/blockquote.png 
 
-Code Block
+Add Code Block
 ^^^^^^^^^^^
 
 1. Click on the Code Block type.
@@ -186,6 +168,9 @@ Code Block
 Once published, it will render according to the code selected.
 
 .. image:: images/codeblockreading.png
+
+Add Call-Out
+^^^^^^^^^^^^^
 
 
 Move or Place a Reading
