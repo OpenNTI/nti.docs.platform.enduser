@@ -139,14 +139,42 @@ Delete Content from Course
 
 Deleting content from a course is not recoverable. 
 
-For readings and assignments, 
+**To permanently delete readings and assignments:**
 
-1. Enter editing mode (See instructions above.).
+1. Enter reading or assignment editing mode (See instructions above.).
 2. Select the publish state button in the bottom right-hand corner.
 3. Select "Delete."
 4. Confirm deletion.
 
-For files,
+**To permanently delete files:**
 
-1. 
+1. Naviage to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click "Add Content" in any section.
+4. Select "Upload a File."
+5. Select "Choose File."
+6. Click on the file.
+7. Click "Delete" in the menu above.
+8. Confirm deletion.
+
+**To permanently delete videos:**
+
+1. Naviage to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click "Add Content" in any section.
+4. Select "Video" in resource selector.
+5. Hover over the video and select "Edit."
+6. Scroll down and select "Delete."
+7. Confirm deletion.
+
+**To permanently delete discussions:**
+
+1. Naviage to the "Discussions" tab.
+2. Select and open the discussion.
+3. Click "Delete."
+4. Confirm deletion.
+
+.. warning:: You may not have permission to delete all discussions. 
+
+**To permanently delete links simply remove link from your Lesson's page**
 
