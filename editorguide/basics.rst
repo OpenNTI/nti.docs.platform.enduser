@@ -2,7 +2,7 @@
 Content Basics
 =====================
 
-In this guide we will walk you through the basics of adding, editing, moving, and deleting content in your course. This is simply a quick and simple overview. If you are needing detailed instructions regarding specific content, please continue to the specific content-named instructions following this guide.
+In this guide we will walk you through the basics of adding, editing, moving, and deleting content in your course. This is meant to be a quick overview. If you are needing detailed instructions regarding specific content, please continue to the specific content-named instructions following this page.
 
 Supported Types
 ================
@@ -33,7 +33,7 @@ Adding content to your course essentially follows the same few steps with the ex
 
 .. note:: Before adding content, make sure you've already build your course outline (units, lessons, sections). If you haven't done so, please visit https://help.nextthought.com/editorguide/course.html.
 
-To begin adding content to your course,
+**To begin adding content to your course,**
 
 1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
@@ -48,12 +48,12 @@ To begin adding content to your course,
 
    .. image:: images/contenttypes.png
 
-For more information regarding specific content types and adding them to your course, please continue in this guide to the sections named by content types.
+For more information regarding specific content types and adding them to your course, please continue to the specific content-named instructions following this page.
 
 Move Content
 ================
 
-In general, you can move content two ways:
+You can move content two ways:
 
 Edit Flyout
 ------------
@@ -61,11 +61,15 @@ Edit Flyout
 1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click "Edit" on the content you'd like to move.
+
+   .. image:: images/editcontentflyout.png
+
 4. Use the position dropdown(s) to move from section to section or the placement within a section.
 
-.. image:: images/moveposition.png
+   .. image:: images/moveposition.png
 
 .. note:: You cannot move content from lesson to lesson. If you'd like to do so, please remove it from the current lesson, and reselect the content from your course resources.
+		  
 
 Drag and Drop
 --------------
@@ -139,11 +143,13 @@ You can edit:
 
 .. warning:: If the reading has already been published, you will need to save your edits manually. To do so, select the "Publish Changes" button in the bottom right-hand corner. Select "Publish" to apply changes.
 
+   .. image:: images/publishchanges.png
+
 
 Delete Content
 ================
 
-There are two ways to delete content. You can simply remove content from your Lessons page, which will not delete the content from your course resources. Or you can delete content permanently from your course.
+There are two ways to delete content. You can simply remove content from your Lessons page, which will not delete the content from your course resources. Or, you can delete content permanently from your course.
 
 Remove Content from Lessons
 ---------------------------
@@ -167,7 +173,7 @@ Deleting content from a course is not recoverable.
 
 **To permanently delete readings and assignments:**
 
-1. Enter reading or assignment editing mode (See instructions above.).
+1. Enter reading or assignment editing mode (see "Edit Content" instructions above).
 2. Select the publish state button in the bottom right-hand corner.
 3. Select "Delete."
 4. Confirm deletion.
@@ -198,6 +204,7 @@ Deleting content from a course is not recoverable.
 5. Hover over the video and select "Edit."
 6. Scroll down and select "Delete."
 7. Confirm deletion.
+8. Cancel out of the resources selector.
 
 .. image:: images/deletevideo.png
 
@@ -212,5 +219,5 @@ Deleting content from a course is not recoverable.
 
 .. warning:: You may not have permission to delete all discussions. 
 
-**To permanently delete links simply remove link from your Lesson's page.**
+**To permanently delete links, simply remove link from your Lesson's page.**
 
