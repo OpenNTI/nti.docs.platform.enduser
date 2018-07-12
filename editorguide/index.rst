@@ -7,9 +7,16 @@ Editor Guide
 
 	setup
 	course
-	content
-	assignment
-	reading
+	basics
+	files
+	readings
+	links
+	videos
+	discussions
+	assessments
+	assignments
+	surveys
+	webinars
 
 Welcome to NextThought! We’re excited that you’ve chosen to partner with us in building the future of online learning.
 
