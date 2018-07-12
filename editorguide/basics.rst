@@ -2,7 +2,7 @@
 Content Basics
 =====================
 
-
+In this guide we will walk you through the basics of adding, editing, moving, and deleting content in your course. This is simply a quick and simple overview. If you are needing detailed instructions regarding specific content, please continue to the specific content-named instructions following this guide.
 
 Supported Types
 ================
@@ -49,7 +49,7 @@ Move Content
 In general, you can move content two ways:
 
 Edit Flyout
-^^^^^^^^^^^^
+------------
 
 1. Naviage to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
@@ -59,7 +59,7 @@ Edit Flyout
 .. note:: You cannot move content from lesson to lesson. If you'd like to do so, please remove it from the current lesson, and reselect the content from your course resources.
 
 Drag and Drop
-^^^^^^^^^^^^^^
+--------------
 
 1. Naviage to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
@@ -116,6 +116,37 @@ You can edit:
 
    .. image::
 
+Delete Content
+================
+
+There are two ways to delete content. You can simply remove content from your Lessons page, which will not delete the content from your course resouces. Or you can delete content permanately from your course.
+
+Remove Content from Lessons
+---------------------------
+
+Removing content from your lesson will not necessarily delete it permanately from your course. All types, with the exception of an external link, will remain in your course resources ready for placement in a lesson even if removed from a lesson.
+
+**To remove content from your lesson:**
+
+1. Naviage to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Select the "x" button in the upper right-hand corner of the content.
+4. Click "OK" in the warning popup.
 
 
+Delete Content from Course
+---------------------------
+
+Deleting content from a course is not recoverable. 
+
+For readings and assignments, 
+
+1. Enter editing mode (See instructions above.).
+2. Select the publish state button in the bottom right-hand corner.
+3. Select "Delete."
+4. Confirm deletion.
+
+For files,
+
+1. 
 
