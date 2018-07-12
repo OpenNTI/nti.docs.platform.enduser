@@ -2,9 +2,17 @@
 Readings
 ======================
 
-Our authoring tools allow you to create a reading to place within your
-course lesson. Unlike an embedded text such as a PDF, an authored
-reading allows students to comment inline with the text and highlight.
+Our authoring tools let you create engaging readings to place within your
+course lessons. Readings allow a host of features including:
+
+- Inline discussions and notes
+- Highlights
+- View Definitions
+- Embed videos, images, code blocks
+- Image markup
+- and more!
+
+.. image:: images/
 
 Create a Reading
 ----------------
