@@ -18,17 +18,19 @@ Add File
 
 **In order to add a file to your lesson:**
 
-1. While in Edit Mode, click on “+Add Content” in the section you want to edit.
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
+3. While in Edit Mode, click on “+Add Content” in the section you want to place the file.
 
    .. image:: images/file1.png
 
    .. warning:: Please note, if you don’t see “+Add Content” you need to first add a section to the lesson.
 
-2. In the “Choose a content type” popup, select on “Upload a File.”
+4. Select "Upload a File" in the "Choose a content type" window.
 
    .. image:: images/file2.png
 
-3. Add a file one of two ways:
+5. Add a file one of two ways:
 
    - Click and drag a file from anywhere on your computer to the uploader. 
    
@@ -42,7 +44,7 @@ Add File
    
      .. image:: images/file3b2.png
 	  
-4. Add information that learners can see about the file.
+6. Add information that learners can see about the file.
 
    - File title (required)
    - File author (optional)
@@ -53,7 +55,7 @@ Add File
 
    .. note::  You can change the thumbnail image displayed for the file by clicking on the default image, then browsing your computer file manager for the desired image. 
 
-5. Click “Add to Lesson” to save your edits and place the file in your course.
+7. Click “Add to Lesson” to save your edits and place the file in your course.
 
    
 Edit File

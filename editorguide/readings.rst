@@ -15,29 +15,21 @@ course lessons. Readings allow a host of features including:
 .. image:: images/
 
 Create a Reading
-----------------
-Creating a reading allows you to offer a more dynamic experience for your learners. A reading allows learners to comment inline with their text, markup images, watch videos, and more.
+=================
 
 Described below are two methods to create a reading. One is optimized for immediate placement in a lesson, and the other is optimized to create a reading to place later.
 
-1. Create a Reading for Immediate Lesson Placement
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Immediate Placement
+----------------------
 
-1. While within your course’s Lessons View, enter "Edit Mode" by clicking "Start Editing" in the bottom right-hand corner.
-    
-	|image114|
-  
-2. Navigate to the lesson in which you'd like to place your reading.
-  
-3. Locate the section in which you'd like to place your reading, or create a new section.
-  
-4. Click "+Add Content" 
-  
-5. Select "From Catalog" in the "Choose a content type" window.
+
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
+3. While in Edit Mode, click on “+Add Content” in the section you'd like to place your reading.
+5. Select "Reading" in the "Choose a content type" window.
 
   .. note:: In this window, you can find all of the readings created by NextThought or authored by you.
-  
-  |image123|
+ 
   
 6. Click "Create Content" in the upper left-hand corner.
   
@@ -48,8 +40,8 @@ Described below are two methods to create a reading. One is optimized for immedi
 9. Continue to Step 5 in the section below.
 
 
-2. Create a Reading to Place Later
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Place Later
+----------------------------------------
 
 1. While within your course’s Lessons View, enter "Edit Mode" by clicking "Start Editing" in the bottom right-hand corner.
    
@@ -115,8 +107,8 @@ Described below are two methods to create a reading. One is optimized for immedi
 .. note:: Once a text is “published” you will be able to find it in the reading catalog when adding content to a lesson. In other words, “Publishing” your reading doesn’t make it instantly viewable to students. You must first place it within a lesson.
 
 
-Adding Additional Reading Features
-----------------------------------
+Reading Features
+-------------------
 
 While creating your reading, you will notice you can add additional feature "types" to your reading on the right-hand side of the editor. Click on any one of these features to add them to your reading.
 
