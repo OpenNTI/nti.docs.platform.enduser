@@ -58,7 +58,7 @@ In general, you can move content two ways:
 Edit Flyout
 ------------
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click "Edit" on the content you'd like to move.
 4. Use the position dropdown(s) to move from section to section or the placement within a section.
@@ -70,7 +70,7 @@ Edit Flyout
 Drag and Drop
 --------------
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click and hold the content piece you'd like to move.
 4. Drag and drop it into a new place.
@@ -94,7 +94,7 @@ You can edit:
 
 **Edit the thumbnail, title, author, and description:**
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click "Edit" on the content you'd like to move.
 4. Edit fields of interest.
@@ -106,7 +106,7 @@ You can edit:
 
 **Edit the required status:**
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Select the required dropdown, and select the new status. 
 
@@ -125,9 +125,11 @@ You can edit:
 
 .. warning:: For assignments which have learner activity, you will be prompted to save as you make edits. Please note that some options may not allow modification after learners have begun. You may be prompted to reset the assignment in order to apply certain changes.
 
+
+
 **Edit a reading:**
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click on the "Resources" folder in the bottom left-hand corner.
 4. Select "Edit."
@@ -141,16 +143,16 @@ You can edit:
 Delete Content
 ================
 
-There are two ways to delete content. You can simply remove content from your Lessons page, which will not delete the content from your course resouces. Or you can delete content permanately from your course.
+There are two ways to delete content. You can simply remove content from your Lessons page, which will not delete the content from your course resources. Or you can delete content permanently from your course.
 
 Remove Content from Lessons
 ---------------------------
 
-Removing content from your lesson will not necessarily delete it permanately from your course. All types, with the exception of an external link, will remain in your course resources ready for placement in a lesson even if removed from a lesson.
+Removing content from your lesson will not necessarily delete it permanently from your course. All types, with the exception of an external link, will remain in your course resources ready for placement in a lesson even if removed from a lesson.
 
 **To remove content from your lesson:**
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Select the "x" button in the upper right-hand corner of the content.
 4. Click "OK" in the warning popup.
@@ -176,7 +178,7 @@ Deleting content from a course is not recoverable.
 
 **To permanently delete files:**
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click "Add Content" in any section.
 4. Select "Upload a File."
@@ -189,7 +191,7 @@ Deleting content from a course is not recoverable.
 
 **To permanently delete videos:**
 
-1. Naviage to the "Lessons" tab.
+1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click "Add Content" in any section.
 4. Select "Video" in resource selector.
@@ -201,7 +203,7 @@ Deleting content from a course is not recoverable.
 
 **To permanently delete discussions:**
 
-1. Naviage to the "Discussions" tab.
+1. Navigate to the "Discussions" tab.
 2. Select and open the discussion.
 3. Click "Delete."
 4. Confirm deletion.
@@ -210,5 +212,5 @@ Deleting content from a course is not recoverable.
 
 .. warning:: You may not have permission to delete all discussions. 
 
-**To permanently delete links simply remove link from your Lesson's page**
+**To permanently delete links simply remove link from your Lesson's page.**
 
