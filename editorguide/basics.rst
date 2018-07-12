@@ -100,7 +100,7 @@ You can edit:
 
 1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
-3. Click "Edit" on the content you'd like to move.
+3. Click "Edit" on the content.
 4. Edit fields of interest.
 5. Click "Save."
 
