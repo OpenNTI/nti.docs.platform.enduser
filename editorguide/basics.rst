@@ -100,11 +100,22 @@ You can edit:
 1. Navigate to the "Assignments" tab.
 2. Select the "Assignments" subtab.
 3. Select "Edit" next the the assignment title.
-4. Make needed changes. (Edits will save automatically.)
+4. Make needed changes. (Edits will save automatically. See exception below.)
 
-.. note:: For assignments which have learner activity, you will be prompted to save as you make edits. Please note that some options may not allow modification after learners have begun. You may be prompted to reset the assignment in order to apply certain changes.
+.. warning:: For assignments which have learner activity, you will be prompted to save as you make edits. Please note that some options may not allow modification after learners have begun. You may be prompted to reset the assignment in order to apply certain changes.
 
 **Edit a reading:**
+
+1. Naviage to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click on the "Resources" folder in the bottom left-hand corner.
+4. Select "Edit."
+5. Make needed changes. (Edits will save automatically. See exception below.)
+
+.. warning:: If the reading has already been published, you will need to save your edits manually. To do so, select the "Publish Changes" button in the bottom right-hand corner. Select "Publish" to apply changes.
+
+   .. image::
+
 
 
 
