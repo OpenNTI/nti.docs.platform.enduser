@@ -117,25 +117,31 @@ Place Reading
 Reading Features
 ====================
 
+Engage your learners by adding more than just text. Use our authoring tools to add images, videos, and more to your readings.
+
 Add Text Styles
 ------------------------
 
- Choose between “Title Text,” “Section Text,” and “Paragraph Headline Text” to organize your text. Choose Bold, Italics, or Underline to emphasize text.
+At the bottom of your reading in edit mode is a suite of styles and organizational elements for you text. Choose between "Title," "Section Title," "Paragraph Headline," or "Body Text" to organize your information. Select "Block Quote," "Numbered List," and "Bulleted List" to emphasize points. Also choose from bold, italics, and underlined font styles.
+
+.. image:: images/
 
 Add Hyperlink
 ------------------------
 
-   Add hyperlinked text into your reading by highlighting the text in which you'd like to link and clicking the link option on your editing toolbar. Add the URL and Display Text, and click "Save."
+1. Highlight the text in which you'd like to add a link.
+2. Click the link option on your editing toolbar. 
+3. Add the URL and keep or modify the display text. 
+4. Click "Save."
+
+.. image:: images/
 
 Add Photo
 ------------------------
 
 1. Click Photo type. This opens your course resources.
-
-2.  Select an image or upload an image.
-
+2. Select an image or upload an image.
 3. Click "Place" in the bottom right-hand corner. This places the image in your reading.
-
 4. Under the image within the editor, edit the figure number (or title) and the caption. The caption is optional.
 
 .. image:: images/createnewreadingphoto.png
@@ -145,9 +151,7 @@ Add Video
 ------------------------
 
 1. Click Embed Video type.
-
 2. Enter the link (URL) or embed code for your video into new window. Click "Done." This places the video in your reading.
-
 3. Under the video within the editor, edit the video title and caption. The caption is optional.
 
 .. image:: images/createnewreadingvid.png
@@ -156,33 +160,29 @@ Add Bulleted List
 ------------------------
 
 1. Click on Bulleted List type.
-
 2. Type your first bullet point text.
-
 3. Click enter to create another bullet point. Type your text here. Repeat.
-
 4. Enter twice to exit bullet points.
+
+.. image:: images/
 
 
 Add Numbered List
 ------------------------
 
 1. Click on Numbered List type.
-
 2. Type your first point.
-
 3. Click enter to create #2. Type your text. Repeat.
-
 4. Enter twice to exit numbered list.
+
+.. image:: images/
 
 
 Add Block Quotes
 ------------------------
 
 1. Click on Block Quote type.
-
 2. Begin typing to the right of the line that appears within your reading.
-
 3. Click enter to escape the block quote.
 
 .. image:: images/blockquote.png 
@@ -191,11 +191,8 @@ Add Code Block
 ------------------------
 
 1. Click on the Code Block type.
-
 2. Select the code you'd like to render.
-
 3. Type code.
-
 4. Click out of the code block to escape.
 
 .. image:: images/codeblock.png
@@ -208,12 +205,10 @@ Add Call Out
 ------------------------
 
 1. Click on the Call Out type.
-
 2. Begin typing.
-
 3. Click out of the call out to escape.
 
-
+.. image:: images/
 
 Edit Reading
 ================
@@ -221,38 +216,53 @@ Edit Reading
 Edit Lesson Info
 -----------------
 
+**In order to edit the thumbnail, title, author, or description:**
 
-1. Within the lesson, click the “Edit” button for the reading you want to
-   change.
+1. Navigate to the "Lessons" tab and to the lesson with the reading.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click the “Edit” button for the reading you want to change.
 
-    |EditContent.png|
+   .. image:: images/
 
-2. In the popup window, you can change:
+4. Make changes. In the Edit Flyout, you can change:
 
-      -  The section where the reading is placed
-      -  The relative position of the reading within the section
-      -  Change the file that is uploaded and displayed
-      -  Reading title (required information)
-      -  Reading author (optional)
-      -  Reading description (optional)
-      -  Reading thumbnail image
-      -  You can remove a reading from its section, but you cannot undo this deletion. It
-      is a permanent action. (Please note: the reading itself will still be
-      available for placement from within your course files.)
+   -  The section where the reading is placed
+   -  The relative position of the reading within the section
+   -  Change the file that is uploaded and displayed
+   -  Reading title (required information)
+   -  Reading author (optional)
+   -  Reading description (optional)
+   -  Reading thumbnail image
+   -  You can remove a reading from its section, but you cannot undo this deletion. It is a permanent action. (Please note: the reading itself will still be available for placement from within your course files.)
+   
+   .. image:: images/
 
-3. Click “Save” to save your changes.  
+5. Click “Save” to save your changes.
 
 Edit Content
 -------------
 
-1. In Edit Mode, click on the Resources folder in the bottom left-hand corner.
+**In order to edit the content of your readings:**
 
-2. Locate your reading within the list or search to find it.
+1. Navigate to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. In Edit Mode, click on the Resources folder in the bottom left-hand corner.
 
-3. Click "Edit" located to the far right of the reading title. 
+   .. image:: images/
 
-4. Edit your reading.
+4. Locate your reading within the list or search to find it.
 
-5. Click "Publish Changes" to publish your changes. 
+   .. image:: images/
+
+5. Click "Edit" located to the far right of the reading title. 
+
+   .. image:: images/
+
+6. Edit your reading.
+
+7. Click "Publish Changes" to publish your changes. 
+
+   .. image:: images/
+	  
    .. note:: If you have not yet published, this button will say "Publish." Click it to publish your reading.
    
