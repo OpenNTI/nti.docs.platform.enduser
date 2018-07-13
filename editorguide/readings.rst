@@ -30,27 +30,27 @@ Create and Place in Lesson
   
   .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
   
-5. Select "Reading" in the "Choose a content type" window.
+4. Select "Reading" in the "Choose a content type" window.
 
   .. image:: images/
   
-6. Click "Create Content" in the upper left-hand corner.
+5. Click "Create Content" in the upper left-hand corner.
 
   .. image:: images/
   
-7. Add a title, author (optional), and description (optional) for your reading.  You may also add a thumbnail to your reading by clicking on the blue thumbnail button. This is the image that will display on your lessons page.
+6. Add a title, author (optional), and description (optional) for your reading.  You may also add a thumbnail to your reading by clicking on the blue thumbnail button. This is the image that will display on your lessons page.
 
   .. image:: images/
   
-8. Click "Add to Lesson." This will now navigate you into the reading editing view. 
+7. Click "Add to Lesson." This will now navigate you into the reading editing view. 
 
   .. image:: images/
 
-10. Create your reading. (Please see "Reading Features" below for more detail.)
+8. Create your reading. (Please see "Reading Features" below for more detail.)
 
   .. image:: images/
 
-11. Select the "Publish" state button in the bottom left-hand corner. Select Publish once more.
+9. Select the "Publish" state button in the bottom left-hand corner. Select Publish once more.
 
   .. image:: images/
 
