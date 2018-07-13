@@ -28,6 +28,8 @@ Create and Place in Lesson
 
   .. image:: images/
   
+  .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
+  
 5. Select "Reading" in the "Choose a content type" window.
 
   .. image:: images/

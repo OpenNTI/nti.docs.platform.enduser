@@ -68,7 +68,18 @@ Edit File
 
    .. image:: images/editbutton.png
    
-3. Edit fields of interest.
+3. Make necessary edits.
+
+   -  The section where the file is placed
+   -  The relative position of the file within the section
+   -  File title (required information)
+   -  File author (optional)
+   -  File description (optional)
+   -  File thumbnail image
+   -  You can also delete the file. (Please note: if you delete a link, you cannot undo this deletion. It is a permanent action.)
+   
+   .. image:: images/
+   
 4. Click "Save."
 
    .. image:: images/editflyoutfiles.png
