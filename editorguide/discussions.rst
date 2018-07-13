@@ -2,41 +2,59 @@
 Discussions
 ======================
 
+Provide learners a space to meet, discuss, and engage in conversation regarding their training, program, or course. Our discussions allow a range of features including images, image markup, whiteboards, file attachments, and videos.
+
+Create Discussion
+==================
+
+**To create a discussion:**
+
+1.
+2.
+3.
+4.
+5.
 
 
-Add a Discussion
-----------------------
+Add Discussion
+===============
 
-.. note::  Participation in a discussion can be set up as a required, graded activity. If you are interested in graded discussions, contact your Project Manager.
+If you've already created a discussion, it currently exists only within your course's forum. Place it within a lesson to contextualize the discussion within lesson content.
 
-#. While in Edit Mode, click on “+Add Content” in the section you want to edit.
-   |AddContent.png|
+.. note::  Participation in a discussion can be set up as a required, graded activity. If you are interested in graded discussions, contact NextThought.
 
-.. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
+3. While in Edit Mode, click on “+Add Content” in the section you want to place the discussion.
 
-2. In the “Choose a content type” popup, click on “Pick a Discussion.”
+   .. image:: images/
 
-   |Screen Shot 2016-04-20 at 3.40.00 PM.png|
+   .. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).
 
-3. Select the discussion you want to add to your lesson by clicking on
-   the discussion. 
+4. In the “Choose a content type” popup, click on “Pick a Discussion.”
+
+   .. image:: images/
+
+5. Select the discussion you want to add to your lesson by clicking on the discussion. 
+
+   .. image:: images/
    
-4. After selecting your discussion,  click the “Add to Lesson” button in
-   the lower right-hand corner.
+6. After selecting your discussion, click the “Add to Lesson” button in the lower right-hand corner.
+
+   .. image:: images/
    
-5. The popup will allow you to change information that students can see
-   about the discussion
+7. Add information that learners can see about the discussion.
 
    - Section that contains the discussion
    - Position of the discussion within the section
    - Discussion title
    - Discussion thumbnail image
+   
+   .. image:: images/
 
-.. note::  You can change the thumbnail image displayed for the discussion by clicking on the default image, then browsing your computer file manager for the desired image.
+   .. note::  You can change the thumbnail image displayed for the discussion by clicking on the default image, then browsing your computer file manager for the desired image.
 
- |image46|
-
-6. Click “Add to Lesson” to place your discussion in the course.
+8. Click “Add to Lesson” to place your discussion in the course.
 
 
 Edit Discussion
