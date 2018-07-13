@@ -2,14 +2,12 @@
 Videos
 ======================
 
-Add a Video
-----------------
+Use our authoring tools to add engaging videos within the context of your lesson. 
 
-You can add a video to your course using the URL or your Project Manager can upload it to your course files. 
+Add Video
+===========
 
-Upload and Add Video by URL
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Follow the steps below to upload videos to your course files using their URL.
+You can add videos to your course simply by using their URL. Add videos from Vimeo, YouTube, and Kaltura! 
 
 1. Click on “+Add Content” in the section you want to edit.
 
@@ -41,44 +39,13 @@ Follow the steps below to upload videos to your course files using their URL.
 
 10. After you have selected your videos, confirm your video selections, and place them in the order you want them to appear in your lesson. 
 
- |image42|
+.. note::  When you select multiple videos at one time, they will appear grouped in the video player. Add the videos one at a time if you want them to appear as individual videos in the lesson.
 
 11. Click “Add to Lesson” to place your video(s) in your course.
 
-.. note::  When you select multiple videos at one time, they will appear grouped in the video player. Add the videos one at a time if you want them to appear as individual videos in the lesson.
+.. note:: Only video title and transcript can be edited on NextThought. Specific video options, such as displaying the provider's logo (e.g., Vimeo), allowing video player settings (e.g., speed), as well as the cover image displayed when the video is not playing, are setting's on your provider's (e.g., Vimeo's) site. Changing these options will automatically apply to NextThought. 
 
 
-
-Add Video by Project Manager
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Once your video is available to you in your course files, follow the steps below to select and place a video
-into a lesson.
-
-#. Click on “+Add Content” in the section you want to edit.
-
- |AddContent.png|
-
-   .. warning:: Please note: if you don’t see the “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
-
-2. In the “Choose a content type” popup, click on “Pick a Video.”
-
-    |Screen Shot 2016-04-20 at 2.27.42 PM.png|
-
-3. Select the video or videos you want to add to your lesson by clicking on
-   each.
-
-4. After selecting your videos, click the “Select” button in the lower right-hand corner. 
-   
-   .. note::  Please note: the number of videos you have selected will display in the Select button.
-
-5. After you have selected your videos, confirm your video selections,
-   and place them in the order you want them to appear in your lesson. 
-
- |image42|
-
-6. Click “Add to Lesson” to place your video(s) in your course.
-
-.. note::  When you select multiple videos at one time, they will appear grouped in the video player. Add the videos one at a time if you want them to appear as individual videos in the lesson.
 
 Edit a Video
 -----------------
@@ -117,3 +84,5 @@ Edit the Title, Transcript, or Delete from Course Files
    .. image:: images/videoedit.png
 
 5. Click "Save."
+
+.. note:: Only video title and transcript can be edited on NextThought. Specific video options, such as displaying the provider's logo (e.g., Vimeo), allowing video player settings (e.g., speed), as well as the cover image displayed when the video is not playing, are setting's on your provider's (e.g., Vimeo's) site. Changing these options will automatically apply to NextThought. 
