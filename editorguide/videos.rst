@@ -64,8 +64,7 @@ You can add videos to your course simply by using their URL. Add videos from Vim
 Edit Video
 ============
 
-Change the Position or Delete from Lesson
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**To edit the position or ordering of videos, or remove video from carousel:**
 
 1. While in Edit Mode, click on “+Add Content” in the section you want to edit.
 2. Click "Edit" on the content.
@@ -88,15 +87,21 @@ Change the Position or Delete from Lesson
    .. image:: images/
 
 
- 
-Edit the Title, Transcript, or Delete from Course Files
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+**To edit the title or transcript:**
 
-1. From within a section, click "+Add Content."
+1. Navigate to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click "Add Content" in any section.
 
-2. Select "Pick a Video."
+   .. image:: images/file1.png
+
+4. Select "Pick a Video."
+
+   .. image:: images/
 
 3. Hover over the video you wish to change, and click the "Edit" button that appears.
+
+   .. image:: images/
 
 4. Edit the title in the title field, change the transcript and choose the language, or delete the video.
 
@@ -111,6 +116,36 @@ Delete Video
 
 **To permanently delete videos:**
 
-**To remove files from a lesson:**
+1. Navigate to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click "Add Content" in any section.
+
+   .. image:: images/file1.png
+
+4. Select "Pick a Video."
+
+   .. image:: images/
+
+3. Hover over the video you wish to change, and click the "Edit" button that appears.
+
+   .. image:: images/
+
+4. Select "Delete."
+
+   .. image:: images/
+   
+5. Confirm deletion.
+
+**To remove videos from a lesson:**
+
+1. Navigate to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click on the "x" button on the content.
+
+   .. image:: images/
+
+4. Confirm removal.
+
+.. note:: If you only prefer to remove a single video in a carousel, see "Edit Video" section.
 
 .. note:: Removing content from your lesson will not necessarily delete it permanently from your course. All types, with the exception of an external link, will remain in your course resources ready for placement in a lesson even if removed from a lesson.

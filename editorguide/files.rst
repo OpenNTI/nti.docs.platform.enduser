@@ -108,3 +108,17 @@ Delete File
    .. image:: images/deletefile.png
 
 8. Confirm deletion.
+
+**To remove files from a lesson:**
+
+1. Navigate to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click on the "x" button on the content.
+
+   .. image:: images/
+
+4. Confirm removal.
+
+.. note:: Removing content from your lesson will not necessarily delete it permanently from your course. All types, with the exception of an external link, will remain in your course resources ready for placement in a lesson even if removed from a lesson.
+
+

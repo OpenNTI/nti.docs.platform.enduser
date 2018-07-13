@@ -2,13 +2,10 @@
 Discussions
 ======================
 
+
+
 Add a Discussion
 ----------------------
-
-In order to add a course discussion to your lessons page, your Project
-Manager will first need to create and upload it to your course files.
-Once your discussion is available to you in your course files, follow
-the steps below to select and place it in a lesson.
 
 .. note::  Participation in a discussion can be set up as a required, graded activity. If you are interested in graded discussions, contact your Project Manager.
 
@@ -42,12 +39,17 @@ the steps below to select and place it in a lesson.
 6. Click “Add to Lesson” to place your discussion in the course.
 
 
-Edit a Discussion
------------------------
+Edit Discussion
+==================
 
-1. Click on the “Edit” button next to the discussion you want to change. 
+**To edit the display name or thumbnail:**
 
-2. In the popup window for a discussion, you can change
+1. While in Edit Mode, click on “+Add Content” in the section you want to edit.
+2. Click "Edit" on the content.
+
+   .. image:: images/
+   
+3. Make necessary edits.
 
    -  The section where the discussion is placed
    -  The relative position of the discussion within the section
@@ -57,4 +59,20 @@ Edit a Discussion
 
 3. Click “Save” to save your changes.
 
- |image58|
+**To edit the discussion content:**
+
+1.
+2.
+3.
+4.
+
+
+Delete Discussion
+=================
+
+**To permanently delete discussion:**
+
+
+
+**To remove from lesson:**
+

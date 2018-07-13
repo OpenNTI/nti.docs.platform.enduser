@@ -215,9 +215,6 @@ Add Call Out
 Edit Reading
 ================
 
-Edit Lesson Info
------------------
-
 **In order to edit the thumbnail, title, author, or description:**
 
 1. Navigate to the "Lessons" tab and to the lesson with the reading.
@@ -240,9 +237,6 @@ Edit Lesson Info
    .. image:: images/
 
 5. Click “Save” to save your changes.
-
-Edit Content
--------------
 
 **In order to edit the content of your readings:**
 
