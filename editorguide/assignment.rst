@@ -1,34 +1,31 @@
 .. _create-an-assignment:
 
 ==============================
-Create an Assignment
+Assignments
 ==============================
 
-Introduction
-============
+The assignment authoring tool allows you to create an assignment for your course and place it within a lesson. 
 
-The assignment authoring tool allows you to create an assignment for
-your course and place it within a lesson. Add an assignment to a lesson
-to assess your students’ knowledge of the material they are learning.
-
- |image75|
+There are several options available for customizing an assignment. This allows you to create a unique assignment tailored to your needs. Features include:
 
 
-Overview
-=========
+- Question Types:
 
-There are several options available for customizing an assignment. This
-allows you to create a unique assignment tailored to your needs.
+  - Multiple Choice
+  - Multiple Answer
+  - Essay
+  - Short Answer
+  - File Upload
+  - Ordering
+  
+- Due Date (allow/disallow late submission)
+- Time Limit
+- Point Value
+- Auto grading
+- Randomize Questions
+- Randomize Answers
+- Question Bank
 
--  **Question Types:** You are able to create assignments with several
-   different assessment types such as essays, file uploads, free
-   response, multiple choice, multiple answer, and ordering.
--  **Other Options:** You can choose if the assignment will have a time
-   limit or not, when the assignment is scheduled and due, and how many
-   points the assignment is worth. More advanced options include who can
-   view the assignment (all students or only for-credit), if it is
-   autograded, if the order of questions and answers are randomized, and
-   if a different selection of questions will appear for each student.
 
 Create an Assignment
 ====================
