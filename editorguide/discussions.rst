@@ -9,8 +9,11 @@ Create Discussion
 
 **To create a discussion:**
 
-1.
-2.
+1. Navigate to the Discussions page.
+2. Click on the "Add Discussion" button.
+
+   .. note:: If you do not see this button, you may need to first "Add Forum." Discussions are organized into Forums.
+
 3.
 4.
 5.
