@@ -64,7 +64,7 @@ To begin creating an assignment without placing it in a lesson,
 Create and Place in Lesson
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**Lessons Page:**
+To create an assignment and place it in a lesson,
 
 1. Navigate to the Lessons page.
 2. Click "Start Editing" in the bottom right-hand corner.
@@ -72,26 +72,28 @@ Create and Place in Lesson
    
   .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).   
    
-3. Select "Assignments" in the "Choose a content type" window.
+3. Select "Assignment" in the "Choose a content type" window.
    
 4. Select the blue “Create Assignment” button. Creating an assignment from this view will add the  assignment to this specific section in the course upon creation.
 
 2. Assign the due date, time limit, and point value
 --------------------------------------------------------
 
-Decide upon the essential elements of the assignment. Please note, these
-categories are optional.
-
- |image79|
-
-Below are the descriptions for each option:
+Below are the descriptions for each optional feature.
 
 Due Date
 ^^^^^^^^^^^^
 
 The due date defines the date and time the assignment should be completed by.
 
-  |image80|
+1. Select the "Due Date" field.
+2. Check "Due Date."
+3. Select a date and add a time.
+4. Click "Save."
+
+Assignments will display their due date
+
+
 
 .. note:: **How it works:** In the Lessons Page and Assignments Page, the assignment due date will display next to the assignment’s title. Once the assignment is past the due date, students will still be able to take it, but the assignment will be marked as late upon submission. Once the due date passes, the solutions to each question will display after the student submits his or her assignment.
 
