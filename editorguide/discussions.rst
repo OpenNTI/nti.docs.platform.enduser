@@ -12,11 +12,10 @@ Create Discussion
 1. Navigate to the Discussions page.
 2. Click on the "Add Discussion" button.
 
-   .. note:: If you do not see this button, you may need to first "Add Forum." Discussions are organized into Forums.
+   .. note:: If you do not see this button, you may need to first select "Add Forum" on the bottom lef-hand corner. Discussions are organized by Forums.
 
-3.
-4.
-5.
+3. Add a title, tags, and your discussion prompt. You can also add a video, whiteboard, or file attachment by slecting the paper clip icon.
+4. Click Save.
 
 
 Add Discussion
@@ -82,10 +81,11 @@ Edit Discussion
 
 **To edit the discussion content:**
 
-1.
-2.
-3.
-4.
+1. Navigate to the Discussions page.
+2. Open the discussion you wish to edit by clicking on it.
+3. Select "Edit."
+4. Make your edits.
+5. Click "Save."
 
 
 Delete Discussion
@@ -94,6 +94,10 @@ Delete Discussion
 **To permanently delete discussion:**
 
 
+1. Navigate to the Discussions page.
+2. Open the discussion you wish to edit by clicking on it.
+3. Select "Delete."
+4. Confirm deletion.
 
-**To remove from lesson:**
+To remove from lesson, simply click the "x" on the content item on the Lessons page.
 
