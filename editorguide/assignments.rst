@@ -3,132 +3,80 @@ Assignments
 ======================
 
 
-Add an Assignment
-----------------------
-
-Adding assignments to your course allows the course to be assessed and
-graded. You can create your own assignments (See “PART III: Create an
-Assignment”)  or contact your Project Manager to create an assignment
-and add it to your course files.
-
-Question Types:
-
-Descriptions for each question type can be found within “Part I: Supported Content: Question Types.”
-
--  Multiple Choice
--  Multiple Answer
--  Ordering
--  Word Bank/Matching
--  Mathematical Notation
--  Short Answer
--  Essay
--  File Upload
--  Discussion
--  Participation Points
--  FEATURE: Timed
--  FEATURE: Randomization
--  FEATURE: Question Bank
--  FEATURE: Gradebook Entry
-
-Both creating an assignment as well as having a Project Manager create your
-assignment places the assignment within your course files. To place
-the assignment in a section, follow the steps below:
-
-#. While in Edit Mode, click on “+Add Content” in the section you want to edit.
-
- |AddContent.png|
-
-.. warning:: Please note: if you don’t see the “+Add Content” banner, you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).
-
-2. In the “Choose a content type” popup, click on “Assignments.” 
-
-   |Screen Shot 2016-04-21 at 2.42.10 PM.png|
-
-3. Select the assignment you want to add to your lesson by
-   clicking on it.
-
-4. After selecting your assignment, click the “Select” button in the
-   lower right-hand corner.
-
- |SelectAssignment.png|
-
-5. After you have selected your assignment, confirm your selection, and
-   place it in the appropriate section and position within the lesson.
-   |AssignmentConfirm.png|
-   
-6. Click “Add to Lesson” to place your assignment in the course.
-
-Introduction
-============
-
 The assignment authoring tool allows you to create an assignment for
 your course and place it within a lesson. Add an assignment to a lesson
 to assess your students’ knowledge of the material they are learning.
 
- |image75|
-
-
-Overview
-=========
-
 There are several options available for customizing an assignment. This
 allows you to create a unique assignment tailored to your needs.
 
--  **Question Types:** You are able to create assignments with several
-   different assessment types such as essays, file uploads, free
-   response, multiple choice, multiple answer, and ordering.
--  **Other Options:** You can choose if the assignment will have a time
-   limit or not, when the assignment is scheduled and due, and how many
-   points the assignment is worth. More advanced options include who can
-   view the assignment (all students or only for-credit), if it is
-   autograded, if the order of questions and answers are randomized, and
-   if a different selection of questions will appear for each student.
+-  **Question Types:** 
+
+   - multiple choice
+   - multiple answer
+   - short answer
+   - essay
+   - file upload
+   - ordering
+   
+-  **Other Features** 
+
+	- Due Date
+	- Time Limit
+	- Value
+	- Auto grade
+	- Randomize question order
+	- Randomize answer order
+	- question bank
+	- submission cut-off
+	
 
 Create an Assignment
 ====================
 
-The following steps will guide you through the process of creating an
-assignment. 
-
 Below are the steps for assignment creation. Each step is explored in
 full below.
 
-#. Locate “Create” assignment button
-#. Assign the due date, time limit, and point value (optional)
-#. Title your assignment and write a description
-#. Add, edit, and order questions
-#. Explore assignment “Options” (optional)
-#. Publish or schedule your assignment
-#. Add assignment to a lesson
+1. Locate “Create” assignment button.
+2. Assign the due date, time limit, and point value (optional).
+3. Title your assignment and write a description.
+4. Add, edit, and order questions.
+5. Explore assignment “Options.” (optional)
+6. Publish or schedule your assignment.
+7. Add assignment to a lesson.
 
-Step 1: Locate “Create” assignment button
+1. Locate “Create” assignment button
 -----------------------------------------
 
-Locate the button to begin a new assignment.
+There are two options to begin a new assignment. You can simply create it and leave it on the Assignments page, or create an assignment and immediately place it in a lesson. 
 
-There are two options to begin a new assignment:
+.. note:: Assignments placed in a lesson can also be found on the Assignments page.
 
-- **Assignments Page:**
+Create on the Assignments Page
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-  1. To begin creating an assignment, first enter the course in which you’d like to place the assignment and view the assignments page.
+To begin creating an assignment without placing it in a lesson,
 
-  2. While viewing the assignments subtab, click on the blue button titled "Create."
+1. Navigate to the Assignments page.
+2. While viewing the assignments subtab, click on the blue button titled "Create." 
+3. After you click this button, a new assignment template will open.
+
+Create and Place in Lesson
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Lessons Page:**
+
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
+2. Click the “+Add content” button at the bottom of the section.
    
-  3. After you click this button, a new assignment template will open.
-
-- **Lessons Page (Edit Mode):**
-
-    |image78|
-
-   1. While viewing your lessons page in Edit mode, select a lesson and view a section within the lesson.
+  .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).   
    
-   2. Click the “+Add content” button at the bottom of the section.
+3. Select "Assignments" in the "Choose a content type" window.
    
-   3. Then, select “Assignments.”
-   
-   4. In the assignment edit popup window that opens, select the blue “Create Assignment” button. Creating an assignment from this view will add the           assignment to this specific section in the course upon creation.
+4. Select the blue “Create Assignment” button. Creating an assignment from this view will add the  assignment to this specific section in the course upon creation.
 
-Step 2: Assign the due date, time limit, and point value
+2. Assign the due date, time limit, and point value
 --------------------------------------------------------
 
 Decide upon the essential elements of the assignment. Please note, these
@@ -177,7 +125,7 @@ The value allows you to assign the amount of points the assignment is worth. Thi
 
 .. warning:: Please note, in order for the assignment to autograde, you must assign a point value and also click on the “Options” button and check the “Enable Auto Grading” box. This means, when the student takes the assignment, the assignment will be checked for correctness and assigned a visible grade for the student’s work. We will explore this option more in Step 5 below. Also, if you are using the Grade Predictor feature, you must assign a point value.
 
-Step 3: Title your assignment and write a description
+3. Title your assignment and write a description
 -----------------------------------------------------
 
 Add a title and description by typing in the
@@ -188,7 +136,7 @@ and within the assignment’s tab. The description will display once the
 student opens the assignment and may be used for further explanation or
 instructions regarding the assignment.
 
-Step 4: Add and Edit Questions
+4. Add and Edit Questions
 ---------------------------------
 
  |image85|
@@ -264,7 +212,7 @@ will have a small “undo” menu that appears momentarily at the bottom
 left to restore the question.
 
 
-Step 5: Explore assignment “Options”
+5. Explore assignment “Options”
 ------------------------------------
 
 The Options tool allows you to choose who can see the assignment, if
@@ -337,7 +285,7 @@ randomly selected and presented to them from the 40 possible questions
 on their assignment. These 10 questions will make up that student’s
 unique assignment.
 
-Step 6: Publish or schedule your assignment
+6. Publish or schedule your assignment
 -------------------------------------------
 
 Once you have completed creating your assignment, the last step is to
@@ -367,7 +315,7 @@ saved as a draft. For instructions about returning to an assignment, see
 the section "Edit or Delete an Assignment."
 
 
-Step 7: Add assignment to a lesson
+7.: Add assignment to a lesson
 ----------------------------------
 
 There are two ways in which to add assignments to your lesson.
@@ -615,45 +563,3 @@ from Other Assignments.”
 If you choose to detach a question, the question functions as a copy and you are free to make edits without it affecting the same question
 in another assignment.
 
-
- |image113|
-
-.. |image75| image:: images/image15.png
-.. |Screen Shot 2016-07-17 at 6.49.51 PM.png| image:: images/image26.png
-.. |image77| image:: images/image115.png
-.. |image78| image:: images/image102.png
-.. |image79| image:: images/image3.png
-.. |image80| image:: images/image76.png
-.. |image81| image:: images/image75.png
-.. |image82| image:: images/image79.png
-.. |image83| image:: images/image72.png
-.. |image84| image:: images/image123.png
-.. |image85| image:: images/image107.png
-.. |image86| image:: images/image42.png
-.. |image87| image:: images/image44.png
-.. |image88| image:: images/image109.png
-.. |image89| image:: images/image1.png
-.. |image90| image:: images/image27.png
-.. |image91| image:: images/image80.png
-.. |image92| image:: images/image45.png
-.. |image93| image:: images/image101.png
-.. |image94| image:: images/image48.png
-.. |image95| image:: images/image83.png
-.. |image96| image:: images/image23.png
-.. |image97| image:: images/image54.png
-.. |image98| image:: images/image114.png
-.. |image99| image:: images/image34.png
-.. |image100| image:: images/image64.png
-.. |image101| image:: images/image58.png
-.. |image102| image:: images/image63.png
-.. |image103| image:: images/image77.png
-.. |image104| image:: images/image70.png
-.. |image105| image:: images/image91.png
-.. |image106| image:: images/image96.png
-.. |image107| image:: images/image100.png
-.. |image108| image:: images/image87.png
-.. |image109| image:: images/image43.png
-.. |image110| image:: images/image112.png
-.. |image111| image:: images/image89.png
-.. |image112| image:: images/image29.png
-.. |image113| image:: images/image7.png
