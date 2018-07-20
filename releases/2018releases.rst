@@ -8,7 +8,7 @@ July 20, 2018
 LTI Tool Support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Next Thought's courses now supports LTI tools. LTI tools allows integration of outside LMS applications into the lessons and courses. Once tools LTI tools are set up, they can be placed into the lesson.
+NextThought's courses now supports LTI tools. LTI tools allow integration of outside LMS applications into the lessons and courses. Once LTI tools are set up, they can be placed into the lesson.
 
 .. image:: images/lti2.png
 
@@ -23,7 +23,7 @@ These external widgets have to first be added to a course by an Instructor, Edit
 
 .. image:: images/lti1.png
 
-To add new LTI Tools click the “Add Tool” button. Now, choose whether to add the tools through a manual entry, by URL, or by copying and pasting a XML code. These can be found at the LTI tools source.
+To add new LTI Tools click the “Add Tool” button. Now, choose whether to add the tools through a manual entry, by URL, or by copying and pasting a XML code. These can be found at the LTI tools' source.
 
 For a manual entry, you will need:
 
@@ -52,7 +52,7 @@ By XML, you will need:
 3. Click “+Add Content” within a section.
 4. Click the LTI Tool and click the “Select” button.
 5. Follow any LTI prompts.
-6. Modify the title, picture and description.
+6. Modify the title, author, and description.
 7. Click add to lesson.
 
 .. image:: images/lti3.png
