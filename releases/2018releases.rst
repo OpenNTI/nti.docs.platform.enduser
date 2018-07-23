@@ -2,6 +2,61 @@
 2018 Release Notes
 ===================
 
+July 20, 2018
+-------------
+
+LTI Tool Support
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+NextThought's courses now support LTI tools. LTI tools allow integration of outside LMS applications into the lessons and courses. Once LTI tools are set up, they can be placed into the lesson.
+
+.. image:: images/lti2.png
+
+These external widgets have to first be added to a course by an Instructor, Editor, or Admin account. 
+
+**To add LTI options to a course:**
+
+1. In the course, click on the “Course Info” tab.
+2. In the sidebar, click “Admin Tools.”
+3. Under “Admin Tools” find the “Advanced” option and click “View Now.”
+4. Click the option “LTI Tools.”
+
+.. image:: images/lti1.png
+
+To add new LTI Tools click the “Add Tool” button. Now, choose whether to add the tools through a manual entry, by URL, or by copying and pasting a XML code. These can be found at the LTI tools' source.
+
+For a manual entry, you will need:
+
+- Consumer Key (if needed)
+- Shared Secret (if needed)
+- The Title
+- The Description
+- The Launch URL or Secure Launch URL
+
+For URL, you will need:
+
+- Consumer Key (if needed)
+- Shared Secret (if needed)
+- The Tool Configuration URL
+
+By XML, you will need:
+
+- Consumer Key (if needed)
+- Shared Secret (if needed)
+- The XML Code
+
+**To add an LTI Tool to a lesson:**
+
+1. Navigate to the “Lessons” tab.
+2. Click “Start Editing” in the bottom right-hand corner.
+3. Click “+Add Content” within a section.
+4. Click the LTI Tool and click the “Select” button.
+5. Follow any LTI prompts.
+6. Modify the title, author, and description.
+7. Click "Add to lesson."
+
+.. image:: images/lti3.png
+
 June 28, 2018
 -------------
 
