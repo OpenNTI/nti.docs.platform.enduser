@@ -12,7 +12,8 @@ course lessons. Readings allow a host of features including:
 - Image markup
 - and more!
 
-.. image:: images/
+.. image:: images/editingreading1.png
+
 
 Create and Place Reading
 ==========================
@@ -26,25 +27,25 @@ Create and Place in Lesson
 2. Click "Start Editing" in the bottom right-hand corner.
 3. While in Edit Mode, click on “+Add Content” in the section you'd like to place your reading.
 
-  .. image:: images/
+  .. image:: images/ReadingAddContent.png
   
   .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
   
 4. Select "Reading" in the "Choose a content type" window.
 
-  .. image:: images/
+  .. image:: images/readingselecttool.png
   
 5. Click "Create Content" in the upper left-hand corner.
 
-  .. image:: images/
+  .. image:: images/readingcreatebutton.png
   
 6. Add a title, author (optional), and description (optional) for your reading.  You may also add a thumbnail to your reading by clicking on the blue thumbnail button. This is the image that will display on your lessons page.
 
-  .. image:: images/
+  .. image:: images/readingflyout.png
   
 7. Click "Add to Lesson." This will now navigate you into the reading editing view. 
 
-  .. image:: images/
+  .. image:: images/readingeditor.png
 
 8. Create your reading. (Please see "Reading Features" below for more detail.)
 
@@ -52,7 +53,7 @@ Create and Place in Lesson
 
 9. Select the "Publish" state button in the bottom left-hand corner. Select Publish once more.
 
-  .. image:: images/
+  .. image:: images/readingpublishmenu.png
 
 
 Create and Place Later
@@ -62,24 +63,24 @@ Create and Place Later
 2. Click "Start Editing" in the bottom right-hand corner.
 2. Select the “Resources” folder at the bottom left-hand corner.
 
-  .. image:: images/
+  .. image:: images/readingresources.png
 
   .. note:: A list view of your created readings will display. You can search for readings by name in the search field above, and view the publish state and the last modified date. 
 
 4. Click on “Create” in the upper right-hand corner.
 
-  .. image:: images/
+  .. image:: images/readingcreate.png
 
 5. Create your reading. (Please see "Reading Features" below for more detail.)
    
-  .. image:: images/
+  .. image:: images/readingeditor.png
 
 6. Choose to publish or leave in draft.
 
   - Select the blue “Publish” button in the bottom right-hand corner to open the publish state flyout. Then, select “Publish” in the flyout in order to publish the text and make it available for placement within a lesson.
   - Or, navigate away from the reading without publishing to save it as a draft to return to later. You can find all drafted readings in your Resources folder.
    
-  .. image:: images/
+  .. image:: images/readingpublishmenu.png
 
 .. warning:: Publishing a reading only makes it available to place in a lesson. Learners cannot view the reading until it is placed within a lesson.
 
@@ -90,15 +91,15 @@ Place Reading
 2. Click "Start Editing" in the bottom right-hand corner.
 3. While in Edit Mode, click on “+Add Content” in the section you want to place the reading.
 
-  .. image:: images/
+  .. image:: images/ReadingAddContent.png
 
 4. Click "Reading" in the "Choose a content type" window.
 
-  .. image:: images/
+  .. image:: images/readingselecttool.png
 
 5. Select a reading and click "Select" in the bottom right-hand corner.
 
-   .. image:: images/
+   .. image:: images/readingselect.png
 
    .. warning:: Note that if one of the readings is faded and unclickable, it is still in "Draft." You must publish the reading in order to place it in a lesson. See "Edit a Reading" in order to learn how to return to your reading and publish it.
    
@@ -109,11 +110,10 @@ Place Reading
    - Reading description (optional)
    - Reading thumbnail image (optional)
    
-   .. image:: images/
+   .. image:: images/readingflyout.png
 
 6. Click "Add to Lesson" to add the reading to the lesson.
 
-   .. image:: images/
 
 
 Reading Features
