@@ -78,8 +78,6 @@ Edit File
    -  File thumbnail image
    -  You can also delete the file. (Please note: if you delete a link, you cannot undo this deletion. It is a permanent action.)
    
-   .. image:: images/
-   
 4. Click "Save."
 
    .. image:: images/editflyoutfiles.png
@@ -115,7 +113,7 @@ Delete File
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click on the "x" button on the content.
 
-   .. image:: images/
+   .. image:: images/removecontentlink.png
 
 4. Confirm removal.
 
