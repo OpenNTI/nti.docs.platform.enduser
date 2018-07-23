@@ -61,7 +61,7 @@ Create and Place Later
 
 1. Navigate to the Lessons page.
 2. Click "Start Editing" in the bottom right-hand corner.
-2. Select the “Resources” folder at the bottom left-hand corner.
+3. Select the “Resources” folder at the bottom left-hand corner.
 
   .. image:: images/readingresources.png
 
@@ -126,7 +126,7 @@ Add Text Styles
 
 At the bottom of your reading in edit mode is a suite of styles and organizational elements for you text. Choose between "Title," "Section Title," "Paragraph Headline," or "Body Text" to organize your information. Select "Block Quote," "Numbered List," and "Bulleted List" to emphasize points. Also choose from bold, italics, and underlined font styles.
 
-.. image:: images/
+.. image:: images/readingstyles.png
 
 Add Hyperlink
 ------------------------
@@ -136,7 +136,7 @@ Add Hyperlink
 3. Add the URL and keep or modify the display text. 
 4. Click "Save."
 
-.. image:: images/
+.. image:: images/readinglinks.png
 
 Add Photo
 ------------------------
@@ -166,7 +166,7 @@ Add Bulleted List
 3. Click enter to create another bullet point. Type your text here. Repeat.
 4. Enter twice to exit bullet points.
 
-.. image:: images/
+.. image:: images/readingbullets.png
 
 
 Add Numbered List
@@ -261,4 +261,28 @@ Edit Reading
    .. image:: images/
 	  
    .. note:: If you have not yet published, this button will say "Publish." Click it to publish your reading.
+   
+
+Delete Reading
+================
+
+**To permanently delete readings:**
+
+1. Navigate to the Lessons page.
+2. Click "Start Editing" in the bottom right-hand corner.
+3.. Select the “Resources” folder at the bottom left-hand corner.
+4. Select "Edit" next to the reading you wish to delete.
+
+5. Click on the blue "Publish" button and select "Delete."
+6. Confirm deletion.
+
+**To remove readings from a lesson:**
+
+1. Navigate to the "Lessons" tab.
+2. Click on the "Start Editing" button in the bottom right-hand corner.
+3. Click on the "x" button on the content.
+
+   .. image:: images/
+
+4. Confirm removal.
    
