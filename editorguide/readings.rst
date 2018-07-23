@@ -177,7 +177,7 @@ Add Numbered List
 3. Click enter to create #2. Type your text. Repeat.
 4. Enter twice to exit numbered list.
 
-.. image:: images/
+.. image:: images/readingnumbered.png
 
 
 Add Block Quotes
@@ -210,7 +210,7 @@ Add Call Out
 2. Begin typing.
 3. Click out of the call out to escape.
 
-.. image:: images/
+.. image:: images/readingcallout.png
 
 Edit Reading
 ================
@@ -221,7 +221,7 @@ Edit Reading
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click the “Edit” button for the reading you want to change.
 
-   .. image:: images/
+   .. image:: images/readingflyoutedit.png
 
 4. Make changes. In the Edit Flyout, you can change:
 
@@ -234,7 +234,7 @@ Edit Reading
    -  Reading thumbnail image
    -  You can remove a reading from its section, but you cannot undo this deletion. It is a permanent action. (Please note: the reading itself will still be available for placement from within your course files.)
    
-   .. image:: images/
+   .. image:: images/readingflyout2.png
 
 5. Click “Save” to save your changes.
 
@@ -244,21 +244,18 @@ Edit Reading
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. In Edit Mode, click on the Resources folder in the bottom left-hand corner.
 
-   .. image:: images/
+   .. image:: images/readingresources.png
 
 4. Locate your reading within the list or search to find it.
-
-   .. image:: images/
-
 5. Click "Edit" located to the far right of the reading title. 
 
-   .. image:: images/
+   .. image:: images/readingedit.png
 
 6. Edit your reading.
 
-7. Click "Publish Changes" to publish your changes. 
+7. Click "Publish Changes" and "Publish" to publish your changes. 
 
-   .. image:: images/
+   .. image:: images/readingpublishchange.png
 	  
    .. note:: If you have not yet published, this button will say "Publish." Click it to publish your reading.
    
@@ -273,7 +270,9 @@ Delete Reading
 3. Select the “Resources” folder at the bottom left-hand corner.
 4. Select "Edit" next to the reading you wish to delete.
 
-5. Click on the blue "Publish" button and select "Delete."
+   .. image:: images/readingdelete.png
+
+5. Click on the blue "Publish Changes" button and select "Delete."
 6. Confirm deletion.
 
 **To remove readings from a lesson:**
