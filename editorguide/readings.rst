@@ -270,7 +270,7 @@ Delete Reading
 
 1. Navigate to the Lessons page.
 2. Click "Start Editing" in the bottom right-hand corner.
-3.. Select the “Resources” folder at the bottom left-hand corner.
+3. Select the “Resources” folder at the bottom left-hand corner.
 4. Select "Edit" next to the reading you wish to delete.
 
 5. Click on the blue "Publish" button and select "Delete."
@@ -282,7 +282,7 @@ Delete Reading
 2. Click on the "Start Editing" button in the bottom right-hand corner.
 3. Click on the "x" button on the content.
 
-   .. image:: images/
+   .. image:: images/readingremove.png
 
 4. Confirm removal.
    
