@@ -2,4 +2,4 @@
 Webinars
 ======================
 
-Coming Fall 2018!
+Coming August 6th!
