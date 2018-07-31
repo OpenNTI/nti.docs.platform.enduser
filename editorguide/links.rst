@@ -17,7 +17,7 @@ Add URL/External Link
 
    .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
 
-2. In the “Choose a content type” popup, click on “Website Link.”
+2. Select “Website Link” in the “Choose a content type” window.
 
    .. image:: images/addlink.png
 
@@ -39,6 +39,7 @@ Add URL/External Link
 Edit or Delete Link 
 ======================
 
+**To edit the link:**
 
 1. Click on the “Edit” button next to the link you want to change.
 
@@ -59,6 +60,6 @@ Edit or Delete Link
 
 3. Click “Save.”
 
-.. note:: You can quickly delete a link by selecting the "x" icon  to the right of the content on the Lessons page. Then, confirm deletion.
+**To remove the link from your lesson and delete, simply select the "x" icon to the right of the content on the Lessons page. Then, confirm deletion.**
 
    .. image:: images/deletelink.png
