@@ -40,8 +40,7 @@ Edit Self-Assessment
 
 **To edit the position of the self assessment:**
 
-1. Click on the “Edit” button next to the self-assessment you want to
-change.
+1. Click on the “Edit” button next to the self-assessment you want to change.
 
    .. image:: images/editselfassessment.png
  
@@ -49,9 +48,7 @@ change.
 
    -  The section where the self-assessment is placed
    -  The relative position of the self-assessment within the section
-   -  Delete the self-assessment (Please note: if you delete the
-   self-assessment, you cannot undo this deletion. It is a permanent
-   action.)
+   -  Delete the self-assessment
    
    .. image:: images/editassessmentflyout.png
 
