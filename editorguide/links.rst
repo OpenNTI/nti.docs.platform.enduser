@@ -13,11 +13,13 @@ Add URL/External Link
 
 1.. While in Edit Mode, click on “+Add Content” in the section you want to place a link.
 
+   .. image:: images/addcontentbutton.png
+
    .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons). 
 
- |image38|
-
 2. In the “Choose a content type” popup, click on “Website Link.”
+
+   .. image:: images/addlink.png
 
 3. Add information that students can see about the URL.
 
@@ -26,6 +28,8 @@ Add URL/External Link
    - Link author (optional)
    - Link description (optional)
    - Link thumbnail image (optional)
+   
+   .. image:: images/linkeditorflyout.png
 
    .. note::  You can change the thumbnail image displayed for the link by clicking on the default image, then browsing your computer file manager for the desired image. 
 
@@ -38,7 +42,7 @@ Edit or Delete Link
 
 1. Click on the “Edit” button next to the link you want to change.
 
-   .. image:: images/
+   .. image:: images/editlink.png
 
 2. Make necessary edits.
 
@@ -51,10 +55,10 @@ Edit or Delete Link
    -  Link thumbnail image
    -  You can also delete the link. (Please note: if you delete a link, you cannot undo this deletion. It is a permanent action.)
 
-   .. image:: images/
+   .. image:: images/editlinkflyout.png
 
 3. Click “Save.”
 
 .. note:: You can quickly delete a link by selecting the "x" icon  to the right of the content on the Lessons page. Then, confirm deletion.
 
-   .. image:: images/
+   .. image:: images/deletelink.png
