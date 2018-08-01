@@ -50,13 +50,28 @@ Adding content to your course essentially follows the same few steps with the ex
 
 For more information regarding specific content types and adding them to your course, please continue to the specific content-named instructions following this page.
 
+Require Content
+================
+
+Require certain activities in your course to track learner progress and award credit and certificates. 
+
+.. note:: See more regarding credit here https://help.nextthought.com/editorguide/setup.html#course-credit and certificates here https://help.nextthought.com/editorguide/setup.html#advanced-completion-and-certificates.
+
+By default, when content is placed in a lesson, it is “optional.” While in Edit Mode, instructors, editors, and assistants can mark certain course materials as “Required" by clicking on the dropdown menu on the content piece itself on the Lessons page. You must be in Edit Mode to view this dropdown menu.
+
+.. image:: images/facreq.png
+
+When a resource is marked as “Required,” a label will appear next to the content on the Lessons page.
+
+.. image:: images/learnrec.png
+
 Move Content
 ================
 
 You can move content two ways:
 
-Edit Flyout
-------------
+Edit Flyout Menu
+------------------
 
 1. Navigate to the "Lessons" tab.
 2. Click on the "Start Editing" button in the bottom right-hand corner.
