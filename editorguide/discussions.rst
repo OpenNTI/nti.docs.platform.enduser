@@ -19,7 +19,7 @@ Create Discussion
 
    .. note:: If you do not see this button, you may need to first select "Add Forum" on the bottom left-hand corner. Discussions are organized by Forums.
 
-3. Add a title, tags, and your discussion prompt. You can also add a video, whiteboard, or file attachment by slecting the paper clip icon.
+3. Add a title, tags, and your discussion prompt. You can also add a video, whiteboard, or file attachment by selecting the paper clip icon.
 
    .. image:: images/coursediscedit.png
    

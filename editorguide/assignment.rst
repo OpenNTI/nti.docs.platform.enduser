@@ -699,6 +699,20 @@ marked as late in the gradebook if completed after the date has passed.
 
  |image74|
 
+.. |image61| image:: images/image22.png
+.. |image62| image:: images/image74.png
+.. |MoveContentDraqg.png| image:: images/image38.png
+.. |MoveContent\_NewSection.png| image:: images/image11.png
+.. |Screen Shot 2016-01-12 at 10.27.47 PM.png| image:: images/image10.png
+.. |image66| image:: images/image78.png
+.. |image67| image:: images/image88.png
+.. |image68| image:: images/image85.png
+.. |image69| image:: images/image25.png
+.. |image70| image:: images/image32.png
+.. |image71| image:: images/image32.png
+.. |image72| image:: images/image65.png
+.. |image73| image:: images/image66.png
+.. |image74| image:: images/image73.png
 .. |image75| image:: images/image15.png
 .. |Screen Shot 2016-07-17 at 6.49.51 PM.png| image:: images/image26.png
 .. |image77| image:: images/image115.png
