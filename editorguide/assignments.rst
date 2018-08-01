@@ -7,6 +7,8 @@ The assignment authoring tool allows you to create an assignment for
 your course and place it within a lesson. Add an assignment to a lesson
 to assess your students’ knowledge of the material they are learning.
 
+ |image15|
+
 There are several options available for customizing an assignment. This
 allows you to create a unique assignment tailored to your needs.
 
@@ -21,14 +23,14 @@ allows you to create a unique assignment tailored to your needs.
    
 -  **Other Features** 
 
-	- Due Date
-	- Time Limit
-	- Value
-	- Auto grade
-	- Randomize question order
-	- Randomize answer order
-	- question bank
-	- submission cut-off
+   - Due date
+   - Time limit
+   - Value
+   - Auto grade
+   - Randomize question order
+   - Randomize answer order
+   - question bank
+   - submission cut-off
 	
 
 Create an Assignment
@@ -69,6 +71,8 @@ To create an assignment and place it in a lesson,
 1. Navigate to the Lessons page.
 2. Click "Start Editing" in the bottom right-hand corner.
 2. Click the “+Add content” button at the bottom of the section.
+
+ |image102|
    
   .. warning:: Please note: if you don’t see “+Add Content,” you need to first add a section to the lesson page (see the above section on Adding Sections to Lessons).   
    
@@ -564,4 +568,45 @@ from Other Assignments.”
 
 If you choose to detach a question, the question functions as a copy and you are free to make edits without it affecting the same question
 in another assignment.
+
+
+.. |image75| image:: images/image15.png
+.. |Screen Shot 2016-07-17 at 6.49.51 PM.png| image:: images/image26.png
+.. |image77| image:: images/image115.png
+.. |image78| image:: images/image102.png
+.. |image79| image:: images/image3.png
+.. |image80| image:: images/image76.png
+.. |image81| image:: images/image75.png
+.. |image82| image:: images/image79.png
+.. |image83| image:: images/image72.png
+.. |image84| image:: images/image123.png
+.. |image85| image:: images/image107.png
+.. |image86| image:: images/image42.png
+.. |image87| image:: images/image44.png
+.. |image88| image:: images/image109.png
+.. |image89| image:: images/image1.png
+.. |image90| image:: images/image27.png
+.. |image91| image:: images/image80.png
+.. |image92| image:: images/image45.png
+.. |image93| image:: images/image101.png
+.. |image94| image:: images/image48.png
+.. |image95| image:: images/image83.png
+.. |image96| image:: images/image23.png
+.. |image97| image:: images/image54.png
+.. |image98| image:: images/image114.png
+.. |image99| image:: images/image34.png
+.. |image100| image:: images/image64.png
+.. |image101| image:: images/image58.png
+.. |image102| image:: images/image63.png
+.. |image103| image:: images/image77.png
+.. |image104| image:: images/image70.png
+.. |image105| image:: images/image91.png
+.. |image106| image:: images/image96.png
+.. |image107| image:: images/image100.png
+.. |image108| image:: images/image87.png
+.. |image109| image:: images/image43.png
+.. |image110| image:: images/image112.png
+.. |image111| image:: images/image89.png
+.. |image112| image:: images/image29.png
+.. |image113| image:: images/image7.png
 
