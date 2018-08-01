@@ -14,7 +14,7 @@ Editor Guide
 	videos
 	discussions
 	assessments
-	assignments
+	assignment
 	surveys
 	webinars
 

@@ -7,7 +7,7 @@ The assignment authoring tool allows you to create an assignment for
 your course and place it within a lesson. Add an assignment to a lesson
 to assess your students’ knowledge of the material they are learning.
 
- |image15|
+ |image75|
 
 There are several options available for customizing an assignment. This
 allows you to create a unique assignment tailored to your needs.

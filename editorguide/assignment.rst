@@ -4,27 +4,35 @@
 Assignments
 ==============================
 
-The assignment authoring tool allows you to create an assignment for your course and place it within a lesson. 
 
-There are several options available for customizing an assignment. This allows you to create a unique assignment tailored to your needs. Features include:
+The assignment authoring tool allows you to create an assignment for
+your course and place it within a lesson. Add an assignment to a lesson
+to assess your learners’ knowledge of the material they are learning.
 
+ |image75|
 
-- Question Types:
+There are several options available for customizing an assignment. This
+allows you to create a unique assignment tailored to your needs.
 
-  - Multiple Choice
-  - Multiple Answer
-  - Essay
-  - Short Answer
-  - File Upload
-  - Ordering
-  
-- Due Date (allow/disallow late submission)
-- Time Limit
-- Point Value
-- Auto grading
-- Randomize Questions
-- Randomize Answers
-- Question Bank
+-  **Question Types:** 
+
+   - multiple choice
+   - multiple answer
+   - short answer
+   - essay
+   - file upload
+   - ordering
+   
+-  **Other Features** 
+
+   - Due date
+   - Time limit
+   - Value
+   - Auto grade
+   - Randomize question order
+   - Randomize answer order
+   - question bank
+   - submission cut-off
 
 
 Create an Assignment
@@ -88,14 +96,14 @@ The due date defines the date and time the assignment should be completed by.
 
   |image80|
 
-.. note:: **How it works:** In the Lessons Page and Assignments Page, the assignment due date will display next to the assignment’s title. Once the assignment is past the due date, students will still be able to take it, but the assignment will be marked as late upon submission. Once the due date passes, the solutions to each question will display after the student submits his or her assignment.
+.. note:: **How it works:** In the Lessons Page and Assignments Page, the assignment due date will display next to the assignment’s title. Once the assignment is past the due date, learners will still be able to take it, but the assignment will be marked as late upon submission. (To restrict access to the assignment based on the due date, see Step 5.) Once the due date passes, the solutions to each question will display after the learner submits his or her assignment. 
 
-.. note:: **If not selected:** If no due date is selected, the assignment will be marked as “Available” and students are welcome to take the assignment when convenient.
+.. note:: **If not selected:** If no due date is selected, the assignment will be marked as “Available” and learners are welcome to take the assignment when convenient.
 
 Time Limit 
 ^^^^^^^^^^^^
 
-Adding a time limit to the assignment will alert the student upon opening the assignment that he or she only has a defined amount of time to complete the assignment once started.
+Adding a time limit to the assignment will alert the learner upon opening the assignment that he or she only has a defined amount of time to complete the assignment once started.
 
  |image81|
  
@@ -105,20 +113,20 @@ Adding a time limit to the assignment will alert the student upon opening the as
  
 |
 
-.. note:: **How it works:** The time limit will be displayed next to the assignment’s name on the Lessons or Assignments tab, and when the assignment is selected, the student will first be alerted to how much time they have to take the assignment and that once started the timer will not stop. Once the student begins the assignment, a countdown clock will display at all times in the upper right-hand corner. The timer will continue until the student submits his or her assignment. Once the timer reaches 0 when counting down from the allotted time, the timer will then count up displaying how many seconds/minutes/hours the assignment is over time. In other words, the student will be able to interact with the assignment past the time limit, although the assignment will be marked as over time upon student submission.
+.. note:: **How it works:** The time limit will be displayed next to the assignment’s name on the Lessons or Assignments tab, and when the assignment is selected, the learner will first be alerted to how much time they have to take the assignment and that once started the timer will not stop. Once the learner begins the assignment, a countdown clock will display at all times in the upper right-hand corner. The timer will continue until the learner submits his or her assignment. Once the timer reaches 0 when counting down from the allotted time, the timer will then count up displaying how many seconds/minutes/hours the assignment is over time. In other words, the learner will be able to interact with the assignment past the time limit, although the assignment will be marked as over time upon learner submission.
 
-.. note:: **If not selected:** If a time is not allotted to complete the assignment, a student is welcome to work on it as long as needed without being penalized for time.
+.. note:: **If not selected:** If a time is not allotted to complete the assignment, a learner is welcome to work on it as long as needed without being penalized for time.
 
 Value
 ^^^^^^^^
 
-The value allows you to assign the amount of points the assignment is worth. This point value will display in bold font to the right of the assignment's title in student’s Lessons page and the Assignments tab.
+The value allows you to assign the amount of points the assignment is worth. This point value will display in bold font to the right of the assignment's title in learner’s Lessons page and the Assignments tab.
  
 .. note:: **How it works:** The assignment's total value will display next to the name of the assignment on the Lessons View and Assignments View. In their Assignments View, their grade will be listed as [Earned Points/Total Points]. If you choose to set the assignment to autograde, the total points will determine the value of each question.
  
-.. note:: **If not selected:** If a point value is not assigned, no point value will display. An instructor can still assign a grade once the assignment is submitted by students.
+.. note:: **If not selected:** If a point value is not assigned, no point value will display. An instructor can still assign a grade once the assignment is submitted by learners.
 
-.. warning:: Please note, in order for the assignment to autograde, you must assign a point value and also click on the “Options” button and check the “Enable Auto Grading” box. This means, when the student takes the assignment, the assignment will be checked for correctness and assigned a visible grade for the student’s work. We will explore this option more in Step 5 below. Also, if you are using the Grade Predictor feature, you must assign a point value.
+.. warning:: Please note, in order for the assignment to autograde, you must assign a point value and also click on the “Options” button and check the “Enable Auto Grading” box. This means, when the learner takes the assignment, the assignment will be checked for correctness and assigned a visible grade for the learner’s work. We will explore this option more in Step 5 below. Also, if you are using the Grade Predictor feature, you must assign a point value.
 
 Step 3: Title your assignment and write a description
 -----------------------------------------------------
@@ -126,9 +134,9 @@ Step 3: Title your assignment and write a description
 Add a title and description by typing in the
 appropriately labeled fields.
 
-The students will see the title of the assignment within their lesson
+The learners will see the title of the assignment within their lesson
 and within the assignment’s tab. The description will display once the
-student opens the assignment and may be used for further explanation or
+learner opens the assignment and may be used for further explanation or
 instructions regarding the assignment.
 
 Step 4: Add and Edit Questions
@@ -159,7 +167,7 @@ To learn more, see Question Types.
 
  |image86|
 
-.. warning:: Please note, if you add a Short Answer question type, your answer text must exactly match the spelling of your student’s solution for the question to be marked correct.
+.. warning:: Please note, if you add a Short Answer question type, your answer text must exactly match the spelling of your learner’s solution for the question to be marked correct.
 
 Add Code Block
 ^^^^^^^^^^^^^^^^^
@@ -213,7 +221,7 @@ Step 5: Explore assignment “Options”
 The Options tool allows you to choose who can see the assignment, if
 your assignment is auto graded, if ordering of questions or answers is
 randomized, and if you’d like to set a max limit of questions that
-present to the student.
+present to the learner.
 
 To view and edit advanced settings, click the “Options” button to the
 right of the assignment’s title. Below is a description of each option:
@@ -225,7 +233,7 @@ This option allows you to select who can view the assignment.
 
  |image91|
 
-.. note:: **How it works:** You can make an assignment visible to either “Everyone” or “For Credit Only.” If it’s assigned to “For Credit Only” only students that are taking the course for credit may see the assignment and interact with it.
+.. note:: **How it works:** You can make an assignment visible to either “Everyone” or “For Credit Only.” If it’s assigned to “For Credit Only” only learners that are taking the course for credit may see the assignment and interact with it.
 
 Grading Option
 ^^^^^^^^^^^^^^^^
@@ -236,7 +244,7 @@ You must have an assignment value set in order to auto grade. (See Step 2 regard
  |image92|
 
 .. warning:: **How it works:** Each question will share an equal amount of points counting toward the total value of the assignment. (Although, NextThought can set up an assignment to grade with different point values per question. Please contact NextThought if you are interested.) 
-After the student submits his or her assignment, each question will be marked as correct or incorrect and display the student’s score based on number of correct answers and how much each question is worth. The instructor will also be able to view the student’s score and answers.
+After the learner submits his or her assignment, each question will be marked as correct or incorrect and display the learner’s score based on number of correct answers and how much each question is worth. The instructor will also be able to view the learner’s score and answers.
 
 .. warning:: Please note, that if you have added a file upload or essay question type, auto grading will no longer be available to you since neither of these types can be automatically graded. Also note that all assignments will be “auto-assessed” regardless if they are auto-graded. Auto-assessed means that each question upon submission will be marked with either “Correct” or “Incorrect.”
 
@@ -250,7 +258,7 @@ Randomize Ordering
 ^^^^^^^^^^^^^^^^^^^^^
 
 Selecting randomize will help ensure that each
-student have a unique quiz while still displaying each question and
+learner have a unique quiz while still displaying each question and
 solution.
 
  |image93|
@@ -258,12 +266,12 @@ solution.
 **Randomize Question Order:**
 
 Selecting this option will randomize the order in which the questions
-are presented to each student.
+are presented to each learner.
 
 **Randomize Answer Order:**
 
 Selecting this option will randomize the order in which the answers are
-presented to each student.
+presented to each learner.
 
 **Max Limit:**
 
@@ -271,14 +279,36 @@ presented to each student.
  
 Setting a max limit of questions allows a designated amount
 of questions from a larger set of questions to be randomly selected and
-assigned to students. Students will only be able to see and interact
+assigned to learners. Learners will only be able to see and interact
 with their unique set of questions.
 
 In other words, if you have 40 questions for the assignment, and you set
-a max limit of 10 questions, each student will have 10 questions
+a max limit of 10 questions, each learner will have 10 questions
 randomly selected and presented to them from the 40 possible questions
-on their assignment. These 10 questions will make up that student’s
+on their assignment. These 10 questions will make up that learner’s
 unique assignment.
+
+**Late Submissions**
+
+Course Instructors can restrict submissions to an assignment by due date and offer a grace period or timeframe for their assignments. A grace period grants an extended submission timeframe to an assignment beyond the due date.
+
+After the due date, the learner can still view the assignment, but the assignment will not allow submissions. 
+
+**To restrict submissions or add a grace period:**
+
+1. While creating/editing assignment, add a due date.
+2. Select the “Options” button.
+3. Navigate down to the bottom section labeled “Late Submissions.”
+4. Select the dropdown.
+
+   - **To Restrict Access Based on Due Date:** Select "Never Allow" to restrict submissions to only before due date.
+   - **To Restrict Access with Grace Period:** Select the "Allow within Grace Period" to allow submissions only past the due date by a defined amount of time. Then, define the amount of time you'd like to allow.
+
+5. Click the “Done” button to save your changes.
+
+.. image:: images/restrictedsub.png
+
+The grace period is not disclosed to the learner. If the learner tries to submit the assignment after the due date or grace period, a warning window will appear stating that the assignment is past due and cannot be submitted.
 
 Step 6: Publish or schedule your assignment
 -------------------------------------------
@@ -298,11 +328,11 @@ want to publish your assignment and make it available right away, click
 
 If you’d like the assignment to be scheduled to become
 available, click “Schedule” and select the day and enter a time for it
-to become available for students. Before this date and time, students
+to become available for learners. Before this date and time, learners
 will only be able to see the title of the assignment and the date it
 becomes available. They will not be able to view the assignment’s
 contents. Once the assignment becomes available (or if it was
-immediately published) the student may take the assignment. 
+immediately published) the learner may take the assignment. 
 
 If you aren’t quite finished with the assignment, that’s okay. You can
 leave it as is without publishing it and return to it later. It will be
@@ -362,7 +392,7 @@ While viewing a lesson, you can add your assignment to a lesson.
 
  |image103|
 
-.. note:: Please note, if you do not place an assignment in a lesson, published assignments can still be viewed by students within their Assignments tab.
+.. note:: Please note, if you do not place an assignment in a lesson, published assignments can still be viewed by learners within their Assignments tab.
 
 Edit or Delete an Assignment
 ==============================
@@ -393,7 +423,7 @@ limited. Use the descriptions below to understand your limitations:
   the scheduled date at which point the assignment will be “published” and
   viewable.
 
-2. **If the assignment is published, but no student has yet interacted with it, you are not limited to the edits you can make; however, you will be required to save some types of edits manually instead of the application saving changes automatically as you go.**
+2. **If the assignment is published, but no learner has yet interacted with it, you are not limited to the edits you can make; however, you will be required to save some types of edits manually instead of the application saving changes automatically as you go.**
 
   Any edits to published questions (or adding new questions) will open the
   question in a new pop-up window. Once you have made changes to that
@@ -407,7 +437,7 @@ limited. Use the descriptions below to understand your limitations:
   questions, deleting questions, adding a time limit, as well as adding a
   due date will be saved automatically when the change occurs.
 
-3. **If the assignment is published, but students have begun the assignment, you will be limited in the edits you can make.**
+3. **If the assignment is published, but learners have begun the assignment, you will be limited in the edits you can make.**
 
   In this scenario, only minor changes can be made such as textual changes
   in question or answer text or in the assignment title and description.
@@ -417,7 +447,7 @@ limited. Use the descriptions below to understand your limitations:
   (Please note, if the assignment
   is set to autograde and you assign a new value to the assignment, the
   assignment will be regraded according to the new value for those
-  students who have already taken the assignment. Also, if you assign a
+  learners who have already taken the assignment. Also, if you assign a
   different solution than previously selected, the assignment will regrade
   and reassess accordingly for those who have already submitted their
   assignment.)
@@ -425,16 +455,16 @@ limited. Use the descriptions below to understand your limitations:
   If you need to make larger changes such as adding a question, deleting a
   question, and toggling different Options, you will receive an error
   message in the bottom right-hand corner and will be prompted to Reset
-  student assignments in order to save the changes. Resetting the
-  assignment will clear all student submissions and students will have to
+  learner assignments in order to save the changes. Resetting the
+  assignment will clear all learner submissions and learners will have to
   retake the updated assignment.
 
-4. **If the assignment was not created using our authoring tools,** the assignment will be referred to as a “Legacy Assignment” and is limited to two types of edits, point value and autograde changes, regardless if students have begun the assignment or not. You can add, delete, or edit point values, and you have the option to turn autograde on or off by clicking the “Options” button and selecting the enable autograde option. Please see “Editing Point Values and Autograde Option” below for more details. |image106|
+4. **If the assignment was not created using our authoring tools,** the assignment will be referred to as a “Legacy Assignment” and is limited to two types of edits, point value and autograde changes, regardless if learners have begun the assignment or not. You can add, delete, or edit point values, and you have the option to turn autograde on or off by clicking the “Options” button and selecting the enable autograde option. Please see “Editing Point Values and Autograde Option” below for more details. |image106|
 
 Editing Point Values and Autograde Option
 -----------------------------------------
 
-Within all assignments, regardless if students have begun the assignment
+Within all assignments, regardless if learners have begun the assignment
 or not, you have the option to add, delete, or edit point values, and
 turn autograding on or off. Please click “Edit” next to the assignment’s
 name in your Assignments tab to enter Edit Mode. The point value is
@@ -452,18 +482,18 @@ FAQ when editing autograde and point values:
 -  If you choose autograde, all assignments taken after will also be
    autograded accordingly.
 -  If you turn off autograde on an assignment that was previously
-   autograded, any student’s assignment that was autograded will remain
+   autograded, any learner’s assignment that was autograded will remain
    graded. In other words, their grade will not be deleted.
 -  If you define a NEW point value with autograde already selected, the
    assignments will RE-AUTOGRADE according to the new point value (both
    previously completed assignments and assignments completed after the
    change).
 -  If the assignment is MANUALLY GRADED by the professor, the manual
-   grade will OVERRIDE any autograde settings for that student’s
-   assignment. In other words, if a student’s assignment was graded by
+   grade will OVERRIDE any autograde settings for that learner’s
+   assignment. In other words, if a learner’s assignment was graded by
    the professor and given “90 points” and then set to autograde, the
    “90” points will persist even if the autograde function would grade
-   the student differently.
+   the learner differently.
 
 Deleting Assignments 
 ----------------------
@@ -472,7 +502,7 @@ To delete an assignment:
 
 1. View the assignment in editing mode. 
 
-2. Select the publish button at the bottom right. (If students have begun taking the assignment, you will first be presented a Reset button. You will need to reset student progress before proceeding.)
+2. Select the publish button at the bottom right. (If learners have begun taking the assignment, you will first be presented a Reset button. You will need to reset learner progress before proceeding.)
 
 3. Now, click the “delete” button. A window will now appear to confirm deletion.
 
@@ -507,7 +537,7 @@ Before we get started, please note:
 -  **Editing Limitations:** You might be limited to what you
    can edit on the question if an assignment it was shared with has been taken. 
    For example, if a quiz and cumulative exam share a question,
-   and the students have taken the quiz, then from within the exam you
+   and the learners have taken the quiz, then from within the exam you
    will only be able to select a different solution (e.g., from “A” to
    “B”), or make minor text edits. You will not be allowed to delete
    solutions or reorder solutions. (If you do choose to select a new
@@ -637,22 +667,22 @@ including three publish states and a due date option:
 #. **Publish (publish state)**
 
 Selecting this option allows you to publish the assignment immediately.
-In other words, students will be able to begin taking the assignment as
+In other words, learners will be able to begin taking the assignment as
 soon as the assignment is published.
 
 2. **Schedule (publish state)**
 
 Scheduling the assignment allows you to choose the date and time that
-the assignment becomes available for students to view and take. Before
+the assignment becomes available for learners to view and take. Before
 this date, the assignment title can be seen within the lessons and
-assignments view, but the student will not be able to click into it to
+assignments view, but the learner will not be able to click into it to
 view questions.
 
 3. **Draft (publish state)**
 
 If not already selected, this option sends the assignment back into
 draft mode. This allows the instructor to continue editing the
-assignment. While an assignment is in this state, students will not be
+assignment. While an assignment is in this state, learners will not be
 able to see the assignment.
 
 .. warning:: This state is only available for authored assignments. Learn more in Part III Create an Assignment.
@@ -663,7 +693,7 @@ Choose the month, date, year and time that the assignment is due.
 Assignments are still available once the due date passes, but will be
 marked as late in the gradebook if completed after the date has passed.
 
-.. warning:: If an assignment has already been taken by a student, you will have to “Reset Assignment” to access the publish states and change them.
+.. warning:: If an assignment has already been taken by a learner, you will have to “Reset Assignment” to access the publish states and change them.
 
  |image73|
 
