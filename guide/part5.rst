@@ -9,7 +9,7 @@ View course progress to understand how your course is progressing through requir
 
 .. image:: images/couseprogresslessons.png
 
-**Progress** is defined by a learner completing required materials. In order for a learner to complete required materials, materials must be viewed (video, PDF, readings, etc.) or submitted (survey, self-assessment, assignments). Materials can be marker as "Required" when in Edit Mode. Learners will see the "Required" label on each required content.
+**Progress** is defined by a learner completing required materials. In order for a learner to complete required materials, materials must be viewed (video, PDF, readings, etc.) or submitted (survey, self-assessment, assignments). Materials can be marked as "Required" when in Edit Mode. Learners will see the "Required" label on each required content.
 
 .. image:: images/courseprogressrequired.png
 
