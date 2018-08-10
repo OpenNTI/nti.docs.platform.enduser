@@ -20,6 +20,8 @@ the guide.
 - Surveys and Polls
 - Timelines
 - Images and Video Reels
+- LTI Tools
+- SCORM
 
 **Communication:**
 
@@ -33,15 +35,10 @@ the guide.
 - Community Pages
 - Group Pages
 
-**Course Authoring:**
-
-- Add Units, Lessons, and Sections
-- Arrange, Organize, Add, and Edit Content
-- Create an Assignment
-- Create a Reading
-
 **Course Management:**
 
+- Require Activities/Participation
+- Award Certificates and Credit
 - Review, Assess, and Grade
 - Filtering and Sorting
 - Roster
@@ -60,10 +57,17 @@ the guide.
 
 **Site Management:**
 
+- Create Site Credit Types
+- Award Credit
+- View and Download Transcripts
 - Course Creation
 - Course Import
+- SCORM
 - Course Editing and Management
 - User Management
 - Site-wide Reports
 - Course Reports
 - User Reports
+- Webinar Integration
+
+
