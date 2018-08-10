@@ -5,6 +5,12 @@
 August 6th, 2018
 ----------------
 
+Short Answer Question Type can be Objective or Subjective
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, the short answer question type was an objective type that was auto-assessed for correctness. Instructors were required to define the correct response(s) for short answer questions. Now, instructors have the option to provide a solution or offer no solution. If no solution is provided, the question is assumed to be subjective and is no longer auto-assessed for correctness.
+
+
 GoToWebinar Support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 NextThought now integrates with GoToWebinar to allow learners to view, register, and join webinars from their Lessons page. Admin can integrate their site with their GoToWebinar account and admin/instructors/editors can add a webinar to their Lessons page.
@@ -22,78 +28,68 @@ Before attempting to integrate with GoToWebinar, please make sure you have a GoT
 
 5. You will then be asked to log into GoToWebinar, or, if already logged in, you will be asked “Allow Access” to NextThought.
 
-.. image:: images/webinar2.png
+.. image:: images/webinar2.2.png
 
-6. Once you are connected your GoToWebinar name will display where the blue connect button used to be.You have now successfully linked your site to the GoToWebinar account.
+6. Once you are connected your GoToWebinar name will display where the blue connect button used to be. You have now successfully linked your site to the GoToWebinar account.
 
-.. image:: images/webinar3.png
+.. image:: images/webinar3.2.png
 
 
 **Note:** You can also link your account when adding a webinar from the new content window if you haven’t already.
 
 **Adding Webinars to Course:**
 
-Before adding a webinar to a Lesson, you must first have created the webinar on your GoToWebinar account. Please see the notes section below for supported webinar types and other considerations.
+Before adding a webinar to a Lesson, you must first have created the webinar on your GoToWebinar account. 
+
+.. note:: Please note, if you choose a reoccurring webinar, please select the option "Participants register for individual sessions that they’ll attend." for best data integration.
 
 1. In Edit Mode, click “Add Content” in a section.
+
+.. image:: images/1addcontent.png
+
 2. Click “Webinars.”  
 
-.. image:: images/webinar4.png
+.. image:: images/2webinarchoose.png
 
 3. Select the webinar you wish to display, or paste a link to the webinar by selecting “Paste Link.”
 
-.. image:: images/webinar11.png
-
-	- (Optional) Add a thumbnail for your webinar and edit its position. 
-	
-.. image:: images/webinar5.png
+.. image:: images/3choosewebinar.png
 
 4. Click on the “Add to Lesson” button.
 
+.. image:: images/4webinarinfo.png
+
+Your webinar is now added to the Lesson. Learners can register and join the webinar from the NextThought application. Instructors will need to launch the webinar from GoToWebinar. GoToWebinar will track all of the participants that register through the NextThought application in your Registrant list. Notifications and reminders can be set up on GoToWebinar. 
+
 **Learner View and Registration:**
 
-Before a learner can join a webinar, they must first follow the “Register” prompt on the Lessons page to register for the webinar.
+1. Before a learner can join a webinar, they must first follow the “Register” prompt on the Lessons page to register for the webinar.
 
-.. image:: images/webinar6.png
+.. image:: images/learnerregister.png
 
-After selecting “Register,” they will be prompted to provide their first name, last name, email address, and any other information the webinar may need.
+2. After selecting “Register,” they will be prompted to provide the information you've required of them from the GoToWebinar settings.
 
-.. image:: images/webinar7.png
+.. image:: images/learnerinfo.png
 
-Now the button that previously said “Register” will now say “Join” but will not be active until the start time. 
+3. The button that previously said “Register” will now say “Join” but will not be active until the organizer has launched the 
 
-.. image:: images/webinar8.png
+.. image:: images/learnerjoininactive.png
 
-When a webinar is in session, a timer will appear on the “Join” button displaying how long is left in the webinar.
+4. When a webinar is in session, a timer will appear on the “Join” button displaying how long is left in the webinar.
 
-Selecting “Join” will launch the GoToWebinar app in the learner’s local computer. Learners will view and participate in the webinar through this application. (Users will be prompted to download this desktop application if they don’t yet have it.)
+.. image:: images/learningjoinactive.png
 
-**Notes and Specifications:**
+5. Selecting “Join” will launch the webinar.
 
-- In GoToWebinar, you can create a webinar that repeats (daily, weekly, monthly, etc.). In order for NextThought to support this type of webinar, you will need to select “Participants register for individual sessions that they’ll attend” in the GoToWebinar webinar registration type. Webinars that repeat will show up on NextThought as individual webinars instead of a single, repeating one. Facilitators will be asked to select which session to add to their Lesson.
+.. note:: Webinars can be “required” resources on the NextThought app. In order to be marked as “completed” learners must join and attend the webinar.
 
-.. image:: images/webinar9.png
-
-- If a learner tries to register for a webinar that’s full, NextThought will display a “Problem with registration” error. 
-
-.. image:: images/webinar10.png
-
-- Webinars can be “required” resources on the NextThought app. In order to be marked as “completed” learners must attend/join the webinar (not just register).
-
-
-LTI Tool Icons
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-LTI tools will now pull the the icon associated with that tool if one is available.
-
-.. image:: images/ltitoolicon.png
 
 Course Progression on Course Card
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In student view, course progress will now display on the bottom of the course card. It will show as a green bar that will progress as the student does through the course. If the course is completed, the bar will be filled across the bottom and a green banner will appear marking its status as complete.
+In learner view, course progress will now display on the bottom of the course card. It will show as a green bar that will progress as the learner does through the course. If the course is completed, the bar will be filled across the bottom and a green banner will appear marking its status as complete.
 
-.. image:: images/
+.. image:: images/completioncards.png
 
 July 20, 2018
 -------------
@@ -148,7 +144,7 @@ By XML, you will need:
 6. Modify the title, author, and description.
 7. Click "Add to lesson."
 
-.. image:: images/lti3.png
+.. image:: images/ltitwitter.png
 
 June 28, 2018
 -------------
