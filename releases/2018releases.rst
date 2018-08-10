@@ -35,7 +35,7 @@ Before attempting to integrate with GoToWebinar, please make sure you have a GoT
 .. image:: images/webinar3.2.png
 
 
-**Note:** You can also link your account when adding a webinar from the new content window if you haven’t already.
+.. note:: You can also link your account when adding a webinar from the new content window if you haven’t already.
 
 **Adding Webinars to Course:**
 
