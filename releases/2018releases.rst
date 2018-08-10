@@ -71,7 +71,7 @@ Your webinar is now added to the Lesson. Learners can register and join the webi
 
 .. image:: images/learnerinfo.png
 
-3. The button that previously said “Register” will now say “Join” but will not be active until the organizer has launched the 
+3. The button that previously said “Register” will now say “Join” but will not be active until the organizer has launched the webinar.
 
 .. image:: images/learnerjoininactive.png
 
