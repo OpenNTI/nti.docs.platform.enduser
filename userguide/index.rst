@@ -16,4 +16,5 @@ User Guide
 	Progress_Certs_Credit
 	Notifications_Search_Activity
 	Social_Features
+	webinarslearn
 

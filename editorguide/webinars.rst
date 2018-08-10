@@ -1,6 +1,6 @@
-======================
+========================
 Webinars
-======================
+========================
 
 NextThought integrates with GoToWebinar to allow learners to view, register, and join webinars from their Lessons page. Admin can integrate their site with their GoToWebinar account and site admin, instructors, editors can add a webinar to their Lessons page.
 
