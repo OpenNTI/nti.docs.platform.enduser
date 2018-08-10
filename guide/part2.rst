@@ -22,6 +22,8 @@ support for your course, please contact NextThought.
 -  Surveys and Polls
 -  Timelines
 -  Images and Video Reels
+-  Webinars
+-  LTI Tools
 
 .. image:: images/SupportedContent.png
 
