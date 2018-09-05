@@ -15,7 +15,7 @@ An “Open” button now appears in the course catalog so that courses can be im
 Invite Users to Join the Platform
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-You can now invite people to join the learning platform (site) from the Admin Tools. Your invitations will be tracked on the People tab, which will display pending invitations.
+Site admin can now invite people by email to join the learning platform (site) from the Admin Tools. Your invitations will be tracked on the People tab, which will display pending invitations.
 
 1. Navigate to your Admin Tools
 2. Click on the “People” tab.
@@ -28,7 +28,7 @@ You can now invite people to join the learning platform (site) from the Admin To
 
 .. image:: images/invite3.png
 
-Once a learner clicks on the accept invitation, they will be navigated to the login page to create an account.
+Once a learner clicks accept in the email invite, they will be navigated to the login page to create an account.
 
 **To cancel an invite:**
 
@@ -68,19 +68,14 @@ Now, when learners click to register for a webinar, information already offered 
 
 .. image:: images/autofill.png
 
-Unique File Uploads for Section Courses
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-You can edit a section course, add a file upload, and the file upload will not show up in any other section except for where it was created. This allows users with this model to add section specific content.
+August 16th, 2018
+----------------
 
 Instant Email Notification for Replies to Post
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-When someone replies to your post, you receive both an instant email regarding this notification as well as an in-app notification. Daily or weekly notification emails are still sent out, and will still include items in one-off notification emails.
+When someone replies to your post, you'll now receive both an instant email regarding this notification as well as an in-app notification. Daily or weekly notification emails are still sent out, and will still include items in one-off notification emails.
 
-The email will tell them what post was responded to, who responded to it and it will link them back to the origin of the notification. 
-
-
-August 6th, 2018
+August 9th, 2018
 ----------------
 
 Short Answer Question Type can be Objective or Subjective
@@ -88,6 +83,8 @@ Short Answer Question Type can be Objective or Subjective
 
 Previously, the short answer question type was an objective type that was auto-assessed for correctness. Instructors were required to define the correct response(s) for short answer questions. Now, instructors have the option to provide a solution or offer no solution. If no solution is provided, the question is assumed to be subjective and is no longer auto-assessed for correctness.
 
+August 6th, 2018
+----------------
 
 GoToWebinar Support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
