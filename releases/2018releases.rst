@@ -2,7 +2,80 @@
 2018 Release Notes
 ===================
 
-August 6th, 2018
+August 28th, 2018
+-----------------
+
+Open Courses from Catalog
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An “Open” button now appears in the course catalog so that courses can be immediately accessed and opened once enrolled. The “Remove” button that once was in its place has been moved above it to the left.
+
+.. image:: images/open.png
+
+Invite Users to Join the Platform
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Site admin can now invite people by email to join the learning platform (site) from the Admin Tools. Your invitations will be tracked on the People tab, which will display pending invitations.
+
+1. Navigate to your Admin Tools
+2. Click on the “People” tab.
+3. Click on “Invitations” subtab.
+4. Click “Invite People.”
+5. Type in an email address, select role, and add a message.
+6. Click “Save” to send your message.
+
+.. image:: images/invite2.png
+
+.. image:: images/invite3.png
+
+Once a learner clicks accept in the email invite, they will be navigated to the login page to create an account.
+
+**To cancel an invite:**
+
+Select the red “cancel” button to the right of the user’s invitation on the Invitations subtab.
+
+New Design for Site Admin “Users” Tab
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The “Users” tab has now been redesigned and renamed “People.” This new design allows for easier use and simplicity, and contains a new feature to invite users to the platform. 
+
+Here’s an overview of the new design:
+
+.. image:: images/newdesign1.png
+
+**New Sidebar**
+
+Filtering users by role is now available in the sidebar and segregates the users’ roles into two new tabs, “Learners” and “Admins.”
+
+**User Information**
+
+Now, join date and last active date appears to the right of the user’s name and email. Clicking on the user still takes you to a detailed user view.
+
+**Change Role Relocation**
+
+Now a “Change Role” button appears at the top right-hand side of the People tab. When selected, a new flyout will appear prompting you to change the role of the selected user. Click “Save” to change the role.
+
+.. image:: images/newdesign2.png
+
+**Invitations**
+
+You can now invite people to join the platform.
+
+Autofill Webinar Registration
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now, when learners click to register for a webinar, information already offered by the user on the platform (name, email, etc.) will autofill in the registration form.
+
+.. image:: images/autofill.png
+
+August 16th, 2018
+----------------
+
+Instant Email Notification for Replies to Post
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When someone replies to your post, you'll now receive both an instant email regarding this notification as well as an in-app notification. Daily or weekly notification emails are still sent out, and will still include items in one-off notification emails.
+
+August 9th, 2018
 ----------------
 
 Short Answer Question Type can be Objective or Subjective
@@ -10,6 +83,8 @@ Short Answer Question Type can be Objective or Subjective
 
 Previously, the short answer question type was an objective type that was auto-assessed for correctness. Instructors were required to define the correct response(s) for short answer questions. Now, instructors have the option to provide a solution or offer no solution. If no solution is provided, the question is assumed to be subjective and is no longer auto-assessed for correctness.
 
+August 6th, 2018
+----------------
 
 GoToWebinar Support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
