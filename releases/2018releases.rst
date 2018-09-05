@@ -2,7 +2,7 @@
 2018 Release Notes
 ===================
 
-August 31st, 2018
+August 28th, 2018
 -----------------
 
 Open Courses from Catalog
