@@ -13,12 +13,12 @@ General performance and stability improvements.
 Forum Titles are Editable
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Previously admin and course facilitators could not change the title of a forum. Now, admin and course facilitators can edit the title of a forum.
+Previously, admin and course facilitators could not change the title of a forum. Now, admin and course facilitators can edit the title of a forum.
 
 .. image:: images/fourmtitle.png
 
-Option to Automatically Require a Certain Content Type
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Option to Automatically Require a Certain Content Type for Course Completion
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Previously, an admin, editor, or instructor had to require content items one-by-one on the Lessons page.
 
@@ -35,16 +35,16 @@ Now, an admin, editor, or instructor can choose to automatically require certain
 Assignments Automatically Required for Completion as Course Default
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Previously, when a new course was created, all content types added to a Lesson would be “optional” for course completion by default. 
+Previously, when a new course was created, all content types added to a lesson would be “optional” for course completion by default. 
 
-Now, a new course will require any assignments to be completed by default. These settings can be changed by navigating to the Course Info > Advanced tab and changing the default toggles.
+Now, a new course will mark assignments as "Required" by default. These settings can be changed by navigating to the Course Info > Advanced tab and changing the default toggles.
 
 .. image:: images/autorequired.png
 
 Admin Tab Content Filtering and Sorting
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Now the titles of each column in the Admin Tools > Content tab will filter and sort the courses and books by the respective field when selected. (e.g., If you click on “Start Date” then the courses will be ordered according to start date.)
+Now, the titles of each column in the Admin Tools > Content tab will filter and sort the courses and books by the respective field when selected. (e.g., If you click on “Start Date” then the courses will be ordered according to start date.)
 
 .. image:: images/admintabfil.png
 
@@ -52,7 +52,7 @@ Now the titles of each column in the Admin Tools > Content tab will filter and s
 Library Filtering and Search
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Previously the course library (or homepage) was not searchable or filterable. Now, you can use the search bar at the top of the window to filter a course by course name or ID. To search, type into the search bar. (Do not press the enter key.)
+Previously, the course library (or homepage) was not searchable or filterable. Now, you can use the search bar at the top of the window to filter a course by course name or ID. To search, type into the search bar. (Do not press the enter key.)
 
 .. image:: images/librarysearch.png
 
