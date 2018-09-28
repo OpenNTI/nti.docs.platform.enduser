@@ -2,6 +2,67 @@
 2018 Release Notes
 ===================
 
+September 27th, 2018
+--------------------
+
+Performance and Stability Improvements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+General performance and stability improvements.
+
+Forum Titles are Editable
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously admin and course facilitators could not change the title of a forum. Now, admin and course facilitators can edit the title of a forum.
+
+.. image:: images/fourmtitle.png
+
+Option to Automatically Require a Certain Content Type
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, an admin, editor, or instructor had to require content items one-by-one on the Lessons page.
+
+Now, an admin, editor, or instructor can choose to automatically require certain content types (e.g., Assignments). When that type is added to a lesson, it will automatically display as “Required.” You can still choose to manually require (or mark as optional) content one-by-one regardless of the chosen setting.
+
+1. Navigate to the Course Info tab.
+2. Click “View Now” under the Advanced tools.
+3. View the “Completion” tab.
+4. Toggle defaults on or off.
+
+.. image:: images/requirecontent.png
+
+
+Assignments Automatically Required for Completion as Course Default
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, when a new course was created, all content types added to a Lesson would be “optional” for course completion by default. 
+
+Now, a new course will require any assignments to be completed by default. These settings can be changed by navigating to the Course Info > Advanced tab and changing the default toggles.
+
+.. image:: images/autorequired.png
+
+Admin Tab Content Filtering and Sorting
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now the titles of each column in the Admin Tools > Content tab will filter and sort the courses and books by the respective field when selected. (e.g., If you click on “Start Date” then the courses will be ordered according to start date.)
+
+.. image:: images/admintabfil.png
+
+
+Library Filtering and Search
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously the course library (or homepage) was not searchable or filterable. Now, you can use the search bar at the top of the window to filter a course by course name or ID. To search, type into the search bar. (Do not press the enter key.)
+
+.. image:: images/librarysearch.png
+
+Course Navigation Opens by Default when First Visiting Platform on Mobile Device
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To draw attention to the course navigation tabs, the first time a user opens a course in the platform on a mobile device, the course navigational tabs will be open.
+
+.. image:: images/coursenavmobile.png
+
 August 28th, 2018
 -----------------
 
