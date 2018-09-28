@@ -1,3 +1,7 @@
+.. raw:: html
+
+<video controls src="videos/welcome.mp4"></video>
+
 =============================================
 Welcome to Your Course!
 =============================================
