@@ -8,9 +8,9 @@ Search, view, and manage all site users within your admin tools. View learner ac
 
 .. image:: images/adminbutton2.png
 
-2. Click on the "Users" tab.
+2. Click on the "People" tab.
 
-The **Users Tab** offers a list of all users on the site. Click in the "Search Users" field in the upper right-hand corner to find an learner. Begin typing a name to view results.
+The **People Tab** offers a list of all users on the site. Click in the "Search Learners" field in the upper right-hand corner to find an learner. Begin typing a name to view results.
 
 .. image:: images/adminusers.png
 
@@ -18,27 +18,68 @@ The **Users Tab** offers a list of all users on the site. Click in the "Search U
 Manage Site Admin
 =================
 
-Site admins have access to admin tools, can manage site courses and learners, and award credit.
+**Site admins** have access to admin tools, can create courses, manage site courses and learners, view reports, award credit, integrate with other services, and invite people to join the platform.
 
 **To add a site admin:**
 
-1. Select your "Users" tab in the admin tools.
+1. Select your "People" tab in the admin tools.
 2. Search for a site user in the upper right-hand corner, and select the check box next to the user's name.
-3. Click the gear icon and "Set as Admin."
-4. Confirm your selection.
+3. Click "Change Role."
 
-.. image:: images/setasadmin.png
+.. image:: images/adminchangerole.png
 
-.. note:: If currently logged in, a new admin may need to refresh their browser to view their admin tools.
+4. Select "Administrator."
+5. Select "Save."
+
+.. image:: images/adminchangerolemenu.png
+
+If you want to invite an individual to the platform as an admin that does not yet have an account, see the "Invite User to Platform" directions below.
+
+.. note:: If currently logged in, a new admin may need to refresh their browser to view their admin tools. 
+
 
 **To remove a site admin:**
 
-1. Select your "Users" tab in the admin tools.
-2. Select the dropdown, and select "Site Admins."
-3. Click "Remove as site admin" text under the admin you'd like to revoke admin access.
-4. Confirm removal.
+1. Select your "People" tab in the admin tools.
+2. Select the "Admins" view.
+3. Search for the admin in the upper right-hand corner, and select the check box next to the admin's name.
+4. Click "Change Role."
+5. Select "Learner."
+6. Select "Save."
 
-.. image:: images/adminremove.png
+.. image:: images/adminadminview.png
+
+Invite User to the Platform
+============================
+
+Administrators can invite learners or admins to the platform. 
+
+**To invite learners and admins to the platform:**
+
+1. Visit the "People" tab.
+2. Select "Invite People."
+
+.. image:: images/invitepeoplebutton.png
+
+3. Add the email address(es) and assign a role.
+
+.. note:: If you assign an individual as an "Administrator," they will immediately have admin access upon account creation.
+
+4. Write a personal message.
+5. Click "Send."
+
+NextThought will send your message along with a link to create an account.
+
+.. image:: images/platforminvite.png
+
+**To view invitation statuses:**
+
+1. Visit the "People" tab.
+2. Select "Invitations."
+
+Here you can view the invite date and status of all those invited to the platform. 
+
+.. image:: images/admininvitestatus.png
 
 
 Learner Overview
