@@ -2,6 +2,45 @@
 2018 Release Notes
 ===================
 
+October 19th, 2018
+--------------------
+
+Student Participation Report File Name Change
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+When downloaded, the Student Participation Report now has the file name FirstNameLastName_CourseID_StudentParticipationReport.pdf
+
+Student Participation Report now Includes Video Duration 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Student Participation Reports now display the duration of each video within course lessons along with view sessions, total watch time, average time/session, finished.
+
+Use CSV File to Invite People to the Platform
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, a site admin would have to invite people to join the site by typing their emails. Now, a site admin can upload a CSV file with listed email addresses to invite users to the platform.
+
+.. image:: images/admininvitecsv.png
+
+The CSV must follow this format:
+
+- The first column must be only emails, a single email per row.
+- The second column must contain names.
+
+Easier Path to Upload New Course Assets
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The text “Upload a New Course Image” is now selectable and allows the facilitator to upload new course assets.
+
+.. image:: images/uploadcourseimage.png
+
+Shortcut to Visibility and Course Settings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Course instructors and edits now have “Edit Course Information” and “Course Visibility” shortcut in the course dropdown menu.
+
+.. image:: images/coursevisibilitydrop.png
+
 September 27th, 2018
 --------------------
 
