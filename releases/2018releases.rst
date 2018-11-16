@@ -2,6 +2,44 @@
 2018 Release Notes
 ===================
 
+November 15th, 2018
+--------------------
+
+Bad Email Alert in Course Invite
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The platform will now specify which email address is erroneous by highlighting the email in red.
+
+.. image:: images/BadEmailAlert.png
+
+Added Description of Course Invite
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+There is now a short description in the “Invite” window when inviting users to the course.
+
+.. image:: images/CourseInviteMessage.png
+
+Preview Label for Upublished Books
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+The “Preview” label is now applied to unpublished books in the platform.
+
+Award Custom Credit to Multiple Users
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Award Custom Credit to Multiple Users [Bulk Transcripts] NTI-6863
+
+NextThought can now award custom credit to multiple users with the new bulk transcripts feature. This allows for many users to receive credit at one time. Admins can upload their csv files by following these steps:
+
+1. From the home page, click on the admin menu button.
+2. Then click on the “Advanced” tab.
+3. On the “Transcripts” section, navigate to the bottom of the page to find the “Bulk Import Transcripts Credit” box.
+4. Drag and drop the .csv file into the box, or “Choose a File.”
+
+The csv file must be formatted correctly in order to award credit. Please note the “Show Details” dropdown which specifies the columns. Users can download a sample template file.
+
+.. image:: images/BulkTranscripts.png
+
 October 19th, 2018
 --------------------
 
