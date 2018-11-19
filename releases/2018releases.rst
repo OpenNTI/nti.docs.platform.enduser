@@ -5,7 +5,7 @@
 November 15th, 2018
 --------------------
 
-Bad Email Alert in Course Invite
+Invalid Email Alert in Course Invite
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The platform will now specify which email address is erroneous by highlighting the email in red.
@@ -19,15 +19,9 @@ There is now a short description in the “Invite” window when inviting users 
 
 .. image:: images/CourseInviteMessage.png
 
-Preview Label for Upublished Books
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The “Preview” label is now applied to unpublished books in the platform.
 
 Award Custom Credit to Multiple Users
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-Award Custom Credit to Multiple Users [Bulk Transcripts] NTI-6863
 
 NextThought can now award custom credit to multiple users with the new bulk transcripts feature. This allows for many users to receive credit at one time. Admins can upload their csv files by following these steps:
 
