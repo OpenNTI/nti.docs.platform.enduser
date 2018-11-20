@@ -7,7 +7,7 @@ Your assignments can be found in two different locations: the Lessons View and y
 Lessons View
 =============
 
-Your instructor may post an assignment to a lesson. The assignment title will display along with the due date and a "Start" button to view and begin your assignment.
+Your instructor may post an assignment to a lesson. The assignment title will display along with the due date and a "Start" button to view and begin your assignment. Some assignments may be required and can be differentiated by the "Required" label.
 
    .. image:: images/assignmentpost.png
 
