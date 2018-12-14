@@ -59,7 +59,7 @@ Ability to Iframe Content into Readings
 
 Admin, Instructors, and Editors now have the ability to Iframe content into the readings using an iframe embed link.
 
-   .. image:: images/iframeview.png
+.. image:: images/iframeview.png
 
 **To add an iframe to a reading:**
 
@@ -81,7 +81,7 @@ Admin, Instructors, and Editors now have the ability to Iframe content into the 
 Admins Can Enroll and Drop Learners from Courses
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Now, admins are able to drop learners from courses. 
+Now, admins are able to enroll and drop learners from courses. 
 
 **Enroll/Drop by Course:**
 
