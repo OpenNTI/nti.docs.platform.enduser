@@ -90,18 +90,18 @@ Now, admins are able to enroll and drop learners from courses.
 3. Click on the “Content” tab.
 4. Click on a Course.
 5. Click "Roster."
+5. Click “Manage Roster.”
 
    .. image:: images/contentroster.png
 
-5. Click “Manage Roster.”
+6. Select the individual you’d like to either enroll/drop.
 
    .. image:: images/manageroster.png
 
-6. Select the individual you’d like to either enroll/drop.
+7. Select “Enroll User” or “Remove User.”
 
    .. image:: images/dropuser.png
 
-7. Select “Enroll User” or “Remove User.”
 8. Click “Done.”
 
 **Enroll/Drop by Learner:**
@@ -110,19 +110,20 @@ Now, admins are able to enroll and drop learners from courses.
 2. Navigate to your Admin Tools.
 3. Click on the “People” tab.
 4. Select a learner.
+5. Select the “Courses” tab.
 
    .. image:: images/peopletabview.png
 
-5. Select the “Courses” tab.
+6. Select “Manage Courses.”
 
    .. image:: images/peoplecoursestab.png
 
-6. Select “Manage Courses.”
 7. Select the course you’d like to either enroll/drop the user.
+
+8. Select “Enroll User” or “Remove User.”
 
    .. image:: images/enrolldropuser.png
 
-8.Select “Enroll User” or “Remove User.”
 9. Click “Done.”
 
 November 15th, 2018
