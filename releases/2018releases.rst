@@ -2,6 +2,130 @@
 2018 Release Notes
 ===================
 
+December 14th, 2018
+-------------------
+
+Calendar and Events 
+^^^^^^^^^^^^^^^^^^^^
+
+NextThought now supports calendar events.
+
+Site users can track events in the right-hand side bar. Course events, webinars, and assignments will display within the calendar feed. 
+
+Course facilitators (Editor and Instructor only) and site admin can create events tied to a course and place them within a lesson.
+
+**To view events:**
+
+1. Open the right-hand side bar.
+2. Click on the “Event” icon. 
+   
+   .. image:: images/calendar.png
+   
+3. Note that the events open on “Today.” Scroll up to see past events, and down to see future events.
+
+   .. image:: images/calendaropen.png
+   
+4. Click on the event to navigate to it within the lesson or assignment or to view more details.
+
+**To create events (Instructor, Editor, & Admin):**
+
+1. View the course in Edit Mode.
+2. Click “Add Content” in a section.
+3. Click on “Events.”
+
+   .. image:: images/eventicon.png
+
+4. Click “Create an Event” (if you don’t have any events) or the blue +
+
+   .. image:: images/createevent.png
+
+5. Add information.
+
+   .. image:: images/eventdetails.png
+
+6. Click “Add to Lesson.”
+
+
+Hyperlinks in Assignments
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Admin, Instructors, and Editors can now add hyperlinked text into assignments. Highlight the text, and select the hyperlink icon below. Add the URL and click “Save.”
+
+.. image:: images/assignmenthyperlink.png
+
+
+Ability to Iframe Content into Readings
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Admin, Instructors, and Editors now have the ability to Iframe content into the readings using an iframe embed link.
+
+To add an iframe to a reading:
+
+1. Create a reading.
+2. Select “IFRAME” option to the right.
+
+   .. image:: images/iframe.png
+
+3. Enter iframe link, click "Done."
+
+   .. image:: images/iframelink.png
+   
+4. Adjust settings and click "Done."
+
+   .. image:: images/iframesettings.png
+
+4. Click “Done” to continue editing. View by publishing content.
+
+   .. image:: images/iframeview.png
+
+
+Admins Can Enroll and Drop Learners from Courses
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now, admins are able to drop learners from courses. 
+
+**Enroll/Drop by Course:**
+
+1. Sign in with your admin account.
+2. Navigate to your Admin Tools.
+3. Click on the “Content” tab.
+4. Click on a Course.
+5. Click "Roster."
+
+   .. image:: images/contentroster.png
+
+5. Click “Manage Roster.”
+
+   .. image:: images/manageroster.png
+
+6. Select the individual you’d like to either enroll/drop.
+
+   .. image:: images/dropuser.png
+
+7. Select “Enroll User” or “Remove User.”
+8. Click “Done.”
+
+**Enroll/Drop by Learner:**
+
+1. Sign in with your admin account.
+2. Navigate to your Admin Tools.
+3. Click on the “People” tab.
+4. Select a learner.
+
+   .. image:: images/peopletabview.png
+
+5. Select the “Courses” tab.
+
+   .. image:: images/peoplecoursestab.png
+
+6. Select “Manage Courses.”
+7. Select the course you’d like to either enroll/drop the user.
+
+   .. image:: images/enrolldropuser.png
+
+8.Select “Enroll User” or “Remove User.”
+9. Click “Done.”
+
 November 15th, 2018
 --------------------
 
