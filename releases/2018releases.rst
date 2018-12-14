@@ -75,6 +75,7 @@ Admin, Instructors, and Editors now have the ability to Iframe content into the 
 4. Adjust settings and click "Done."
 
    .. image:: images/iframesettings.png
+   .. image:: images/iframeditview.png
 
 
 Admins Can Enroll and Drop Learners from Courses
