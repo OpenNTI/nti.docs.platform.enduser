@@ -59,24 +59,22 @@ Ability to Iframe Content into Readings
 
 Admin, Instructors, and Editors now have the ability to Iframe content into the readings using an iframe embed link.
 
-To add an iframe to a reading:
+   .. image:: images/iframeview.png
+
+**To add an iframe to a reading:**
 
 1. Create a reading.
 2. Select “IFRAME” option to the right.
 
    .. image:: images/iframe.png
 
-3. Enter iframe link, click "Done."
+3. Enter iframe link, and click "Done."
 
    .. image:: images/iframelink.png
    
 4. Adjust settings and click "Done."
 
    .. image:: images/iframesettings.png
-
-4. Click “Done” to continue editing. View by publishing content.
-
-   .. image:: images/iframeview.png
 
 
 Admins Can Enroll and Drop Learners from Courses
