@@ -310,6 +310,28 @@ After the due date, the learner can still view the assignment, but the assignmen
 
 The grace period is not disclosed to the learner. If the learner tries to submit the assignment after the due date or grace period, a warning window will appear stating that the assignment is past due and cannot be submitted.
 
+Adding Multiple Attempts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+To set the number of attempts, select the “Options” button while editing an assignment, and scroll down.
+
+.. note:: Both a value and passing score must be defined in order to add multiple attempts.
+
+Choose between one attempt, multiple attempts, or unlimited attempts.
+
+.. image:: images/multisubs1.png
+
+To select a range between two and twenty attempts, select the middle dropdown option.
+
+.. image:: images/MultiSubs2.png
+
+Select a value to set the desired number of attempts. 
+
+.. image:: images/MultiSubs3.png
+
+To learn more about this feature, click here!
+https://help.nextthought.com/editorguide/assignment.html#adding-multiple-attempts
+
 Step 6: Publish or schedule your assignment
 -------------------------------------------
 
@@ -494,6 +516,63 @@ FAQ when editing autograde and point values:
    the professor and given “90 points” and then set to autograde, the
    “90” points will persist even if the autograde function would grade
    the learner differently.
+   
+Adding Multiple Attempts
+--------------------------
+
+To set the number of attempts, select the “Options” button while editing an assignment, and scroll down.
+
+.. note:: Both a value and passing score must be defined in order to add multiple attempts.
+
+Choose between one attempt, multiple attempts, or unlimited attempts.
+
+.. image:: images/multisubs1.png
+
+To select a range between two and twenty attempts, select the middle dropdown option.
+
+.. image:: images/MultiSubs2.png
+
+Select a value to set the desired number of attempts. 
+
+.. image:: images/MultiSubs3.png
+
+**Assignment Completion:**
+
+Successful completion of an assignment can be defined as:
+
+- **Submission Only** (Once the learner submits the assignment, the assignment is marked as complete.)
+- **Passing Score** (The learner must gain a passing score.)
+- **Excused** (If the facilitator excuses the assignment, the assignment will be marked as complete despite any other parameters.)
+- **No Submit Grade** (A no submit assignment type cannot have multiple attempts. For no submit assignments, adding a grade will act as a “submission.”)
+
+Multiple attempts can be added in order to allow the learner multiple attempts to gain a passing score, and thus multiple attempts for successful completion of the assignment. The displayed score on the assignment will be the highest score achieved of all attempts. Once the learner achieves the passing score or above, no more attempts will be allowed. 
+
+If the instructor resets the assignment, all attempts will be regained, but previous scores and progress will be deleted.
+
+**Learner View:**
+
+**(Autograde)** If after a submission of multiple attempts the learner does not receive a passing score, the learner will receive a grade, be alerted that they didn’t meet the requirements to pass, and will see how many attempts remain along with a “Try Again” option. The learner will not be able to see correctness of each question nor will they see the “Show Solution” option.
+
+.. .. image:: images/MultiSubs4.png
+
+**(Manual Grade)** After a submission of multiple attempts, the learner will receive a confirmation of submission message, be alerted that the score is pending, and will see how many attempts remain along with a “Try Again” option. The learner will not be able to see correctness of each question nor will they see the “Show Solution” option.
+
+.. image:: images/MultiSubs5.png
+
+**(After Passing Score is Achieved)** After the learner submits and gains a passing score or higher, they will see a passing score message, along with the assignment grade. They will also be able to see correctness of questions and the “Show Solution” option. No more attempts will be offered.
+
+.. image:: images/MultiSubs6.png
+
+**Instructor View:**
+
+When viewing a learner’s assignment, the instructor can use the submission drop down to view the submitted answers on a certain date.
+
+.. image:: images/MultiSubs7.png
+
+Only a single score field exists for each learner and assignment, and thus an instructor should record for the learner the highest score they’ve achieved. If auto-graded, the best score of all submissions will display.
+
+Adding feedback to a submission will only display on the specific submission. 
+
 
 Deleting Assignments 
 ----------------------

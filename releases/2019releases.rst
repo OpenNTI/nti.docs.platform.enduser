@@ -39,6 +39,9 @@ Successful completion of an assignment can be defined as:
 
 Multiple attempts can be added in order to allow the learner multiple attempts to gain a passing score, and thus multiple attempts for successful completion of the assignment. The displayed score on the assignment will be the highest score achieved of all attempts. Once the learner achieves the passing score or above, no more attempts will be allowed. 
 
+To learn more about this feature, click here!
+https://help.nextthought.com/editorguide/assignment.html#adding-multiple-attempts
+
 Enrollment Management in Course Roster
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -66,7 +69,7 @@ For example, a university site may have two defined scopes: “enrolled” and �
 
 .. note:: Please ask your project manager if you’d like to enroll a learner into a specific scope.
 
-Group Management
+Add and Remove Group Members
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Site admins have the ability to add site users to a group.
