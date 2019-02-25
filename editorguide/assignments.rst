@@ -476,6 +476,7 @@ FAQ when editing autograde and point values:
    “90” points will persist even if the autograde function would grade
    the student differently.
 
+
 Deleting Assignments 
 ----------------------
 
