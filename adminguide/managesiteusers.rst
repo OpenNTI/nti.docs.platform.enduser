@@ -156,6 +156,15 @@ A learner's "Reports" tab allows access to the learner's course participation re
 
 .. image:: images/learnerreporttab.png
 
+Add and Remove Group Members
+=============================
 
+Site admins have the ability to add site users to a group.
 
+After going into the Contacts and selecting “Create a Group,” you will be presented with a window to type a group name, and automatically add group members across the site. Select “Create” to create the group.
 
+.. image:: images/creategroup1.png
+
+You can also choose to edit a group, and add or remove group members. Click “Save” to save your changes.
+
+.. image:: images/creategroup2.png

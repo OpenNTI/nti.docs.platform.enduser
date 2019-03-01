@@ -280,6 +280,33 @@ The current roles are as follows:
 
 - **Course Editor:** Editing only (no instructor capabilities)
    
+Enrollment Management in Course Roster
+=======================================
+The course roster has an option for site admins to enroll or drop users from the Course’s Admin Tools > Course Roster.
+
+Selecting ”Manage Enrollment” will open a window displaying all site users and a search bar. Search for learners within the search bar and select a learner.
+
+.. image:: images/ManEn1.png
+
+After selecting a learner, the learner’s current course enrollment status will display. If they are not enrolled, you can select “Enroll User” to add them to the course.
+
+.. image:: images/ManEn2.png
+
+.. image:: images/ManEn3.png
+
+If the learner is enrolled, the “Enrolled” text and course information will display. The enrolled user can be removed from the course by selecting the “Remove User” button.
+
+.. image:: images/ManEn4.png
+
+**Advanced Enrollment Options**
+
+Each site will have a defined set of user enrollment scopes. The “Advanced” dropdown will allow admins to enroll a learner into a specific scope.
+
+For example, a university site may have two defined scopes: “enrolled” and “open.” By default learners may be enrolled into the “open” scope; however, using the advanced dropdown, and knowing the scopes allowed on the site, you can define the user as “enrolled” to enroll them in that scope.
+
+.. note:: Please ask your project manager if you’d like to enroll a learner into a specific scope.
+
+   
 [Advanced] Completion and Certificates
 =======================================
 
@@ -303,4 +330,3 @@ Manage course completion and certificate options with your Admin Tools.
 		  - Require materials, no certificate, award credit
 		  - Require materials, award certificate, award credit
 		  - No required materials (if you do not add required materials, no credit nor certificate can be automatically awarded)
-
