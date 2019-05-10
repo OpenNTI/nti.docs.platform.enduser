@@ -2,6 +2,16 @@
 2019 Release Notes
 ===================
 
+May 9th, 2019
+-----------------
+
+Updated Mobile Navigation
+The mobile version of the platform now has updated navigation. The up arrow and down arrow from the previous update has been added into the content view. As well as the “Up Next” near the bottom of the content window.
+
+.. image:: images/mnav1.png
+
+.. image:: images/mnav2.png
+
 April 19, 2019
 ----------------
 
