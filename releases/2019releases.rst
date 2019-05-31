@@ -2,10 +2,52 @@
 2019 Release Notes
 ===================
 
+May 30, 2019
+-----------------
+
+Course Info Page Facilitator Changes
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Now, role selection reads "Full Access," "Editing Access," and "Grading Access." These descriptive titles map to Instructor, Editor, and Assistant respectively. 
+
+.. image:: images/facilitatordescriptions.png
+
+Hidden facilitators will now display to admin and facilitators while viewing the Course Info page. They will remain hidden for learners.
+
+.. image:: images/Hiddenview.png
+
+The visible title of facilitators is now editable. (By default, their title is the role selected: Instructor, Editor, or Assistant.)
+
+.. image:: images/Edittitle.png
+
+Course Category Suggestions 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Now when a facilitator or admin clicks into the Course Category field, suggestions will appear based on existing course categories on the site. As text is entered, the suggestions will filter. If a category that doesn't exist is entered, it will prompt to create a new tag. This will reduce typo errors that prevent courses from being categorized together.
+
+.. image:: images/coursecategories.png
+
+Removed Activity Page from Courses
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+The Activity Page, the first tab within a course, has been removed.
+
+Hide Non-Authorable Content Types from Authoring Window
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Now, the "Choose a Content Type" authoring window only features the content types that are authorable for the user, unless content has been created by NextThought and is ready for placement. 
+
+.. image:: images/newcourseauthoringtypes.png
+
+Improved Section Deletion Alert
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+When a user selects to delete a section, the wording is more descriptive of the action that will take place and includes the number of content items that will be deleted.
+
+.. image:: images/deletesectionalert.png
+
+
+
 May 9th, 2019
 -----------------
 
 Updated Mobile Navigation
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 The mobile version of the platform now has updated navigation. The up arrow and down arrow from the previous update has been added into the content view. As well as the “Up Next” near the bottom of the content window.
 
 .. image:: images/mnav1.png
