@@ -7,7 +7,7 @@ June 27th, 2019
 
 Add SCORM Packages as a Lesson Activity 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-SCORM packages can now be added as a single content piece within a lesson. Other lesson content can be built around it, contextualizing the SCORM content within a larger offering. SCORM content can be required and count toward course completion. SCORM defines what counts as completion, and NextThought will display if the learner has met the requirements for completion or not.
+SCORM packages can now be added as a single content piece within a lesson. Other lesson content can be built around it, contextualizing the SCORM content within a larger offering. SCORM content can be required and count toward course completion. The SCORM package defines what counts as completion, and NextThought will display if the learner has met the requirements for completion or not.
 
 **To add SCORM packages/content to a lesson:**
 
@@ -37,14 +37,14 @@ SCORM packages can now be added as a single content piece within a lesson. Other
 
 1. Click on “Open” on the Lessons page.
 
-.. image:: images/SCORMEditMode.png
+.. image:: images/SCORMLessonsPage.png
 
 2. Click on the right-hand side button of the viewer window to open the SCORM content.
 
 .. image:: images/SCORMView.png
 
 
-Add LTI Tool Button is Available in Content Selector
+Add an LTI Tool from within the Content Selector Window
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Previously an LTI tool could only be added through the Course Info > Advanced admin tools. Now, the button to add an LTI tool also appears in the content selector while adding content to a lesson.
