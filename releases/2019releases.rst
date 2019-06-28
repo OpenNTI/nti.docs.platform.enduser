@@ -9,8 +9,6 @@ Add SCORM Packages as a Lesson Activity
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 SCORM packages can now be added as a single content piece within a lesson. Other lesson content can be built around it, contextualizing the SCORM content within a larger offering. SCORM content can be required and count toward course completion. SCORM defines what counts as completion, and NextThought will display if the learner has met the requirements for completion or not.
 
-.. image:: images/
-
 **To add SCORM packages/content to a lesson:**
 
 1. Click on “+Add Content.”
