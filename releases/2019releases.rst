@@ -2,6 +2,63 @@
 2019 Release Notes
 ===================
 
+June 27th, 2019
+-------------------
+
+Add SCORM Packages as a Lesson Activity 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SCORM packages can now be added as a single content piece within a lesson. Other lesson content can be built around it, contextualizing the SCORM content within a larger offering. SCORM content can be required and count toward course completion. The SCORM package defines what counts as completion, and NextThought will display if the learner has met the requirements for completion or not.
+
+**To add SCORM packages/content to a lesson:**
+
+1. Click on “+Add Content.”
+
+.. image:: images/SCORMAddContent.png
+
+2. Click on “SCORM Package.”
+
+.. image:: images/SCORMContentSelect.png
+
+3. Drag and drop a SCORM package file, or select “Upload a SCORM Package.”
+
+.. image:: images/SCORMDD.png
+
+4. Select a SCORM package from your computer.
+5. Select the SCORM package you’d like to add to a lesson.
+
+.. image:: images/SCORMSelect.png
+
+6. Add a title, description, and thumbnail, and click “Add to Lesson.”
+
+.. image:: images/SCORMDetail.png
+
+
+**Viewing SCORM packages/content within a lesson:**
+
+1. Click on “Open” on the Lessons page.
+
+.. image:: images/SCORMLessonsPage.png
+
+2. Click on the right-hand side button of the viewer window to open the SCORM content.
+
+.. image:: images/SCORMView.png
+
+
+Add an LTI Tool from within the Content Selector Window
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously an LTI tool could only be added through the Course Info > Advanced admin tools. Now, the button to add an LTI tool also appears in the content selector while adding content to a lesson.
+
+.. image:: images/LTIToolButton.png
+
+Redemption Code Explanation Text added on Course Info Page
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Text was added to clarify that learners will not be able to view the redemption code.
+
+.. image:: images/CodeText.png
+
+
 May 30, 2019
 -----------------
 
