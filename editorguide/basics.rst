@@ -19,7 +19,10 @@ Below is different types of content you can add to your lesson:
 - Self Assessments
 - Assignments
 - Surveys
-- Webinars (Coming soon!)
+- Webinars 
+- LTI Tools
+- SCORM Packages
+- Events
 
 .. image:: images/contenttypes.png
 
