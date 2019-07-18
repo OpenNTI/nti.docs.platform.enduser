@@ -103,13 +103,13 @@ html_theme = "sphinx_rtd_theme"
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
-#html_theme_options = {
-   # 'logo': 'nt_logo.png', #alabaster seems to ignore this despite it being documented
-#    'show_powered_by': True
-# }
+html_theme_options = {
+    'analytics_id': 'UA-22943650-5',
+    'display_version': False
+}
 
 # Add any paths that contain custom themes here, relative to this directory.
-html_theme_path = ["_themes", ]
+html_theme_path = []
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
