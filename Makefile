@@ -49,8 +49,10 @@ help:
 clean:
 	rm -rf $(BUILDDIR)/*
 
+# Note we rebuid (-E) to work around an issue in sphinx-sitemap
+# https://github.com/jdillard/sphinx-sitemap/issues/13
 html:
-	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -E -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
