@@ -17,6 +17,7 @@ Editor Guide
 	assignment
 	surveys
 	webinars
+	events
 	LTI
 	SCORM
 
