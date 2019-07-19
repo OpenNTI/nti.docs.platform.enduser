@@ -11,7 +11,7 @@ Performance Improvements
 General performance related improvements.
 
 
-Clickable links within Events
+Clickable Links within Events
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now, the “Events” content type allows clickable URLs that open into a new browsing tab. Pasting a URL into either the event title, description, or location will allow clickable links.
