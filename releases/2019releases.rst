@@ -2,6 +2,27 @@
 2019 Release Notes
 ===================
 
+July 18th, 2019
+------------------
+
+Performance Improvements
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+General performance related improvements.
+
+
+Clickable links within Events
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now, the “Events” content type allows clickable URLs that open into a new browsing tab. Pasting a URL into either the event title, description, or location will allow clickable links.
+
+.. image:: images/EventEditZoom2.png
+
+Please note: You must first open the content before using the link to navigate to a new tab.
+
+.. image:: images/EventViewZoom2.png
+
+
 June 27th, 2019
 -------------------
 
