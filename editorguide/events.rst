@@ -10,7 +10,7 @@ Add Event
 =======================
 
 
-1.. While in Edit Mode, click on “+Add Content” in the section you want to place an event.
+1. While in Edit Mode, click on “+Add Content” in the section you want to place an event.
 
    .. image:: images/eventaddcontent.png
 
@@ -24,7 +24,7 @@ Add Event
 
    .. image:: images/eventadd.png
 
-4. Add information that students can see about the event.
+4. Add information that learners can see about the event.
 
    - Event title (required)
    - Event thumbnail (optional)
@@ -36,7 +36,7 @@ Add Event
 
    .. note::  You can change the thumbnail image displayed for the event by clicking on "Add an Image", then browsing your computer file manager for the desired image. 
 
-5. Click “Save” to place your event in the course.
+5. Click “Add to Lesson” to place your event in the course.
 
    .. image:: images/eventedit.png
 
@@ -61,7 +61,7 @@ Edit or Delete Event
    -  Event date and time
    -  You can also delete the event. (Please note: if you delete an event, you cannot undo this deletion. It is a permanent action.)
 
-   .. image:: images/eventedit.png
+   .. image:: images/eventdelete.png
 
 3. Click “Save.”
 
