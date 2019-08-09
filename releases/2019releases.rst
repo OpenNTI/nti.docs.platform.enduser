@@ -5,7 +5,7 @@
 August 8th, 2019
 ---------------
 
-Added Helper Text Course Information Page 
+Added Helper Text to Course Information Page 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now explanation text displays to facilitators on the Course Info page.
@@ -14,7 +14,7 @@ Now explanation text displays to facilitators on the Course Info page.
 Alert Symbol in Gradebook when Learner Completes Assignment Unsuccessfully
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-An alert symbol displays to learners in their gradebook when s/he completes an assignment unsuccessfully.
+An alert symbol displays to learners in his or her gradebook when s/he completes an assignment unsuccessfully.
 
 
 .. image:: images/gradebookalert.png
