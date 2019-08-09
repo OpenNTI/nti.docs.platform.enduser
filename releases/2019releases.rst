@@ -2,6 +2,23 @@
 2019 Release Notes
 ===================
 
+August 8, 2019
+---------------
+
+Added Helper Text Course Information Page 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Now explanation text displays to facilitators on the Course Info page.
+
+
+Alert Symbol in Gradebook when Learner Completes Assignment Unsuccessfully
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+An alert symbol displays to learners in their gradebook when s/he completes an assignment unsuccesfully.
+
+
+.. image:: images/gradebookalert.png
+
 July 18th, 2019
 ------------------
 
