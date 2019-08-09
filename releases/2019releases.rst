@@ -5,7 +5,7 @@
 August 8th, 2019
 ---------------
 
-Added Helper Text to Course Information Page 
+Added Helper Text to Course Info Page 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Now explanation text displays to facilitators on the Course Info page.
