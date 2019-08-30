@@ -2,8 +2,75 @@
 2019 Release Notes
 ===================
 
+August 30th, 2019
+--------------------
+
+Course Community Feature
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+**Purpose and Location**
+
+The Community tab allows people to track and view all activity within a course, displaying discussions and course activity.
+
+.. image:: images/CommunityPL.png
+
+The Community tab replaces the Discussions tab and appears in the same location.
+
+.. image:: images/CommunityPL2.png
+
+Previously created forums and discussions appear here. Forums take on a new name, now called “channels.” All content and activity will remain.
+
+**Channels**
+
+Channels are listed on the left side of the Community tab. Only facilitators and admins can create new channels.
+
+New courses have a single channel called “All Activity.”  Unlike other manually-created channels which only display course discussions, All Activity displays users’ interaction within the course. Activities such as comments, replies, and other course-wide social interactions shows here.
+
+.. image:: images/Communitychannels.png
+
+To create or edit a channel:
+
+1. Click on the “Edit” button on the channel list.
+2. Make edits within the “Edit Community” menu.
+
+.. image:: images/Communityedit.png
+   :scale: 50
+
+Within the "Edit Community" menu, you can add, delete, reorder, or edit channels, as well as add a channel description.
+
+.. image:: images/Communityeditall.png
+
+**Discussions**
+
+Discussions can be created within any channel by clicking into the "Write something..." field.
+
+.. image:: images/Communitypost.png
+
+This will bring up the normal discussion prompt.
+
+.. image:: images/Communitydiscussion.png
+
+**Views**
+
+Switching to “List View” from “Tile View” provides a familiar layout to those who are more comfortable with the original Discussion tab. For this view, click on the "List View" option in the top right-hand corner of the Community tab.
+
+.. image:: images/Communityviews.png
+
+**Sort**
+
+You can sort channels by Most Recent, Recent Activity, Comment Count, and Like Count. Simply click on the sorting options on the right-hand side of the view.
+
+.. image:: images/Communitysort.png
+
+
+Site Admin can now view and comment on content and activity 
+-------------------------------------------------------------
+
+Previously, site admin could not see learners’ comments nor activity within a course. Now site admin can view activity as well comment and reply.
+
+
 August 8th, 2019
----------------
+------------------
 
 Added Helper Text to Course Info Page 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
