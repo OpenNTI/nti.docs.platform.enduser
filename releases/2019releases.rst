@@ -10,7 +10,7 @@ Site Community Creation and Management
 
 Site communities can now be edited, managed, and created by Site Admin. 
 
-.. image:: images/commmunitypage.png
+.. image:: images/communitypage.png
 
 **Site Community Overview**
 
@@ -23,7 +23,6 @@ In order to create a new site community:
 1. Click on the “Create” button.
 
 .. image:: images/createcommunity.png
-   :scale: 50
 
 2. Select “Create a Community.”
 3. Type a community name, and toggle Auto-Subscribe. (You can edit this later.) 
@@ -60,7 +59,7 @@ Channels offer community organization and allow separate focused spaces for coll
 4. Type a new title and description.
 5. Note that the All Activity channel will remain by default.
 
-.. image:: images/communitychannels.png
+.. image:: images/communitychannel.png
    :scale: 50
 
 6. Click “Save.”
@@ -110,7 +109,7 @@ To edit membership:
 
 Search for an individual, and click on their name to add them to the community.
 
-.. image:: images/communitymemberssearch.png
+.. image:: images/communitymembersearch.png
    :scale: 50
 
 Click into the search field and select “Everyone” to add all site learners to the community.
