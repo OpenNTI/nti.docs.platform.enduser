@@ -2,6 +2,17 @@
 2019 Release Notes
 ===================
 
+October 3rd, 2019
+------------------
+
+Additional Button for Adding Individuals to Site Community
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Previously, when searching for an individual in the manage membership window of a site community, clicking on an individual would immediately add them to the community. Now, clicking on an individual will add them to a list. Then you must select the “Add #” button to add the individual(s) to the community.
+
+.. image:: images/CommunityButton.png
+
+
 September 20th, 2019
 --------------------
 
