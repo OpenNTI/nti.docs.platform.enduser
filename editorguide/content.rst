@@ -1,6 +1,6 @@
-============================
-Add and Edit Course Content
-============================
+=============================
+ Add and Edit Course Content
+=============================
 
 Add a variety of content types to make your course more dynamic.
 
@@ -20,40 +20,16 @@ Below is different types of content you can add to your lesson:
 -  Images and Video Reels
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Edit Course Content
-============================================
+===================
 
 The information added to your content, such as title, description, and
 due date, can be edited or changed. In th is section, we will go over
 where to find the editing tools and the options that are available.
 
 
-
-
-
-
-
-
-
-
-
-
-
 Move Content in a Lesson
--------------------------------
+------------------------
 
 There are two ways to move content:
 

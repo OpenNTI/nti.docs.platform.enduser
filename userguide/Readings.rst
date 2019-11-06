@@ -1,6 +1,6 @@
-=============================================
+===============
 Course Readings
-=============================================
+===============
 
 Your readings are located throughout your lessons in the Lessons View. Click on a reading to begin.
 
@@ -11,7 +11,7 @@ A reading may include extra material within it such as images, links, or a video
    .. image:: images/readingview.png
 
 Define
-========
+======
 
 At any time that you do not recognize a word, simply click and drag your cursor over the word to highlight it. Then, select the define option. 
 
@@ -23,14 +23,14 @@ At any time that you do not recognize a word, simply click and drag your cursor 
 
 
 Highlight
-==========
+=========
 
 You can also use this same method to highlight and save a passage for later reference. Once again, click and drag your cursor over the passage. Click on the highlighter option you’d like to use and your passage will be highlighted. This highlight is only visible to you in your text and will not be visible to the class.
 
    .. image:: images/highlightoptions.png
 
 Note
-=======
+====
 
 Notes may be added to any passage in the text, as well as to the side of videos and images within a reading.
 
