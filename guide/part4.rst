@@ -1,9 +1,9 @@
-=============================================
-Course Engagement
-=============================================
+===================
+ Course Engagement
+===================
 
-Communication                                        
-=====================================================
+Communication
+=============
 
 Connect with your students and other instructors and stay up-to-date on
 important activity.
@@ -22,7 +22,7 @@ important activity.
 .. image:: images/communication.png
 
 Email
-================================================
+=====
 
 Connect with your students through email.
 
@@ -35,8 +35,8 @@ the reply will be sent to the email connected to your NextThought
 account. Below are instructions on how to send an email from your course
 roster. 
 
-Email a Course 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Email a Course
+--------------
 
 Email your course through your Gradebook or roster. Below is a
 description of how to email your course via the course roster.
@@ -81,10 +81,10 @@ Course Email via Roster:
 
 .. note:: You may also send an email via the Gradebook within the Grades & Performance tab. To start a new email, click the mailing icon at the top right-hand corner of the Gradebook and jump to Step 2 above.
 
-                                        
 
-Email a Student         
-~~~~~~~~~~~~~~~~~~~~~~~~
+
+Email a Student
+~~~~~~~~~~~~~~~
 
 Email a student through your Gradebook, roster, or while viewing the
 student’s assignment. Below is a description of how to email a student
@@ -126,7 +126,7 @@ Student Email via Roster:
 .. note:: You may also send an email via the Gradebook within the Grades & Performance tab. First, click on a student within the Grades & Performance tab. Then, below the student’s name in the top banner, click on the text titled “Email” to initiate a new email. Skip to Step 3 above.
 
 Notifications
-================================================
+=============
 
 Stay up-to-date on the most important happenings within your course and
 learning community.
@@ -153,7 +153,7 @@ a timeline.
 |
 	
 Email Notifications
-================================================
+===================
 
 +---------------------------------------+----------------------------------------+
 | **Instructor Notifications Include:** | **Student Notifications Include:**     |
@@ -181,6 +181,7 @@ Email Notifications
 |                                       | comment, thought, or forum discussion  |
 |                                       |                                        |
 +---------------------------------------+----------------------------------------+
+
 *The table above scrolls left/right.*	
 
 
@@ -197,7 +198,7 @@ email notifications.
 
 
 Add Contacts
-================================================
+============
 
 Add contacts to build your learning network and connect with your
 students.
@@ -219,7 +220,7 @@ students.
 .. note:: You can also add a new contact from a profile page by clicking the “Follow” button in the top right-hand corner.
 
 Chat
-================================================
+====
 
 Chat with students or other instructors when they are online. Use this
 feature to discuss best practices with instructors, hold virtual office
@@ -260,7 +261,7 @@ While viewing a contact’s profile page, click “Message.” If the individual
 .. note:: If the chat bar is collapsed, you can open it by clicking on the chat bubble icon at the top right.
 
 Create a Note
-================================================
+=============
 
 Notes are one of the most basic forms of communication on the platform.
 Add a contextualized note to almost any type of content to enrich your
@@ -334,7 +335,7 @@ students’ learning.
 |
 
 Create a Discussion or Make an Announcement
-================================================
+===========================================
 
 Your course forum allows you to begin a discussion or make an
 announcement regarding the course.
@@ -354,7 +355,7 @@ announcement regarding the course.
 .. warning:: Your course may have enrolled-only forums. If you’d like both open and enrolled students to view your discussion, make sure you post in the open forum.
 
 Connect on the Community Page
-================================================
+=============================
 
 .. image:: images/commpage.png
 
@@ -363,7 +364,7 @@ Our community feature offers a collaborative meeting space for individuals to in
 To locate your community page, navigate to your homepage and click on a community.
 
 Organize Groups
-================================================
+===============
 
 Create a meeting space to share best practices with a group of instructors, or set up student groups for class projects.
 

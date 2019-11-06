@@ -1,19 +1,19 @@
-===================
-2017 Release Notes
-===================
+====================
+ 2017 Release Notes
+====================
 
 December 21, 2017
------------------
+=================
 
 Course reports available in admin tools
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------
 
 Now, course reports can be centrally found in the admin tools. Using a site admin account, navigate to the admin toolbar. Select “Courses” and select a course. Now, click on “Reports.” 
 
 .. image:: images/admincoursereports.png
 
-Add code blocks in assignments 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Add code blocks in assignments
+------------------------------
 
 Now, an editor and instructor are able to add code block within assignments. Add code to assignment descriptions, or within the question text itself.
 
@@ -29,29 +29,29 @@ When published:
 
 
 December 7, 2017
-----------------
+================
 
 Admin tools for site management
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 NextThought offers a new role, the site admin, alongside a suite of new tools and reports to create and manage courses, view site-wide analytics, mangage users, and view user analytics. For site admin accounts, the toolbar is located in the upper right-hand corner of the homepage.
 
 Please see the new Site Admin Guide to learn more! (Coming soon.)
 
 New course catalog
-^^^^^^^^^^^^^^^^^^
+------------------
 
 The new course catalog retains the same purpose, but offers new visualizations, better navigation, a search field, and course categorization. The new course catalog displays a featured courses banner, and all public courses display below. Courses can be organized into categories based on course tagging. A new tab, the "History" tab, allows users to review their enrolled courses.
 
 .. image:: images/newcoursecatalog2.png
 
 Help site link on account dropdown
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 
 A link to the NextThought Help Site is now available in the account dropdown menu. When selected, it opens the Help Site in a new tab.
 
 Add code blocks to a reading
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 An editor or instructor can now select a code block while creating a reading. When selected, the code block editor will display within the reading. Select the code you are using in the upper right-hand corner dropdown and add your code. 
 
@@ -63,10 +63,10 @@ Once published, it will render according to the code selected.
 
 
 November 16, 2017
-------------------
+=================
 
 New Roles Defined
-^^^^^^^^^^^^^^^^^^
+-----------------
 
 With additional new course facilitation features, we have redefined and added roles to our platform. The current roles are as follows:
 
@@ -84,7 +84,7 @@ With additional new course facilitation features, we have redefined and added ro
 
 
 Edit course information
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------
 
 Instructors and editors can now edit course information within the Course Info tab. (Site admin can do so from the site admin tools.)
 
@@ -102,14 +102,14 @@ Fields that can be edited include:
 - Facilitators 
 
 Course Tagging
-^^^^^^^^^^^^^^^
+--------------
 
 Courses can now be tagged with one or multiple tags (e.g., “English Literature”). This is the first step in allowing users to navigate the course catalog by tags. 
 
 .. image:: images/coursetagging.png
 
 Manage Course Facilitators
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------
 
 The Course Info tab now allows an editor/instructor/admin to add new course roles and toggle visible and hidden facilitators.
 
@@ -137,17 +137,17 @@ The Course Info tab now allows an editor/instructor/admin to add new course role
 6. Click "Save" within the course facilitator section to save your changes.
    
 Add block quotes to a reading
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
 The block quote feature is now available within a reading. To create a block quote, first click “Block Quote” under “Types” in the editor. Then, either type or paste text.
 
 .. image:: images/blockquote.png 
 
 September 21, 2017
--------------------
+==================
 
 Editors can create discussion assignments through Lessons View
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------------------------------
 
 Editors can now create discussion assignments while creating their lesson in Lessons View.
 
@@ -155,7 +155,7 @@ Editors can now create discussion assignments while creating their lesson in Les
 
 
 Add transcripts to videos in readings
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------
 
 An editor can now add transcripts to videos within a reading.
 
@@ -163,7 +163,7 @@ An editor can now add transcripts to videos within a reading.
 
 
 Delete videos from course files
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 
 An editor can now delete videos within their course files.
 
@@ -171,10 +171,10 @@ An editor can now delete videos within their course files.
 
 
 August 31, 2017
----------
+===============
 
 Navigation bar remains in view on scroll
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------
 
 The navigational bar at the top of a reading or within a book remains in place as you scroll, allowing you access to the navigational tools no matter where you are in the reading.
 

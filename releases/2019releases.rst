@@ -1,12 +1,12 @@
-===================
-2019 Release Notes
-===================
+====================
+ 2019 Release Notes
+====================
 
 October 3rd, 2019
-------------------
+=================
 
 Additional Button for Adding Individuals to Site Community
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------
 
 Previously, when searching for an individual in the manage membership window of a site community, clicking on an individual would immediately add them to the community. Now, clicking on an individual will add them to a list. Then you must select the “Add #” button to add the individual(s) to the community.
 
@@ -14,10 +14,10 @@ Previously, when searching for an individual in the manage membership window of 
 
 
 September 20th, 2019
---------------------
+====================
 
 Site Community Creation and Management
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------
 
 Site communities can now be edited, managed, and created by Site Admin. 
 
@@ -36,8 +36,10 @@ In order to create a new site community:
 .. image:: images/createcommunity.png
 
 2. Select “Create a Community.”
-3. Type a community name, and toggle Auto-Subscribe. (You can edit this later.) 
-Auto-Subscribe will automatically join all individuals that create an account on the site. Please note that learners already on the site will have to be manually added.
+3. Type a community name, and toggle Auto-Subscribe. (You can edit
+   this later.)  Auto-Subscribe will automatically join all individuals
+   that create an account on the site. Please note that learners already
+   on the site will have to be manually added.
 
 .. image:: images/createcommunity2.png
 
@@ -140,10 +142,10 @@ Click on the ellipsis next to the number of members to “Remove All Members” 
 
 
 August 30th, 2019
---------------------
+=================
 
 Course Community Feature
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 **Purpose and Location**
 
@@ -200,23 +202,23 @@ You can sort channels by Most Recent, Recent Activity, Comment Count, and Like C
 .. image:: images/Communitysort.png
 
 
-Site Admin can now view and comment on content and activity 
--------------------------------------------------------------
+Site Admin can now view and comment on content and activity
+===========================================================
 
 Previously, site admin could not see learners’ comments nor activity within a course. Now site admin can view activity as well comment and reply.
 
 
 August 8th, 2019
-------------------
+================
 
-Added Helper Text to Course Info Page 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Added Helper Text to Course Info Page
+-------------------------------------
 
 Now explanation text displays to facilitators on the Course Info page.
 
 
 Alert Symbol in Gradebook when Learner Completes Assignment Unsuccessfully
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------------------------------------------
 
 An alert symbol displays to learners in his or her gradebook when s/he completes an assignment unsuccessfully.
 
@@ -224,16 +226,16 @@ An alert symbol displays to learners in his or her gradebook when s/he completes
 .. image:: images/gradebookalert.png
 
 July 18th, 2019
-------------------
+===============
 
 Performance Improvements
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------
 
 General performance related improvements.
 
 
 Clickable Links within Events
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------
 
 Now, the “Events” content type allows clickable URLs that open into a new browsing tab. Pasting a URL into either the event title, description, or location will allow clickable links.
 
@@ -245,10 +247,10 @@ Please note: You must first open the content before using the link to navigate t
 
 
 June 27th, 2019
--------------------
+===============
 
-Add SCORM Packages as a Lesson Activity 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Add SCORM Packages as a Lesson Activity
+---------------------------------------
 SCORM packages can now be added as a single content piece within a lesson. Other lesson content can be built around it, contextualizing the SCORM content within a larger offering. SCORM content can be required and count toward course completion. The SCORM package defines what counts as completion, and NextThought will display if the learner has met the requirements for completion or not.
 
 **To add SCORM packages/content to a lesson:**
@@ -287,14 +289,14 @@ SCORM packages can now be added as a single content piece within a lesson. Other
 
 
 Add an LTI Tool from within the Content Selector Window
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------
 
 Previously an LTI tool could only be added through the Course Info > Advanced admin tools. Now, the button to add an LTI tool also appears in the content selector while adding content to a lesson.
 
 .. image:: images/LTIToolButton.png
 
 Redemption Code Explanation Text added on Course Info Page
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------------------------------
 
 Text was added to clarify that learners will not be able to view the redemption code.
 
@@ -302,10 +304,10 @@ Text was added to clarify that learners will not be able to view the redemption 
 
 
 May 30, 2019
------------------
+============
 
 Course Info Page Facilitator Changes
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------
 Now, role selection reads "Full Access," "Editing Access," and "Grading Access." These descriptive titles map to Instructor, Editor, and Assistant respectively. 
 
 .. image:: images/facilitatordescriptions.png
@@ -318,24 +320,24 @@ The visible title of facilitators is now editable. (By default, their title is t
 
 .. image:: images/Edittitle.png
 
-Course Category Suggestions 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Course Category Suggestions
+---------------------------
 Now when a facilitator or admin clicks into the Course Category field, suggestions will appear based on existing course categories on the site. As text is entered, the suggestions will filter. If a category that doesn't exist is entered, it will prompt to create a new tag. This will reduce typo errors that prevent courses from being categorized together.
 
 .. image:: images/coursecategories.png
 
 Removed Activity Page from Courses
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------------
 The Activity Page, the first tab within a course, has been removed.
 
 Hide Non-Authorable Content Types from Authoring Window
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------------------------------
 Now, the "Choose a Content Type" authoring window only features the content types that are authorable for the user, unless content has been created by NextThought and is ready for placement. 
 
 .. image:: images/newcourseauthoringtypes.png
 
 Improved Section Deletion Alert
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------------
 When a user selects to delete a section, the wording is more descriptive of the action that will take place and includes the number of content items that will be deleted.
 
 .. image:: images/deletesectionalert.png
@@ -343,10 +345,10 @@ When a user selects to delete a section, the wording is more descriptive of the 
 
 
 May 9th, 2019
------------------
+=============
 
 Updated Mobile Navigation
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-------------------------
 The mobile version of the platform now has updated navigation. The up arrow and down arrow from the previous update has been added into the content view. As well as the “Up Next” near the bottom of the content window.
 
 .. image:: images/mnav1.png
@@ -354,10 +356,10 @@ The mobile version of the platform now has updated navigation. The up arrow and 
 .. image:: images/mnav2.png
 
 April 19, 2019
-----------------
+==============
 
 Updated Course Navigation and Content Windows
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------------------------------------
 Previously, when clicking on any of the course content, it would redirect the user to a new page, aside from a few exceptions. The only way to continue to go through the course would be to go back to the course view and click on a new piece of content.
 
 With this update, the entire course navigation has been overhauled. When clicking on a piece of content, a content window will appear with the content inside. There are several different parts to the interface: 
@@ -414,17 +416,17 @@ Clicking on the transcript wording will allow for the video to skip to the part 
 .. image:: images/nav9.png
 
 Display Learners in Sidebar on Discussions
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 
 Learners who have commented in a discussion now display on the right-hand sidebar while viewing the discussion.
 
 .. image:: images/userdis.png
 
 Februrary 21, 2019
-------------------
+==================
 
 Allow Multiple Attempts on Assignments
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------
 
 **Add Multiple Attempts:**
 
@@ -461,7 +463,7 @@ To learn more about this feature, click here!
 https://help.nextthought.com/editorguide/assignment.html#adding-multiple-attempts
 
 Enrollment Management in Course Roster
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+--------------------------------------
 
 The course roster now has an option for site admins to enroll or drop users from the Course’s Admin Tools > Course Roster.
 
@@ -488,7 +490,7 @@ For example, a university site may have two defined scopes: “enrolled” and �
 .. note:: Please ask your project manager if you’d like to enroll a learner into a specific scope.
 
 Add and Remove Group Members
-^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------------
 
 Site admins have the ability to add site users to a group.
 
@@ -501,15 +503,15 @@ You can also choose to edit a group, and add or remove group members. Click “S
 .. image:: images/creategroup2.png
 
 January 31, 2019
------------------
+================
 
 Calendar Notifications
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+----------------------
 
 Calendars will now notify the user when events are created or modified and are directly related to the user. The notifications will be sent on the platforms as well as by email. 
 
 Passing and Failing Assignments Based on Scores
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------
 
 Assignments can now be set to pass or fail based on grade. The grade will be determined by the percentage of points earned in the assignment. 
 
@@ -525,17 +527,17 @@ Once you have saved and published the assignment, the learner can view the passi
 
 
 Course Switcher
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+---------------
 
 Site administrators can switch between different sections of a course by using this new feature. To use the Course Switcher, the admin should navigate to the desired course and then click the arrow beside the course name. The drop down menu will contain all other sections as well as other options such as a course visibility option, a delete button to delete the course and a link to edit the course information.
 
 .. image:: images/courseswitcher.png
 
 January 10, 2019
------------------
+================
 
 Calendar URL
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------
 
 You can now export and sync the NextThought Calendar to your personal calendar using the provided URL within the calendar feature. Click the ellipsis icon to reveal the dropdown.
 
