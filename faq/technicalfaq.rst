@@ -11,21 +11,21 @@ quality experience while using NextThought:
 - 1Mb/s+ broadband Internet connection for optimal video viewing
 - A computer with at least 2GB memory and minimum screen resolution of
   1024x768
-- Adobe Reader<http://get.adobe.com/reader/> or similar PDF reading software
+- `Adobe Reader <http://get.adobe.com/reader/>`_ or similar PDF reading software
 
 
 Supported browsers
 ------------------
 
-We prefer the most up-to-date versions of the following browsers in ranked order: 
+We support the latest version of the following browsers:
 
-1. Chrome<https://www.google.com/intl/en/chrome/browser/> 
+1. `Chrome <https://www.google.com/chrome/>`_
 
-2. Safari 9.0+<http://www.apple.com/safari/>, 
+2. `Safari <https://www.apple.com/safari/>`_
 
-3. Firefox 5.0+<http://www.mozilla.org/en-US/firefox/new/>, 
+3. `Firefox <https://www.getfirefox.com/>`_
 
-4. Internet Explorer 10+.<http://windows.microsoft.com/en-us/internet-explorer/download-ie>
+4. `Microsoft Edge <https://www.microsoft.com/en-us/windows/microsoft-edge>`_
 
 Can I access courses on my smartphone or tablet?
 ================================================
