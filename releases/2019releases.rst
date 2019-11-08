@@ -2,6 +2,12 @@
  2019 Release Notes
 ====================
 
+November 7th, 2019
+===================
+
+Stability and performance improvements.
+
+
 October 3rd, 2019
 =================
 
