@@ -4,7 +4,7 @@ Course Creation and Setup
 
 This guide will walk you through creating a new course "shell," as well as Course Setup. 
 
-.. note:: Please be aware that although creating a new course is reserved only as a Site Admin feature, course setup can be completed by editors and instructors of the course.
+.. note:: Please be aware that although creating a new course is reserved only as a Site Admin feature, course setup can be completed by those with editing and full access. We will discuss these roles below.
 
 Create Course Shell
 ====================
@@ -41,8 +41,6 @@ To open a course,
 3. Click on the course.
 4. Click on the "Course Info" tab.
 
-.. image:: images/courseedit.png
-
 Course Info Page
 =================
 
@@ -61,7 +59,7 @@ Your **Course Info** page includes:
 - Facilitators
 - Completion and Certificates
 
-.. image:: images/editcourseinfo.png
+.. image:: images/courseedit.png
 
 This view also allows you to manage course visibility and allows access to your admin tools.
 
@@ -245,7 +243,7 @@ Use this space to suggest times the course will meet, either online or in person
 Manage Facilitators
 ====================
 
-Manage your course facilitators, including Instructors, Editors, and Assistants.
+Manage your facilitators roles, including Instructors (Full Access), Editors (Editing Access), and Assistants (Grading Access).
 
 .. image:: images/coursefacilitator1.png
 
@@ -265,6 +263,8 @@ Manage your course facilitators, including Instructors, Editors, and Assistants.
    - Toggle “visible” or “hidden” via the dropdown.
    - Toggle role using the role dropdown.
    - Remove a facilitator by clicking the “x.""
+   
+   .. image:: images/coursefacilitatoredit2.png
    
 4. Click "Save" within the course facilitator section to save your changes.
 
@@ -322,6 +322,8 @@ Manage course completion and certificate options with your Admin Tools.
 - **Completable:** Toggle "On" to allow the course to be completable. This means that once learners complete all required course materials, they will have completed the course. When turned on, learners can track their completion progress from their Lessons page, which offers a percentage of completed materials.
 - **Award Certificate on Completion:** Toggle "On" to award a certificate once learners have completed the course. This means that once learners complete all required course materials, they will have the option to "View Certificate" from their Lessons page. Completion certificates are also viewable from their profile.
 - **Percentage:** Define what percentage of required materials is acceptable for course completion. In other words, if you mark 10 items as required, and define **Percentage** as 50, learners only need to engage with 5 required items to complete the course.
+
+.. image:: images/advancetools2.png
 
 .. note:: Please note, you have several options when customizing your course with these tools:
 
