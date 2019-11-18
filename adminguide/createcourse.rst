@@ -2,9 +2,9 @@
 Course Creation and Setup
 ==========================
 
-This guide will walk you through creating a new course "shell," as well as Course Setup. 
+This guide will walk you through creating a new course "shell," as well as course setup. 
 
-.. note:: Please be aware that although creating a new course is reserved only as a Site Admin feature, course setup can be completed by editors and instructors of the course.
+.. note:: Please be aware that although creating a new course is reserved only as a Site Admin feature, course setup can be completed by those with editing and full access. We will discuss these roles below.
 
 Create Course Shell
 ====================
@@ -16,7 +16,7 @@ Create Course Shell
 .. image:: images/createcoursebutton.png
    :scale: 50
 
-2. Select "New Course" in the dropdown menu.
+2. Select "Create a Course" in the dropdown menu.
 
 .. image:: images/coursedropdown.png
    :scale: 50
@@ -41,8 +41,6 @@ To open a course,
 3. Click on the course.
 4. Click on the "Course Info" tab.
 
-.. image:: images/courseedit.png
-
 Course Info Page
 =================
 
@@ -52,20 +50,21 @@ Your **Course Info** page includes:
 - Course ID
 - Course Title
 - Course Description
+- Course Tags
 - Course Assets
 - Credits
-- Redemption Code
+- Redemption Code(s)
 - Start Date
 - End Date
 - Meet Times
 - Facilitators
 - Completion and Certificates
 
-.. image:: images/editcourseinfo.png
+.. image:: images/courseedit.png
 
 This view also allows you to manage course visibility and allows access to your admin tools.
 
-.. note:: Site admin, instructors, and editors can all edit the Course Info page.
+.. note:: Site admins, instructors (full access), and editors (editing access) can all edit the Course Info page.
 
 Course Visibility
 ===================
@@ -126,7 +125,7 @@ Describe your course. This description will help learners decide if they wish to
 
 **Categories**
 
-Tag courses with one or multiple tags (e.g., “Marketing”). These tags will create categories within the course catalog, and allow learners to browse available courses by category.
+Tag courses with one or multiple tags (e.g., “Marketing”). Search for an existing tag or create a new one. These tags will create categories within the course catalog, and allow learners to browse available courses by category.
 
 .. image:: images/categories.png
 
@@ -179,7 +178,7 @@ Credit will be awarded when the user has completed the course as defined by comp
 			 - Course completion must be turned on (see **Completion and Certificates** section below). 
 			 - Some course materials must be required.
 
-.. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the learner can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see **Completion and Certificates** below.
+.. note:: You can opt to award certificates (as well as credit) for course completion. If you allow certificates, the learner can “View Certificate” to view their completion certificate and credit. They can also view their certificates within their profile. Please see **Completion and Certificates** below. Certificates are automatically created on the platform. If you'd like to customize your certificate, please contact NextThought.
 
 Redemption and Invitation Codes
 ================================
@@ -228,7 +227,7 @@ Define when your course begins and ends.
 
 .. note:: You can use the Start Date and time to define when the course becomes available for users. See the "Course Visibility" section above.
 
-.. note:: Setting an End Date will not revoke access to the course. The course is available indefinitely as long as a learner is enrolled. If you would like to revoke access to a course, please contact NextThought.
+.. note:: Setting an End Date will not revoke access to the course. The course is available indefinitely as long as a learner is enrolled. If you would like to automatically revoke access to a course on a certain date, please contact NextThought.
 
 Meet Times
 ===========
@@ -245,7 +244,7 @@ Use this space to suggest times the course will meet, either online or in person
 Manage Facilitators
 ====================
 
-Manage your course facilitators, including Instructors, Editors, and Assistants.
+Manage your facilitators roles, including Instructors (Full Access), Editors (Editing Access), and Assistants (Grading Access).
 
 .. image:: images/coursefacilitator1.png
 
@@ -264,21 +263,24 @@ Manage your course facilitators, including Instructors, Editors, and Assistants.
    - Locate facilitator on list.
    - Toggle “visible” or “hidden” via the dropdown.
    - Toggle role using the role dropdown.
+   - Rename the name of the role using the text field. This is the role that displays to learners.
    - Remove a facilitator by clicking the “x.""
+   
+   .. image:: images/coursefacilitatoredit2.png
    
 4. Click "Save" within the course facilitator section to save your changes.
 
-.. warning:: Please note, if you are currently a site admin, but would also like to facilitate the course, please make sure you assign yourself the Instructor role as well.
+.. warning:: Please note, if you are currently a site admin, but would also like to facilitate the course, please make sure you assign yourself the full access role as well.
 
 The current roles are as follows:
 
 - **Course Facilitator:** The term for course roles: instructor, assistant, and editor
 
-- **Course Instructor:** Instructor and editor 
+- **Course Instructor (Full Access):** Instructor and editor 
 
-- **Course Assistant:** Instructor role only (no editor capabilities)
+- **Course Assistant (Grading Access):** Instructor role only (no editor capabilities)
 
-- **Course Editor:** Editing only (no instructor capabilities)
+- **Course Editor (Editing Access):** Editing only (no instructor capabilities)
    
 Enrollment Management in Course Roster
 =======================================
@@ -320,8 +322,12 @@ Manage course completion and certificate options with your Admin Tools.
 .. image:: images/advancetools.png
 
 - **Completable:** Toggle "On" to allow the course to be completable. This means that once learners complete all required course materials, they will have completed the course. When turned on, learners can track their completion progress from their Lessons page, which offers a percentage of completed materials.
-- **Award Certificate on Completion:** Toggle "On" to award a certificate once learners have completed the course. This means that once learners complete all required course materials, they will have the option to "View Certificate" from their Lessons page. Completion certificates are also viewable from their profile.
 - **Percentage:** Define what percentage of required materials is acceptable for course completion. In other words, if you mark 10 items as required, and define **Percentage** as 50, learners only need to engage with 5 required items to complete the course.
+- **Award Certificate on Completion:** Toggle "On" to award a certificate once learners have completed the course. This means that once learners complete all required course materials, they will have the option to "View Certificate" from their Lessons page. Completion certificates are also viewable from their profile. Please note that certificates are automatically generated. If you would like to customize your site certificates, please contact NextThought.
+- **Required by Default** Decide which content types are required by default in order to complete the course. Please note that by default, assignments will be required. If a content type is Required by Deafult then each time you place that type in the course, it will be marked as required; however, this does not prevent you from manually removing the requirement of one within the content set.
+
+
+.. image:: images/advancetools2.png
 
 .. note:: Please note, you have several options when customizing your course with these tools:
 
