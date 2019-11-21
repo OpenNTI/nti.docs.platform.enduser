@@ -11,7 +11,7 @@ Before attempting to integrate with GoToWebinar, please make sure you have a GoT
 
 1. While logged in with an admin account, navigate to your Site Admin Tools from the homescreen.
 2. Click on the “Advanced” tab.
-3. Click on the “Integrations” section.
+3. Click on the “Webinars” section.
 4. Click on the blue “Connect” link next to GoToWebinar.
 
 .. image:: images/webinar1.png
