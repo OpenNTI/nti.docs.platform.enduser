@@ -6,6 +6,7 @@ Admin  Guide
 	:maxdepth: 1
 
 	admindash
+	createcommunity
 	createcourse
 	managecourse
 	sitecredit
