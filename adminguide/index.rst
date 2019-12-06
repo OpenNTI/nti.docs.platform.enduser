@@ -6,6 +6,7 @@ Admin  Guide
 	:maxdepth: 1
 
 	admindash
+	custombrand
 	createcommunity
 	createcourse
 	managecourse
