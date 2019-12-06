@@ -31,7 +31,7 @@ The **Site Details** menu allows you to change the site name. The site name disp
 
 .. image:: images/sitedetails.png
 
-The **Logo Assets** menu allows you to change your **Site Logo** (either in a square or wider format) that appears in the upper left-hand corner, your **Email Header** that appears in all emails from the platform, and the **Favicon** that appears within your browser’s tab.
+The **Logo Assets** menu allows you to change your **Site Logo** that appears in the upper left-hand corner, your **Email Header** that appears in all emails from the platform, and the **Favicon** that appears within your browser’s tab.
 
 .. image:: images/logobranding.png
 
