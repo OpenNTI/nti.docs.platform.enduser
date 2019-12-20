@@ -2,6 +2,20 @@
  2019 Release Notes
 ====================
 
+December 19th, 2019
+====================
+
+Support for Mobile File Upload Assignments
+----------------------------------------------------
+
+Previously file upload assignments were unsupported on mobile. Now, file upload assignments are supported on mobile devices.
+
+Improvement to Identify Newly Copied Courses
+---------------------------------------------
+
+Now when courses are copied, the copied course will display “[Copied]” text within the title until the title is further modified.
+
+
 December 5th, 2019
 =====================
 
