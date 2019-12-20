@@ -5,15 +5,15 @@
 December 19th, 2019
 ====================
 
-Support for Mobile File Upload Assignments
+Mobile Support for File Upload Assignments
 ----------------------------------------------------
 
-Previously file upload assignments were unsupported on mobile. Now, file upload assignments are supported on mobile devices.
+File upload assignments are now supported on mobile devices.
 
 Improvement to Identify Newly Copied Courses
 ---------------------------------------------
 
-Now when courses are copied, the copied course will display “[Copied]” text within the title until the title is further modified.
+Now, when courses are copied, the copied course will display “[Copied]” text within the title. This text can be later modified or removed on the Course Info page.
 
 
 December 5th, 2019
