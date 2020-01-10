@@ -7,7 +7,7 @@ Use our authoring tools to add engaging videos within the context of your lesson
 Add Video
 ===========
 
-You can add videos to your course simply by using their URL. Add videos from Vimeo, YouTube, and Kaltura! 
+You can add videos to your course simply by using their URL. Add videos from Vimeo, YouTube, Wistia, and Kaltura! 
 
 1. Navigate to the Lessons page.
 2. Click "Start Editing" in the bottom right-hand corner.
