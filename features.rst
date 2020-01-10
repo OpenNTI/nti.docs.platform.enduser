@@ -11,7 +11,7 @@ the guide.
 
 - Hosted Text for Readings
 - PDFs, Slides, and Other Downloadable Materials
-- Videos (From Kaltura, Vimeo, YouTube, Storyline, and others)
+- Videos (From Kaltura, Vimeo, YouTube, Wistia, Storyline, and others)
 - Webinars 
 - Video Transcripts 
 - Assignments and Self-Assessments
@@ -20,6 +20,7 @@ the guide.
 - Surveys and Polls
 - Timelines
 - Images and Video Reels
+- Events
 - LTI Tools
 - SCORM
 
@@ -57,6 +58,8 @@ the guide.
 
 **Site Management:**
 
+- Site Branding and Logos
+- Site Community Customization
 - Create Site Credit Types
 - Award Credit
 - View and Download Transcripts
@@ -64,7 +67,9 @@ the guide.
 - Course Import
 - SCORM
 - Course Editing and Management
+- Course Enrollment
 - User Management
+- Account Creation Invitations
 - Site-wide Reports
 - Course Reports
 - User Reports
