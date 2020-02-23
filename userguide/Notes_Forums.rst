@@ -14,6 +14,7 @@ To bring up the annotation menu within a reading, drag your cursor over a passag
 Notice, by default, the note is shared with everyone in your course. Remove this group if you wish to change your note’s audience. Type in the name of the person, group, list, or community with which you’d like to share your note, or simply leave the sharing field empty to keep the note private.
 
    .. image:: images/notetoindividual.png
+      :scale: 50
    
 Add a title and a message and click "Save" to save and post your note. Once you save your note, notice that the note will appear in the discussion panel to the right of a reading. This panel contains all of the notes within the reading that have been shared with you, or that you have created. Notice also that in the margin of the text are blue numbers -- these numbers indicate the number of notes attached to the specific passage. To view only these notes, click on the number in the margin. Now, only these notes will appear in the discussion panel. Click the number once again to see all the notes reappear. 
 

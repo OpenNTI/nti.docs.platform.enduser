@@ -48,7 +48,7 @@ Community View
 ----------------
 
 The Community View is the place to
-communicate and keep up with the course community. Both you and your facilitators can post to the forums available. In forums available to learners, you can post new topics and respond to others. In facilitator-led forums, you won't be able to post new topics, but you can respond to any topic listed. You may also see these topics within your course Lessons View.
+communicate and keep up with the course community. Channels appear to the left, and discussions appear within the channels. Both you and your facilitators can post to the channels available. In channels available to learners, you can post new discussions and respond to others. In facilitator-led channels, you won't be able to post new discussions, but you can respond to any listed. You may also see these discussions within your course Lessons View.
 
    .. image:: images/discussionsview2.png
 
