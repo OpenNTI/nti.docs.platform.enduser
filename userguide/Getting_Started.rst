@@ -6,13 +6,13 @@ Welcome to a one-of-a-kind online learning experience! We’re excited
 that you’re here and that you’ve chosen to take part in the future of
 learning!
 
-Let’s take a quick lookat your learning platform to get started.
+Let’s take a quick look at your learning platform to get started.
  
 Homepage
 ========
 
 When you first log in, you will land on your homepage. It displays the
-Courses you’ve enrolled in as well as your Books.
+courses, trainings, programs, and/or modules you've joined.
 
    .. image:: images/homepage.png
 
@@ -21,8 +21,8 @@ Course Organization
 
 Navigate to your course by selecting the course on your
 homepage. Across the banner at the top of your course, you’ll notice
-five course views: “Activity,” “Lessons,” “Assignments,”
-“Discussions,” and “Course Info.”
+four course views: “Lessons,” “Assignments,”
+“Community,” and “Course Info.”
 
    .. image:: images/navbanner.png
 
@@ -44,14 +44,11 @@ information on grades, assignment due dates, feedback, and more.
 
    .. image:: images/assignmentsview.png
 
-Discussions View
+Community View
 ----------------
 
-The Discussions View is your tool to
-communicate and keep up with the course. There are three main forums:
-Discussions (which contains all your course discussions within your
-lessons), Announcements (important announcements from your
-instructor), and Forums (a space for YOU to communicate!).
+The Community View is the place to
+communicate and keep up with the course community. Both you and your facilitators can post to the forums available. In forums available to learners, you can post new topics and respond to others. In facilitator-led forums, you won't be able to post new topics, but you can respond to any topic listed. You may also see these topics within your course Lessons View.
 
    .. image:: images/discussionsview2.png
 
@@ -59,21 +56,11 @@ Course Info
 -----------
 
 Drop into Course Info to find basic
-information on your course including the course description, start and
-end dates, the instructor’s name and title, contact information for
+information on your course including the course description, course credit, start and
+end dates, the facilitators’s name and title, contact information for
 tech support, and more.
 
    .. image:: images/courseinfoview2.png
 
-Activity View
--------------
 
-Your Activity View is the heartbeat of the
-course! Here, course activity is arranged in a timeline for a quick
-overview of the most important activity happening in the course. This
-may include a reading, an upcoming assignment, or a hot topic
-currently being discussed in the course forums!
-
-
-   .. image:: images/activityview2.png
 
