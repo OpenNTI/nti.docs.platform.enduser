@@ -57,18 +57,18 @@ You may decide you’d like to edit or delete a note you have posted. You have t
 
    .. image:: images/noteedit.png
 
-Forums
-=======
+Community
+==========
 
-Your course forums are housed under the Discussions View. There are three main forums located in this view: Discussions (which contains all your course discussions within your lessons), Announcements (important announcements from your instructor), and Forums (a space for YOU to communicate!). 
+Your course discussions are housed under the Community View. Channels appear to the left, and discussions appear within the channels. Both you and your facilitators can post to the available channels. The "All Activity" channel displays all discussions within the course, including notes attached to readings and other content. Other channels may be specific to course topical discussion or even announcements. You may also see some of the discussions listed here within the Lessons View.
 
    .. image:: images/discussions.png
    
-To start a discussion in the course forum, navigate to the forum titled "Forum" and select "New Discussion."
+To start a discussion in the community, navigate to a channel and select "Write Something."
 
    .. image:: images/newdiscussion.png
 
-Now, add a title, tags, a message, and choose to add a whiteboard, file attachment, or embed a video! Like notes, styling options are also available including bold, italics, and underline.
+Now, add a title, tags, a message, and choose to add a whiteboard, or file attachment! Like notes, styling options are also available including bold, italics, and underline.
 
    .. image:: images/newforum.png
    
@@ -78,9 +78,9 @@ Click "Save" to save and post your discussion!
 Styling, Whiteboard, Video, and File Attachment
 ------------------------------------------------
 
-While creating your discussion, you have options to style your text to emphasize words or phrases. Choose between bold, italics, or underline. You can also choose between adding a file, video, or whiteboard if a concept is better displayed visually.
+While creating your discussion, you have options to style your text to emphasize words or phrases. Choose between bold, italics, or underline. You can also choose between adding a file or whiteboard if a concept is better displayed visually.
 
-   .. image:: images/forumembedvideo.png
+   .. image:: images/forumwhiteboardembed.png
 
 Comment and Reply
 ------------------
@@ -97,3 +97,5 @@ Edit or Delete
 ---------------
 
 You may decide you’d like to edit or delete a discussion you have posted. You have the option to do this any time. Just click on the "Edit" or "Delete" option below your post.
+
+  .. image:: images/editordeletecomment.png

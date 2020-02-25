@@ -48,7 +48,7 @@ Community View
 ----------------
 
 The Community View is the place to
-communicate and keep up with the course community. Channels appear to the left, and discussions appear within the channels. Both you and your facilitators can post to the channels available. In channels available to learners, you can post new discussions and respond to others. In facilitator-led channels, you won't be able to post new discussions, but you can respond to any listed. You may also see these discussions within your course Lessons View.
+communicate and keep up with the course community. Channels appear to the left, and discussions appear within the channels. Both you and your facilitators can post to the available channels. The "All Activity" channel displays all discussions within the course, including notes attached to readings and other content. Other channels may be specific to course topical discussion or even announcements. You may also see some of the discussions listed here within the Lessons View.
 
    .. image:: images/discussionsview2.png
 
