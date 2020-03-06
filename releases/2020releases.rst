@@ -2,7 +2,7 @@
  2020 Release Notes
 ====================
 
-March 7, 2020
+March 6, 2020
 ====================
 
 Search Communities by User Name
