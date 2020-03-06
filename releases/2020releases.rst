@@ -2,6 +2,30 @@
  2020 Release Notes
 ====================
 
+March 7, 2020
+====================
+
+Search Communities by User Name
+---------------------------------------
+
+You can now filter posts by name by typing a name into the community search bar.
+
+.. image:: images/searchcommunitybyname.png
+
+Pin Posts Within a Community
+---------------------------------------
+
+Now, you can select discussions to pin to the top of community channels. Site admins can pin discussions both within site communities as well as course communities. In addition, facilitators can also pin discussions to the top of a channel within the course they are instructing.
+
+.. image:: images/pinpostcourse.png
+
+To pin a post, navigate to the channel the discussion was created, or simply create a new post. While viewing the channel, select post options in the right-hand corner. Select “Pin” to keep the discussion at the top of the channel for higher visibility. You can also unpin posts by clicking the options menu on a pinned post and selecting “unpin.”
+
+.. image:: images/pinmenu.png
+
+.. warning:: Please note, all channel discussions will display within the All Activity channel. Due to this, some posts will not display the option to pin. This is an indication that the post was created within a different channel than the “All Activity” channel. As a reminder, you can only pin posts within the channel they were created in.
+
+
 January 9, 2020
 ====================
 
