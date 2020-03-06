@@ -412,8 +412,6 @@ Select a value to set the desired number of attempts.
 
 .. image:: images/MultiSubs3.png
 
-To learn more about this feature, click here!
-https://help.nextthought.com/editorguide/assignment.html#adding-multiple-attempts
 
 Step 6: Publish or schedule your assignment
 -------------------------------------------

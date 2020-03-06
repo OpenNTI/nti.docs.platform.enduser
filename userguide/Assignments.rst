@@ -7,7 +7,7 @@ Your assignments can be found in two different locations: the Lessons View and y
 Lessons View
 =============
 
-Your instructor may post an assignment to a lesson. The assignment title will display along with the due date and a "Start" button to view and begin your assignment. Some assignments may be required and can be differentiated by the "Required" label.
+Your facilitator may post an assignment to a lesson. The assignment title will display along with the due date and a "Start" button to view and begin your assignment. Some assignments may be required and can be differentiated by the "Required" label.
 
    .. image:: images/assignmentpost.png
 
@@ -21,13 +21,13 @@ Click the “I’m Finished” button once you’ve answered all of your questio
    
    |
 
-.. warning::  Once you select this button, you cannot go back and change your answers. This button submits your assignment for grading.
+.. warning::  Once you select this button, you cannot go back and change your answers unless the assignment offers multiple attempts. (If offered multiple attempts, the number of attempts would display at the top banner.) The "I'm Finished button" submits your assignment for grading.
 
-After you submit your assignment, you will have the option to leave feedback for your instructor. These comments are only visible to you and your instructor, and your instructor will be notified that you have left feedback.
+After you submit your assignment, you will have the option to leave feedback for your facilitator. These comments are only visible to you and your facilitator, and your facilitator will be notified that you have left feedback.
 
    .. image:: images/assignmentfeedback.png
 
-Your assignment may be graded automatically upon turning it in, or you instructor may prefer to grade it manually. Either way, your grade will appear at the top right-hand side of your assignment and you will be notified through your notifications located under the bell icon in the upper right-hand corner.
+Your assignment may be graded automatically upon turning it in, or you facilitator may prefer to grade it manually. Either way, your grade will appear at the top right-hand side of your assignment and you will be notified through your notifications located under the bell icon in the upper right-hand corner.
 
    .. image:: images/assignmentgrade.png
    
@@ -72,6 +72,40 @@ Assignment Types
 =================
 
 There are a few unique assignment types you may encounter while progressing through your course.
+
+Multiple-Attempt Assignments
+-----------------------------
+
+Some assignments may offer multiple attempts. If the assignment offers multiple attempts, it will be indicated both within your Lessons View and Assignments View. When you view the assignment, it will display how many attempts you have and the score required to pass the assignment. Once you've passed the assignment with the required score, you will no longer be able to retake the assignment.
+
+  .. image:: images/multitake.png
+  
+After you attempt the assignment, your score may be pending if the facilitator needs to manually add a score. If the assignment is automatically graded, you will know immediately if you've passed after submission.
+
+  .. image:: images/pendingscore.png
+
+Once the facilitator adds a score, you will be notified. Return to your assignment to view the score.
+
+  .. image:: images/gradednotificationmultitake.png
+     :scale: 50
+
+If you've failed to achieve the passing score, both the Lessons View and Assignments View will indicate so.
+
+  .. image:: images/failedattemptlessonsview.png
+  
+  |
+  
+  .. image:: images/failedattemptassingmentview.png
+  
+
+Simply return to your assignment to try again. Click the "Try Again" button to begin. Be sure to check how many attempts you have left.
+
+  .. image:: images/failedattemptviewassignment.png
+
+Once you've passed, the assignment will indicate your success and score. No additional attempts will remain.
+
+  .. image:: images/passingscoremultiattempt.png
+
 
 Timed Assignments
 -----------------
