@@ -80,7 +80,7 @@ Some assignments may offer multiple attempts. If the assignment offers multiple 
 
   .. image:: images/multitake.png
   
-Afer you attempt the assignment, your score may be pending if the faclitator needs to manually add a score. If the assignment is automatically graded, you will know immediately if you've passed after submission.
+After you attempt the assignment, your score may be pending if the faclitator needs to manually add a score. If the assignment is automatically graded, you will know immediately if you've passed after submission.
 
   .. image:: images/pendingscore.png
 
