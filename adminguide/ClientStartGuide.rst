@@ -72,7 +72,7 @@ Now, you've landed on your Course Info page within the newly created course. Scr
 
 Don't forget to check your course settings by clicking on the "Make Changes" button in the upper right-hand corner! We will talk more about this in the **Launch and Go Live!** section below.
 
-.. image:: images/qmakechanges.png
+.. image:: images/makechanges.png
 
 .. note:: Learn more about course creation here: https://help.nextthought.com/adminguide/createcourse.html
 
@@ -120,10 +120,10 @@ You're ready to launch the site and begin marketing your courses. Before you do,
 - Make sure assignments are available and not in "draft."
 - Check that your courses are set to the right visibility. Click into each course from the homepage. Click on the "Course Info" page. Check the start date. Now, click on the "Make Changes" button. Check the visibility and preview settings. 
 
-  - **Visible in Catalog:** This toggle allows you to place the course in the catalog publicly ("On"), or keep the course private ("Off"). If a course is private, users will only enroll using a redemption code. Private courses will be by invitation only.
-  - **Preview Mode On:** This option sets the course to course preview mode, meaning that users can only view Course Info but cannot view course content.
-  - **Preview Mode Off:** This option allows the course to be fully available to users.
-  - **Based on Start Date:** This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
+  - **Discoverable in Catalog:** This toggle allows you to place the course in the catalog publicly ("On"), or keep the course private ("Off"). If a course is private, users will only enroll using a redemption code. Private courses will be by invitation only.
+  - **Course Status Draft:** This option makes the course invisible to learners while you create and edit your course; however, if you want to allow early enrollment, you can set the course Status to "Draft" and Discoverable to "On." This will allows learners to enroll, but the content will remain invisible.
+  - **Course Status Published:** This option allows the course to be fully available to users.
+  - **Course Status Publish on Start Date:** This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
   
   
 

@@ -37,7 +37,7 @@ To get started, click on the "Make Changes" button on the course's Course Info p
 .. image:: images/makechangesbutton.png
 .. image:: images/makechanges.png
 
-**Visible in Catalog**
+**Discoverable in Catalog**
 
 The "Discoverable in Catalog" field allows you to toggle course visibility within the course catalog. 
 
