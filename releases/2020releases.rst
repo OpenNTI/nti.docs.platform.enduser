@@ -2,6 +2,18 @@
  2020 Release Notes
 ====================
 
+March 11, 2020
+================
+
+Improvements to “Make Changes” Ready to Launch Menu
+----------------------------------------------------
+
+Now, the “Visible in Catalog” section is titled “Discoverable in Catalog” with an on/off toggle. The “Preview Mode” section is renamed “Course Status” with the options of “Draft,” “Published,” and “Publish on Start Date.”
+
+Further explanation has been added to provide additional clarification.
+
+.. image:: images/readytolaunch.png
+
 March 6, 2020
 ====================
 
