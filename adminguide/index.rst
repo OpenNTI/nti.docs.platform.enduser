@@ -14,7 +14,6 @@ Admin  Guide
 	managesiteusers
 	sitereports
 	webinaradmin
-	ClientStartGuide
 	
 	
 	
