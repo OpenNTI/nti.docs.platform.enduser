@@ -39,7 +39,7 @@ To get started, click on the "Make Changes" button on the course's Course Info p
 
 **Visible in Catalog**
 
-The "Visible in Catalog" field allows you to toggle course visibility within the course catalog. 
+The "Discoverable in Catalog" field allows you to toggle course visibility within the course catalog. 
 
 - **Off:**
   This option will keep the course private. This means that the course will not show up in the public course catalog. No one will be able to enroll in the course unless you provide them with the course redemption code.
@@ -47,22 +47,27 @@ The "Visible in Catalog" field allows you to toggle course visibility within the
 - **On:**
   This will allow the course to display in the course catalog. This means that when a site user clicks on the course catalog, the course will display and the learner can view basic course information and enroll in the course.
 
-**Preview Mode**
+**Course Status**
 
-The "Preview Mode" defines when the course becomes available for learners to begin.
+This option defines when the course becomes available for learners to begin.
 
-- **Preview Mode On:**
-  This option sets the course to course preview mode, meaning that users can only view Course Info and cannot view course content.
+- **Draft:**
+  This option makes the course invisible to learners while you create and edit your course; however, if you want to allow early enrollment, you can set the course Status to "Draft" and Discoverable to "On." This will allows learners to enroll, but the content will remain invisible.
   
-- **Preview Mode Off:**
+- **Published:**
   This option allows the course to be fully available to users.
   
-- **Based on Start Date:**
+- **Publish on Start Date:**
   This option sets the course to be in course preview mode until the defined start date and time, at which time it will then become fully available to users.
   
-.. image:: images/coursepreviewmode4.png
 
-..  note:: By default the course will be in **Preview Mode On** and will need to be either switched to **Preview Mode Off** or **Based on Start Date** for users to begin the course. 
+..  note:: By default the course will be "Off" for Discoverable in Catalog and in "Draft."
+
+**Enrollment Options**
+
+The next tab within the Ready to Launch menu allows you to turn on or off "Open Enrollment." This option determines if the "Enroll" button is available from within the course catalog. If learners should enroll through another application instead of directly on NextThought, you can turn this option off. 
+
+.. image:: images/readytolaunchenroll.png
 
 
 Basic Course Information
