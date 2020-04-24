@@ -2,7 +2,7 @@
 Stripe Integration
 ========================
 
-NextThought Site Admins can now integrate their site with Stripe, a payment processing software, to add purchasing options to courses. 
+NextThought Site Admins can integrate their site with Stripe, a payment processing software, to add purchasing options to courses. 
 
 Site Integration
 ==================
@@ -47,7 +47,7 @@ Add Price to Course
 
 .. note:: The course must be available in the course catalog for learners to click on the course in the catalog and purchase.
 
-Learner View of Purchasing Course
+Learner Purchasing View
 ===================================
 
 **Learner Purchasing View:**
