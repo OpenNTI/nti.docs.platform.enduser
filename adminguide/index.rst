@@ -14,6 +14,7 @@ Admin  Guide
 	managesiteusers
 	sitereports
 	webinaradmin
+	stripe
 	
 	
 	
