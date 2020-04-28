@@ -9,23 +9,26 @@ Integrating with GoToWebinar
 
 Before attempting to integrate with GoToWebinar, please make sure you have a GoToWebinar account.
 
-1. While logged in with an admin account, navigate to your Site Admin Tools from the homescreen.
-2. Click on the “Advanced” tab.
-3. Click on the “Integrations” section.
-4. Click on the blue “Connect” link next to GoToWebinar.
+.. warning:: The directions below are for a Site Admin; however, you can also link your account directly from the Add Content window within a course as a facilitator. Be aware that the account you link will be available to all facilitators in all courses on the site.
 
-.. image:: images/webinar1.png
+1. While logged in with an admin account, navigate to your Site Admin Panel from the homescreen.
 
-5. You will then be asked to log into GoToWebinar, or, if already logged in, you will be asked “Allow Access” to NextThought.
+.. image:: images/adminpanel.png
 
-.. image:: images/webinar2.2.png
+2. Click on the “Configuration” tab.
+3. Click on the “Integrations” left-panel section.
+4. Click on the “GoToWebinar” icon.
 
-6. Once you are connected your GoToWebinar name will display where the blue connect button used to be. You have now successfully linked your site to the GoToWebinar account.
+.. image:: images/GoToWebinarInte.png
 
-.. image:: images/webinar3.2.png
+5. You will then be asked to log into GoToWebinar, or, if already logged in, you will automatically connect to NextThought once clicking the login button.
 
+.. image:: images/GoToWebinarlogin.png
 
-.. note:: You can also link your account when adding a webinar from the new content window if you haven’t already.
+6. Once you are connected, your GoToWebinar window will display the account name.
+
+.. image:: images/GoToWebinarconfirm.png
+
 
 Adding Webinars to Course
 ============================

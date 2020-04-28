@@ -1,6 +1,6 @@
-==============
- Editor Guide
-==============
+================
+Authoring Guide
+================
 
 .. toctree::
 	:maxdepth: 1
@@ -17,10 +17,12 @@
 	assignment
 	surveys
 	webinars
+	ZoomLTI
 	events
 	LTI
 	SCORM
 	stripe
+	
 
 Welcome to NextThought! We’re excited that you’ve chosen to partner
 with us in building the future of online learning.

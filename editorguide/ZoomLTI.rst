@@ -43,9 +43,12 @@ STEP 2: Register Zoom LTI Tool in NextThought
 .. image:: images/2.4zoomlti.png
 
 5. Click "Add Tool" and choose "Manual Entry" and and enter the corresponding information obtained from Step 1.
-	LTI URL →  Launch URL and Secure Launch URL
-	LTI Key → Consumer Key
-	LTI Secret → Shared Secret
+    
+.. note::
+   
+   - LTI URL →  Launch URL and Secure Launch URL
+   - LTI Key → Consumer Key
+   - LTI Secret → Shared Secret
 
 .. image:: images/2.5zoomlti.png
 
@@ -79,11 +82,8 @@ View the LTI Zoom tool placed within your lesson within Step 3.
 
 When signed in a facilitator or admin, you'll see the "Schedule a New Meeting" button. Select the button and fill in the desired information.
 
-.. image:: images/
-
 From the learner view, they will have the option to view upcoming meetings and join.
 
-.. image:: images/
 
 Delete or Edit LTI Tool
 ========================
