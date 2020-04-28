@@ -1,6 +1,6 @@
-==============
- Editor Guide
-==============
+================
+Authoring Guide
+================
 
 .. toctree::
 	:maxdepth: 1
