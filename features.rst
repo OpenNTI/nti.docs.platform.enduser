@@ -12,7 +12,7 @@ the guide.
 - Hosted Text for Readings
 - PDFs, Slides, and Other Downloadable Materials
 - Videos (From Kaltura, Vimeo, YouTube, Wistia, Storyline, and others)
-- Webinars 
+- Webinars (Zoom, GoToWebinar, WebEx, Adobe Connect, Google Hangouts)
 - Video Transcripts 
 - Assignments and Self-Assessments
 - Discussion Forums
@@ -55,6 +55,7 @@ the guide.
 - Discussion/Forum Reports
 - Assignment, Survey, Self-Assessment Reports
 - Resource Usage Reports
+- Stripe Integration (E-Commerce)
 
 **Site Management:**
 
@@ -74,5 +75,5 @@ the guide.
 - Course Reports
 - User Reports
 - Webinar Integration
-
+- Stripe Integration (E-Commerce)
 
