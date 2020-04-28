@@ -35,16 +35,19 @@ STEP 2: Register Zoom LTI Tool in NextThought
 1. In your course, click on the “Course Info” tab.
 2. In the sidebar, click “Admin Tools.”
 3. Under “Admin Tools” find the “Advanced” option and click “View Now.”
+
+.. image:: images/2.3zoomlti.png
+
 4. Click the option “LTI Tools.”
 
-.. image:: images/LTIsetup.png
+.. image:: images/2.4zoomlti.png
 
-5. Choose "Manual Entry" and and enter the corresponding information obtained from Step 1.
+5. Click "Add Tool" and choose "Manual Entry" and and enter the corresponding information obtained from Step 1.
 	LTI URL →  Launch URL and Secure Launch URL
 	LTI Key → Consumer Key
 	LTI Secret → Shared Secret
 
-.. image:: images/
+.. image:: images/2.5zoomlti.png
 
 STEP 3: Add Zoom LTI Tool to a Lesson
 ======================================
@@ -55,11 +58,19 @@ STEP 3: Add Zoom LTI Tool to a Lesson
 2. Click “Start Editing” in the bottom right-hand corner.
 3. Click “+Add Content” within a section.
 4. Click the LTI Tool and click the “Select” button.
+
+.. image:: images/3.4zoomlti.png
+
 5. Select the Zoom LTI tool and click "Select."
+
+.. image:: images/3.5zoomlti.png
+
 6. Modify the thumbnail, title, author, and description.
+
+.. image:: images/3.6zoomlti.png
+
 7. Click "Add to lesson."
 
-.. image:: images/
 
 STEP 4: Schedule a Zoom Meeting 
 ==================================
