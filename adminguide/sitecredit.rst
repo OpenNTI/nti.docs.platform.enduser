@@ -4,16 +4,17 @@ Manage Site Credit
 
 Create credit types to award for course completion. You can also award credit manually for any occasion.
 
-.. note: Learn more about how learners interact with progress, certificates, and credit within the User Guide: https://help.nextthought.com/userguide/Progress_Certs_Credit.html
+.. note:: Learn more about how learners interact with progress, certificates, and credit within the User Guide: https://help.nextthought.com/userguide/Progress_Certs_Credit.html
 
 Create Credit Options
 ---------------------
 
 **To create site-wide course credit options,**
 
-1. Click on the admin tools in the upper right-hand corner.
-2. Click on the “Advanced” tab.
-3. Click on the “Transcripts” tab.
+1. Click on the Admin Panel in the upper right-hand corner of your homepage.
+2. Click on the “Configuration” tab.
+3. Click on the “Certificates, Transcripts, and Course Credit” subtab.
+4. Scroll down to Credit Types.
 
    - **NEW:** Click “Add New Type” to define credit for the site. Type in type and units. This is now selectable for instructors to add to courses.
    - **EDIT:** You can remove a credit type by selecting the “x” button or you can select a current type and edit it.
@@ -25,8 +26,8 @@ Manually Award Credit
 
 **To manually award a learner with credit,**
 
-1. Click on the admin tools in the upper right-hand corner.
-2. Click on the “Users” tab.
+1. Click on the Admin Panel in the upper right-hand corner of your homepage.
+2. Click on the “People” tab.
 3. Select a user.
 4. Click the “Transcript” tab.
 5. Click “Add Credit.”
