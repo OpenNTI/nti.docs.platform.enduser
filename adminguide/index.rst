@@ -7,6 +7,7 @@ Admin  Guide
 
 	admindash
 	custombrand
+	customcert
 	createcommunity
 	createcourse
 	managecourse

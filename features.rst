@@ -61,6 +61,7 @@ the guide.
 
 - Site Branding and Logos
 - Site Community Customization
+- Customize Course Completion Certificate
 - Create Site Credit Types
 - Award Credit
 - View and Download Transcripts

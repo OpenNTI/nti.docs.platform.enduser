@@ -2,8 +2,36 @@
  2020 Release Notes
 ====================
 
+May 15, 2020
+=============
+
+Customize Course Completion Certificate
+----------------------------------------
+
+Custom certificate branding is now available through the Admin Panel for Site Admins.
+
+To customize the certificate, 
+
+1. Click on your Admin Panel
+2. Click on the Configuration tab.
+3. Click on the “Certificates, Transcripts, and Course Credit” subtab to the left.
+
+.. image:: images/certstyle.png
+
+Here you can choose the background/gradient color or add a background image, as well as add your brand logo.
+
+You can also change the label name of the certificate.
+
+.. note:: The “Site Name” will appear before the label. You can change the “Site Name” under the Site Branding subtab to the left.
+
+.. note:: If your site already has a custom branded certificate, you will be able to view the certificate, but be unable to change it. Please contact Support or your Project Manager if changes need to be made.
+
+
 April 24, 2020
 ===============
+
+Stripe Integration
+-------------------
 
 NextThought Site Admins can now integrate their site with Stripe, a payment processing software, to add purchasing options to courses. 
 

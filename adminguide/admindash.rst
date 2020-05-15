@@ -4,9 +4,9 @@ Your Admin Dashboard
 
 Your admin dashboard offers you a snapshot of what's happening on your site. 
 
-To navigate to your dashboard, click on the admin tools button in the upper right-hand corner of your homepage.
+To navigate to your dashboard, click on the Admin Panel in the upper right-hand corner of your homepage.
 
-.. image:: images/adminbutton2.png
+.. image:: images/adminpanel.png
 
 Your Dashboard
 ==============
