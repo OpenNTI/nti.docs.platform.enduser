@@ -5,8 +5,8 @@
 May 15, 2020
 =============
 
-Customize Site Completion Certificate
---------------------------------------
+Customize Course Completion Certificate
+----------------------------------------
 
 Custom certificate branding is now available through the Admin Panel for Site Admins.
 
