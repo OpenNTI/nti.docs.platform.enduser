@@ -2,6 +2,122 @@
  2020 Release Notes
 ====================
 
+July 3, 2020
+=============
+
+Mentions
+---------
+
+Mentions allow users to notify an individual, list, or group within a discussion (resource, course community, or site community). It replaces the previous style of sharing notes within a sharing field, and expands mentions into replies.
+
+.. image:: images/mentionsnewdesign.png
+
+**To notify, share, or mention an individual, list, or group,**
+
+1. Start a new discussion within a resource or community.
+
+.. image:: images/mentionstartnote.png
+
+2. Keep or remove any default sharing scope by hovering the mouse over the scope and clicking on the “x.”
+3. Type the “@” symbol and begin typing in the name/title to search.
+
+.. image:: images/mentionsharesearch.png
+
+4. Select the individual, list, or group with whom you’d like to mention and notify. This note will be shared with those you mention.
+
+.. image:: images/mention.png
+
+5. Click “Post” once you’ve added your comment.
+
+.. image:: images/mentionwithnote.png
+
+
+**Sharing and Mentions**
+
+Mentions replace the previous concept of sharing discussions on the platform. 
+
+To share publicly with your course, leave the default share option.
+
+.. image:: images/mentionsdefaultshare.png
+
+To keep the note private (just for you), remove the default sharing option.
+
+.. image:: images/mentionsprivateshare.png
+
+To keep the note public, but also notify certain individuals, keep the default sharing option AND mention specific people, lists, or groups.
+
+.. image:: images/mentionspubmention1.png
+
+To keep the note private and only shared with specific individuals, remove the default sharing option and mention specific people, lists, or groups.
+
+.. image:: images/mentionsprimention1.png
+
+
+**Notifications**
+
+Individuals will be notified when they are mentioned within a discussion or as a part of a list. Users are notified by the bell icon in the upper right-hand corner. 
+
+.. image:: images/mentionsnewnotificationopen.png
+
+If not online, users will get an email notification alerting them to the mention as well as an in-platform notification.
+
+
+New Layout for Course Information Page
+---------------------------------------
+
+Previously, the admin tools, roster, and advanced options were located below general course information.
+
+Now, navigate to admin tools, roster, and advanced options on the course Information page by clicking on the left-hand column headers.
+
+.. image:: images/courseinfodesign.png
+
+
+New Design for Discussions
+--------------------------------------------
+
+**During Editing:**
+
+- Mentions instead of sharing field
+- New icons for text styles, attachments, and whiteboard
+
+.. image:: images/mentionsnewdesign.png
+
+
+**While Viewing:**
+
+- Reply has been changed to “Add a Comment”
+- Location of discussion in header
+- Sharing scope and mentions are more prominent
+- Options to edit, delete, report moved to upper right-hand corner
+
+.. image:: images/notedesign.png
+
+
+Topic Tags
+------------
+
+Now, you can add tags to posts. Tags allow users to categorize and search by topics using hashtags.
+
+**To add a tag,**
+
+1. Type the “#” key.
+2. Add your topic/tag.
+
+.. image:: images/topics.png
+
+**To search by a tag,**
+
+1. Click into the search field.
+
+.. image:: images/topicssearch.png
+
+2. Type the “#” key and your topic.
+3. Click “Enter.”
+
+.. image:: images/topicssearchresult.png
+
+
+
 May 15, 2020
 =============
 
