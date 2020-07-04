@@ -10,26 +10,26 @@ Mentions
 
 Mentions allow users to notify an individual, list, or group within a discussion (resource, course community, site community). It replaces the previous style of sharing notes within a sharing field, and expands mentions to replies.
 
-.. image:: images/
+.. image:: images/mentionsnewdesign.png
 
 **To notify, share, or mention an individual, list, or group,**
 
-Start a new discussion within a resource or community
+1. Start a new discussion within a resource or community
 
-.. image:: images/
+.. image:: images/mentionstartnote.png
 
-1. Keep or remove any default sharing scope by hovering the mouse over the scope and clicking on the “x”
-2. Type the “@” symbol and begin typing in the name/title to search
+2. Keep or remove any default sharing scope by hovering the mouse over the scope and clicking on the “x”
+3. Type the “@” symbol and begin typing in the name/title to search
 
-.. image:: images/
+.. image:: images/mentionsharesearch.png
 
-3. Select the individual, list, or group with whom you’d like to mention, share, and notify
+4. Select the individual, list, or group with whom you’d like to mention, share, and notify
 
-.. image:: images/
+.. image:: images/mention.png
 
-4. Click “Post” once you’ve added your comment
+5. Click “Post” once you’ve added your comment
 
-.. image:: images/
+.. image:: images/mentionwithnote.png
 
 
 **Sharing and Mentions**
@@ -38,26 +38,26 @@ Mentions replace the previous concept of sharing discussions on the platform.
 
 To share publicly with your course, leave the default share option.
 
-.. image:: images/
+.. image:: images/mentionsdefaultshare.png
 
 To keep the note private, remove the default sharing option.
 
-.. image:: images/
+.. image:: images/mentionsprivateshare.png
 
 To keep the note public, but also notify certain individuals, keep the defaulting sharing option AND mention specific people, lists, or groups.
 
-.. image:: images/
+.. image:: images/mentionspubmention1.png
 
 To keep the note private and only shared with specific individuals, remove the default sharing option and mention specific people, lists, or groups.
 
-.. image:: images/
+.. image:: images/mentionsprimention1.png
 
 
 **Notifications**
 
 Individuals will be notified when they are mentioned within a note or as a part of a list. Users are notified by the bell icon in the upper right-hand corner. 
 
-.. image:: images/
+.. image:: images/mentionsnewnotificationopen.png
 
 If not online, users will get an email notification alerting them to the mention as well as an in-platform notification.
 
@@ -69,7 +69,7 @@ Previously, the admin tools, roster, and advanced options were located below gen
 
 Now, navigate to admin tools, roster, and advanced options on the course Information page by clicking on the left-hand column headers.
 
-.. image:: images/
+.. image:: images/courseinfodesign.png
 
 
 New Design for Discussions
@@ -80,7 +80,7 @@ New Design for Discussions
 - Mentions instead of sharing field
 - New icons for text styles, attachments, and whiteboard
 
-.. image:: images/
+.. image:: images/mentionsnewdesign.png
 
 
 **While Viewing:**
@@ -90,7 +90,7 @@ New Design for Discussions
 - Sharing scope and mentions are more prominent
 - Options to edit, delete, report moved to upper right-hand corner
 
-.. image:: images/
+.. image:: images/notedesign.png
 
 
 Topic Tags
@@ -103,20 +103,18 @@ Now, you can add tags to posts. Tags allow users to categorize and search by top
 1. Type the “#” key.
 2. Add your topic/tag.
 
-.. image:: images/
+.. image:: images/topics.png
 
 **To search by a tag,**
 
 1. Click into the search field.
 
-.. image:: images/
+.. image:: images/topicssearch.png
 
 2. Type the “#” key and your topic.
 3. Click “Enter.”
 
-.. image:: images/
-
-
+.. image:: images/topicssearchresult.png
 
 
 
