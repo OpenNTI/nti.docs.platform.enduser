@@ -2,6 +2,65 @@
  2020 Release Notes
 ====================
 
+July 30th, 2020
+=================
+
+Performance Improvements
+--------------------------------------------
+General platform improvements
+
+Add Content from Google Drive
+--------------------------------------------
+Now, you can add content from Google Drive to the NextThought learning platform. This will allow learners to access a shared document by clicking on the linked document within a course lesson.
+
+.. image:: images/googledrive.png
+
+To add a Google Document to your lesson,
+
+1. Within editing mode, click on the “+Add Content” button.
+2. Select the Google Drive option.
+3. Sign in to your Google Drive account.
+4. Select a document.
+
+.. note::  Your file will need to have the appropriate sharing settings for others to view it. 
+
+Populate Website Information when Adding Links
+---------------------------------------------------
+Now, when adding links into a discussion, information about that link will automatically populate. You can remove the extra information by hovering over the image and selecting the “x” icon.
+
+.. image:: images/linkinfo.png
+
+If you add a link to an image or video, the image or video will also automatically display.
+
+Allow Rich Text in Course Description
+--------------------------------------------
+Course descriptions will now allow rich text formatting such as line breaks and text stylization.
+
+.. image:: images/descriptionstyle.png
+
+
+July 10th, 2020
+================
+
+Display Number of Current Enrollments within Course Roster
+--------------------------------------------------------------
+Now within the course roster, the number of learners enrolled within the course will display.
+
+.. image:: images/courserosternumber.png
+
+
+Additional Email Account Settings
+--------------------------------------------
+You now have more control over what emails are sent to you.
+
+To manage your settings, click on your profile icon and select “Manage Account.”
+
+.. image:: images/emailsettings.png
+   :scale: 50
+
+
+
+
 July 3, 2020
 =============
 
